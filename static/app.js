@@ -390,6 +390,8 @@ function fillSectors(sectors) {
 }
 
 async function tryApiQuotes(asof) {
+  const host = location.hostname;
+  if (host !== "localhost" && host !== "127.0.0.1") return null;
   try {
     const params = new URLSearchParams({ market: state.market });
     if (asof) params.set("asof", asof);
