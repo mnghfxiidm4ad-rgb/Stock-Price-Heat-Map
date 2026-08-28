@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#07090d" />
+  <title>株価ヒートマップ</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><rect width='16' height='16' fill='%2307090d'/><rect x='1' y='1' width='8' height='9' fill='%23d7263d'/><rect x='10' y='1' width='5' height='5' fill='%231fa97a'/><rect x='1' y='11' width='5' height='4' fill='%231fa97a'/><rect x='7' y='11' width='8' height='4' fill='%238b1e2d'/></svg>" />
+  <link rel="stylesheet" href="static/app.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1>株価ヒートマップ</h1>
+      <p class="sub">日本株・米株の終値　プラスは赤、マイナスは緑　東証は17時以降、米株は16:00 ET引け後に自動更新</p>
+    </div>
+    <div class="market-switch" role="tablist">
+      <button id="m-jp" class="chip on" type="button">日本株</button>
+      <button id="m-us" class="chip" type="button">米株</button>
+    </div>
+  </header>
+
+  <section class="controls">
+    <div class="row">
+      <span class="lbl">日付</span>
+      <button id="d-prev" class="chip icon" type="button" title="前の営業日">◀</button>
+      <input id="date" class="date-input" type="text" spellcheck="false" maxlength="10" />
+      <button id="d-next" class="chip icon" type="button" title="次の営業日">▶</button>
+      <button id="d-cal" class="chip" type="button">カレンダー</button>
+      <button id="d-latest" class="chip" type="button">最新</button>
+      <span id="date-hint" class="hint">公開サイトは最新の終値です。東証17時以降・米株16:00 ET引け後に更新</span>
+      <button id="reload" class="chip ghost" type="button">再読み込み</button>
+    </div>
+    <div class="row">
+      <span class="lbl">表示</span>
+      <button id="v-all" class="chip on" type="button">全体</button>
+      <button id="v-up" class="chip" type="button">暴騰率</button>
+      <button id="v-down" class="chip" type="button">暴落率</button>
+      <span class="lbl gap">大きさ</span>
+      <button id="s-cap" class="chip" type="button">時価総額</button>
+      <button id="s-turn" class="chip on" type="button">売買代金</button>
+      <button id="s-vol" class="chip" type="button">出来高</button>
+      <span id="size-hint" class="hint">時価総額は最新日のみ</span>
+    </div>
+    <div class="row">
+      <span class="lbl">業種</span>
+      <select id="sector" class="select"></select>
+      <span class="lbl gap">検索</span>
+      <input id="q" class="search" type="search" placeholder="銘柄名・コード" />
+      <label class="check"><input id="show-table" type="checkbox" /> 銘柄一覧</label>
+    </div>
+  </section>
+
+  <section class="metrics">
+    <div class="metric"><span>銘柄数</span><b id="k-n">-</b></div>
+    <div class="metric"><span>上昇 / 下落</span><b id="k-ud">-</b></div>
+    <div class="metric"><span>平均騰落率</span><b id="k-avg">-</b></div>
+    <div class="metric"><span>データ日付</span><b id="k-date">-</b></div>
+  </section>
+
+  <section class="stage">
+    <div id="map-wrap">
+      <canvas id="map"></canvas>
+      <div id="busy">読み込み中…</div>
+      <div id="tip" hidden></div>
+      <div id="legend">
+        <span class="lg down">下落</span>
+        <i></i>
+        <span class="lg up">上昇</span>
+      </div>
+    </div>
+    <aside id="table-panel" hidden>
+      <div class="table-head">
+        <h2>銘柄一覧</h2>
+        <span id="table-count"></span>
+      </div>
+      <div class="table-scroll">
+        <table>
+          <thead>
+            <tr>
+              <th data-sort="name">銘柄</th>
+              <th data-sort="ticker">コード</th>
+              <th data-sort="sector">業種</th>
+              <th data-sort="price" class="num">株価</th>
+              <th data-sort="change_pct" class="num">前日比%</th>
+              <th data-sort="volume" class="num">出来高</th>
+              <th data-sort="vol_ratio" class="num">倍率</th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+    </aside>
+  </section>
+
+  <footer id="status">起動しています…</footer>
+
+  <div id="cal" class="cal" hidden>
+    <div class="cal-head">
+      <button id="cal-prev" class="chip icon" type="button">◀</button>
+      <b id="cal-title"></b>
+      <button id="cal-next" class="chip icon" type="button">▶</button>
+    </div>
+    <div class="cal-week"><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span>土</span><span>日</span></div>
+    <div id="cal-grid" class="cal-grid"></div>
+    <p class="cal-note">色付きの日がデータのある営業日です</p>
+  </div>
+
+  <script src="static/app.js"></script>
+</body>
+</html>
