@@ -277,38 +277,45 @@ def load_us_universe(session: requests.Session) -> pd.DataFrame:
 
 
 def quote_from_ohlcv(df: pd.DataFrame, ticker: str, rec: dict) -> dict[str, Any] | None:
-    work = df.copy()
-    if "Close" not in work.columns:
+    if df is None or df.empty or "Close" not in df.columns:
         return None
+    work = df.copy()
     if "Date" in work.columns:
         work["Date"] = pd.to_datetime(work["Date"], errors="coerce")
         work = work.dropna(subset=["Date"]).sort_values("Date")
-        closes = pd.to_numeric(work["Close"], errors="coerce")
-        dates = work["Date"]
-        vols = pd.to_numeric(work["Volume"], errors="coerce").fillna(0) if "Volume" in work.columns else pd.Series([0.0] * len(work))
+        date_src = work["Date"]
     else:
-        work = work.copy()
         work.index = pd.to_datetime(work.index, errors="coerce")
         work = work[work.index.notna()].sort_index()
-        closes = pd.to_numeric(work["Close"], errors="coerce")
-        dates = pd.Series(work.index)
-        vols = pd.to_numeric(work["Volume"], errors="coerce").fillna(0) if "Volume" in work.columns else pd.Series([0.0] * len(work))
-    keep = closes.notna()
-    closes = closes[keep]
-    dates = dates[keep]
-    vols = vols[keep]
-    if len(closes) < 2:
+        date_src = pd.Series(work.index, index=work.index)
+    close = pd.to_numeric(work["Close"], errors="coerce")
+    vol = (
+        pd.to_numeric(work["Volume"], errors="coerce").fillna(0)
+        if "Volume" in work.columns
+        else pd.Series(0.0, index=work.index)
+    )
+    mask = close.notna().to_numpy()
+    if int(mask.sum()) < 2:
         return None
-    last = float(closes.iloc[-1])
-    prev = float(closes.iloc[-2])
+    close_v = close.to_numpy()[mask]
+    vol_v = vol.to_numpy()[mask]
+    date_v = pd.to_datetime(date_src).to_numpy()[mask]
+    last = float(close_v[-1])
+    prev = float(close_v[-2])
     if prev == 0:
         return None
-    vol_last = int(float(vols.iloc[-1]))
-    prev_vol = vols.iloc[-6:-1] if len(vols) >= 6 else vols.iloc[:-1]
+    vol_last = int(float(vol_v[-1]))
+    prev_vol = vol_v[-6:-1] if len(vol_v) >= 6 else vol_v[:-1]
     vol_avg = float(prev_vol.mean()) if len(prev_vol) else 0.0
-    asof = pd.Timestamp(dates.iloc[-1]).strftime("%Y-%m-%d")
+    asof = pd.Timestamp(date_v[-1]).strftime("%Y-%m-%d")
     name = str(rec.get("銘柄名") or rec.get("name") or ticker)
-    sector = str(rec.get("33業種区分") or rec.get("17業種区分") or rec.get("市場・商品区分") or rec.get("sector") or "その他")
+    sector = str(
+        rec.get("33業種区分")
+        or rec.get("17業種区分")
+        or rec.get("市場・商品区分")
+        or rec.get("sector")
+        or "その他"
+    )
     return {
         "ticker": ticker,
         "name": name,
@@ -366,7 +373,10 @@ def quotes_from_raw(raw: pd.DataFrame, symbols: list[str], meta: dict[str, dict]
                 df = raw[sym].dropna(how="all")
             except Exception:
                 continue
-            item = quote_from_ohlcv(df, sym, meta.get(sym, {}))
+            try:
+                item = quote_from_ohlcv(df, sym, meta.get(sym, {}))
+            except Exception:
+                continue
             if item:
                 rows.append(item)
         return rows
@@ -402,8 +412,12 @@ def fetch_market(market: str, batch_size: int, sleep_sec: float) -> list[dict]:
         chunk = tickers[i : i + batch_size]
         batch_i = i // batch_size + 1
         print(f"  batch {batch_i}/{total}  {chunk[0]} .. {chunk[-1]}", flush=True)
-        raw = download_batch(chunk)
-        got = quotes_from_raw(raw, chunk, meta)
+        try:
+            raw = download_batch(chunk)
+            got = quotes_from_raw(raw, chunk, meta)
+        except Exception as exc:  # noqa: BLE001
+            print(f"    batch error: {exc}", flush=True)
+            got = []
         new_rows.extend(got)
         print(f"    got {len(got)}/{len(chunk)}", flush=True)
         if i + batch_size < len(tickers):
