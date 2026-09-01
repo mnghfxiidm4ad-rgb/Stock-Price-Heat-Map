@@ -309,6 +309,7 @@ ATLCL,ATLCL,Atlanticus Holdings Corporation,NASDAQ,NASDAQ
 ATLCP,ATLCP,Atlanticus Holdings Corporation,NASDAQ,NASDAQ
 ATLCZ,ATLCZ,Atlanticus Holdings Corporation,NASDAQ,NASDAQ
 ATLO,ATLO,Ames National Corporation,NASDAQ,NASDAQ
+ATLQ,ATLQ,JAB Acquisition Corp I,NASDAQ,NASDAQ
 ATLX,ATLX,Atlas Lithium Corporation,NASDAQ,NASDAQ
 ATNI,ATNI,"ATN International, Inc.",NASDAQ,NASDAQ
 ATOM,ATOM,Atomera Incorporated,NASDAQ,NASDAQ
@@ -379,7 +380,6 @@ BBLG,BBLG,Bone Biologics Corp,NASDAQ,NASDAQ
 BBNX,BBNX,"Beta Bionics, Inc.",NASDAQ,NASDAQ
 BBOT,BBOT,"BridgeBio Oncology Therapeutics, Inc.",NASDAQ,NASDAQ
 BBSI,BBSI,"Barrett Business Services, Inc.",NASDAQ,NASDAQ
-BCAB,BCAB,"BioAtla, Inc.",NASDAQ,NASDAQ
 BCAL,BCAL,California BanCorp,NASDAQ,NASDAQ
 BCAX,BCAX,Bicara Therapeutics Inc.,NASDAQ,NASDAQ
 BCBP,BCBP,"BCB Bancorp, Inc. (NJ)",NASDAQ,NASDAQ
@@ -1689,7 +1689,6 @@ IVVD,IVVD,"Invivyd, Inc.",NASDAQ,NASDAQ
 IXHL,IXHL,Incannex Healthcare Inc.,NASDAQ,NASDAQ
 IZEA,IZEA,"IZEA Worldwide, Inc.",NASDAQ,NASDAQ
 IZM,IZM,ICZOOM Group Inc.,NASDAQ,NASDAQ
-JAB,JAB,JAB Acquisition Corp I,NASDAQ,NASDAQ
 JACK,JACK,Jack In The Box Inc.,NASDAQ,NASDAQ
 JAGX,JAGX,"Jaguar Health, Inc.",NASDAQ,NASDAQ
 JAKK,JAKK,"JAKKS Pacific, Inc.",NASDAQ,NASDAQ
@@ -1964,7 +1963,7 @@ MATW,MATW,Matthews International Corporation,NASDAQ,NASDAQ
 MAYS,MAYS,"J. W. Mays, Inc.",NASDAQ,NASDAQ
 MAZE,MAZE,"Maze Therapeutics, Inc.",NASDAQ,NASDAQ
 MB,MB,MasterBeef Group,NASDAQ,NASDAQ
-MBAI,MBAI,Check-Cap Ltd.,NASDAQ,NASDAQ
+MBAI,MBAI,MBody AI Ltd.,NASDAQ,NASDAQ
 MBBC,MBBC,"Marathon Bancorp, Inc.",NASDAQ,NASDAQ
 MBIN,MBIN,Merchants Bancorp,NASDAQ,NASDAQ
 MBINL,MBINL,Merchants Bancorp,NASDAQ,NASDAQ
@@ -2369,6 +2368,7 @@ ONEG,ONEG,OneConstruction Group Limited,NASDAQ,NASDAQ
 ONEW,ONEW,OneWater Marine Inc.,NASDAQ,NASDAQ
 ONFO,ONFO,Onfolio Holdings Inc.,NASDAQ,NASDAQ
 ONMD,ONMD,OneMedNet Corp,NASDAQ,NASDAQ
+OPAD,OPAD,Offerpad Solutions Inc.,NASDAQ,NASDAQ
 OPAL,OPAL,OPAL Fuels Inc.,NASDAQ,NASDAQ
 OPBK,OPBK,OP Bancorp,NASDAQ,NASDAQ
 OPCH,OPCH,"Option Care Health, Inc.",NASDAQ,NASDAQ
@@ -3075,7 +3075,7 @@ SVCO,SVCO,"Silvaco Group, Inc.",NASDAQ,NASDAQ
 SVIV,SVIV,Spring Valley Acquisition Corp. IV,NASDAQ,NASDAQ
 SVRA,SVRA,"Savara, Inc.",NASDAQ,NASDAQ
 SVRE,SVRE,SaverOne 2014 Ltd.,NASDAQ,NASDAQ
-SVRN,SVRN,OceanPal Inc.,NASDAQ,NASDAQ
+SVRN,SVRN,"SVRN, Inc.",NASDAQ,NASDAQ
 SWAG,SWAG,"Stran & Company, Inc.",NASDAQ,NASDAQ
 SWBI,SWBI,"Smith & Wesson Brands, Inc.",NASDAQ,NASDAQ
 SWIM,SWIM,"Latham Group, Inc.",NASDAQ,NASDAQ
@@ -3195,6 +3195,7 @@ TPGXL,TPGXL,TPG Inc.,NASDAQ,NASDAQ
 TPST,TPST,"Tempest Therapeutics, Inc.",NASDAQ,NASDAQ
 TRAW,TRAW,"Traws Pharma, Inc.",NASDAQ,NASDAQ
 TRAX,TRAX,"First Tracks Biotherapeutics, Inc.",NASDAQ,NASDAQ
+TRBG,TRBG,TurboGen Ltd.,NASDAQ,NASDAQ
 TRDA,TRDA,"Entrada Therapeutics, Inc.",NASDAQ,NASDAQ
 TREE,TREE,"LendingTree, Inc.",NASDAQ,NASDAQ
 TREO,TREO,Tactical Resources Corp.,NASDAQ,NASDAQ
@@ -3733,7 +3734,6 @@ ARCO,ARCO,Arcos Dorados Holdings Inc.,NYSE,NYSE
 ARDC,ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common",NYSE,NYSE
 ARDT,ARDT,"Ardent Health, Inc.",NYSE,NYSE
 ARE,ARE,"Alexandria Real Estate Equities, Inc.",NYSE,NYSE
-AREN,AREN,"The Arena Group Holdings, Inc.",NYSE American,NYSE American
 ARES,ARES,Ares Management Corporation,NYSE,NYSE
 ARI,ARI,"Apollo Commercial Real Estate Finance, Inc",NYSE,NYSE
 ARIS,ARIS,Aris Mining Corporation Common Shares,NYSE,NYSE
@@ -5308,7 +5308,6 @@ ONON,ONON,On Holding AG,NYSE,NYSE
 ONT,ONT,"Onterris, Inc.",NYSE,NYSE
 ONTO,ONTO,Onto Innovation Inc.,NYSE,NYSE
 OOMA,OOMA,"Ooma, Inc.",NYSE,NYSE
-OPAD,OPAD,Offerpad Solutions Inc.,NYSE,NYSE
 OPFI,OPFI,OppFi Inc.,NYSE,NYSE
 OPHC,OPHC,"OptimumBank Holdings, Inc.",NYSE American,NYSE American
 OPLN,OPLN,"OPENLANE, Inc.",NYSE,NYSE
@@ -5336,6 +5335,7 @@ OWLT,OWLT,"Owlet, Inc.",NYSE,NYSE
 OXM,OXM,"Oxford Industries, Inc.",NYSE,NYSE
 OXY,OXY,Occidental Petroleum Corporation,NYSE,NYSE
 P,P,"Everpure, Inc.",NYSE,NYSE
+PAAI,PAAI,"Paradium.AI, Inc.",NYSE American,NYSE American
 PAAS,PAAS,Pan American Silver Corp.,NYSE,NYSE
 PAC,PAC,"Grupo Aeroportuario Del Pacifico, S.A. B. de C.V",NYSE,NYSE
 PACK,PACK,Ranpak Holdings Corp,NYSE,NYSE
@@ -5603,6 +5603,7 @@ SAGU,SAGU,Shreya Acquisition Group,NYSE,NYSE
 SAH,SAH,"Sonic Automotive, Inc.",NYSE,NYSE
 SAJ,SAJ,Saratoga Investment Corp 8.00% Notes due 2027,NYSE,NYSE
 SAM,SAM,"Boston Beer Company, Inc. (The)",NYSE,NYSE
+SAMO,SAMO,Samos Energy Acquisition Corporation,NYSE,NYSE
 SAN,SAN,"Banco Santander, S.A. Sponsored ADR (Spain)",NYSE,NYSE
 SAP,SAP,SAP  SE ADS,NYSE,NYSE
 SAR,SAR,Saratoga Investment Corp New,NYSE,NYSE
