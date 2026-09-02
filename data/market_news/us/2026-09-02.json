@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-09-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,666.60",
+      "change": "+0.46%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,217.83",
+      "change": "+0.45%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,061.95",
+      "change": "+0.56%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.80%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "S&P 500は前日比+0.46%の7,666.60で上昇して取引を終えた。",
+    "NASDAQは+0.45%、NYダウは+0.56%だった。",
+    "素材、コミュニケーション・サービスセクターが上昇率上位となった。",
+    "不動産、情報技術セクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnEzbFM3YnR1LV9DcnluZDNKaHJnS3hSaHFCcTlpR3BScV9oMGxSWkNIT1RQLUxDNFNxZDVuSmQtYS05MnF6a2VjR1cxcnk3NDBNM0VUQ2R5MzJTVGI5cUozZUlGVEcwajI3N3JFTk85bWItSy1MbE1kSTVrdjlPMDM1LU1MQlJLTzNLRDJxZlJIMVZZclBvazRDeTU4VDZ1?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWlQ0Q2NfZUd3dnhxbml0NDh3OU11Vl9MRmxfSmFjRHFQbWRLa0F4VjRQZ3MwNS1hcTBFa1hlU0Jidk5VU1ZvUWgtRU1nSW5UQS1TVWxHYi1OUTlubTlOblJYeThLTVFLenVGOG02SjM4cEgtaXRlTVhZamtHcDZ6eVhOcVRiVFlhamZ2M1pmX0FmVE5VLXNJV3JWbWZRbWZFdFl1RDhjT2RRMklWMURoa05oakN0T3c5QU5SNVFVS2htVkR1Q3lMYlU4dVVUaEN5QlhrU2xmSFFxcUg4?oc=5"
+  ],
+  "generated_at": "2026-09-02T22:43:10+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
