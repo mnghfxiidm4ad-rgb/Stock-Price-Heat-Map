@@ -1,0 +1,49 @@
+{
+  "market": "JP",
+  "date": "2026-09-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,325.64",
+      "change": "-2.85%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "424.50",
+      "change": "-2.57%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.75",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "日経平均は前日比-2.85%の64,325.64円で下落して取引を終えた。",
+    "TOPIX（ETF）は前日比-2.57%の424.50だった。",
+    "ドル/円 (USD/JPY)は159.75円、前日比+0.00円。",
+    "銀行、運輸・物流セクターが上昇率上位となった。",
+    "鉄鋼・非鉄、電機・精密セクターは軟調だった。",
+    "植田日銀総裁、利上げ「次回含め毎回しっかり議論」。",
+    "長期金利3.01%超、止まらぬ上昇 日銀利上げ到達点予想が2.5%に迫る。",
+    "日銀、9月利上げを検討 政策金利1.25％が軸。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iNUZMSWNzNVNXb3R1QmFzRHpDY1NfTEtDN0lVQTN0Tk1jSG53Vk5vdGhVaGotejU5RjhsSkd3ZHExQksxNkhrWXFuVFpnMHkxQlllVTczSmxIZ3NqNEhTUFJCcWdCSXFPeG9zSg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41R1VXTHcyczE2ODVRd1BzMExfeHVOd2QzV3doQnFFbm1XX1JOVVdFcHI3YTRxZGFsell3ZE9nRlNSNUdKTl95M0tfTEE2M0VFMEQxN1o5YVlyMnhyQmhqcm1RSXRkY191dUY5WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DNWVaZHR1ZHJqbGVrSXJReEV3OTVhZ25aMVIwTEJVQ180TDlodVR6NC1iQ3VSb1FoWmEtTm9KUkx4MTc4cTNGaTU1WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxVTRnLXV3eFZ1cjdpQjlLUGlnWWJfc04tNmhScjl4UFNWU1BvRDRoUUFjSHJhcUFPaWtmYnpFbHg3Yi15MjF6dmpMWnJ4X013d0pITFN1ZXpMSG1FblQw?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE01bWJ2U0lHMmNiOEtKUDA1WWtvdFFBUUVfZnFqaFBXak1rWGxJSzhxSW14R3NnVk03VFFPMkhtQVYtVjItUDNRN0I2LVNpOGRqM2k1ZkhScEJLN1BYckt4MXNtcmlIVnBfNmRyZFJYR0UzTklmZlE?oc=5"
+  ],
+  "generated_at": "2026-09-02T20:32:42+09:00",
+  "mode": "daily",
+  "trading_day": true
+}

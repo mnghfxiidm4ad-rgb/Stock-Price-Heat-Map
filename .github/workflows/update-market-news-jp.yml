@@ -1,0 +1,54 @@
+name: Update JP market news
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 日本株 大引け後 16:00 JST = 07:00 UTC（月〜金）
+    - cron: "0 7 * * 1-5"
+
+concurrency:
+  group: update-market-news-jp
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-update.txt
+
+      - name: Install
+        run: python -m pip install -r requirements-update.txt
+
+      - name: Collect JP daily news
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL }}
+          OPENAI_MODEL: ${{ secrets.OPENAI_MODEL }}
+        run: python collect_market_news.py --market jp --daily
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/market_news
+          if git diff --cached --quiet; then
+            echo "No news changes"
+          else
+            git commit -m "Update JP market news"
+            git pull --rebase origin main
+            git push
+          fi

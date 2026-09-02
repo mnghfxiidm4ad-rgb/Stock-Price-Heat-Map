@@ -12,6 +12,7 @@ from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 from data import DATA_ROOT, get_bundle, warmup
+from news.storage import list_days, load_day, market_code
 
 ROOT = Path(__file__).resolve().parent
 STATIC = ROOT / "static"
@@ -111,6 +112,40 @@ class Handler(SimpleHTTPRequestHandler):
                     "status": snap,
                 },
             )
+            return
+        if path == "/api/news":
+            market = _param(qs, "market", "日本株")
+            asof = _param(qs, "asof")
+            code = market_code(market)
+            if not asof:
+                _json(self, {"ok": False, "market": code, "date": "", "message": "asof が必要です"})
+                return
+            payload = load_day(code, asof)
+            if not payload:
+                _json(
+                    self,
+                    {
+                        "ok": False,
+                        "market": code,
+                        "date": asof,
+                        "indices": {},
+                        "top_sectors": [],
+                        "bottom_sectors": [],
+                        "news_bullets": [],
+                        "source_urls": [],
+                        "message": "この日の市場ニュースはまだありません",
+                    },
+                )
+                return
+            out = dict(payload)
+            out["ok"] = True
+            out["message"] = ""
+            _json(self, out)
+            return
+        if path == "/api/news-days":
+            market = _param(qs, "market", "日本株")
+            code = market_code(market)
+            _json(self, {"ok": True, "market": code, "days": list_days(code)})
             return
         if path in {"/", "/index.html"}:
             _file(self, ROOT / "index.html", "text/html; charset=utf-8")

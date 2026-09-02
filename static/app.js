@@ -430,6 +430,7 @@ async function loadQuotes(asof) {
     if (!data.ok) {
       $("status").textContent = data.message || "データがありません";
       draw();
+      loadNews(state.asof);
       return;
     }
     const extra = state.historyReady
@@ -441,6 +442,7 @@ async function loadQuotes(asof) {
           : "　最新の終値";
     $("status").textContent = `${state.market}  ${state.rows.length.toLocaleString("ja-JP")}銘柄　${state.asof}${extra}`;
     draw();
+    loadNews(state.asof);
     if (state.useApi && !state.historyReady) pollMeta();
     else if (state.useApi && !state.days.length) loadMeta();
   } catch (err) {
@@ -683,3 +685,69 @@ document.querySelectorAll("th[data-sort]").forEach((th) => {
 
 window.addEventListener("resize", () => draw());
 loadQuotes();
+
+function newsCode() {
+  return state.market === "日本株" ? "jp" : "us";
+}
+
+function chgClass(text) {
+  const s = String(text || "");
+  if (s.startsWith("+") && !s.startsWith("+0.00") && !s.startsWith("+0.0")) return "up";
+  if (s.startsWith("-") && !s.startsWith("-0.00") && !s.startsWith("-0.0")) return "down";
+  return "";
+}
+
+function renderIndexChip(item) {
+  if (!item || !(item.close || item.value)) return "";
+  const chg = item.change || "";
+  const val = item.close || item.value || "";
+  return `<div class="news-idx"><span>${escapeHtml(item.name || "")}</span><b>${escapeHtml(val)} <span class="chg ${chgClass(chg)}">${escapeHtml(chg)}</span></b></div>`;
+}
+
+function renderNews(data) {
+  const panel = $("news-panel");
+  const empty = $("news-empty");
+  const list = $("news-bullets");
+  const idx = $("news-indices");
+  if (!panel) return;
+  panel.hidden = false;
+  const ok = Boolean(data && data.ok !== false && ((data.news_bullets || []).length || (data.indices && Object.keys(data.indices).length)));
+  const bullets = (data && data.news_bullets) || [];
+  const indices = (data && data.indices) || {};
+  $("news-date").textContent = (data && (data.date || state.asof)) || state.asof || "";
+  idx.innerHTML = ["primary", "secondary", "tertiary", "sub"].map((k) => renderIndexChip(indices[k])).join("");
+  list.innerHTML = bullets.map((line) => `<li>${escapeHtml(line)}</li>`).join("");
+  const hasBody = bullets.length > 0 || idx.innerHTML;
+  empty.hidden = hasBody;
+  if (!hasBody) empty.textContent = (data && data.message) || "この日の市場ニュースはまだありません";
+  if (!ok && !hasBody) {
+    empty.hidden = false;
+  }
+}
+
+async function loadNews(asof) {
+  if (!$("news-panel")) return;
+  if (!asof) {
+    renderNews(null);
+    return;
+  }
+  let data = null;
+  if (state.useApi) {
+    try {
+      const params = new URLSearchParams({ market: state.market, asof });
+      const res = await fetch("/api/news?" + params.toString(), { headers: { Accept: "application/json" } });
+      if (res.ok) data = await res.json();
+    } catch {
+      data = null;
+    }
+  }
+  if (!data || data.ok === false) {
+    try {
+      const res = await fetch(`data/market_news/${newsCode()}/${asof}.json?t=${Date.now()}`);
+      if (res.ok) data = await res.json();
+    } catch {
+      /* no static news file */
+    }
+  }
+  renderNews(data);
+}

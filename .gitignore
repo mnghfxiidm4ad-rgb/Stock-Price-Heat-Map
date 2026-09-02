@@ -3,4 +3,5 @@ __pycache__/
 *.pyc
 .cache/
 data/*.tmp
+data/market_news/**/*.tmp
 _site/
