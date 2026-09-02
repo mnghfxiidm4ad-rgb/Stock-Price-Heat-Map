@@ -124,6 +124,10 @@ def write_payload(market: str, quotes: list[dict], extra: dict[str, Any] | None 
     tmp = path.with_suffix(".json.tmp")
     tmp.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     tmp.replace(path)
+    if asof:
+        arch = DATA_DIR / "quotes" / market / f"{asof}.json"
+        arch.parent.mkdir(parents=True, exist_ok=True)
+        arch.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"saved {path}  {len(quotes):,} quotes  asof={asof}", flush=True)
     return path
 

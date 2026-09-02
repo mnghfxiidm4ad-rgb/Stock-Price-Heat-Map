@@ -412,7 +412,7 @@ async function loadQuotes(asof) {
   $("status").textContent = "データを読み込んでいます…";
   try {
     let data = await tryApiQuotes(asof);
-    state.useApi = Boolean(data && Array.isArray(data.quotes));
+    state.useApi = Boolean(data && data.ok && Array.isArray(data.quotes) && data.quotes.length);
     if (!state.useApi) {
       const file = state.market === "日本株" ? "data/jp.json" : "data/us.json";
       const res = await fetch(file + "?t=" + Date.now());

@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import math
 import os
 import threading
@@ -15,6 +16,7 @@ import numpy as np
 import pandas as pd
 
 DATA_ROOT = Path(os.environ.get("STOCK_DATA_ROOT", r"C:\data\日本株"))
+REPO_ROOT = Path(__file__).resolve().parent
 
 ProgressFn = Callable[[int, int], None]
 
@@ -242,6 +244,57 @@ def _bars_from_file(path: Path, rec: dict) -> TickerBars | None:
     )
 
 
+def _snap_date(days: list[str], value: str | None) -> str | None:
+    if not days:
+        return None
+    text = str(value or "").strip()
+    if text in days:
+        return text
+    if not text:
+        return days[-1]
+    i = bisect_right(days, text) - 1
+    if i < 0:
+        return days[0]
+    return days[i]
+
+
+def _repo_market_code(market: str) -> str:
+    return "us" if market in {"us", "US", "米株"} else "jp"
+
+
+def _read_quote_payload(path: Path) -> dict[str, Any] | None:
+    if not path.is_file():
+        return None
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return None
+    if not isinstance(payload, dict):
+        return None
+    quotes = payload.get("quotes")
+    if not isinstance(quotes, list) or not quotes:
+        return None
+    asof = str(payload.get("asof") or quotes[0].get("asof") or path.stem)
+    payload["asof"] = asof
+    payload["quotes"] = quotes
+    return payload
+
+
+def load_repo_snapshots(market: str) -> dict[str, dict[str, Any]]:
+    code = _repo_market_code(market)
+    out: dict[str, dict[str, Any]] = {}
+    archive = REPO_ROOT / "data" / "quotes" / code
+    if archive.is_dir():
+        for path in sorted(archive.glob("????-??-??.json")):
+            payload = _read_quote_payload(path)
+            if payload:
+                out[str(payload["asof"])] = payload
+    latest = _read_quote_payload(REPO_ROOT / "data" / f"{code}.json")
+    if latest:
+        out[str(latest["asof"])] = latest
+    return out
+
+
 def load_latest_quotes(market: str) -> list[dict]:
     _data_dir, _tickers, latest, shares_path = _paths(market)
     if not latest.exists():
@@ -294,13 +347,19 @@ class MarketBundle:
         self.lock = threading.Lock()
         self.latest: list[dict] = []
         self.history: MarketHistory | None = None
+        self.snapshots: dict[str, dict[str, Any]] = {}
         self.loading = False
         self.progress = (0, 0)
         self.error = ""
 
     def load_latest(self) -> list[dict]:
         rows = load_latest_quotes(self.market)
+        snaps = load_repo_snapshots(self.market)
+        if not rows and snaps:
+            last = max(snaps)
+            rows = list(snaps[last].get("quotes") or [])
         with self.lock:
+            self.snapshots = snaps
             self.latest = rows
         return rows
 
@@ -343,38 +402,49 @@ class MarketBundle:
             loading = self.loading
             progress = self.progress
             error = self.error
+            snap_days = sorted(self.snapshots)
         asof = ""
         if latest:
             asof = str(latest[0].get("asof") or "")
+        if snap_days:
+            asof = snap_days[-1]
         if history and history.days:
             asof = history.days[-1]
+        parquet_days = list(history.days) if history and history.days else []
+        days = parquet_days or snap_days
         return {
             "market": self.market,
             "data_root": str(DATA_ROOT),
             "latest_count": len(latest),
-            "history_ready": history is not None and bool(history.days),
-            "history_loading": loading,
+            "history_ready": bool(days),
+            "history_loading": loading and not snap_days,
             "history_progress": {"done": progress[0], "total": progress[1]},
-            "day_count": len(history.days) if history else 0,
-            "min_day": history.days[0] if history and history.days else "",
-            "max_day": history.days[-1] if history and history.days else asof,
+            "day_count": len(days),
+            "min_day": days[0] if days else "",
+            "max_day": days[-1] if days else asof,
             "asof": asof,
             "error": error,
         }
 
     def days(self) -> list[str]:
         with self.lock:
-            if self.history:
+            if self.history and self.history.days:
                 return list(self.history.days)
-        return []
+            return sorted(self.snapshots)
 
     def quotes(self, asof: str | None = None) -> tuple[list[dict], str, bool]:
         with self.lock:
             history = self.history
             latest = list(self.latest)
+            snapshots = dict(self.snapshots)
         if history and history.days:
             day = history.snap(asof) or history.days[-1]
             return history.quotes(day), day, True
+        if snapshots:
+            days = sorted(snapshots)
+            day = _snap_date(days, asof) or days[-1]
+            rows = list((snapshots.get(day) or {}).get("quotes") or [])
+            return rows, day, True
         if latest:
             day = str(latest[0].get("asof") or "")
             return latest, day, False
