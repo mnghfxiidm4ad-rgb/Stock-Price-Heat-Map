@@ -803,7 +803,6 @@ CRML,CRML,Critical Metals Corp.,NASDAQ,NASDAQ
 CRMT,CRMT,"America's Car-Mart, Inc.",NASDAQ,NASDAQ
 CRNC,CRNC,Cerence Inc.,NASDAQ,NASDAQ
 CRNT,CRNT,Ceragon Networks Ltd.,NASDAQ,NASDAQ
-CRNX,CRNX,"Crinetics Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 CRON,CRON,Cronos Group Inc.,NASDAQ,NASDAQ
 CROX,CROX,"Crocs, Inc.",NASDAQ,NASDAQ
 CRSP,CRSP,CRISPR Therapeutics AG,NASDAQ,NASDAQ
@@ -2172,7 +2171,6 @@ NCNO,NCNO,"nCino, Inc.",NASDAQ,NASDAQ
 NCO,NCO,Southern Cross Acquisition I Corp.,NASDAQ,NASDAQ
 NCPL,NCPL,Netcapital Inc.,NASDAQ,NASDAQ
 NCRA,NCRA,"Nocera, Inc.",NASDAQ,NASDAQ
-NCSM,NCSM,"NCS Multistage Holdings, Inc.",NASDAQ,NASDAQ
 NCT,NCT,Intercont (Cayman) Limited,NASDAQ,NASDAQ
 NCTY,NCTY,The9 Limited,NASDAQ,NASDAQ
 NDAQ,NDAQ,"Nasdaq, Inc.",NASDAQ,NASDAQ
@@ -2246,6 +2244,7 @@ NRIM,NRIM,Northrim BanCorp Inc,NASDAQ,NASDAQ
 NRIX,NRIX,"Nurix Therapeutics, Inc.",NASDAQ,NASDAQ
 NRSN,NRSN,NeuroSense Therapeutics Ltd.,NASDAQ,NASDAQ
 NRXP,NRXP,"NRX Pharmaceuticals, Inc.",NASDAQ,NASDAQ
+NSAI,NSAI,NorthStrive Acquisition Corp I.,NASDAQ,NASDAQ
 NSIT,NSIT,"Insight Enterprises, Inc.",NASDAQ,NASDAQ
 NSLR,NSLR,Neostellar Capital Corp.,NASDAQ,NASDAQ
 NSLRL,NSLRL,Neostellar Capital Corp.,NASDAQ,NASDAQ
@@ -3525,6 +3524,7 @@ YB,YB,Yuanbao Inc.,NASDAQ,NASDAQ
 YDDL,YDDL,One and One Green Technologies. INC,NASDAQ,NASDAQ
 YDES,YDES,YD Bio Limited,NASDAQ,NASDAQ
 YDKG,YDKG,Yueda Digital Holding,NASDAQ,NASDAQ
+YFOR,YFOR,YYForce Inc.,NASDAQ,NASDAQ
 YHC,YHC,LQR House Inc.,NASDAQ,NASDAQ
 YHGJ,YHGJ,Yunhong Green CTI Ltd.,NASDAQ,NASDAQ
 YHNA,YHNA,YHN Acquisition I Limited,NASDAQ,NASDAQ
@@ -3542,7 +3542,6 @@ YSXT,YSXT,"YSX Tech. Co., Ltd",NASDAQ,NASDAQ
 YTRA,YTRA,"Yatra Online, Inc.",NASDAQ,NASDAQ
 YXT,YXT,YXT.COM GROUP HOLDING LIMITED,NASDAQ,NASDAQ
 YYAI,YYAI,AiRWA Inc.,NASDAQ,NASDAQ
-YYGH,YYGH,YY Group Holding Limited,NASDAQ,NASDAQ
 Z,Z,"Zillow Group, Inc.",NASDAQ,NASDAQ
 ZBAO,ZBAO,Zhibao Technology Inc.,NASDAQ,NASDAQ
 ZBIO,ZBIO,"Zenas BioPharma, Inc.",NASDAQ,NASDAQ
@@ -3567,7 +3566,6 @@ ZOOZ,ZOOZ,ZOOZ Strategy Ltd.,NASDAQ,NASDAQ
 ZS,ZS,"Zscaler, Inc.",NASDAQ,NASDAQ
 ZSQR,ZSQR,Z Squared Inc.,NASDAQ,NASDAQ
 ZSTK,ZSTK,ZeroStack Corp.,NASDAQ,NASDAQ
-ZTEK,ZTEK,Zentek Ltd.,NASDAQ,NASDAQ
 ZTG,ZTG,Zenta Group Company Limited,NASDAQ,NASDAQ
 ZUMZ,ZUMZ,Zumiez Inc.,NASDAQ,NASDAQ
 ZURA,ZURA,Zura Bio Limited,NASDAQ,NASDAQ
@@ -4696,7 +4694,6 @@ HLIO,HLIO,"Helios Technologies, Inc.",NYSE,NYSE
 HLLY,HLLY,Holley Inc.,NYSE,NYSE
 HLN,HLN,Haleon plc American Depositary Shares (Each repr,NYSE,NYSE
 HLT,HLT,Hilton Worldwide Holdings Inc.,NYSE,NYSE
-HLX,HLX,"Helix Energy Solutions Group, Inc.",NYSE,NYSE
 HMC,HMC,"Honda Motor Company, Ltd.",NYSE,NYSE
 HMN,HMN,Horace Mann Educators Corporation,NYSE,NYSE
 HMY,HMY,Harmony Gold Mining Company Limited,NYSE,NYSE
@@ -4704,6 +4701,7 @@ HNGE,HNGE,"Hinge Health, Inc.",NYSE,NYSE
 HNI,HNI,HNI Corporation,NYSE,NYSE
 HOG,HOG,"Harley-Davidson, Inc.",NYSE,NYSE
 HOMB,HOMB,"Home BancShares, Inc.",NYSE,NYSE
+HOS,HOS,"Hornbeck Offshore Services, Inc.",NYSE,NYSE
 HOV,HOV,"Hovnanian Enterprises, Inc.",NYSE,NYSE
 HP,HP,"Helmerich & Payne, Inc.",NYSE,NYSE
 HPE,HPE,Hewlett Packard Enterprise Company,NYSE,NYSE
