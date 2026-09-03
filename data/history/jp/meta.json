@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "market": "日本株",
+  "code": "jp",
+  "updated_at": "2026-09-03T23:04:36+00:00",
+  "count": 0,
+  "min_day": "",
+  "max_day": "",
+  "data_root_env": "STOCK_DATA_ROOT",
+  "bars_subdir": "data",
+  "format": {
+    "bars": "parquet",
+    "columns": [
+      "Date",
+      "Open",
+      "High",
+      "Low",
+      "Close",
+      "Adj Close",
+      "Volume"
+    ],
+    "web_snapshot": "data/quotes/{code}/YYYY-MM-DD.json",
+    "latest": "data/{code}.json",
+    "index": "data/history/jp/index.json"
+  },
+  "note": "銘柄ごとの全期間日足は parquet（サーバー側。STOCK_DATA_ROOT 配下）。Web の日付切替ヒートマップは data/quotes の日次 JSON を使う。個別 OHLCV は GET /api/bars で取得。"
+}

@@ -4,4 +4,7 @@ __pycache__/
 .cache/
 data/*.tmp
 data/market_news/**/*.tmp
+data/bars_store/
+data/history/**/sample/
+*.parquet.tmp
 _site/

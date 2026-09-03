@@ -15,8 +15,21 @@ from typing import Any
 import numpy as np
 import pandas as pd
 
-DATA_ROOT = Path(os.environ.get("STOCK_DATA_ROOT", r"C:\data\日本株"))
 REPO_ROOT = Path(__file__).resolve().parent
+
+
+def _default_data_root() -> Path:
+    env = os.environ.get("STOCK_DATA_ROOT", "").strip()
+    if env:
+        return Path(env)
+    win = Path(r"C:\data\日本株")
+    if win.exists() or os.name == "nt":
+        return win
+    # Linux / CI: scripts/fetch_history.py と同じ既定
+    return REPO_ROOT / "data" / "bars_store"
+
+
+DATA_ROOT = _default_data_root()
 
 ProgressFn = Callable[[int, int], None]
 
