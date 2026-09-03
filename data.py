@@ -439,12 +439,6 @@ class MarketBundle:
             "error": error,
         }
 
-    def days(self) -> list[str]:
-        with self.lock:
-            if self.history and self.history.days:
-                return list(self.history.days)
-            return sorted(self.snapshots)
-
     def quotes(self, asof: str | None = None) -> tuple[list[dict], str, bool]:
         with self.lock:
             history = self.history
@@ -452,7 +446,17 @@ class MarketBundle:
             snapshots = dict(self.snapshots)
         if history and history.days:
             day = history.snap(asof) or history.days[-1]
-            return history.quotes(day), day, True
+            rows = history.quotes(day)
+            # 局所的な parquet（試験取得など）より、リポジトリの日次 JSON の方が
+            # 銘柄数が多いときは JSON を優先する（Web ヒートマップ用）。
+            snap = snapshots.get(day) or {}
+            snap_rows = list(snap.get("quotes") or [])
+            if snap_rows and len(snap_rows) > max(len(rows) * 2, len(rows) + 50):
+                return snap_rows, day, True
+            if rows:
+                return rows, day, True
+            if snap_rows:
+                return snap_rows, day, True
         if snapshots:
             days = sorted(snapshots)
             day = _snap_date(days, asof) or days[-1]
@@ -462,6 +466,15 @@ class MarketBundle:
             day = str(latest[0].get("asof") or "")
             return latest, day, False
         return [], "", False
+
+    def days(self) -> list[str]:
+        with self.lock:
+            hist_days = list(self.history.days) if self.history and self.history.days else []
+            snap_days = sorted(self.snapshots)
+        if hist_days and snap_days:
+            # 両方あるときは和集合（日付切替を広く）
+            return sorted(set(hist_days) | set(snap_days))
+        return hist_days or snap_days
 
 
 _BUNDLES: dict[str, MarketBundle] = {
