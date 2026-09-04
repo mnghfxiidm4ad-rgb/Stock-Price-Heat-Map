@@ -225,7 +225,6 @@ APA,APA,APA Corporation,NASDAQ,NASDAQ
 APAC,APAC,StoneBridge Acquisition II Corporation,NASDAQ,NASDAQ
 APC,APC,ARKO Petroleum Corp.,NASDAQ,NASDAQ
 APEI,APEI,"American Public Education, Inc.",NASDAQ,NASDAQ
-APGE,APGE,"Apogee Therapeutics, Inc.",NASDAQ,NASDAQ
 API,API,"Agora, Inc.",NASDAQ,NASDAQ
 APLD,APLD,Applied Digital Corporation,NASDAQ,NASDAQ
 APLM,APLM,Apollomics Inc.,NASDAQ,NASDAQ
@@ -523,7 +522,6 @@ BTCT,BTCT,BTC Digital Ltd.,NASDAQ,NASDAQ
 BTDR,BTDR,Bitdeer Technologies Group,NASDAQ,NASDAQ
 BTMD,BTMD,Biote Corp.,NASDAQ,NASDAQ
 BTOC,BTOC,Armlogi Holding Corp.,NASDAQ,NASDAQ
-BTOG,BTOG,Bit Origin Limited,NASDAQ,NASDAQ
 BTQ,BTQ,BTQ Technologies Corp.,NASDAQ,NASDAQ
 BTTC,BTTC,Black Titan Corp,NASDAQ,NASDAQ
 BULL,BULL,Webull Corporation,NASDAQ,NASDAQ
@@ -1707,7 +1705,6 @@ JD,JD,"JD.com, Inc.",NASDAQ,NASDAQ
 JDZG,JDZG,JIADE LIMITED,NASDAQ,NASDAQ
 JEM,JEM,707 Cayman Holdings Limited,NASDAQ,NASDAQ
 JF,JF,J and Friends Holdings Limited,NASDAQ,NASDAQ
-JFB,JFB,JFB Construction Holdings,NASDAQ,NASDAQ
 JFIN,JFIN,Jiayin Group Inc.,NASDAQ,NASDAQ
 JFU,JFU,9F Inc.,NASDAQ,NASDAQ
 JG,JG,Aurora Mobile Limited,NASDAQ,NASDAQ
@@ -2204,7 +2201,6 @@ NGNE,NGNE,Neurogene Inc.,NASDAQ,NASDAQ
 NHIC,NHIC,NewHold Investment Corp III,NASDAQ,NASDAQ
 NHIV,NHIV,NewHold Investment Corp IV,NASDAQ,NASDAQ
 NHP,NHP,"National Healthcare Properties, Inc.",NASDAQ,NASDAQ
-NHPAP,NHPAP,"National Healthcare Properties, Inc.",NASDAQ,NASDAQ
 NHPBP,NHPBP,"National Healthcare Properties, Inc.",NASDAQ,NASDAQ
 NHTC,NHTC,Natural Health Trends Corp.,NASDAQ,NASDAQ
 NICE,NICE,NICE Ltd,NASDAQ,NASDAQ
@@ -2889,6 +2885,7 @@ SGLY,SGLY,Singularity Future Technology Ltd.,NASDAQ,NASDAQ
 SGML,SGML,Sigma Lithium Corporation,NASDAQ,NASDAQ
 SGMT,SGMT,Sagimet Biosciences Inc.,NASDAQ,NASDAQ
 SGP,SGP,"SpyGlass Pharma, Inc.",NASDAQ,NASDAQ
+SGRX,SGRX,SANGRIX INC.,NASDAQ,NASDAQ
 SGRY,SGRY,"Surgery Partners, Inc.",NASDAQ,NASDAQ
 SHAZ,SHAZ,"SharonAI Holdings, Inc.",NASDAQ,NASDAQ
 SHBI,SHBI,"Shore Bancshares, Inc.",NASDAQ,NASDAQ
@@ -4059,7 +4056,7 @@ CIEN,CIEN,Ciena Corporation,NYSE,NYSE
 CIG,CIG,Comp En De Mn Cemig ADS American Depositary Shar,NYSE,NYSE
 CIG.C,CIG-C,Comp En De Mn Cemig ADS American Depositary Rece,NYSE,NYSE
 CII,CII,"BlackRock Enhanced Large Cap Core Fund, Inc.",NYSE,NYSE
-CIK,CIK,"Credit Suisse Asset Management Income Fund, Inc.",NYSE American,NYSE American
+CIK,CIK,"UBS Asset Management Income Fund, Inc.",NYSE American,NYSE American
 CIM,CIM,Chimera Investment Corporation,NYSE,NYSE
 CIMN,CIMN,Chimera Investment Corporation 9.000% Senior Not,NYSE,NYSE
 CIMO,CIMO,Chimera Investment Corporation 9.250% Senior Not,NYSE,NYSE
@@ -4243,7 +4240,7 @@ DHI,DHI,"D.R. Horton, Inc.",NYSE,NYSE
 DHR,DHR,Danaher Corporation,NYSE,NYSE
 DHT,DHT,"DHT Holdings, Inc.",NYSE,NYSE
 DHX,DHX,"DHI Group, Inc.",NYSE,NYSE
-DHY,DHY,Credit Suisse High Yield Credit Fund,NYSE American,NYSE American
+DHY,DHY,UBS Asset Management High Yield Credit Fund,NYSE American,NYSE American
 DIN,DIN,"Dine Brands Global, Inc.",NYSE,NYSE
 DINO,DINO,HF Sinclair Corporation,NYSE,NYSE
 DIS,DIS,Walt Disney Company (The),NYSE,NYSE
@@ -6119,6 +6116,7 @@ XPO,XPO,"XPO, Inc.",NYSE,NYSE
 XPOF,XPOF,"Xponential Fitness, Inc.",NYSE,NYSE
 XPRO,XPRO,Expro Ltd,NYSE,NYSE
 XRN,XRN,Chiron Real Estate Inc.,NYSE,NYSE
+XTND,XTND,"Xtend AI Robotics, Inc.",NYSE,NYSE
 XTNT,XTNT,"Xtant Medical Holdings, Inc.",NYSE American,NYSE American
 XXI,XXI,"Twenty One Capital, Inc.",NYSE,NYSE
 XYF,XYF,"X Financial American Depositary Shares, each rep",NYSE,NYSE
