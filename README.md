@@ -59,6 +59,16 @@ python scripts/fetch_history.py --market both --index-only
 | `GET /api/bars?market=日本株&ticker=7203.T&start=2020-01-01` | 銘柄の OHLCV（コンパクト JSON） |
 | `GET /api/quotes?market=日本株&asof=YYYY-MM-DD` | ヒートマップ用のその日の終値一覧（従来どおり） |
 
+ヒートマップの日付切替は `data/quotes/{jp,us}/index.json` と日次 JSON を使います。静的ホストでも API でも同じです。
+
+少数銘柄だけの試験取得（`--limit`）では、カレンダーに全期間を出さず、日次 JSON のある日だけを使います。全銘柄の密な parquet があるときは、そこから任意日のヒートマップを組み立てます。
+
+過去日をまとめて Web 用 JSON にする例:
+
+```bat
+python fetch_history.py --market jp --skip-fetch --export-range --start 2026-08-01 --end 2026-09-03 --force-snapshot
+```
+
 ## 自動更新（終値）
 
 GitHub Actions が、終値の取得できる時間以降に Yahoo Finance から日足を取り、`data/jp.json` / `data/us.json` をこのリポジトリへ書き戻します。非公開のままでも更新されます。

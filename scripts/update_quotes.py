@@ -93,6 +93,28 @@ def load_existing(market: str) -> dict[str, Any]:
         return {}
 
 
+def write_quotes_index(market: str) -> Path:
+    folder = DATA_DIR / "quotes" / market
+    folder.mkdir(parents=True, exist_ok=True)
+    days = sorted(p.stem for p in folder.glob("????-??-??.json"))
+    label = "日本株" if market == "jp" else "米株"
+    payload = {
+        "ok": True,
+        "market": label,
+        "code": market,
+        "days": days,
+        "count": len(days),
+        "min_day": days[0] if days else "",
+        "max_day": days[-1] if days else "",
+        "updated_at": _now_iso(),
+    }
+    path = folder / "index.json"
+    tmp = path.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    tmp.replace(path)
+    return path
+
+
 def write_payload(market: str, quotes: list[dict], extra: dict[str, Any] | None = None) -> Path:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     label = "日本株" if market == "jp" else "米株"
@@ -103,19 +125,26 @@ def write_payload(market: str, quotes: list[dict], extra: dict[str, Any] | None 
         if dates:
             asof = max(dates)
     sectors = sorted({str(r.get("sector") or "その他") for r in quotes})
+    archive_dir = DATA_DIR / "quotes" / market
+    archive_days = sorted(p.stem for p in archive_dir.glob("????-??-??.json")) if archive_dir.is_dir() else []
+    if asof and asof not in archive_days:
+        archive_days = sorted(set(archive_days) | {asof})
+    history_ready = len(archive_days) > 0
     payload = {
         "ok": True,
         "market": label,
         "asof": asof,
         "updated_at": _now_iso(),
-        "history_ready": False,
+        "history_ready": history_ready,
         "quotes": quotes,
         "sectors": sectors,
         "message": "",
         "status": {
-            "max_day": asof,
+            "max_day": archive_days[-1] if archive_days else asof,
+            "min_day": archive_days[0] if archive_days else asof,
+            "day_count": len(archive_days),
             "latest_count": len(quotes),
-            "history_ready": False,
+            "history_ready": history_ready,
         },
     }
     if extra:
@@ -128,7 +157,8 @@ def write_payload(market: str, quotes: list[dict], extra: dict[str, Any] | None 
         arch = DATA_DIR / "quotes" / market / f"{asof}.json"
         arch.parent.mkdir(parents=True, exist_ok=True)
         arch.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"saved {path}  {len(quotes):,} quotes  asof={asof}", flush=True)
+    index_path = write_quotes_index(market)
+    print(f"saved {path}  {len(quotes):,} quotes  asof={asof}  days={payload['status']['day_count']}  index={index_path}", flush=True)
     return path
 
 

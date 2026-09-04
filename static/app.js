@@ -389,6 +389,62 @@ function fillSectors(sectors) {
   sel.value = state.sector;
 }
 
+function marketCode() {
+  return state.market === "米株" ? "us" : "jp";
+}
+
+function applyQuotePayload(data, fromApi) {
+  state.useApi = Boolean(fromApi);
+  state.rows = data.quotes || [];
+  state.asof = data.asof || "";
+  state.historyReady = Boolean(data.history_ready) || state.days.length > 1;
+  state.latestDay = (data.status && data.status.max_day) || state.latestDay || state.asof;
+  $("date").value = state.asof;
+  fillSectors(data.sectors || []);
+  syncControls();
+}
+
+async function tryStaticQuotes(asof) {
+  const code = marketCode();
+  const bust = "t=" + Date.now();
+  if (asof) {
+    try {
+      const res = await fetch(`data/quotes/${code}/${asof}.json?${bust}`, {
+        headers: { Accept: "application/json" },
+      });
+      if (res.ok) {
+        const data = await res.json();
+        if (data && Array.isArray(data.quotes) && data.quotes.length) return data;
+      }
+    } catch {
+      /* fall through */
+    }
+  }
+  const file = code === "jp" ? "data/jp.json" : "data/us.json";
+  const res = await fetch(`${file}?${bust}`);
+  if (!res.ok) throw new Error("data file " + res.status);
+  return await res.json();
+}
+
+async function loadStaticDays() {
+  try {
+    const res = await fetch(`data/quotes/${marketCode()}/index.json?t=${Date.now()}`, {
+      headers: { Accept: "application/json" },
+    });
+    if (!res.ok) return [];
+    const data = await res.json();
+    const days = Array.isArray(data.days) ? data.days : [];
+    if (days.length) {
+      state.days = days;
+      state.historyReady = true;
+      state.latestDay = data.max_day || days[days.length - 1];
+    }
+    return days;
+  } catch {
+    return [];
+  }
+}
+
 async function tryApiQuotes(asof) {
   const host = location.hostname;
   if (host !== "localhost" && host !== "127.0.0.1") return null;
@@ -412,30 +468,29 @@ async function loadQuotes(asof) {
   $("status").textContent = "データを読み込んでいます…";
   try {
     let data = await tryApiQuotes(asof);
-    state.useApi = Boolean(data && data.ok && Array.isArray(data.quotes) && data.quotes.length);
-    if (!state.useApi) {
-      const file = state.market === "日本株" ? "data/jp.json" : "data/us.json";
-      const res = await fetch(file + "?t=" + Date.now());
-      if (!res.ok) throw new Error("data file " + res.status);
-      data = await res.json();
+    let fromApi = Boolean(data && data.ok && Array.isArray(data.quotes) && data.quotes.length);
+    if (!fromApi) {
+      data = await tryStaticQuotes(asof);
+      fromApi = false;
+      if (!state.days.length) await loadStaticDays();
     }
-    state.rows = data.quotes || [];
-    state.asof = data.asof || "";
-    state.historyReady = Boolean(data.history_ready);
-    state.latestDay = (data.status && data.status.max_day) || state.asof;
-    $("date").value = state.asof;
-    fillSectors(data.sectors || []);
-    syncControls();
+    if (!data || !Array.isArray(data.quotes)) throw new Error("quotes missing");
+    applyQuotePayload(data, fromApi);
     setBusy(false);
-    if (!data.ok) {
+    if (data.ok === false) {
       $("status").textContent = data.message || "データがありません";
       draw();
       loadNews(state.asof);
       return;
     }
+    // 静的ホストでも過去日 index を読む
+    if (!fromApi && !state.days.length) await loadStaticDays();
+    if (fromApi && !state.days.length) await loadMeta();
     const extra = state.historyReady
-      ? ""
-      : state.useApi
+      ? state.days.length
+        ? `　履歴 ${state.days.length.toLocaleString("ja-JP")} 日`
+        : ""
+      : fromApi
         ? "　過去日付を準備中…"
         : data.updated_at
           ? "　更新 " + String(data.updated_at).replace("T", " ").slice(0, 16)
@@ -443,8 +498,8 @@ async function loadQuotes(asof) {
     $("status").textContent = `${state.market}  ${state.rows.length.toLocaleString("ja-JP")}銘柄　${state.asof}${extra}`;
     draw();
     loadNews(state.asof);
-    if (state.useApi && !state.historyReady) pollMeta();
-    else if (state.useApi && !state.days.length) loadMeta();
+    if (fromApi && !state.historyReady) pollMeta();
+    else if (fromApi && !state.days.length) loadMeta();
   } catch (err) {
     setBusy(false);
     $("status").textContent = "読み込みに失敗しました: " + err;
@@ -539,6 +594,7 @@ $("m-jp").onclick = () => {
   state.market = "日本株";
   state.sector = "全業種";
   state.days = [];
+  state.historyReady = false;
   setChips(["m-jp", "m-us"], "m-jp");
   loadQuotes();
 };
@@ -546,6 +602,7 @@ $("m-us").onclick = () => {
   state.market = "米株";
   state.sector = "全業種";
   state.days = [];
+  state.historyReady = false;
   setChips(["m-jp", "m-us"], "m-us");
   loadQuotes();
 };

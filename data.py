@@ -368,9 +368,14 @@ class MarketBundle:
     def load_latest(self) -> list[dict]:
         rows = load_latest_quotes(self.market)
         snaps = load_repo_snapshots(self.market)
-        if not rows and snaps:
+        if snaps:
             last = max(snaps)
-            rows = list(snaps[last].get("quotes") or [])
+            snap_rows = list(snaps[last].get("quotes") or [])
+            # 試験用の薄い latest キャッシュより、リポジトリ日次 JSON を優先
+            if snap_rows and (
+                not rows or len(snap_rows) > max(len(rows) * 2, len(rows) + 50)
+            ):
+                rows = snap_rows
         with self.lock:
             self.snapshots = snaps
             self.latest = rows
@@ -397,7 +402,8 @@ class MarketBundle:
                 with self.lock:
                     self.history = history
                     self.progress = (len(history.bars), len(history.bars))
-                    if history.days:
+                    # 疎な parquet で latest を潰さない（リポジトリ日次 JSON を優先）
+                    if history.days and self._history_dense_locked(history):
                         self.latest = history.quotes(history.days[-1])
             except Exception as exc:  # noqa: BLE001
                 with self.lock:
@@ -408,6 +414,31 @@ class MarketBundle:
 
         threading.Thread(target=run, daemon=True, name=f"hist-{self.market}").start()
 
+    def _snapshot_universe(self, snapshots: dict[str, dict[str, Any]] | None = None) -> int:
+        snaps = snapshots if snapshots is not None else self.snapshots
+        if not snaps:
+            return 0
+        last = snaps[max(snaps)]
+        return len(last.get("quotes") or [])
+
+    def _history_dense_locked(self, history: MarketHistory | None = None) -> bool:
+        """全銘柄ヒートマップに使える密度の日足か。試験取得の数銘柄だけでは False。"""
+        hist = history if history is not None else self.history
+        if hist is None or not hist.bars:
+            return False
+        universe = self._snapshot_universe()
+        n = len(hist.bars)
+        if universe > 0:
+            return n >= max(200, int(universe * 0.4))
+        return n >= 200
+
+    def _heatmap_days_locked(self) -> list[str]:
+        snap_days = sorted(self.snapshots)
+        hist = self.history
+        if hist and hist.days and self._history_dense_locked(hist):
+            return sorted(set(hist.days) | set(snap_days))
+        return snap_days
+
     def snapshot(self) -> dict[str, Any]:
         with self.lock:
             history = self.history
@@ -416,15 +447,18 @@ class MarketBundle:
             progress = self.progress
             error = self.error
             snap_days = sorted(self.snapshots)
+            days = self._heatmap_days_locked()
+            dense = self._history_dense_locked(history)
+            hist_bars = len(history.bars) if history else 0
         asof = ""
         if latest:
             asof = str(latest[0].get("asof") or "")
         if snap_days:
             asof = snap_days[-1]
-        if history and history.days:
+        if dense and history and history.days:
             asof = history.days[-1]
-        parquet_days = list(history.days) if history and history.days else []
-        days = parquet_days or snap_days
+        elif days:
+            asof = days[-1]
         return {
             "market": self.market,
             "data_root": str(DATA_ROOT),
@@ -432,6 +466,8 @@ class MarketBundle:
             "history_ready": bool(days),
             "history_loading": loading and not snap_days,
             "history_progress": {"done": progress[0], "total": progress[1]},
+            "history_dense": dense,
+            "history_bars": hist_bars,
             "day_count": len(days),
             "min_day": days[0] if days else "",
             "max_day": days[-1] if days else asof,
@@ -444,37 +480,49 @@ class MarketBundle:
             history = self.history
             latest = list(self.latest)
             snapshots = dict(self.snapshots)
-        if history and history.days:
-            day = history.snap(asof) or history.days[-1]
+            dense = self._history_dense_locked(history)
+            heat_days = self._heatmap_days_locked()
+
+        text = str(asof or "").strip()
+
+        # 1) リポジトリ日次 JSON にその日があれば最優先
+        if text and text in snapshots:
+            rows = list((snapshots[text].get("quotes") or []))
+            if rows:
+                return rows, text, True
+
+        # 2) 密な parquet 日足から任意日を構築
+        if dense and history and history.days:
+            day = history.snap(text or None) or history.days[-1]
             rows = history.quotes(day)
-            # 局所的な parquet（試験取得など）より、リポジトリの日次 JSON の方が
-            # 銘柄数が多いときは JSON を優先する（Web ヒートマップ用）。
-            snap = snapshots.get(day) or {}
-            snap_rows = list(snap.get("quotes") or [])
+            snap_rows = list((snapshots.get(day) or {}).get("quotes") or [])
             if snap_rows and len(snap_rows) > max(len(rows) * 2, len(rows) + 50):
                 return snap_rows, day, True
             if rows:
                 return rows, day, True
-            if snap_rows:
-                return snap_rows, day, True
+
+        # 3) 日次 JSON の近い営業日へスナップ
         if snapshots:
             days = sorted(snapshots)
-            day = _snap_date(days, asof) or days[-1]
+            day = _snap_date(days, text or None) or days[-1]
             rows = list((snapshots.get(day) or {}).get("quotes") or [])
             return rows, day, True
+
+        if history and history.days and text and text in set(heat_days):
+            day = history.snap(text) or history.days[-1]
+            rows = history.quotes(day)
+            if rows:
+                return rows, day, True
+
         if latest:
             day = str(latest[0].get("asof") or "")
-            return latest, day, False
+            return latest, day, bool(heat_days)
         return [], "", False
 
     def days(self) -> list[str]:
         with self.lock:
-            hist_days = list(self.history.days) if self.history and self.history.days else []
-            snap_days = sorted(self.snapshots)
-        if hist_days and snap_days:
-            # 両方あるときは和集合（日付切替を広く）
-            return sorted(set(hist_days) | set(snap_days))
-        return hist_days or snap_days
+            return self._heatmap_days_locked()
+
 
 
 _BUNDLES: dict[str, MarketBundle] = {

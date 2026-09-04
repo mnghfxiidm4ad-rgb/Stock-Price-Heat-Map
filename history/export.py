@@ -161,6 +161,47 @@ def export_web_snapshot(root: Path, market: str, asof: str | None = None, force:
     return uq.write_payload(market, quotes)
 
 
+def export_web_snapshot_range(
+    root: Path,
+    market: str,
+    start: str,
+    end: str,
+    *,
+    force: bool = False,
+    max_days: int = 0,
+) -> list[Path]:
+    """parquet 日足から期間内の各営業日スナップショットを data/quotes に書き出す。"""
+    dirs = market_dirs(root, market)
+    folder = dirs["bars"]
+    if not folder.is_dir():
+        raise RuntimeError(f"{market}: bars missing at {folder}")
+
+    # 銘柄横断の営業日集合
+    day_set: set[str] = set()
+    files = sorted(folder.glob("*.parquet"))
+    for path in files:
+        df = load_bars(path)
+        if df.empty:
+            continue
+        days = pd.to_datetime(df["Date"]).dt.strftime("%Y-%m-%d")
+        day_set.update(days.tolist())
+    days = sorted(d for d in day_set if start <= d <= end)
+    if max_days > 0:
+        days = days[-max_days:]
+    if not days:
+        raise RuntimeError(f"{market}: no trading days in {start}..{end}")
+
+    written: list[Path] = []
+    for i, day in enumerate(days, 1):
+        print(f"  snapshot {i}/{len(days)}  {day}", flush=True)
+        try:
+            path = export_web_snapshot(root, market, asof=day, force=force)
+            written.append(path)
+        except RuntimeError as exc:
+            print(f"    skip {day}: {exc}", flush=True)
+    return written
+
+
 def rebuild_latest_cache(root: Path, market: str) -> Path:
     quotes = build_quotes_for_day(root, market, asof=None)
     if not quotes:

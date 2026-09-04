@@ -9,6 +9,7 @@ from pathlib import Path
 from history.export import (
     export_compact_bars_sample,
     export_web_snapshot,
+    export_web_snapshot_range,
     rebuild_latest_cache,
     refresh_web_index,
 )
@@ -64,6 +65,17 @@ def main(argv: list[str] | None = None) -> int:
         help="既存より少ない銘柄数でもスナップショットを上書きする",
     )
     parser.add_argument("--asof", default="", help="--export-snapshot の対象日 YYYY-MM-DD")
+    parser.add_argument(
+        "--export-range",
+        action="store_true",
+        help="--start/--end の各営業日スナップショットを data/quotes に書き出す（parquet から）",
+    )
+    parser.add_argument(
+        "--max-export-days",
+        type=int,
+        default=0,
+        help="--export-range で末尾から最大 N 営業日だけ書く（0=制限なし）",
+    )
     parser.add_argument(
         "--rebuild-latest",
         action="store_true",
@@ -125,6 +137,19 @@ def main(argv: list[str] | None = None) -> int:
         if args.export_snapshot:
             snap = export_web_snapshot(root, market, asof=asof, force=args.force_snapshot)
             print(f"web snapshot: {snap}", flush=True)
+
+        if args.export_range:
+            if not start or not end:
+                raise SystemExit("--export-range には --start と --end が必要です")
+            paths = export_web_snapshot_range(
+                root,
+                market,
+                start,
+                end,
+                force=args.force_snapshot,
+                max_days=args.max_export_days,
+            )
+            print(f"web snapshots: {len(paths)} days", flush=True)
 
         if args.sample_json:
             samples = [t.strip() for t in args.sample_json.split(",") if t.strip()]
