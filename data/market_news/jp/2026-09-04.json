@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-09-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,020.94",
+      "change": "+1.26%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "427.50",
+      "change": "+0.07%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.20",
+      "change": "-2.73"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "日経平均は前日比+1.26%の65,020.94円で上昇して取引を終えた。",
+    "TOPIX（ETF）は前日比+0.07%の427.50だった。",
+    "情報通信・サービスその他、小売セクターが上昇率上位となった。",
+    "エネルギー資源、電気・ガスセクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JR1hHWVQtaXY1SlFMZkp2M3J2R3pITE9qeXdTVFl4N01NcC15ZzZLMGc3YlBvLWJ4bURTaEZ0SGs0UEFtMVZqbFZXTXZzNDgwZmxSS0lIUllaNWs2VjY4V2gyZTcwN1oxNXhnRw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OMnhlY3dSQlpTNk9lQUhQWHk4dERpbDhLTndCOGRqV3lZQTZtS2RQLWhrZ3pTY1FJblFDWUtacklfQ3lpVjJnXzV5b2c4NU52U1ZFY1VXVXdkRU5idnhveGpCbTl0VzFxcERCYQ?oc=5"
+  ],
+  "generated_at": "2026-09-04T11:54:56+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
