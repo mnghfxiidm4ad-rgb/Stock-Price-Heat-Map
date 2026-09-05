@@ -345,6 +345,68 @@ td.down { color: #3dd68c; }
 .cal-grid button.cur { outline: 1px solid var(--gold); }
 .cal-note { color: var(--muted); font-size: 0.75rem; margin: 8px 0 2px; }
 
+.fetch-panel {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  width: min(420px, calc(100vw - 24px));
+  z-index: 20;
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  padding: 12px 14px;
+}
+.fetch-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+.fetch-head strong { flex: 1; font-size: 0.92rem; }
+#fetch-phase { color: var(--muted); font-size: 0.78rem; }
+.fetch-meter {
+  height: 10px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  overflow: hidden;
+}
+.fetch-bar {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #1fa97a, #c9a227);
+  transition: width 0.25s ease;
+}
+.fetch-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+#fetch-current {
+  color: var(--text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.fetch-log {
+  margin: 8px 0 0;
+  max-height: 140px;
+  overflow: auto;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 8px;
+  color: #b7c4d3;
+  font-size: 0.72rem;
+  line-height: 1.4;
+  white-space: pre-wrap;
+}
+
 @media (max-width: 900px) {
   .metrics { grid-template-columns: repeat(2, 1fr); }
   #table-panel { width: 100%; max-width: none; height: 280px; }

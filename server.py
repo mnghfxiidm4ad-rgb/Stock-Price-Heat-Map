@@ -1,4 +1,4 @@
-"""株価ヒートマップのローカルWEBサーバー（標準ライブラリのみ）。"""
+"""株価ヒートマップのローカルWEBサーバー。"""
 
 from __future__ import annotations
 
@@ -12,7 +12,10 @@ from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
 from data import DATA_ROOT, get_bundle, warmup
+from history.progress import read_progress
+from history.storage import bars_path, bars_to_web_json, load_bars, market_dirs, read_index
 from news.storage import list_days, load_day, market_code
+import pandas as pd
 
 ROOT = Path(__file__).resolve().parent
 STATIC = ROOT / "static"
@@ -146,6 +149,77 @@ class Handler(SimpleHTTPRequestHandler):
             market = _param(qs, "market", "日本株")
             code = market_code(market)
             _json(self, {"ok": True, "market": code, "days": list_days(code)})
+            return
+        if path == "/api/fetch-progress":
+            market = _param(qs, "market", "日本株")
+            code = "us" if market_code(market) == "US" or str(market).lower() in {"us", "米株"} else "jp"
+            payload = read_progress(code)
+            payload["ok"] = True
+            # 反対市場もまとめて返すとUIが楽
+            other = "jp" if code == "us" else "us"
+            payload["other"] = read_progress(other)
+            _json(self, payload)
+            return
+        if path == "/api/history-index":
+            market = _param(qs, "market", "日本株")
+            payload = read_index(market)
+            if not payload:
+                code = "us" if market_code(market) == "US" else "jp"
+                _json(
+                    self,
+                    {
+                        "ok": False,
+                        "market": code,
+                        "count": 0,
+                        "tickers": [],
+                        "message": "日足 index がありません。fetch_history.bat を実行してください。",
+                    },
+                )
+                return
+            out = dict(payload)
+            out["ok"] = True
+            _json(self, out)
+            return
+        if path == "/api/bars":
+            market = _param(qs, "market", "日本株")
+            ticker = _param(qs, "ticker")
+            start = _param(qs, "start")
+            end = _param(qs, "end")
+            if not ticker:
+                _json(self, {"ok": False, "message": "ticker が必要です"}, status=400)
+                return
+            code = "us" if market_code(market) == "US" else "jp"
+            path_bars = bars_path(DATA_ROOT, code, ticker)
+            df = load_bars(path_bars)
+            if df.empty:
+                _json(
+                    self,
+                    {
+                        "ok": False,
+                        "ticker": ticker,
+                        "market": code,
+                        "message": f"{ticker} の日足がありません",
+                        "bars": [],
+                    },
+                )
+                return
+            if start:
+                df = df[df["Date"] >= pd.Timestamp(start)]
+            if end:
+                df = df[df["Date"] <= pd.Timestamp(end)]
+            dirs = market_dirs(DATA_ROOT, code)
+            meta = {}
+            if dirs["tickers"].is_file():
+                try:
+                    tickers = pd.read_csv(dirs["tickers"], encoding="utf-8-sig")
+                    hit = tickers[tickers["ticker"].astype(str) == ticker]
+                    if not hit.empty:
+                        meta = hit.iloc[0].to_dict()
+                except Exception:
+                    meta = {}
+            payload = bars_to_web_json(df, ticker, meta)
+            payload["market"] = code
+            _json(self, payload)
             return
         if path in {"/", "/index.html"}:
             _file(self, ROOT / "index.html", "text/html; charset=utf-8")

@@ -105,6 +105,23 @@
 
   <footer id="status">起動しています…</footer>
 
+  <section id="fetch-panel" class="fetch-panel" hidden>
+    <div class="fetch-head">
+      <strong>株価取得の進捗</strong>
+      <span id="fetch-phase"></span>
+      <button id="fetch-hide" class="chip ghost" type="button">隠す</button>
+    </div>
+    <div class="fetch-meter" aria-hidden="true">
+      <div id="fetch-bar" class="fetch-bar"></div>
+    </div>
+    <div class="fetch-meta">
+      <span id="fetch-percent">0%</span>
+      <span id="fetch-counts">0 / 0</span>
+      <span id="fetch-current"></span>
+    </div>
+    <pre id="fetch-log" class="fetch-log"></pre>
+  </section>
+
   <div id="cal" class="cal" hidden>
     <div class="cal-head">
       <button id="cal-prev" class="chip icon" type="button">◀</button>
