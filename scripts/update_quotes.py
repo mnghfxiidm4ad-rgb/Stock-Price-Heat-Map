@@ -448,9 +448,22 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Update heatmap JSON after the cash session close")
     parser.add_argument("--market", choices=("jp", "us", "both"), default="both")
     parser.add_argument("--from-local", action="store_true", help="Export C:\\data\\日本株 parquet instead of Yahoo")
+    parser.add_argument("--history", action="store_true", help="Fetch daily OHLCV into history/ (calendar)")
+    parser.add_argument("--period", default="max", help="History period for --history (1y, 5y, max, ...)")
+    parser.add_argument("--start", default="", help="History start date YYYY-MM-DD (with --history)")
+    parser.add_argument("--force", action="store_true", help="Re-download history even if coverage exists")
+    parser.add_argument("--tickers", default="", help="Comma-separated ticker subset (with --history)")
+    parser.add_argument("--no-keys", action="store_true", help="Disable P/R/Q keys during --history")
     parser.add_argument("--batch-size", type=int, default=40)
     parser.add_argument("--sleep", type=float, default=2.0)
     args = parser.parse_args()
+    if args.history:
+        scripts_dir = str(Path(__file__).resolve().parent)
+        if scripts_dir not in sys.path:
+            sys.path.insert(0, scripts_dir)
+        from fetch_history import run_from_args
+
+        return run_from_args(args)
     markets = ["jp", "us"] if args.market == "both" else [args.market]
     for market in markets:
         if args.from_local:

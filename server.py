@@ -80,10 +80,7 @@ class Handler(SimpleHTTPRequestHandler):
             snap = bundle.snapshot()
             if not quotes:
                 label = bundle.market
-                if label == "日本株":
-                    hint = "先に C:\\data\\日本株\\start.bat（または update.bat）で日足を取得してください。"
-                else:
-                    hint = "先に C:\\data\\日本株\\start_us.bat（または update_us.bat）で日足を取得してください。"
+                hint = "先に fetch_history.bat で過去の日足を取得してください。"
                 _json(
                     self,
                     {

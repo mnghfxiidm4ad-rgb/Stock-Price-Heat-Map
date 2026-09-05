@@ -17,6 +17,7 @@ import pandas as pd
 
 DATA_ROOT = Path(os.environ.get("STOCK_DATA_ROOT", r"C:\data\日本株"))
 REPO_ROOT = Path(__file__).resolve().parent
+HISTORY_ROOT = Path(os.environ.get("STOCK_HISTORY_ROOT", str(REPO_ROOT / "history")))
 
 ProgressFn = Callable[[int, int], None]
 
@@ -45,6 +46,23 @@ def _paths(market: str) -> tuple[Path, Path, Path, Path]:
         DATA_ROOT / "cache" / "latest_quotes_us.parquet",
         DATA_ROOT / "cache" / "shares_us.parquet",
     )
+
+
+def _repo_history_dir(market: str) -> Path:
+    code = "us" if market in {"us", "US", "米株"} else "jp"
+    return HISTORY_ROOT / code
+
+
+def _history_dirs(market: str) -> list[Path]:
+    local_data, *_rest = _paths(market)
+    repo_dir = _repo_history_dir(market)
+    dirs = [repo_dir]
+    try:
+        if local_data.resolve() != repo_dir.resolve():
+            dirs.append(local_data)
+    except OSError:
+        dirs.append(local_data)
+    return dirs
 
 
 def _meta_map(tickers_path: Path) -> dict[str, dict]:
@@ -313,8 +331,21 @@ def load_market_history(
 ) -> MarketHistory:
     data_dir, tickers_path, _latest, shares_path = _paths(market)
     meta = _meta_map(tickers_path)
+    if not meta:
+        code = "us" if market in {"us", "US", "米株"} else "jp"
+        meta = _meta_map(REPO_ROOT / "lists" / f"tickers_{code}.csv")
     shares = _load_shares(shares_path)
-    files = sorted(data_dir.glob("*.parquet")) if data_dir.exists() else []
+    files_by_ticker: dict[str, Path] = {}
+    for folder in _history_dirs(market):
+        if not folder.is_dir():
+            continue
+        for path in sorted(folder.glob("*.parquet")):
+            if path.name.startswith("_"):
+                continue
+            files_by_ticker.setdefault(path.stem, path)
+    files = list(files_by_ticker.values())
+    if not files and data_dir.exists():
+        files = sorted(p for p in data_dir.glob("*.parquet") if not p.name.startswith("_"))
     bars: list[TickerBars] = []
     day_set: set[str] = set()
     total = len(files)
