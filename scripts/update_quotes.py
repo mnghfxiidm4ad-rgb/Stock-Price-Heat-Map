@@ -93,6 +93,38 @@ def load_existing(market: str) -> dict[str, Any]:
         return {}
 
 
+def list_quote_days(market: str) -> list[str]:
+    archive = DATA_DIR / "quotes" / market
+    if not archive.is_dir():
+        return []
+    return sorted(path.stem for path in archive.glob("????-??-??.json"))
+
+
+def write_quote_index(market: str, extra_days: list[str] | None = None) -> list[str]:
+    archive = DATA_DIR / "quotes" / market
+    archive.mkdir(parents=True, exist_ok=True)
+    days = set(list_quote_days(market))
+    for item in extra_days or []:
+        text = str(item or "").strip()
+        if text:
+            days.add(text)
+    ordered = sorted(days)
+    payload = {
+        "ok": True,
+        "market": market,
+        "days": ordered,
+        "min_day": ordered[0] if ordered else "",
+        "max_day": ordered[-1] if ordered else "",
+        "count": len(ordered),
+        "updated_at": _now_iso(),
+    }
+    path = archive / "index.json"
+    tmp = path.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    tmp.replace(path)
+    return ordered
+
+
 def write_payload(market: str, quotes: list[dict], extra: dict[str, Any] | None = None) -> Path:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     label = "日本株" if market == "jp" else "米株"
@@ -102,20 +134,27 @@ def write_payload(market: str, quotes: list[dict], extra: dict[str, Any] | None 
         dates = [str(r.get("asof") or "") for r in quotes if r.get("asof")]
         if dates:
             asof = max(dates)
+    days = set(list_quote_days(market))
+    if asof:
+        days.add(asof)
+    ordered_days = sorted(days)
+    ready = len(ordered_days) > 0
     sectors = sorted({str(r.get("sector") or "その他") for r in quotes})
     payload = {
         "ok": True,
         "market": label,
         "asof": asof,
         "updated_at": _now_iso(),
-        "history_ready": False,
+        "history_ready": ready,
         "quotes": quotes,
         "sectors": sectors,
         "message": "",
         "status": {
-            "max_day": asof,
+            "max_day": ordered_days[-1] if ordered_days else asof,
+            "min_day": ordered_days[0] if ordered_days else "",
             "latest_count": len(quotes),
-            "history_ready": False,
+            "history_ready": ready,
+            "day_count": len(ordered_days),
         },
     }
     if extra:
@@ -128,7 +167,8 @@ def write_payload(market: str, quotes: list[dict], extra: dict[str, Any] | None 
         arch = DATA_DIR / "quotes" / market / f"{asof}.json"
         arch.parent.mkdir(parents=True, exist_ok=True)
         arch.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(f"saved {path}  {len(quotes):,} quotes  asof={asof}", flush=True)
+    write_quote_index(market, [asof] if asof else None)
+    print(f"saved {path}  {len(quotes):,} quotes  asof={asof}  days={len(ordered_days)}", flush=True)
     return path
 
 
