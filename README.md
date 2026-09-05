@@ -6,7 +6,68 @@
 
 ## 見る方法
 
-`start.bat` を実行すると `http://127.0.0.1:8765` が開きます。日付の切替は、リポジトリ内の `data/quotes/`（GitHub に保存した終値）か、`C:\data\日本株` の日足があるときに使えます。
+`start.bat` を実行すると `http://127.0.0.1:8765` が開きます。日付の切替は、リポジトリ内の `data/quotes/`（GitHub に保存した終値）か、全期間日足（下記）があるときに使えます。
+
+## 全期間の日足取得（日本株・米株）
+
+Yahoo Finance から Open / High / Low / Close / Adj Close / Volume を取得し、Web・ヒートマップ向けに保存します。
+
+### 保存方法（Web 向け）
+
+| 用途 | 形式 | 場所 |
+|------|------|------|
+| 銘柄ごとの全期間日足（本体） | parquet | `C:\data\日本株\data\`（JP） / `data_us\`（US）。Linux は `data/bars_store/` |
+| 銘柄一覧・最新キャッシュ | csv / parquet | 同ルートの `cache/` |
+| ヒートマップ用・日次スナップショット | JSON | `data/quotes/{jp,us}/YYYY-MM-DD.json` と `data/jp.json` / `data/us.json` |
+| 日足の有無・期間の索引 | JSON | `data/history/{jp,us}/index.json` と `meta.json` |
+
+全銘柄×全期間の OHLCV は容量が大きいため **git には入れません**（サーバー側 parquet）。サイトの日付切替は軽い日次 JSON、個別チャートは API で parquet を読みます。
+
+環境変数 `STOCK_DATA_ROOT` で保存ルートを変えられます。
+
+### 実行例
+
+```bat
+python -m pip install -r requirements-update.txt
+fetch_history.bat
+```
+
+または:
+
+```bat
+REM 初回: 全期間（増分。未取得銘柄は max）
+python scripts/fetch_history.py --market both --period max
+
+REM 試験: 先頭 5 銘柄だけ
+python scripts/fetch_history.py --market jp --limit 5 --sample-json 1301.T
+
+REM 日次: 増分更新 + ヒートマップ JSON 書き出し + latest キャッシュ更新
+python scripts/fetch_history.py --market both --export-snapshot --rebuild-latest
+
+REM 特定日のスナップショットだけ作り直す（取得スキップ）
+python scripts/fetch_history.py --market jp --skip-fetch --export-snapshot --asof 2026-09-02
+
+REM index だけ更新
+python scripts/fetch_history.py --market both --index-only
+```
+
+### Web API
+
+| エンドポイント | 内容 |
+|----------------|------|
+| `GET /api/history-index?market=日本株` | 取得済みティッカーと期間 |
+| `GET /api/bars?market=日本株&ticker=7203.T&start=2020-01-01` | 銘柄の OHLCV（コンパクト JSON） |
+| `GET /api/quotes?market=日本株&asof=YYYY-MM-DD` | ヒートマップ用のその日の終値一覧（従来どおり） |
+
+ヒートマップの日付切替は `data/quotes/{jp,us}/index.json` と日次 JSON を使います。静的ホストでも API でも同じです。
+
+少数銘柄だけの試験取得（`--limit`）では、カレンダーに全期間を出さず、日次 JSON のある日だけを使います。全銘柄の密な parquet があるときは、そこから任意日のヒートマップを組み立てます。
+
+過去日をまとめて Web 用 JSON にする例:
+
+```bat
+python fetch_history.py --market jp --skip-fetch --export-range --start 2026-08-01 --end 2026-09-03 --force-snapshot
+```
 
 ## 自動更新（終値）
 
