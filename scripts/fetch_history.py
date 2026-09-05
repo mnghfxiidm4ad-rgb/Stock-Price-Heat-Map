@@ -108,7 +108,7 @@ def period_label(period: str, start: str) -> str:
         "2y": "2年",
         "5y": "5年",
         "10y": "10年",
-        "max": "最長（Yahoo にある全期間）",
+        "max": "全期間（上場来。Yahoo にある限り）",
         "ytd": "年初来",
         "6mo": "6か月",
         "3mo": "3か月",
