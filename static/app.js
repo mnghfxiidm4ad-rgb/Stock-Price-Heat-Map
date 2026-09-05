@@ -378,7 +378,7 @@ function syncControls() {
     ? "カレンダーか ◀▶ で日付を変更できます"
     : state.useApi
       ? "最新日を表示中。履歴の準備ができれば日付を変えられます"
-      : "公開サイトは最新の終値です。東証17時以降・米株16:00 ET引け後に更新";
+      : "GitHub 上は保存済みの営業日だけ日付を変えられます。全期間は start.bat と fetch_history.bat";
 }
 
 function fillSectors(sectors) {
@@ -387,6 +387,10 @@ function fillSectors(sectors) {
   if (!values.includes(state.sector)) state.sector = "全業種";
   sel.innerHTML = values.map((s) => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join("");
   sel.value = state.sector;
+}
+
+function quotesCode() {
+  return state.market === "日本株" ? "jp" : "us";
 }
 
 async function tryApiQuotes(asof) {
@@ -407,6 +411,48 @@ async function tryApiQuotes(asof) {
   }
 }
 
+async function loadStaticDays() {
+  try {
+    const res = await fetch(`data/quotes/${quotesCode()}/index.json?t=${Date.now()}`, {
+      headers: { Accept: "application/json" },
+    });
+    if (!res.ok) return [];
+    const data = await res.json();
+    const days = Array.isArray(data.days) ? data.days.map(String).filter(Boolean) : [];
+    return days.sort();
+  } catch {
+    return [];
+  }
+}
+
+async function tryStaticQuotes(asof) {
+  const code = quotesCode();
+  const urls = [];
+  if (asof) urls.push(`data/quotes/${code}/${asof}.json?t=${Date.now()}`);
+  urls.push((code === "jp" ? "data/jp.json" : "data/us.json") + "?t=" + Date.now());
+  for (const url of urls) {
+    try {
+      const res = await fetch(url, { headers: { Accept: "application/json" } });
+      if (!res.ok) continue;
+      const data = await res.json();
+      if (data && Array.isArray(data.quotes) && data.quotes.length) return data;
+    } catch {
+      /* try next */
+    }
+  }
+  return null;
+}
+
+function applyStaticDays(data) {
+  const extra = [];
+  if (data && data.asof) extra.push(String(data.asof));
+  if (data && data.status && data.status.max_day) extra.push(String(data.status.max_day));
+  const days = [...new Set([...state.days, ...extra].filter(Boolean))].sort();
+  state.days = days;
+  state.historyReady = days.length > 0;
+  if (days.length) state.latestDay = days[days.length - 1];
+}
+
 async function loadQuotes(asof) {
   setBusy(true, "読み込み中…");
   $("status").textContent = "データを読み込んでいます…";
@@ -414,15 +460,16 @@ async function loadQuotes(asof) {
     let data = await tryApiQuotes(asof);
     state.useApi = Boolean(data && data.ok && Array.isArray(data.quotes) && data.quotes.length);
     if (!state.useApi) {
-      const file = state.market === "日本株" ? "data/jp.json" : "data/us.json";
-      const res = await fetch(file + "?t=" + Date.now());
-      if (!res.ok) throw new Error("data file " + res.status);
-      data = await res.json();
+      if (!state.days.length) state.days = await loadStaticDays();
+      const want = asof ? snapDate(asof) : "";
+      data = await tryStaticQuotes(want || asof);
     }
+    if (!data) throw new Error("data file missing");
     state.rows = data.quotes || [];
     state.asof = data.asof || "";
     state.historyReady = Boolean(data.history_ready);
     state.latestDay = (data.status && data.status.max_day) || state.asof;
+    if (!state.useApi) applyStaticDays(data);
     $("date").value = state.asof;
     fillSectors(data.sectors || []);
     syncControls();
