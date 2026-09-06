@@ -17,8 +17,9 @@
 
 html, body {
   margin: 0;
-  height: 100%;
-  overflow: hidden;
+  min-height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
   background: var(--bg);
   color: var(--text);
   font-family: "Yu Gothic UI", "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
@@ -30,7 +31,7 @@ body {
   min-height: 100%;
 }
 
-.top, .controls, .metrics, #status {
+.top, .controls, .metrics, .ad-slot, #status {
   flex: 0 0 auto;
 }
 
@@ -142,14 +143,13 @@ h1 {
 }
 
 .news-panel {
-  flex: 0 1 auto;
+  flex: 0 0 auto;
   margin: 0 20px 10px;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 10px 14px 12px;
-  max-height: min(240px, 28vh);
-  overflow: auto;
+  overflow: visible;
 }
 .news-panel[hidden] { display: none; }
 .news-head {
@@ -189,9 +189,10 @@ h1 {
 .news-empty { margin: 4px 0 0; color: var(--muted); font-size: 0.82rem; }
 
 .stage {
-  flex: 1 1 auto;
+  flex: 0 0 auto;
   display: flex;
-  min-height: 0;
+  min-height: min(78vh, 860px);
+  height: min(78vh, 860px);
   padding: 0 20px 8px;
   gap: 10px;
 }
@@ -203,7 +204,7 @@ h1 {
   border: 1px solid var(--line);
   border-radius: 12px;
   overflow: hidden;
-  min-height: 0;
+  min-height: min(78vh, 860px);
 }
 
 #map {
@@ -357,7 +358,41 @@ td.down { color: #3dd68c; }
 @media (max-width: 900px) {
   .metrics { grid-template-columns: repeat(2, 1fr); }
   #table-panel { width: 100%; max-width: none; height: 280px; }
-  .stage { flex-direction: column; }
+  .stage { flex-direction: column; height: auto; min-height: 0; }
+  #map-wrap { min-height: min(72vh, 720px); height: min(72vh, 720px); }
   .chip.ghost { margin-left: 0; }
   .check { margin-left: 0; }
+}
+.ad-slot {
+  margin: 0 20px 8px;
+}
+.ad-label {
+  color: var(--muted);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  margin: 0 0 4px 2px;
+}
+.ad-box {
+  min-height: 90px;
+  background: var(--panel);
+  border: 1px dashed var(--line);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.ad-slot.bottom .ad-box { min-height: 70px; }
+.ad-box.ready {
+  border-style: solid;
+  display: block;
+}
+.ad-placeholder {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+@media (max-width: 900px) {
+  .ad-box { min-height: 70px; }
+  .ad-slot.bottom .ad-box { min-height: 56px; }
 }

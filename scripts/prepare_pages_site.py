@@ -20,6 +20,9 @@ def main() -> None:
         src = ROOT / "data" / name
         if src.is_file():
             shutil.copy2(src, OUT / "data" / name)
+    ads_txt = ROOT / "ads.txt"
+    if ads_txt.is_file():
+        shutil.copy2(ads_txt, OUT / "ads.txt")
     headers = ROOT / "deploy" / "_headers"
     if headers.is_file():
         shutil.copy2(headers, OUT / "_headers")
