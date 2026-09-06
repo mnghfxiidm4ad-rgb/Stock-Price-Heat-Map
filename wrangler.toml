@@ -1,3 +1,5 @@
 name = "stock-price-heat-map"
 compatibility_date = "2026-09-06"
-pages_build_output_dir = "_site"
+
+[assets]
+directory = "_site"
