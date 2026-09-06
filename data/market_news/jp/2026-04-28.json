@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,917.46",
+      "change": "-1.02%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "400.00",
+      "change": "+1.04%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.36",
+      "change": "-0.22"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "建設・資材"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "ドル円、円安圧力鮮明 日銀は利上げ見通し強調 為替介入現実味増す。",
+    "ドル円午前の為替予想、イラン情勢と日銀の両睨みで円安リスク 2026/4/28。",
+    "日銀、金利据え置き 総裁、利上げ「後手に回らず」―３委員反対、原油高で物価リスク。",
+    "日経平均は前日比-1.02%の59,917.46円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZS0zRnE3OVc3Sk9PRWh5c2lXS25JV2V1ZU0tYU11Wk1haW9iS1RndVFnSkdyN0JFaFcxQ2hjNldpS29jX1Z0MUk0dWJ3X3R6Z1dQcnFPdndKQ3ZaQ3pZemt1OGxiZXkwZEJLaXhqNk05OTMtX3NxckJhZ1FUSTZadEItS2FFbHNycDIyV25SM0YwTXFzM0pwaENQRmlpOUtnZ2ZNYUlUSl8?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KTnpCUjU1Mk1TaE5uUHJRTXEtOWVPR2drOWh1aUctSmVUOW1wNHB3MDFUUXZELVBTRWZNSzlCS0dzSk9CUHNySkp5UHZuMGR0QndjRGRwQ2sxSloyVXkzVmp4QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aMDRCSjlRZElRT1h0R3BkUVowMEItdWhoX3V0T21YUDFteWtPeTlXWjRTQ3RKNFU5ZkcxUk1Yb1h3ZWQzTkRfZEFlS0ZrYkx5dURQdkw1Z05SaDR1N3dZcFMySQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:27+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

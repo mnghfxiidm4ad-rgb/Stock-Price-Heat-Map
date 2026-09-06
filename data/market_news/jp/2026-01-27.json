@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,333.54",
+      "change": "+0.85%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "374.00",
+      "change": "+0.29%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.34",
+      "change": "-0.83"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "小売"
+  ],
+  "news_bullets": [
+    "日本株は上昇基調に戻せるか？注目は半導体株決算、米FRB人事。",
+    "日銀の追加利上げ予想 2026年2回・2027年1回を新たなメインシナリオに 野村證券・森田京平。",
+    "石橋は叩いたら渡る 日銀は利上げを積極的に継続。",
+    "日経平均は前日比+0.85%の53,333.54円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13VkRwUlJJS05zRk1jdEpjMlpZRHZ6bzR1YWJ3aEZDay1QWUl0YXFXMmo1emhiY1Z3MndhOFgtc1JjOHJuWE9DWGs3WUF5R1l2c1RCZkhaU2Fsdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxV3c0U0NVaEVGR3k3VWMwSXY2T2U3dGlBbm1nOE9BVEtXMnJYdWxGc0o0WG9GOFJEYWctSlVLaHM3NnJlRzN4NlZWRGU5Q3Y4Mkg4TTZuUGFHcTBjUG9V?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lODJ3SHpvdDAxclhqLU9jVm1UZko5Y0pOZFNiNUFaTkJEajVZSFRyVFhnTzdBa0tjT1E2MzUycHVxUV9pVmdqSXRQeWV1MG9FckhxNXMwdDNOcGc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

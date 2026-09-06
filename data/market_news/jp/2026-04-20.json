@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,824.89",
+      "change": "+0.60%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "400.60",
+      "change": "+0.38%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.16",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "機械",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース )：先週末の豪ドル円は円高で113円台後半｜イランがホルムズ海峡の開放を表明も停戦協議は難航か(2026年4月20日)。",
+    "ドル/円見通し(為替/FX ニュース )：先週末のドル円は円高で158円台半ば｜停戦期間中のホルムズ海峡開放が発表されたもののイランは米国との交渉を拒否か(2026年4月20日)。",
+    "ドル円、１５９円ちょうど付近 円高方向への需要が強まる＝ＮＹ為替序盤。",
+    "日経平均は前日比+0.60%の58,824.89円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wbl94cExsY0I3QlZDTjI1ODV5NXBqSlVXTlZpNHpCUU4xeFpSRGhENFVCYjNOb1JUOVdGQ1pKZ3Q3ZnJnLUROWlFfQU1XMWxJNmk4aklHd3JXQVdOS3RGdUw1WWJGMThOQWMxYnpnNi1xb28?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsbXdOQTZ0T2h5Wm8xNW1DMVZTUmxsZnhIMDRubGlVd0VpbDJKVUlVZHJSUFhwY18tdlRSRXJkdmp4Z21fdWFSNlBFdmNDUEZ6YXVfT2lUOXJRbTRzSEhZcXdSSHpuNG94TkV1bFRSQUZtNDg?oc=5",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FSFh6UUhzekd2RzAyaWNtbEU2eDNVYmkwZThUN2lMVFpsazdqTjBXa0xhRTNLa3NUdnhITjhEMjZRUER6WnUyNQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:23+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

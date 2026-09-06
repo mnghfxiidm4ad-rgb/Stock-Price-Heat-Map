@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-01-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,977.27",
+      "change": "+0.16%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,733.90",
+      "change": "+0.26%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,590.20",
+      "change": "+0.17%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.19%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "S&P 500は前日比+0.16%の6,977.27で上昇して取引を終えた。",
+    "NASDAQは+0.26%、NYダウは+0.17%だった。",
+    "生活必需品、資本財セクターが上昇率上位となった。",
+    "金融、エネルギーセクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLUY2WWxJa0pWWEhxdElNTlRlRDhuNWV1NlF5QWVuMXZDYXlFYlI4V1VtN2RDWGp3bTlMcWJjZ0RrMVRrSV95V2lnMVhHdjk1VWJPNU13X1VPRzQ1bG5ta2NfMHdvZTdfVVlFSGtsNGJZaXJ2eVBUN2VtdjFkVXFHNk5GNEIxYVZoQzV1bWxHZWphTEoydXR0YmVTN2ZheHN3eER6MTdZdkdkd1A3cmRicmt2TTdubGxlb3BPb3M3TUwwMXk3X2IxTTZkc3ZKaEU?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbEVtajRYTzFBRUpybHNOMGZkN25TQmg3Rm5LSkxxd0p2dlZtQjh1RnpJRXZyYXhnQWZZQkRjQkF4N1J6amxSbzhMeDZRbkhyT3JzUlFJR193NXMzdGJfLUQ5TjQtTE8wQUl2MHFsbzRjbkdTa19raHVNT18wLWxXLXk1UW1rZjc1QlBQQWZXRQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

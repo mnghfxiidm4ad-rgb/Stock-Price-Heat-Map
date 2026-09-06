@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-11",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,412.84",
+      "change": "+0.19%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,274.13",
+      "change": "+0.10%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,704.47",
+      "change": "+0.19%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.41%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, Nasdaq And S&P 500 Intraday Levels - Tech Does Not Wait On CPI And Geopolitics」と伝えた。",
+    "海外メディアは「AI-Powered Earnings Send S&P 500 To New Record Highs」と伝えた。",
+    "海外メディアは「Paltry S&P 500 Yield Makes This ETF Appealing」と伝えた。",
+    "S&P 500は前日比+0.19%の7,412.84で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVlnckw4Rjd5VXlPa3FNa1ZLb0g0dTNETDllVk11YWJFMVlZWUdZMU1RaDZvYm9mN0dwM3VFci1aTUhrUkxqc0dVOTdtMlNGYm9UQ1JHeGlFVjhkRkJFQXlldmNMUDktamtOaV9IcktZZ05mUWN5TjN5VW5GWC0wV1YtX2JlMEhYeWdJMjJZODByaTFNeVpYQ3otNGZPODlpY05PRWEtbGZfTE9NZXc?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemZLUDhMMGQyRkRNb0tKTjcxUDQ5TUZBcHhMMERLcVM1R2w5U1JBTDJoc1A2b19sMi0yOHBGSXBLRzlNUk5BRFVPWnpyRjdXaE50Rk5jZy02clpraGNiTDdYS2MyN3F1R041ZmdPR1lGWmhva195MUJSVkhRb1BIUGlEQ1RxOHdnUlN5Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYzB2RG5DNVFZN09GTUxGTUlmWXRIdzBLRTVaS1M5SUx2SkJvRlNNZUVMNEtPdEU3eFY1SE1YVTdUY2JVTEJyUjNINVc0MkpmUmNzcDU2QmpGQWRST0VJUVJ3MXlraXZCU19Qa0t4Uk52TkpRZXZaWGtldzNtZHpkQjJnTnc1RkEyb1E?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:38+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

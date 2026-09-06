@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-05-06",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,365.12",
+      "change": "+1.46%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,838.94",
+      "change": "+2.02%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,910.59",
+      "change": "+1.24%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.36%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 and Nasdaq 100 at Record Highs on Tech Earnings and US-Iran Peace Hopes」と伝えた。",
+    "海外メディアは「Why the S&P 500 had its best month in over 5 years despite Middle East uncertainty」と伝えた。",
+    "S&P 500は前日比+1.46%の7,365.12で上昇して取引を終えた。",
+    "情報技術、資本財セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZWdQZjFXMGtHeTdJeVMwME45N3dIeEd6bjhpaG50aTJKbm5BQnlrTTV4V05CUklFTHprbG9HUjBPOExIQkdWVHZoNy1GM2t1RWpFRHhQNDVWWkIyUktCdDB5ZVdYZ19nbXR4QXY3d2ZIbzY1ekR0eEpscXAxRXhaYVhkS0taajI3S2dlV0xfdDZRZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0V4WHY2Mm9HbnpKUFFLc0dTVVZYb3ZGNUdjcmdac21WeG9BLS1iYU1TRzdZVXBacDlkenYxY0lhN3QyaFFlaUlxZVk2bHZzTmdlOGkwcGhYRno5cmtNWm9jRXZKbTZNTnFJaW50THZfMGlQQTMxV2RZaDIxYU9yaUliS1lKeFNxLUFtcVpwSDRZREViZWlJWmRVVDRZMldXbjh3ekJhcEt4STNBRldBRm55T2cxbjl1NTI3X3JqNmJLUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:36+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

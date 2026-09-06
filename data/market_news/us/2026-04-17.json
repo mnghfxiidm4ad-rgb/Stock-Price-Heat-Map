@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,126.06",
+      "change": "+1.20%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,468.48",
+      "change": "+1.52%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,447.43",
+      "change": "+1.79%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.25%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq edge up from records with Middle East hopes, corporate earnings in focus」と伝えた。",
+    "海外メディアは「The S&P 500, Nasdaq 100, and Russell 2000 close at record highs again as Strait of Hormuz is declared open」と伝えた。",
+    "海外メディアは「The S&P 500 Hits an All-Time High as Iran Opens the Strait of Hormuz and Oil Prices Plunge. Can it Last?」と伝えた。",
+    "S&P 500は前日比+1.20%の7,126.06で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVUxVcTRibmMwY1JaQTdNZTFRQUpMWU1NdzVaM3VXbHNVZ0NpTmFqLXVvMTRKdWpmVTg3Q0lZZXBWbHV4aGlCeDRtY1hIOERpRFVHZUdLelhaTE5ONXdZZ2lSS1M2YlZCWldjU3NNQU43V0I1NlJHcGFkRWZUNFNuTGc0dHJoT3h1UTB6T2dRcndlRFAyQURENkIzWlAtVmlfenhKVkMza3VvTWhMN0p0QXFtejlqX29DZS1QRG1qeDc4SEtQQ1gyekFmbVpOZDdZYUZtTUJn?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RYktRdmdRV3pFQlBnd1R5cFhIdlNpOFBPNXRRUDVLT0ttX0YwZTZWYnZsSGt6RUVMV1dhZmswblZkb2dXZ3YtUlRnRHlLYWUxcGdkRGNoY3ktUm1wVnNDVU5DUmdwVUlOaDNKa2VRVHg?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ25JYWRyVVFOTThQN2xMclBGd1huRkxfVkhDUS1LQ3JtdndCQzVYRzRJRUhsMWdBYVpKQnpKbUUwYkw3YnpLYloxMG8zSVdoMnZsWWlTcjR2c05tdWs0ZlRubHg1V0dHbTdfeXlfQ1Nxa1YxdURoUTVaelVlNDM3VHBqSmo4cTF3dXFKTWkwc0FLSXllcUV6ag?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:26+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

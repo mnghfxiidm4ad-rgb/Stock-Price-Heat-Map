@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,383.29",
+      "change": "-1.56%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "353.80",
+      "change": "-1.89%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.01",
+      "change": "-0.87"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "FX分析「日銀”利上げ”観測でも円高が続かない…年末円安進行のきっかけは」ドル円見通し 2025/12/15 #外為ドキッ。",
+    "12月に日銀が利上げしたら生活はどうなる？ 住宅ローンへの影響や今後の金利上昇を解説 野村證券・美和卓。",
+    "日銀利上げが確実視、でも進まない円高の行方～マーケット・カルテ１月号 - nli-research.co.jp。",
+    "日経平均は前日比-1.56%の49,383.29円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iS3hyZklZMWZlaWhBQlg3YnZ6ZXRMU1NiaF9vdDA2cm0wZTZKcnV4V1A5SXVZQW5DMEJpTUswak9DYi1lV1pKN0RmSmhLMnFkRmFudnNwVGMyZ2xKZ3l2YXVqdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sVXZpQ09SU3BqR1ZvQ2k0eFV0X01Va3JGV09Ibmx6SFNGN3BadmlOeFdEaDYtOWt2Q19YbjFxeGMzdURBaTF2Q1BtZmtONjNSenBwX2trc1VqRk1lWDM0?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9OcXBfY0sxSjJXZ2d0bXpERUMxUDVhSGFmdnVTV09DTHIyTGVGLXVxWm9Dc19qNUF5VVB6cHdPOUlRNXQ4T1I2T3FxRDdERUFEbnBtcFNlNDlPdm8tNzVzbXRCZ2RfS0dUV2U0MWliUdIBf0FVX3lxTE5ydDFnY0ZoSFBzODZQaDl0OEJaR3ZSTDhQSVBRRWE0RDhTUVhhcG1xTVZad2s0LVlPd3BqWHZiWVBHQmFrLWYtaTk3bWpjVG13NVQ5RlBkd3MwXzdNVnAzZ3MyUnREaHNuYTRUbEV3Nk43VjBWT2Q1UEswUURrWlE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:25+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -22,7 +22,7 @@ from news.indices import (
 from news.llm import llm_configured
 from news.schema import empty_payload, normalize_payload
 from news.sources import collect_articles
-from news.storage import ROOT, load_day, write_day
+from news.storage import ROOT, load_day, prune_news, write_day
 from news.summarize import build_payload
 
 HEATMAP_JSON = {
@@ -168,6 +168,7 @@ def collect_daily(
             payload = None
         if payload:
             out.append(payload)
+        prune_news(code)
     return out
 
 

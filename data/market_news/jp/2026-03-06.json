@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "55,620.84",
+      "change": "+0.62%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "390.30",
+      "change": "+0.46%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.53",
+      "change": "+0.55"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "黒田前日銀総裁が語る・失われた30年の本質～後編 - tv-tokyo.co.jp。",
+    "原油価格や停戦確率との連動性が高まる日経平均先物 野村證券ストラテジストが解説。",
+    "インドKaynes社の半導体後工程事業立上げを支援 | 2026年 | トピックス | 三井物産株式会社。",
+    "日経平均は前日比+0.62%の55,620.84円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU0xIY0xYZ1VMcHRrelY1NFNBTWQwRmFzMUIyUEVIUURILXZFSzNQSUZyTUwwWlNNWU9ZV21XLWZOMkhjX2pDaVBsN2R5MEp6ei04cnZKMTVDSjNnV01qVzd6R2REUmdjQlFWMFQyYkZzaHV1T2ZMTVBRdEctVHNsck5JU2Q5VUVQVUM3aE41OWdXZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUTGJHR1pSLVh5N01EOFR1YXlISm5pM2FCLVhYYmR4d3FUMVBwRDFWb3BoODM2Q05sSTJUeVJNSUMtSFFQRUNNTmVaZnpQS3hZLWJEcF9NaUZBSGdpclkw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCUm9RdmFaa2NNRElyUHQ1M0dMQmRwNEVHamdKcS1JU2hjOWo0ZVZsSENyUldfbVB2Mjlmc2pSdWludXUtYXdJOE1VQXM3cDk2a3dQT3VvQnJWcHRNV3VRZ2JaQ3B6d1lZbmpZ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:02+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

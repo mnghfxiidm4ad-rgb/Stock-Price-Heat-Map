@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,041.28",
+      "change": "+0.26%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,102.70",
+      "change": "+0.36%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,578.72",
+      "change": "+0.24%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.31%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「TRADER’S EDGE (17 April 2026) Dow gained, while the S&P 500 and Nasdaq reached new record highs amid growing optimism over a potential resolution to the conflict」と伝えた。",
+    "海外メディアは「Dow Adds 115, Nasdaq Gains 87, S&P 500 Rises 18」と伝えた。",
+    "海外メディアは「US Stock Market Today S&P 500 Futures Edge Higher As Bond Yields Ease」と伝えた。",
+    "S&P 500は前日比+0.26%の7,041.28で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlpIUFd2ZDFoeW93ZXNobDhXczRsM2tRUTVhdVp0Yy01djlhTVFmcm5HS29yYkF1QnlkMjBNWHdmOF9lMnFLbElaTUx5NHlGUlZfTXhiWE9qY0tVT3FmVHB6MDhNMTdHTDBvWEpfWmNfaVRGNnBObkxyU1VrTzBkU25RbjRvaWNRU1FLVTFUdWpzUW44cWJZMTFPVXRPbXl1bWhN?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX05xYXpCWjY1M1ZseFJ4dkZVTnNSMTV5SHFkY3hUcHlKZS1UMjhFSWNJY3RlR0x3MkFmY3EwQWRyWXVSc0VOMUw3RmhsTXJhcnRxWjR4VmdzcVlNRk9vemVXeWtFbEhXNVhBMlR5S0x5QVp0YTU5SzZxU0NjZjJOX2dleHNaTnBPb3g3a0o4MA?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDBySXhzaGVfUjlGcXhFcHVSc0hUVkRiem00Ty04RGpIbmZ3ZXJzdnd4TVQ1Yl9aeTRsSmhTWElTVlB4N0tYNVFjczZqZXlldXQtekNkbjNvTWliZjJtYTVCNzVEdmg3TFBvcDkzNGNQa20xSy1keEc4N2xzSUpOaWJPNGRobUU3ZmVqRDZvWFJqdw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:25+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

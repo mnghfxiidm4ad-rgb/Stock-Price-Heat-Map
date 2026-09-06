@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-05",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,300.44",
+      "change": "+3.66%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "421.30",
+      "change": "+2.16%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.69",
+      "change": "+0.16"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "東証前引け 日経平均は続伸 米株高追い風 半導体に買い。",
+    "高市首相、日銀総裁に「国債買い入れ」要請 積極財政にらみ、金利抑制狙う：時事ドットコム。",
+    "日経平均終値2342円高 日米好決算でAIラリー復活、イビデン急伸。",
+    "日経平均は前日比+3.66%の66,300.44円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mN2lHUUtoQWxYX044eTFBVUlLbXZZaDd6VHZxTTlERTcweFZ1dTNSbW5vaDRsYzVfQWhPZXYyeHJRZGNNM2xqakdFaFdJSmpwNWtFNHVfMUxOY0ZoWTVpU0R4TnhVWVI0RjJaUg?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lWmdrTUNzUExRNTdUbjdqVXVtNkZlTkQ0dDc5R3ppNWh0a014aE9NUkRRb2d6WnVTdExBTVVuQnV5Qi0zd0NVclBkYndMY3ZRdUN4NnFtcUtkX0FMR1UxdWU5Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE94amUzdDNGajNNNzJvc19LRDk3WWlKTkZDaE9iSWN1MnpHczJlZXZXVEVPdVg4OGFHLUdLQW1VYm1naXNMUEZaSVFBX2dEa0lERk1UbXJoc0RlM1ZHNGtTQzRvTnRiLV9JT0UtUw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:14+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

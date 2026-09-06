@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "60,815.95",
+      "change": "-0.97%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "405.90",
+      "change": "-0.98%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.84",
+      "change": "+0.46"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "不動産"
+  ],
+  "news_bullets": [
+    "【ドル円見通し】160円に再接近！為替介入リスクはどれくらい？FOMC議事要旨にも注目 FX分析 2026年5月18日。",
+    "日経平均は3日続落、金利上昇を警戒 決算銘柄は堅調。",
+    "豪ドル/円見通し(為替/FX ニュース )：先週末の豪ドル円は円高で113円台半ば｜朝から夜にかけて円高が優勢(2026年5月18日)。",
+    "日経平均は前日比-0.97%の60,815.95円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yQzM0cWFFSmVpb0d4UzEzd1BIa3hGYTJYNnlxaUY0d05hbkUyM0hDUFB0aktxLXBxalFtamlEdXBwU001YWV6OVJETXR2NWp4QXJIaWRmYXNQVl9IeTFLS1Ztbw?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaFdlY1REaUtiQXRvRTRBcEp6QmMxMk5XNEpQWG5NQ0l0TkcyTU40M1lhQ1dvaVd4TjdIenlIU2ZZTUthQWhtUFhXZTY2Um02Q2NfQzFpTXdXRDJVcnF2QmhCMlJPRmo2OTFsLWNfYWtHZXIwUWd2THJhSG9DaVdDZg?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE52Sm4zU1hERmhKRkxrTV94UERkbXVHR0JKZFJwa0t3WGVHT1ZXbF9WVEQ2WHBadU5EUjVEWHFVbVBpc3ZKZWgxMGRobHVweUFxNzE2Q2ZkMkJtd0I0cVBlMWR4US1uUF90elZRQ2NaM2Z6Sm8?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:34+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

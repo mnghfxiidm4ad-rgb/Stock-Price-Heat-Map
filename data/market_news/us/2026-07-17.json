@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-07-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,457.69",
+      "change": "-1.01%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,520.24",
+      "change": "-1.40%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,146.42",
+      "change": "-0.77%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.54%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 drop 1% after China’s latest AI breakthrough rattles tech stocks」と伝えた。",
+    "海外メディアは「How Nvidia and Micron Are Single-Handedly Reshaping S&P 500 Tech Earnings」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq Slide Sharply As Netflix Guidance Disappoints And Chip Stocks Extend Losses — NFLX, GE, META, AAPL, SPCX In Focus」と伝えた。",
+    "S&P 500は前日比-1.01%の7,457.69で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aMGxtd2t5dThCeFp1aFhLU3pBTzFLdjJKZ2Y2NjN5Qll3QUp4VWROWnBrV2pNTG1GaXl5U1V4R2Nvc01INmZCVVk1Ulg3Z1cyQzl3ZHMxZjZSSkRTd2VsbGEwYm55NXBZV3hz?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdW8zcUxqeHVmbjI2azVnVkpmcHpFc2pEdlNzd1ZBcWw1c0dzcFk0T0xYRVVVMXlYNlpNQmdpb2VTYlQ4RWZaTktVRFAxd2ZCOUJMRHk1aElZNkFLakVQdEJDZTRSblB2dm9RSmROVFRadHRkOUhicVBpY3AyOWNUZFpEY2dsMVdSaUJFb3Vwc2ZPWnF6THp5cDJfbTRrYm5fOXM0UkFvOA?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVc5cmxyTGFwZDdPc0pDQ0lEb0N0VTd2b2hBc0VTUlFMV0Uta0lNUGpmNFgzYk1zWjJNbEZFdy1ibmJfWGN4eDF5dkt1NkJUYWMza0tjVHB2RmtWc3hUdEhEbE9yd1VpamFGdk9GeGQtemdmWi1KMGVWbU5yNVlxQzNrUWxIbkJUbTd6cjZqUW02TUJiY3c?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:12+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

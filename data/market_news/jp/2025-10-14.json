@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-10-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "46,847.32",
+      "change": "-2.58%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "328.70",
+      "change": "-1.88%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.43",
+      "change": "+0.38"
+    }
+  },
+  "top_sectors": [
+    "小売"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "銀行"
+  ],
+  "news_bullets": [
+    "ドル円、豪ドル、メキシコペソ、トルコリラのテクニカル分析見通し 2025/10/13〜10/17 米インフレ指標を前にUSD/JPYは底堅く、中国期待のAUD/JPYも堅調、一方で国内要因が重しのTRY/JPYは軟調、米金利にらみのMXN/JPYは方向感を探る展開か。",
+    "高市トレード全開で日経平均はNYダウを逆転。 本格的な金融相場が到来！。",
+    "日経平均株価続落、終値は1241円安の4万6847円。",
+    "日経平均は前日比-2.58%の46,847.32円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LY0w4Yk5yamV2WnA3ejRRdll5TXFmdFozb0RRUXhhTGY3alk5WkNqZER2T1JFYUlrb3d5X2xGMEhtS1ZBQkVjaGxKM0VPbzM5VDlTdWh4WFQ2YTlySUN4NFFOZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00T0pJa0VQeW1oUEhMcUhZUmtTVk5vRC0wVkhjQjlxa0hEdXZ4RXcxYjE0LXpSbkJfcDhUdW80cUhPTjRFTGVoSGQwMTVLaGJObFFJ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE85Y3YwUXZnVkJBaC0wU29BOWZ2MWpyWHpyNTVwZkNibGhVYjBUUk04YUVlR2JrQ1hZaHA3SG80NWhaLXNuRmtON0VtenA1YUJUTmtJa0FKRUhSaFZ6NXJmRFMwSmRWbDRnNUlJYw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:54+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

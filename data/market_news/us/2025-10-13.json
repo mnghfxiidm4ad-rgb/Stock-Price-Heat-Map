@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-13",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,654.72",
+      "change": "+1.56%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,694.61",
+      "change": "+2.21%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,067.58",
+      "change": "+1.29%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.05%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains & Losses Today: Broadcom Stock, Chipmaker Shares Surge; Casino Stocks Fall」と伝えた。",
+    "海外メディアは「US Market Today Oct 13, 2025: Dow Jones, S&P 500, NASDAQ Composite index may dip more before reversing higher」と伝えた。",
+    "海外メディアは「S&P 500: Stock pricing vs. earnings (P/E ratio)」と伝えた。",
+    "S&P 500は前日比+1.56%の6,654.72で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0s5VE1QMzltLTBhR2FNYjFLeUxPSXZkT05BT2Q5U2pHT3R0WXh4Mm4wQmxkQWpqVmR0WVZVdFdDYzhtWC1BbGdfMWh4NTk5X0pxaGJwSkV6YmlwNGdFMHpxdXJWWjR1dTZNQ1FqQmNSWTlQMkFoaDEwYjRBT0ZVVVJQaDZ2YUhPWDgwNG5oUlQwdVlXSk96UktxSnRMUXB4aURESkhGTnZ1Q2owOFhyQUEyWVRwZS1SS0p5cy1lb2FQZFhEZ0tpcQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSmJfZy1ONmRGQkpvZ0pOTkFvTmd4ZmtiNHJ3WEhwQnpuVkdzMGFVOVNUN3V4WWNpQVZ2SEI0LXlWUFRFaDRldlAwNTVpUmowc01xTDQzRll5cmViZmUwUGhLRnl1RHVMck94bVFHLTBJT2lmNm9WeE1VVlp2RHk3OXotTF9lOUVYMy04Z3V3bTIwcUVfdGt5MHFUMTN6SV9nSGZsWU42VFNQd0hjMFdjemM0bU9TTF94aEZhRVROdWRMSHp1Z2RkXzlJMG5makV6Y1VxMGtB0gHcAUFVX3lxTE5RSlJYMnI3Z2xSQV9vMUVodUd3N0tHRU90YmlPeU8za2sxZlJEQUJZR3ZwSmdRbFBLY2UwdUNGb0tBZ0lOTm1kVDVVNDh2bC1tSlEwUENobWh4aXlqQS1qT0JZN2NQSE1zd1dUaG9wMmMzWlRoczd0NmJCUGpTZU5VUHhMaHVuVm1PaUhxZXhiTVlwajZnLTFXSkhPUV9pdmprdF9SM0hvQWtKTmxVZjl1bnBtWVJRc1NpRFA0Mmc5MjV0ZUl1UXZzeHpITmNUN0J3Qlc1bkVjS2pnb3U?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UVTN6Zi1rWEZhRWpFOTBvekxaNV8zZnU2VE1ES0NaWDdwSlVJbEhER1VMeDFDeXY5NjM3N3V1N0hSYmU2ZXJyb3NsT2NzWVMtMmxhckFZcm1KSTh2S0ZwU0NmZ1RhRUlp?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:54+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

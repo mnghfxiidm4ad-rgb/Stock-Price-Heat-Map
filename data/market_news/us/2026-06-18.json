@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,500.58",
+      "change": "+1.08%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,517.93",
+      "change": "+1.91%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,564.70",
+      "change": "+0.14%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.45%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Gains 72, Nasdaq Surges 496, S&P 500 Adds 80」と伝えた。",
+    "海外メディアは「S&P 500 forecast: Investors weigh hawkish Fed against weak oil prices」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq And Dow End Holiday-Shortened Week Higher As Investors Cheer US-Iran Peace Deal — SPCX, AMZN, ONDS, NFLX, TTWO In Focus」と伝えた。",
+    "S&P 500は前日比+1.08%の7,500.58で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaExZZnlrcFE2X2dyRk1pRXRKZUphWkFUSWdIQ29NY01fdnRxeUR2RFNsR0NJRXBMWVM2Y3dGNGJCX3FLdmIzMWx3Zks5cHkwYXJLOWh4T3dma3JXem8ydjEtNlJkWGlIYm5iYkUycjZFbFFRN2tIZG9ub1BwRExGRUF5ZEJuTTdzTXlXRE93YVI?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbk9GYTBUQmo4TU5paXk1eGhqSEQ5ZHZaSlk4SlB5X25fMVplM19HTmJxeTNZMnRkZ2dKR2lvSGpGeFJ5Rmt5dWR5SGltaGdNandkOWRudDRGeGttSHVDWmUwNjJIVVFQcjdDTGVRNjJRUUxQcG56d3JPOUJBVXd1SnBmTHJqa3NXTTEycUlEYUpNX2NqeG9FMG9va3lSRUU3UFE5Ym1abXhKdkxUOVE4YVo5cGpCMnBU0gHEAUFVX3lxTFBjbmQ3dXY3d2JablgtV0dKNHdwTU1pWGV3WUNVcHVDLWtDX2RDMy1tWEtFeDRfckVwenB5RFR6SndwSmRWMVRuR2JnMWc4N1p6Nm5SYkVnaHFmN2JfN3l1WG4tOXp6ZFJWVE5QT3FvZEF5UE9tcnBnQ00wRWw0ak0zTGl2d3JOQVJaWHA3VlNDS0lzb2daenZUWnhQbDZCNFgtQkdHcndkUVNrQXNRWkVpei1BODhxVEdXWURPSGxOLVJreEs?oc=5",
+    "https://news.google.com/rss/articles/CBMilwJBVV95cUxPS0JQdXNLZzRvN3M5a2VHUG1QTTVENjJKd1NSUnJOeDFQdk9LS2hNRDdodXJVWmVLQ0xLS3RtRWFQMzRRRFNVeVRQMXlTMUZqcXNnVHVhWEg3RUtFcGxzZnN6Wk9qOU96T1cyZHBZZTNzQVBFU0hWX0ZoQWpxNmlNeC1QT253VUJMWmI4cGM4QmlTUGVTc0xMY3BZdThKNl9KUmdPSXRLWnYyYVBRaG5OWHJMQmo1U0xkNHJCMlZVSVlxQVRSMlZJREJ0ZFotZEp2bktCN2EwQ1NKNzI5S1VlMDdOTnVYY0xUX3lLRjJrVklOb1FYNnFMLWw4ajdXWjRMdHZvdUp5UGZMRlEzWTBobkthbjhPdUU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:57+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

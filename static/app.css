@@ -18,6 +18,7 @@
 html, body {
   margin: 0;
   height: 100%;
+  overflow: hidden;
   background: var(--bg);
   color: var(--text);
   font-family: "Yu Gothic UI", "Segoe UI", "Hiragino Sans", "Noto Sans JP", sans-serif;
@@ -27,6 +28,10 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100%;
+}
+
+.top, .controls, .metrics, #status {
+  flex: 0 0 auto;
 }
 
 .top {
@@ -137,11 +142,14 @@ h1 {
 }
 
 .news-panel {
+  flex: 0 1 auto;
   margin: 0 20px 10px;
   background: var(--panel);
   border: 1px solid var(--line);
   border-radius: 12px;
   padding: 10px 14px 12px;
+  max-height: min(240px, 28vh);
+  overflow: auto;
 }
 .news-panel[hidden] { display: none; }
 .news-head {
@@ -181,7 +189,7 @@ h1 {
 .news-empty { margin: 4px 0 0; color: var(--muted); font-size: 0.82rem; }
 
 .stage {
-  flex: 1;
+  flex: 1 1 auto;
   display: flex;
   min-height: 0;
   padding: 0 20px 8px;
@@ -195,7 +203,7 @@ h1 {
   border: 1px solid var(--line);
   border-radius: 12px;
   overflow: hidden;
-  min-height: 320px;
+  min-height: 0;
 }
 
 #map {
@@ -303,9 +311,9 @@ td.down { color: #3dd68c; }
 }
 
 .cal {
-  position: absolute;
-  z-index: 10;
-  top: 132px;
+  position: fixed;
+  z-index: 40;
+  top: 120px;
   left: 88px;
   background: var(--panel-2);
   border: 1px solid var(--line);
@@ -314,6 +322,7 @@ td.down { color: #3dd68c; }
   box-shadow: var(--shadow);
   width: 280px;
 }
+.cal[hidden] { display: none !important; }
 .cal-head {
   display: flex;
   align-items: center;

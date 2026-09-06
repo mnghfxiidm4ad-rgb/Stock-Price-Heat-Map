@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-05-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,259.22",
+      "change": "+0.81%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,326.13",
+      "change": "+1.03%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,298.25",
+      "change": "+0.73%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.42%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 and Nasdaq notch records as AI chip stocks surge」と伝えた。",
+    "海外メディアは「Dow Adds 356, Nasdaq Climbs 238, S&P 500 Gains 58」と伝えた。",
+    "海外メディアは「Morning Wrap: ASX 200 to fall, S&P 500 and Nasdaq pull back from record highs, Oil and yields soar」と伝えた。",
+    "S&P 500は前日比+0.81%の7,259.22で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXJmbTJ1QXlUbzNTS1ZhOXF6RHZmZjJGekJSRzZHRWRYQ05FSmEzMnlCaHJpbG0zSVB5WGRTNzUyYWtzY0JtSVNkRWdpWVo0Z2VrM1JLSW02UzRLWXQwaEhoMWgzYnNLdkhRdktMbGJlRnFxY2s5SzNDYkF3Y3ExVWdHTjJuMy1qT200WVo1WmxlT2hnYXJPWmpPTTlXWXhPTnI3N0dn?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmJhbEZxV0FQd3Z5ai1rcXBtMU1Md1Itb1V0VmEzdGxrQklSQ3V4ejZRU0g4THNURDRsSzhrLXJja2k1VElROVAxaW9oQlZBMUVZeVRkajQzRkVmajZaYko1MUI1UHdKZHNkTFVVV0FneG1rUTZMNmpEM2ZsOWpCaEtsMnA2aUdMOFZ0TS01eVZ3QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNkRwcmd2NFFSRUFodGRMd0RUS1BldFZXUWxfOVp4N1c2SE9TRzE3MjBURGJjY0FrNEh1elliRFJhSi1BaGJDR0RNbFJuRHFZMS1ySlp1ckY5SzgwUWNEOTNTWUhyRzlnT1E3MkRiS2RkMWtJdjhMM1g0Q3phSGhtSXVzNVpxR1dZdzlEa2J3Umhmc3N6SXZwb3YxWFA1eUJ6UEJuVUlzWWdxdmJrdlE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:35+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-10-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "47,944.76",
+      "change": "+4.75%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "338.50",
+      "change": "+3.20%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "149.61",
+      "change": "+2.46"
+    }
+  },
+  "top_sectors": [
+    "機械",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "銀行"
+  ],
+  "news_bullets": [
+    "「高市トレード」円安・株高進む 東証、一時４万８０００円台―為替１５０円台、金利上昇。",
+    "決算レポート：SMIC（今1Q、2Qは中国の半導体在庫積み増しの寄与があった。来期はAI半導体増産の恩恵があろう）。",
+    "ドル円、豪ドル、メキシコペソ、トルコリラのテクニカル分析見通し 2025/10/06〜10/10 高市新政権の政策を見極めたいUSD/JPYは方向感を探り、中国期待でAUD/JPYは底堅い一方、インフレ再燃のTRY/JPYは軟調、米景気減速懸念に揺れるMXN/JPYの展開か。",
+    "日経平均は前日比+4.75%の47,944.76円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xRUdoN3ExdXkyZXZUUmRuR0xDTVFoMG9OcVFGM3VYN2ltN2tWOUlxZWFoVFpwTDJPX2o3NmlCSVJnTkxsV0x6NTFwTm5QUmNjUnQwcTRMdnhNZ0d4c2lrVDVVbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNldGRlZHeG5IVkJySmxKQnhwSHNtajlpVlNNazdlVHpjR1pIVWk3UzlWZTNnbXZoV05XalA2cnZ1Q29tMnBRNjA4dUdJdXp5TmtsckVMWkdadw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnWGR3aU5PbW5DdTJLSG1BRS00MXdZTnVxWjEwQlV0aWc5Ni1NR2o5LTBpckJpbERxRXBKT2tqaVlQVVZSLWdTejluMlJBT3JacHNoVTBRNjQ1LWtDU0Y2cEFKRQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:51+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

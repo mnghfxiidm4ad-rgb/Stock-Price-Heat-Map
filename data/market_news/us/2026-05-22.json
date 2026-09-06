@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-05-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,473.47",
+      "change": "+0.37%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,343.97",
+      "change": "+0.19%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,579.70",
+      "change": "+0.58%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.56%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Climbs 294, Nasdaq Adds 51, S&P 500 Rises 28」と伝えた。",
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 - Stock Markets Dance Towards New Records Ahead Of Long Weekend」と伝えた。",
+    "海外メディアは「AI-Fueled Rally Puts S&P 500 on Track for Eighth Weekly Gain」と伝えた。",
+    "S&P 500は前日比+0.37%の7,473.47で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUWxPYS0tMXRMajdlTFVCbzJJYlc4UUlfS2VWR0J6bjY1NThHemJiY3QxeXhpWi0xR2I1dmsxb1ZTekNwYkR0NFhIdTdTeXo5WmoyN3pvMlRIdmVPX0dkVHBHRFk0S2w1XzNaRTVkVXFJcmJ5N2dOczdrVVFfeWZJVW9IYzNfQWp4QktMT25mVm4?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejdwV0R1RmRZalZ6bDdJYTJYU3lsZEd2cVktVmpyQVNBY1NJU19oQ2hZcjdpVV9HcktJZkh3TDdGb3F3NFh6bzA5UmZTWmtyNVVlTWdxVkVyWXlreHZ4bF9ITkpKNUVYRG9KdUxmeVRtQ2F1dzg1S01qOEZyWmxhelVJSjJsSjZBSUIwd2ZpeTNXVmhSUzk5OWZINFdYMVFnQVRoNURpUG9CM2paSDBZeHpuUHBiV1llOEc1eW5uREQtYVhJajJaQU5iZlZHOWZVNGxZTTJDZHk?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWFPX0xXSWV2Q0pFOHhya2xaR200UTRBUlFUbHpJcVhLU0IyRmFOZlBtX2w1N0x6blBnR2pQQjhzc2dTVzVYMFBZM1NPcVFxZHV4cjlLNmgyUVItS0lFSElYNUxoZ0d4RWRUaXRzQ0o2anZYOGgxU2l1ek9pZjRtQ1ZuMkFUX01ocUNOWGRRQ28tc3piOGdmeTQ5cXdadV9jN28tZGhiLXk5NTZhbFkxaA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

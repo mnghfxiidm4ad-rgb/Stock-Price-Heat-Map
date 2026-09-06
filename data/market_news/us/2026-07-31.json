@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-31",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,489.72",
+      "change": "+0.70%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,373.85",
+      "change": "+1.00%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,485.03",
+      "change": "+0.53%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.74%",
+      "change": "+0.08"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Amid Cooler June PCE Inflation Data and Slower」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus」と伝えた。",
+    "海外メディアは「Stock Market: Will S&P 500 Open Up or Down Today? - Apple (NASDAQ:AAPL), Meta Platforms (NASDAQ:META)」と伝えた。",
+    "S&P 500は前日比+0.70%の7,489.72で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSVh0aXcxRmtYbEY3ME5EbkFyRktnWl9ia2ZkR0lIOHJjVUV3WUczeEJHZ3J2X25HSmg2Nm5lUGNPOEVnelVsRWFOVTI4eFJMWGtnYVhMaUR5SHdxOEg3QnlKQ0tTcjBTdkZoUGo3WG1VYjVZSXlxWDZRLTFUNW1ROHZpZlVpdk9aa1hwWERQMTdIbjFzNnlzaGNYSUpoYml1ZHdQSV9GX196c3N5Qnd4aHh6TTMzTTQ5QmU0c0JTcTA2UzlHQnVqZnVLdEpWcERRNDI5TTc3WUtMV01STEJBT1I4VnpTc2xpdEFuNXlJa3o1UFFUcU1ob1RKQzVJNi1SRXp3?oc=5",
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxNOEZpYy16VXA0Mld2SUVEalV5ajVmUXYwbExsQTR6UHYxQmJ1SXdSWFFMaTVLX2s3R1kyVkRGTUFBS3JkQUF2Y3lHUVZGT2t0dFlpSm50VzhwSXNVNVlfR1NmY2Nqc2lyY1NSUVBhOVVsLWVsd1paOXV6dEU4NHM5d3NKU2M0N1pwRkhFb2dsa1F1ZUFlRWtKZTliSFpYRE9pRXRXRHlmMUF2LWRwNjRYUGtZS1RhRlJuQmhWcVdkS0dmSzVlZWRTSWV6OXdkLWJPdUJuYnBfOWFzY3FKM2ZyemZ5QXU0d25XNC1leWhtVzB0UHE5RFZXRTFZMURtT0NNemFJWW9R?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORXhsZWxfbklVdWdNSkl5d0w2WExXX0E1ekMwWXE3RW8ySmF1MmxQUVNqMV8yV0hVMVhjZVZmQWpKM0ZDeXhSMVQ0c2dGeFl4cl84ZDhuSVRLUnZmT1AwdlU2Z2pCNmppODI0bHpVTHRyM1F0THVkeVM4UlpjZWhEdTQyUDdDX1g2VEFXODk4RVQ2MGs3TnJWLTZvR28tZDFCcngwQVJYWE9OeFB1X0wtc2JHcEZnQm1XbWJEVTRMNW9FeUpFSTJieU05YU5pejdpQ285SGZFWC1Ndw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:20+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

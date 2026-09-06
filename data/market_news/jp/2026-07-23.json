@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-23",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,422.60",
+      "change": "+0.46%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "422.10",
+      "change": "+0.43%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "163.08",
+      "change": "-0.11"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "食品"
+  ],
+  "news_bullets": [
+    "騰勢強める中期金利、盛り返す日銀10月利上げ論 2年債31年ぶり1.5%。",
+    "（まとめ）米国市場の半導体関連銘柄の上昇の流れを引き継ぎ、日経平均は307円高の66,422円で反発。",
+    "日経平均終値307円高 AI銘柄復調、米アルファベット投資増で安心感。",
+    "日経平均は前日比+0.46%の66,422.60円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UnNPOUVhYllJZUNZVXVfc2ptQ203cm02Z21sOENEUE5CU0FYSGxhemNsaGlwZEdHYWtWSHl1T1M2dVo1QVNCLWk1Ym9zc3RDQlR5aEZlM1RrM3VyTGctZzNlMENza3Bxb1VaXw?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FNHBXY0Vrai1tUmZxMm5Mb0QwMUdlYjU3TE55QU1adEJYVFRUQU9XaEllNEg0OXhVWUxnYkpjdzdla2hJbjhBc3JCcDBjNlNkekZkMtIBV0FVX3lxTE5QU1pQZU1EWU5sMGVMelVpUW5pZTZHNTZMdmxZSzJETmUtUnZFaV8teW5GVEdEYlpnVnBHaFVxNmpRYkN1Qk45OVRUTXgtc3Vqa2pMVGFFQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IajUwZHZ5ODVna19NLWl4bHRKNC0zajk2VlJwaDJKb21WSnlsdndRYTA5cUJLSUxtU0gxZjVxMmxyMjNtb09xeTN4SzkweE5LWk54MTBNUDU5Mk9IT21aN1Q3WTdMM3VCZlhmeA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:07+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

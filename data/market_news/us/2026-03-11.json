@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-11",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,775.80",
+      "change": "-0.08%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,716.13",
+      "change": "+0.08%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,417.27",
+      "change": "-0.61%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.21%",
+      "change": "+0.07"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500 Futures Slip As February CPI Rises 0.3%, Core Inflation Steady At」と伝えた。",
+    "海外メディアは「S&P 500 Faces Valuation Pressure as Oil and Yields Rise Together」と伝えた。",
+    "海外メディアは「NASDAQ Index, Dow Jones and S&P 500 Forecasts – US Indices Continue to See Overhang of Resistance」と伝えた。",
+    "S&P 500は前日比-0.08%の6,775.80で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxQSDVidXk1RnF3QzJhMC1kVFJtT0dyTzJUZnF4d3Nwei0wTl9IS1pRZHk4cVltdWdweUtXUGJ6M3VPMnVpbXVpdUdYdEhrYzBkUDRRZ196cHQ1WDVwZkZGZVQ3RVZVMVRXS1RhVHE2T2wwbXdQZXh0d1hUNUpPeG9DT1ZEd2QyaklKZjVNdWNGR1BLMkFYWFZpSWdUdWdXREhQY2d3TVJtUHFtdlBSZVVVWXB2ZUNmVHdFODRZWnc3ampzMHllT0pTaUU3RUFlOFNPbjg0M0EydjFvQWViM0hqMXljM2dTd0tORGdpb3F6bktCYjZJRDYyV3ZLd250TEFvWDlhMjU1X0FtbTdwQk5SbzRvdktPdkdhMkdReHVXTkFTZw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd2FhamUyZGlWTkc3amNDdTZZcklwdEFhSThJWnJBSnZmdDFseFFrd3Uzb0dOMGJpckMtZWNaODZHVW1CQ0p1Y1BlbzZrRHVIZWZkRkwxLXprU09vTGE2N1EzcDgxUmc3NUs1eWZlcHdBUUhTcW8zRWw3OUxtYU5sQzJxUGtLRy1acGVrRWQzMFNpSkRZVHdUQy1XYU80a1E5N21DWUJSa3lDTjNv?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS0FTd2VManRMTEN0MktuQk9XX0FRcUVkU3g5b0pJeWZEWS1nVzVHWUMzdUI2eklpekk0YlFqemtMMkFFaXl4WHFzN1R5MzVvcWdmb0ptZlZwNzYxemVfTDBYVjh4WmhkLUo4QjRWTnk3RTFKVVhXR21qM253UU1IN1BkNWlYaWlhd1RVYTN3QXZaQzFkY09KeGo1QWF4NmZ1UmVlZW5DLVdyMm9NWElURFo4N2FqbGlyTzdrMVY2dG1MczNnNF90cHpFMWpOZDgxYmhYUUJ5VFVFR2JN?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:07+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

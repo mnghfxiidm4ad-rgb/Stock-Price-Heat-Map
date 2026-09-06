@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-04",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,584.31",
+      "change": "+0.41%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,830.96",
+      "change": "-0.09%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,561.93",
+      "change": "+1.73%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.48%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Hits Record High And S&P 500 Gains As Oil Slides, While Chip Weakness Weighs On Nasdaq — AVGO, UNH, META, PINS, RUM In Focus」と伝えた。",
+    "海外メディアは「Dow claims record closing high, S&P 500 advances; chip selloff weighs on Nasdaq」と伝えた。",
+    "海外メディアは「Dow claims record closing high, S&P 500 advances - Honolulu Star-Advertiser」と伝えた。",
+    "S&P 500は前日比+0.41%の7,584.31で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRHQwbnE1Vks5b2xvelVsbXk1bTJzRDQzRExrMWtaYU9lRWtrZW1UMXFNVk82OXJYNkVaYzEzZEdidXJLdlVlVDJ4RUZYeDlkYnVmUDFWVGRRd1JUdVpneDBFVXdyR0R3c1JVeEo2SXViQUJzdk5mbzZ5TG9ES0RRUmNBSzF2N0lWRm42OE5HUjRKMlRhV3gtQ3hRZHoxOHoyTkM4N21JSUtyUXJtaGVKLUp2TktQbmQyZnQtQWcwWW9FelFfLWcyY2RVTEVJbk4xSHZRWTk5R0pCT3BhSHBCU01WVE9paEE2bzk0Mnl5UGRBWmZVeUZocXpaMS1QSGRLQWEzNHFQcjVNbDZkVHBz?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjd0VDVDTE8tQ3NNbkxONGN2d2VuUlFUb2xRc19kZFRPN1E4MWduSzczMTYyNUtPZjFLMFJWMGN0WTVCdDdwbk5rOHdZc09JUEwxd3ZDRS1RSVU5V2w5dXJkSkRQdXloYjJvRUJlaEJpek56SVZYQW5BZ2hqZTZJODdLUkVNb3ZTZFI0X1hoZEt0RXdOUk9Yeg?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUNvbGVVQTRmSDR5eVhxSHozWEZLUzFtYkM3aENOT2RWRm9LYWxUWUEyMnpTTUFCU3JEbVc4TllmaW9VTk1KTjlsT2FXNWVqS3BjNFlmdEpEdVd1LTlqMTJHc1lHSVJ6RzRTZkdMUkplNW9hMk1KbTRlblhRbVctbjgtNUx1TUo3U05ZQXh5ZXh0LWlibmZkUjB0U2R0Y0JmTWJxdEt3?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

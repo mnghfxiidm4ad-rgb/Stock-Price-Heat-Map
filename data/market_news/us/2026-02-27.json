@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,878.88",
+      "change": "-0.43%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,668.21",
+      "change": "-0.92%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,977.92",
+      "change": "-1.05%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "3.96%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq on track for biggest monthly drop in a year as AI worries bite」と伝えた。",
+    "海外メディアは「Dow Jones Futures Fall, S&P 500 To Test Support On AI Fears; Block, Netflix, Applied Opto Lead Big Movers」と伝えた。",
+    "海外メディアは「Why the Dow Is Holding Up Better Than the Nasdaq and S&P 500 Today」と伝えた。",
+    "S&P 500は前日比-0.43%の6,878.88で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUdOX2NtRmdvZGJrS0VQZ1pqU2VVWk5zcUJza2FvN2xwZXB0dlRqVEJQZjVfNHcwQlM5eTExRUhtVWZ1ZTcxY0lpdHNCMlF3bEJUYUlUTDQ2WTZnc01tVTZrOVU1ZU5oQ2c2Z0wxUjd4c2NUdUVLcEFhR0JvdVZuMVUxYUszeHZlc205czIzTTRPTUF3c3RBR1pkbU8zQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN1ZCa3dQblVROVN1elpoNzJtdmNFUjB6X0NlVVluYlc2YzhEWVJISWU4UVllSEQwOU9PM0hLUXNjR3l4bkY5X1F2cll6NWhHYk5RNFdHVGV5d0Y3dWRnZDN0dEdWTGs0MG04RXpreWUzYWFhYTBzRWh5NGVsaDVDMlpCSnRUcWZtbXVDSzZuS2N4bnZrQWF6TFMwZDJtNjNOUjlOaXJlY3JMUmRVc21LbnVB?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdjJjQzR4dl8wZFdjWVYycnJVVGtDNUZKV091cmpKTWcyNmdmUVlybG5QeVRWcEV5aVhQU3VvclJXb3VKUFE1aExVN2VMd2lQTFp1ZG9kRHhjVV83YjFyZ21oWEQyUkpFeGN6aGkwclpuMUhfVzZRc0k5WUtIemNQd0xyZ1A4MlhkYThWYUpZZ0FzTS05Wnc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,970.22",
+      "change": "+2.08%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "427.60",
+      "change": "+0.59%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.89",
+      "change": "-0.52"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "【ドル円見通し】雇用悪化→消費減速→インフレ鈍化の連鎖でFRB見通しが逆回転 ドル円は下値模索か FX分析 2026年8月10日。",
+    "企業決算を徹底分析/日経平均終値1363円高・米利上げ観測後退で - tv-tokyo.co.jp。",
+    "【見通し】NY為替見通し＝ドル円、イラン情勢や原油価格動向を睨みながらの展開か。",
+    "日経平均は前日比+2.08%の66,970.22円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1M01OeXZfRWpvZjV2X21faHlZRzJCb0hqQzRGNnVyRGFDN2gtLXNLb1EwcGVlTnhoWm9lRllqUTFQWFhBMGRqYmpIMzRsLWdqMUdzSzd3MmxXTEdNWmlNcktvaw?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUl9BNlNrWGxWSTBEV085bnVmQ1ZIdHlDR2lIV3BXdkI1QTJRTkZjUThOYkJEcFZCZWg5andtUXBIQjg3M1RkM3JlWDFfa2lBSnljekNaM21oY2s1NVFaeFN4b3dsVVdUZTVUcDc5dzlacmRpbGxadWhKd212djlfNmlqSU9XOGlqZ3dhWEd3R0ViQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EQ3h0dW5rUVFrTnZUSmtURDhBU1JNVU5iTFRrSVZYT25RM0hIRGdtLVlweFc4alk5Y0loSkVZMEpBZTA3UFpPS1Z1dXA0amM2dTJjbTdpX0tUS1l1UHZ5aG5Ocw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:16+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

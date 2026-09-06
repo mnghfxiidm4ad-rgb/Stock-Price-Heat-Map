@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-05",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,491.87",
+      "change": "-1.05%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "352.20",
+      "change": "-1.23%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.14",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "【2026年ドル円大予測】円高か円安か？専門家5名の見解が割れた！？相場の行方と注目ポイントを徹底解説【FX/為替】 2025年12月6日。",
+    "三菱UFJ、終値で時価総額30兆円超え 日銀の追加利上げ観測が追い風。",
+    "2025 年12 月調査の日銀短観予測 ～追加利上げを占う最重要指標～ | 熊野 英生 | 第一ライフ資産運用経済研究所。",
+    "日経平均は前日比-1.05%の50,491.87円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtdE8zQklvNGJ0bzR1VVRvY3VCTVpfY3hXY2hTVk9ObjNpSm9CT3hNdHpwODlGUVJDQzI5ekVfem9sRDE1X1N4cVF2SC1iUUFhQ1hYS2dYa2FYQzViMkVjWVM5QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkLUpUenlOdHZBV0d0Y242TGNjRTJ6c09acEhIY2lVQzkyU1U1ZzlHZ2xqNDZaM1RhSlZpaDJlS0EyTFQ4LXV0cjVrOGVtWDRwOFM1VVl3aU1uQ3NWdUJRRXFtdzVQMmRKVGZ1Mw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5idUhPdEdsYnplU2NIcHZwQmVuN0hPQzJycHFza0pwV09SVkthVXBnRzZzMTFFcEZQaGY0X0ttbGFlVEpyLVhHLXZRZDBKZ1ByRUVtN0V4aExsckU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:20+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-12",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "67,524.06",
+      "change": "+0.83%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "431.90",
+      "change": "+1.01%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.26",
+      "change": "+0.11"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "運輸・物流",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "【日本市況】5年金利が過去最高、日銀利上げ観測－円軟調、TOPIX高値。",
+    "【見通し】NY為替見通し＝ドル円、7月米CPIの上振れ時に要警戒か 有事のドル買いが進行中。",
+    "日銀利上げ9月から“加速”へ、27年春に政策金利1.75％で様子見後に最終「2.5％」まで上昇か。",
+    "日経平均は前日比+0.83%の67,524.06円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nMFMxYlB3YUJVdXVwamV6VXcxdEYyTXhKVU5jRUJmMURSM2E4TE1XOUhSVFhoaVhtX2lZZGI0eXFUdUFTMktwdC1RUkZpTTZrNnMyUWo0YUU0QlBYUUFyMnU3WGhPWlU?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yT0syZUpYWE4yb2FwMzVyVHFUSlRCMWI1RHZUTWFVd2w5NktnZnlyeG0ybTBxQ19LSGJrNWJXM1ZydVVrcnJRdXpLWFFacnkxNFM4aTctNHhBLWtNYjZNNUdQZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10VUFjSTdid2dfLXVWbzU2SVdodXdUVWs5Y3JvN04yM0IwVTNNRG82cXFfRjMzZ2c5d3pZcEZBLUZWTzVwT2FkZFE2UnTSAU9BVV95cUxObmhOb3MzWTF5WjdZeEUtOVZWRy10QlpIOEtPU3RycHp6X1B5elJkUU03VnUya2Y4WVp0ckRXdmwyb3BldS1HaVlWNXJwY0NF?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

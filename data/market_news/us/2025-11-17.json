@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-11-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,672.41",
+      "change": "-0.92%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,708.07",
+      "change": "-0.84%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,590.24",
+      "change": "-1.18%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.13%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Futures Wallow In Red, Volatility Spikes, Bitcoin Extends Slide — Retail Hopes For Relief From Potential Saudi Deals」と伝えた。",
+    "海外メディアは「Morgan Stanley lifts S&P 500 target to 7,800 as earnings and dovish Fed drive bull case」と伝えた。",
+    "海外メディアは「S&P 500 futures down 0.2% after early gains were erased」と伝えた。",
+    "S&P 500は前日比-0.92%の6,672.41で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ0o3d29hNDlYRmJOb19STXUzVmozY2VSeGRkQnJjdDFfZkVnV3NlakZBTDlBTjdzNkVsSUp5M1h6Y2ZrVG03MXVJTFY5V3VpcXJYckNLVURUcndXQ2s0RTVmcnByYzUyZ0JuVDIyb0hGMlJxRVhHQ3ZhSWQtdFBFV2tRUDgtb1ZobUd5U2tDV25SLWxQUFFTdjRweTNScWV4U0RZdDY1RkcwelNfbkNOb2I1QTJtemhLaUNYOEQ5MA?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZFZwdGYyNzlub1c2b0JuaDF3bmtwUkwycElVWm15TGxCSktKcVNac3JGdkRBd251cXZYa2RaZXVyc1N5cDJ6aEl4bzVTS1pOYTJwVC1HaTA1eFB4aVNqb0g3dWdxNy1PUUEyN243TTJNdFRmQTR5akpybDAzMUU1Z1VYQkxVNjRoRlQ1SmtFWWhGeEFKbzMwX3MwN1g4N2xDQ0JYMUd5R3lfaXcxNGJOY1JJUk1TV3FVaUdWcUVvV0dyYXpsbkx2RmlWbWJfcGR6MXo5VGxmYVl5VnNQZHNTWg?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdDlOa3BxQWF3djdPUmtBX2RGS3JpZW1jaTh0aWhidkRWUzNUSEVHci1Yb0NiYjJYaG9vOEhrOFR5Smo1R0pZbXNIZERNWnFlaXVRNzR6QkcwQWNSSTJRdnUxSlpoZFlIQjBsZmFKNUtEUDF1ekFJWEgwUno5eFVpTVBsVGNvYjEwd0s4dXBfWlRrb3ZaNXJ2dGgxcXBzZGkxdHNDZVJyc2dndlRTdGxJOW1oMEI?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:12+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

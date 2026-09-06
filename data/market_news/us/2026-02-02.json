@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,976.44",
+      "change": "+0.54%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,592.11",
+      "change": "+0.56%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,407.66",
+      "change": "+1.05%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.28%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Gains 515, Nasdaq Adds 130, S&P 500 Rises 37」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq futures slide as markets eye Fed pick」と伝えた。",
+    "海外メディアは「U.S. stocks extend gains; S&P 500 up 0.5%, Nasdaq rises 0.6%, Dow up 0.6%」と伝えた。",
+    "S&P 500は前日比+0.54%の6,976.44で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSkhObm01d0ZzZUNfS1BwTDhmMUctcWo5OThvTWdyeHBwT3BMbENCZjg3d2lPTk44b20yUnNDTUdseHZHSjlLSURnSS1mM1AwN3IzNWh4NVJlNVFvRDRwbzhMVnhHWjU1Q25NbGVTaF93YnNhaUdjVTg5WjlBbFkyZlUydVZJM1dzSmtWaThQOFY?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYmN5RkZWVDVmbHdMMXEzWnR5Tzd4YmhZZ25wdmR1cUhZSTlMcjdySndWdTNpNHNRNVEzVEE1NXdlQ2FnQVB0RUlGQ1ZmakNwWHpQdGs0TF9MZnpnZUhEdExzbzctUGhaU3JLMDZNT2xWS2VPZWRuWjVJbTJxYkdFWUhQaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3g4SE9wakF4MzJfUDNMX1NWeF9jTkpETGNQZlY1cXBKSXZwNjV0U1NQdXpwcEtXU0M2VlMtZkN1Ym8tOTRIMkx6Vk9tNHE1eHZwTFIwUG9mbEd0MEY3MVNDZGNVRlY1V041dk1DTkNnLUVzUGVjRWY0aGZUOWhXZWI5czhyaVFIVlEtYVR6dVR2bUJyaVdlWk9rV0FIa3kxT09DbTZZejctbXJjd2Q3M200eHNkOXRNb1Fz?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

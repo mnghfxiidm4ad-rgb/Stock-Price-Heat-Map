@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-07-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,575.39",
+      "change": "+0.42%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,281.61",
+      "change": "+0.29%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,637.01",
+      "change": "+0.29%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.57%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Likely to Report Earnings Growth Above 29% for Q2」と伝えた。",
+    "海外メディアは「Retail Traders Chase Shiny Objects But Refuse to Bet on S&P 500」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Edge Higher On Persistent Higher Yield Concerns」と伝えた。",
+    "S&P 500は前日比+0.42%の7,575.39で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWp0ejdwZzI3aWhsLWJHME5XWFBYRldkY0F3djBCczFaMDUtT1NxaVN2RnNyTU9LLW5XLVNkN2FuWXM1VHNtOFJzRU9KUE8yNWFEcW8yMzIzZ1kya0NPNkN3WExkanVMUFQ0WFBxZEllWXRvMUdQc1lBZDd1UzczU2ZiaXU4RVBBT2tj0gGbAUFVX3lxTE1pYmRKN25MajBNb3ZRYV80dFVITHZYWnhfd18tc084RXIyWDBTMklDMzNLOUppa0FrTzBzOTh4blFuYkhJOElqREpiNzE3X2g4c2JXZFJ2N3g0MXA1dlgySnRUWUtDS052Q1F3dDA1cTBVUkFHbFk0aE5KYjU0eEd0RlRWZ0VsU1k2SDJxcGNVUVY0UWo3bmNDcEpj?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmJkWktjSmlwM1ZBUnNGa2FuRmNmWEVxdWdsZ0RaN3lHOFB5WEFLQmFLZWpNcmFUc1h2Njd5T2dQa0ctLTVmT1VzQ2Z4UEs5YkR5OWZtYkhpRGpfaWN6ZTZjV05DVVRKMXdoOC1uakdBSkYycnFoOEZyRFdobnh2TVEzN012bFQzWVVWaG55T2FueEoyVkV1UndHSHVQNGdLNDhOazF2R1IyemtkNzFIQWZqRlg?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaURnb3ctTzJjcHY5UmRRZUpJblR6RzNQdjVKUUt1dFd1bTBmZlhkeG1TM1pHNF9wd3N3STBPeUlLOUZPamp3RTk1dDR2VUExUnFITkZCQkNDNF96ZDN1QXBidFlWNFBfWTlUQ0ZXRlBtSHEzY1YxZ19xUC1ZbEtuSnBqVmNXUjYyTHZKTkNEazFKQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:08+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

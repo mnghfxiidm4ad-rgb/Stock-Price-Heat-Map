@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,691.76",
+      "change": "-0.69%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,289.71",
+      "change": "-1.33%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,343.40",
+      "change": "-0.22%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.71%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Slips as Bond Yields Break the Vibe. Futures Lower Ahead of Fed Update」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus」と伝えた。",
+    "海外メディアは「It’s August and 5 High-Yield S&P 500 Dividend Stocks Are Back-to-School Bargains」と伝えた。",
+    "S&P 500は前日比-0.69%の7,691.76で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUpLZ0JmT0U1MFNrSmVZSERXWW1jTUxpVnA1aXV4bW0xT1lHOXlzeHJDa3M1dEI5WEppbTd6RkkwMFc0THdoWnFUejJkRlB3dURzQTZRUkNKbDl1ajdCS2hVR0IzdnZLd2hwNU1KOThfNV8xaXdHd1VIaVNQV01Uam5VUU4ySzJzLVM0MzZMZjdSQ18yaG1Rb04yM3VkNjFPTjZIREhFd2J4VnhnWHI1QWU0cXJUOUpOM0ZtX3VPekIzbl9aVWhaLUxTX0diSDJUaDdudkVB?oc=5",
+    "https://news.google.com/rss/articles/CBMiggJBVV95cUxQaGtfdWpDR0oxU3hXaVEySEYzTTFVRXBvbG1OXzFzczhWdUR3aHBvY084c0pFSmkwMkIzeGtsbFoyNlZhbHVuejZyTy16UHdyQkhVSGRQcng2MDRVWk1CUWRVeFhjNi1ydkJNcDJzb1UxZy1DMWNsRDFiWGwwMS0zYmFFZll3ODkyaGpiNGx3RlRUX1dFMG9oY21xbkoyMmI1SERaNlNRT29ScXdWdE1uUGtvbVJza1hKTURBTUxONWdfMENjcUl5SG03Tm5CUUZNaDZqVlV6QlJieEVnR2hmNV9qb1NSRzZ2WWhjdS1QWEdLSDFXNXVtYktjTXVOVGw0Z0E?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjI3MVplRG1kYTBRSm1qNDBsNW05QW5URHRnYTJJYWN0NURDYThMV3gteGl5Ny1YY0lTejlZaFA2YWl2UWs0eEtpTTJYZVk4aUdDV1BYR3hDb25nZFVVRF85d0VNUEZ2Y3NiQnFVOEg3UjlmUXZCc0gyOUllc2hwQjF1ZG5GdHdrT0hXYzVMYw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:29+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

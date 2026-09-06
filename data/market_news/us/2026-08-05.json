@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,723.55",
+      "change": "-0.17%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,363.44",
+      "change": "-0.83%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "54,349.12",
+      "change": "+0.49%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.62%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「US stock market could ride earnings strength to more gains after S&P 500 hits record」と伝えた。",
+    "海外メディアは「Update: Dow Hits New High, S&P 500 Retreats as Traders Await Hormuz Deal」と伝えた。",
+    "海外メディアは「Wall Street Today: DJIA Sets Record, But S&P 500, Nasdaq Comp Fall as SPCX, AMD Losses Beat NVDA Gains」と伝えた。",
+    "S&P 500は前日比-0.17%の7,723.55で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRDhYYlFmZ3FHcjh0dS1TQ2Z3ampQM2tjSmZha3pHMzhVelB5Q0xzTE8zVThKM1haMFVuTWlpNkFXUHA3WlRORjE0NFhBcExMS1hWeVRIbUtxU3RmbEI2NS1FNmNtamhnZXY5QXlUa1FGN1FMRWc4cF9PMVVJM0pfeEFWQmJfY291UFVtLWFiN292QzMzQjNRQWFmY0RIeDBLQlZKS1dPbEZUMDVidHI3d1RSNkVqYjhlX2Y0Z295M3hDb0k?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSzJleC11elVkekpTaXdDX1hZWHhHZnFZX0pUUWhfdmdvTFhNdE9VWjJ1M3c2c0ZoMnRReWxaTkNTN0FnV0lJYnplQ3pxcnByUm1ERF9MTDV2T0otMEFhT19yOGZqOGctUElaczVSZ3ZhM0JUbFNCeHZoY3lYRGItZkVheDZkSXlITWdzQw?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzV4UFl5eHYtRE02Vmdkc3NxTkNGQ3B3WXZObDZkR1RkaWxoWjlOZERuU2hITXV4OXplcHhNU1JUcXhpcVFaNkNUaXBZSVBRTzBXb0pMRWVGSHItbmhBUk5pNVBISkFxLWt0dnRTN05YZWU5WHBHTUFuVk1NQmxxX2tieTVaRWlVa19sRHJEelZ3VWFYSmxJWlVaUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:22+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

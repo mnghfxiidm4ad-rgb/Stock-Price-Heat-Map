@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-11-13",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,737.49",
+      "change": "-1.66%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,870.36",
+      "change": "-2.29%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,457.22",
+      "change": "-1.65%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.11%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500 Drops 1.3% & NASDAQ Slips 1.7% as Tech Weakens and Ongoing Data Delays Heighten Fed Uncertainty」と伝えた。",
+    "海外メディアは「Dow Jones & S&P 500 Slip More Than 1%, Focus on US Data Releases as Rate Cut Bets Tumble」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Rise as Shutdown Ends, Rate Jitters Build」と伝えた。",
+    "S&P 500は前日比-1.66%の6,737.49で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOThQNTNaOXNWM1RyWVlqbnJLd190THJicHZ6bHJ5R2pwQTlEQlltWHFSanFuYXdVTHRXLWdnYUF2NUtNaHFoMExUSENhQ0kyTUdYWGl6U045TDRrdWw4enRoblRld1ByaEdON3lscGt2bFc3azU3eWhtOWpPVklfU2Rvc2ItX1dOdjZpVzMwT3lOMVNYeTM3S0NHNm1lOTdFVGVZVXVHQ1E4cThRZFRoamdaYkhkRGR2YVp3d2UzZmVjRWVhWjQ5MFhneWVYWWVOdkd5ak81LVBENDc3Z2pwUjJZY1B2eEhHaHVTMtIB-gFBVV95cUxQVFAyZDE0eml3RlNhcUlpdmhrSl93a3p4TWtRNnJkZzZzYVJ6a1RoZzl0MDZPRzZYSVdXaVJUdFFhODFrOEx4cFVvQWRBRFdybjU3UkNJWTQtQVp3UTlHWFhLMGRnalVKamRkQmVXTzc0N2ZGMF9FT1g1a1ZOSWpRMzFBVUNrM2libVVVTWFQUXhzSDg4Q040b0xWT3RCQmFHWFNsQk90YUxJNVQ0bXltWlJfUWVEQ0VKVU9MaVpMdFF1NE9SMXMwc1k2RDR1Nk5yRl8zYnh4UDNFc0Y3bkE3LXFNU21aVndQMUVpQkhlWWJCb2F2LUp2ai1R?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSkxHbE9ETDhPTjZ0RkxvZnpqWXZoNU5xRlhPekpkZmtibllfSW9CNE9QNkhmbFl3bU10UkxQbS0xX2VzcFJ3TlRZR3FXeFgzSHdCLWtCN21xRmpnTDE1Qng5T2JwODRweVNyVmRnNkZRVW5jSmYwalR1MXJCcmFUSm01NDFDd1ZjZlpuNFJIRU1PbGpKeEVMSjVHX04xVGtTYnFmaEdRb2ktS1JvdGxFSW9CLXpLb3l4T3ROcw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GR0EtYkk1eXdIcWJpc1pTdWIyZG9HLXhjQ3ItV01QaDFRMllSNnN5ZHdUQlo1WU9CRjU0Wjh0RjIwN1Q1U3VHQnpEd0NyREdwMnpyVTJWX21qREd6YWNFbzRZTGhhOUt2WUNTeDZyZGZHT09CNjNZQg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:10+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

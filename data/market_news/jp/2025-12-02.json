@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-12-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,303.45",
+      "change": "+0.00%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "350.10",
+      "change": "+0.00%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.56",
+      "change": "-0.37"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "止まらないクマ出没…「大きな影響」日銀総裁が懸念 年末“かき入れ時”を直撃（2025年12月1日掲載）｜日テレNEWS NNN。",
+    "日経平均は前日比+0.00%の49,303.45円でほぼ変わらず取引を終えた。",
+    "銀行、鉄鋼・非鉄セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tamtPUmg1OHU2b0t5ZDBHNzB6djJyWVBfbjhFZGZHOHJvSGtzdFk5NHRZcDhENlhuaTVwUF9pMGZYd2hLeDNpV0pLcW5MWERnaDctWWRTVzhEQnpjUTl4MWNOMXp3SVRneVhpOUtlWXN2UEFjWE5LNFgxRGQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:18+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

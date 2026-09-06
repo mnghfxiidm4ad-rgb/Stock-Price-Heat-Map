@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,734.11",
+      "change": "-0.05%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,900.59",
+      "change": "+0.13%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,147.48",
+      "change": "-0.65%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock market today: Dow Falls, S&P 500 and Nasdaq Resist, Close a volatile week as Fed cut in doubt」と伝えた。",
+    "海外メディアは「Why are the Dow, S&P 500 and Nasdaq falling today? Here’s why Wall Street’s top gainers and losers are shi」と伝えた。",
+    "海外メディアは「Dow Jones crashes 500 points, S&P 500, Nasdaq plunge over 1% as tech selloff extends, rate cut hopes fade」と伝えた。",
+    "S&P 500は前日比-0.05%の6,734.11で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOFg2aEw5QUV1VHY3THhuZm55NWY4eU0tUUd3UXJWZGcwMXFYajg0djhvcW5PVEFUajVGYkhGX29TZG1VTVR0cC1MTXBkanA3eVh1aVJHeG50S0Q5b05FeW5yVVFIUFNUM3dCR1JCUlh6VGdZbmF1VEFpVVVzcFlKdjZJb1FGZWtUOW5JUFFrWFZXZEJKbU11M1g0ai1haEc2RTRKZGkwMVlXN3BrZlpiNjBiQlFpank2SVRySFMtMFRqaUE2THQ2dUdKUEpPR0xrOE1ZR0t3?oc=5",
+    "https://news.google.com/rss/articles/CBMilgJBVV95cUxNOVdwQVlWcjBzQXNwWmlvemRDTDY5UnhKbUw1YlpzTHpjRXByNmdVVW9nUDg3UkRfREQwbHI4WnZpc0YxNTBIR1dYRUhaY2NubEhjb3pmVlI5UTVndEJ0dm9NakxTdzV4SVVFVzNiUlE4TFZOUmhocTJ5RE56bE1nd3dwSHBuT2ZiUU1Jb2ItcW5Ga2JRNEViaTc4S3l4Wm1UcGtGcksyNFVkdWVLUWJYenl5TGp6cVZMWUoxOW1FY2ZFdU5NQVFNZjExWXB3ZUQ1M096MkZ2bmhQUDBQN01zZzVqS0licllXSVgta2VmVWI2QzRKcERva2dBb3JFWEgzMnEtZFc4SHNCalFJVWplREI5WDBuZ9IBmwJBVV95cUxNMmd6Y0dod1pvTzZzMDdBcFNtZ3ppbDdzZnE4eHRUSlNZd0tPd2ExUXozSnhiU05wdVNVSGtucm84M3B3UVdkWlRJSDYxRWVjM0lxaWhOYlBKSm43d3JxLWlmeDAtdjh6R3VuOVZWOXJVZE1ZNGJGT0IxQnBOQWVDU09sTU9rS1Ewd01QX2JsSHo1QVUwZGtsUjlPRnhRR3NxSG5BbTZRaFV4b0JENFZ6TWUybHp0UWVIaFNteXlNaUozanZuZVlUUUtKQWpxcVk0d2w0Z3I1aTJ2Z05uZUg3QjBMTE8tRFc0blN3bTRORW9pWFFBMk5xUVMwTC04MTMteThMWHFXdTBmdkh0YUNsRHQzN29YRlFoSTJv?oc=5",
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVlFBeXNsYm0xVHcwMlp5ck1lVWFQdF8yc2NhVzh2bVpJUUFzYjNtWTRhb2wzekFYWmFSZHBzdUV4azRJcFpEdW9yY00wTFpPWlltS3ZlU01WS0Rma055NzE3SkQ5enRpYjJXRm85TFdiRFVaZ1QzQkFuVzJMYlEtUXhJdTJ2d3VoT1BwVDB6QjhLbnBQdEdybTdSbFFKNGFJVXFqdUJlcFJJc25XbGgtbDUtRXotVUYtT1o4eXZYVFRGM3YydWU5TWN6RExXVmQ4R0Y4TVZNTkRJNVNwbTNJWVNzUG1BUHFlV040WFBsTmo3WFFrQTloaHBPYmN0Y1ExRzYxStIBigJBVV95cUxOdzFTNjlybkhXbkp0M05fczlEbWNOV0Nmd3ZWR2NOMUVXRnpFZ3c2VERrTWtPdkdDMnhHU2RJQUlucEQwQXhodE5DWnF5dEQ0QXAybk0tb01Bbm5OczB4ZW9ZV1NnVTB2aVFQaXJtbmZ4SEtaY3cteGxhMG5ncTdqODEyYUpWTHFTX1BLOWtnSGRLX2xuUHd4YU93eXN4SXYxMHdJc0dYTlFtNk9NY1R1QkQzQzk2eWxPOE5oblliNXZneGtUamt6bTk3NFk0SmloM181andRQ3NTZjBHRGIyTkNLeHFEWkFubzJyZlN2ajF1X1JnRnBEWTFzczhQQzVpR1RQQjhlQXlqQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

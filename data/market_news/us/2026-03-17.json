@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,716.09",
+      "change": "+0.25%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,479.53",
+      "change": "+0.47%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,993.26",
+      "change": "+0.10%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.20%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Adds 47, Nasdaq Gains 105, S&P 500 Rises 17」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow, S&P 500 Futures Tick Up As Oil Prices Rise, US Allies Reject Trump's Hormuz Call」と伝えた。",
+    "海外メディアは「NASDAQ Index, Dow Jones and S&P 500 Forecasts – US Indices Trying to Continue Bounce from Monday」と伝えた。",
+    "S&P 500は前日比+0.25%の6,716.09で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjF6M3JUMHdDaDF4bUNqMGZuc19KR2NMWVlGOUpDejBLQzVhTE9aYUFyajZaZkdIdWxnZkpnWDh6MjNVQXBudTRTeTZUQkVkcUsySHRwcWhON1pDTnkwN2RHckptY185Q2o0ZWIta3ptVUl1clB5YzN2aGlDdk9KVGo3N1h3WldaNVBQa1pNdw?oc=5",
+    "https://news.google.com/rss/articles/CBMinwJBVV95cUxNRTJZenVEQ3FnRThwXzYxcV9aWGFtVnRPVWNsVXFJZnJEaGZQT3VHdTBQaWo4YVI2NWlPRENGS1ZiTU4zdGFEVm9oZTlhOWpFZFFjRThFZjBTQUVLX29hamQ0eDhvbG1vU2tydzRYZ0ctSG5FQ1Y5SS1BQTdyRWp0R0owanJjNnkwby1lNEl2ZDBIS25ndndtMjZwVmFocHlhWUJkNk5TU0E2WlVsVG5hSnB5ZWE2eVBsSTZJNG5HRVVIWklXdjV2UjYyRDkzdkx3NGZTTGdOM194R0lETDNLUTRZd2VITFhLQlNGTlhxdHlBaThQVW8wUWUtMnkxNkhlaVp6OTFEVkNFZlpDTGl6Wm5KOUhXZm0takNWVnVLdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNDJ5RHdrYm1nWGZXOHAxQllwLWNiR0xuc05VWV9OMjE4WlZFNHo1VnVCMUlvbkxYdG54eVlJc1dQZzV2R1Q0bGhtUlNYcDNDeUpqV3cyT1ZzU3dJZThSMHBTZWNtaG9ZQVg3S012WlVqZ0pEbktob21FS1p3d2xVVFNlc00taFl5SXNySV9pYThVTkpEU3F6WW83cmR4NnkxOTY5cHVQS3h3QTcxWUZ0b3RqVmtNdnE3bXF4V19rWm1sWXdrQUxWUzlvOXhad0NialJ4eThTYUFRR2M?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:10+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

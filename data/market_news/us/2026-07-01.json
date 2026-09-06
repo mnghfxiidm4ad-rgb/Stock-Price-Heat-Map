@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-01",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,483.23",
+      "change": "-0.22%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,040.03",
+      "change": "-0.66%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,305.24",
+      "change": "-0.03%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.47%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「US futures slip as markets await Warsh speech, manufacturing data and Qatar talks: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「The S&P 500 is up almost 10% this year, despite war, inflation and AI nerves | CNN Business」と伝えた。",
+    "海外メディアは「S&P 500, Dow Rise After Warsh Says Inflation Risks Have Eased」と伝えた。",
+    "S&P 500は前日比-0.22%の7,483.23で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQME5Tdkc5YnZJOXdfbGNsMUhweUh6bmN1Y054V3Nwa3ZRbmpqbHpPS29kZEMwN2U3VjVxWlh0WE9vQTVBYS1QTmtYdTZqMXlmVFh1UzBWMFc1MWFpb3FNSXFxSlpMVnRkQmtjNnFvTF8xVXNhMUx3NzU0VzVUWWZhWTdiRmM?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE91SWJSaDV1RlZqMHZvVlZzSDFEMGFIVlZ5S3dqc1RmR1R4NDcxWXBzUGhaQzJ4Wl9XS2tYbFJNTS1ubzVYVlNSZHNxaVNLalpiVnUzcjJiZzBhcnJ3SmgwckdBd0trd0lpRTBodmxIbXhyN280cGRYZQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjZZM1BOMS0tSnhkNGdoUFZ4X2ZHOHd5bDUxUjVYbmwyY21ncmpNTlVFNmJrQUtWTWp6X1l1YTNzYUR1VTBLQ0ZVakdYRXd1dk5fUmxsMmYzSzI3RE12LXZQWjlISW5mSXlocW1NR2dMb281T2tmcmRaZG9STEUzNEtVbzZHN3o0TGtheURaT1E0eFI1?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:03+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

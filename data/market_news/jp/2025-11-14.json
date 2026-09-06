@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-11-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,376.53",
+      "change": "-1.77%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "352.20",
+      "change": "-0.76%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.63",
+      "change": "-0.08"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "news_bullets": [
+    "5万円超えでも｢上昇余地がある｣日経平均銘柄TOP10。",
+    "日経平均は前日比-1.77%の50,376.53円で下落して取引を終えた。",
+    "エネルギー資源、不動産セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KWGNDcXJtdEU1ZEJPbkxPQkkxUGVnOVU5WWVmSmVVOXhoNVEyQk83b1hCVXoxTUhSaUo2QTNselpEcmRyZDNTZFhKNmFvV0x6NjZwT2RxWQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:10+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

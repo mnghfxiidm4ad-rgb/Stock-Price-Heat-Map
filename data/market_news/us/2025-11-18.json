@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,617.32",
+      "change": "-0.83%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,432.85",
+      "change": "-1.21%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,091.74",
+      "change": "-1.07%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.12%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Tread Water As Wall Street Braces For Nvidia Earnings, Jobs Data — Is Year-End Rally Already In Trouble?」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Home Depot Slumps as Earnings Disappoint; Medtronic Stock Jumps」と伝えた。",
+    "海外メディアは「S&P 500 breaks down at 50-day moving average as market technicals deteriorate」と伝えた。",
+    "S&P 500は前日比-0.83%の6,617.32で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZnlQUC1UVjhVNUZhaE50cU4xZ0RzMjJzMzVzby1CQ01SNXZza1pzbVVKVnVTNFVQenpIV2hBbWpEVFBySXFISlVtRWhqVGNBMHpfbV9iZXRJeG9tRE5tMmNYeldoUWR6b2NlNzJBbzY5TGhTSWJmNTFuR1JDTE13bEF4Rzlsc3BUcTcxWEFsN3hDbFdnZFFpQU9pTldHWWpOYlV2RHhZVXM0TUE5bkR3dlpueDA3a1B5WjV6SUJtQndjMzhCUjNNY003eG1rS29BUGRmWHRTZ0w2d1l6RWZF?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTFczXzN5U1ZyeUpVU09YMUQ2Z1VpZG11Nk9JakhQQm9iOFA5ZHB6Q0M0dUFrckpuT1Ffd0EwRm9sMnBObEMtU0l0YVdVM0ZxSEdRVjA3akN3NzlZM3FYMjN2aU9WM0xqQlVNQ2RSbGExNS1mSXhkSTV4MUVkZmdlaWlUTk5JZTFsODRZRGhGUHhYWXRjdDRSck4tN25jX1A4N0hmVGdSQzRQU3ZVVXBhb2RmQ2FnU1Z2REZ5bDZESmc2bl9xWGx5SW13Vm5VZWo2VERoeWc5MDZTdw?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb0tfZ0N2T0xQZVJ4amhVTkNGQVF3UVM0Wkc0RnF6dHlPX0ZZUFlrelpxN3JjMEdrcWs1eHNqek53NUxOZWNGcjZBaWpMRFJDbV9yRklabklpeUpaN2dsWVRQWkIxVklaV3RRdE14S0hpMEU4NF9YZUUzZ3RHVk5oZ2V0TQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

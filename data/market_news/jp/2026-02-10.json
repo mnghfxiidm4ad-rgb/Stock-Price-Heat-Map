@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-02-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "57,650.54",
+      "change": "+2.28%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "404.70",
+      "change": "+1.86%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.13",
+      "change": "-1.11"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "食品"
+  ],
+  "news_bullets": [
+    "【2026年最新ドル円相場予想】高市トレード再燃で円安加速か！？｜自民党圧勝/構造的な円安は不変/介入警戒感高まる/実質金利マイナス幅拡大/円安か金利上昇か/ドル円相場見通し/佐々木融【FX/為替】 2026年2月11日。",
+    "【セミナー開催レポート】第2回東証改革徹底解剖シリーズセミナー～IPO企業に変革を迫る東証グロース市場改革～。",
+    "日経平均株価、上げ幅一時3000円超 自民圧勝受け初の5万7000円台。",
+    "日経平均は前日比+2.28%の57,650.54円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LQnNJSXZsUEdEQUdYdnlaNTBzSmoyQjljUDNiRFpoT1BhSmZSSXFXOXp4amNJVkhjLU9lb0pDTllqNEtfNVVNNlhkN2gya2RodmRtRW9HMGo5QmszcWc1TEsxdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wVzA1MUpOSkw5SmZyTHFkakl0cUd6OXpoeEdac0lfVTc5Z3d1bzJfbXBZNFBCUGNkTVVhWGVTNHJkdVNkbzd4VlFCV2ZwRzQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rYVhCTTd4dWxCYWRqaWFfMHpja3BfTnk5bzhmWnU3c1o1RDhoRnpadTg1MEsyMkhLenM3QkVIZFZGbUQxSkNVMDJMdUM0MTIzVFlSRUx2Tnd0a01RUFI1WXAyVnJQMWVLWm9YZA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:51+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,582.69",
+      "change": "+0.11%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,879.18",
+      "change": "+0.18%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,504.67",
+      "change": "-0.13%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.31%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500, Nasdaq: From Morning Meltdown to Midday \"Meh\"」と伝えた。",
+    "海外メディアは「Citi: remains our S&P 500 year-end target at 7,700, U.S. Q1 earnings will be solid」と伝えた。",
+    "海外メディアは「Risk Off After Trump's Speech - Intraday Outlook On S&P 500, Nasdaq 100, AUD/USD, Gold, And WTI Crude Oil」と伝えた。",
+    "S&P 500は前日比+0.11%の6,582.69で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGJlQU9LMG91WmRWcXhieDNvTUVtYzhFVzhLdndkd0FBZGpwYjk4TVN1eDNMUmZlT0dWSTg4b0pURmVmWmJPQk9IRzlKVnBIa2J2STlRUXV4UFBPWTFRZ2sydDY3XzVCWG1jc3FWTGdHdC1kYjJOamRtMnZzSWRuaVd1N1dsa0xQU1VLTmhtZk9SY0dOWlNV?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXlkT2VyX0Rxb25YbmJWS2NvUldBM2g2Z1oxZV9tdmZTaUFUcTlzUjQ3YmJqTHpXWjFKR0VSVlIxUV9oWFJCbE5Wb09TUzQ5Z1B3NGtTeE5EX2xQcjVRYjFzbWQtMDA0RW4tZmNPRm80cHpsVkREUjV3cmVvVU94OXAxbjVERVJjVmJlY0lCMXRpck1QZVZKOE56LTNJV3M?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1JGVFJWT1YzbWRSamtQM3FkRXpBRVJfbnJySmJub0FfMDJJNEhSLVRfUDhUcnFpbjF1RmhiS1FmcTZfVmVacG9XdkV0U3BjeURsMC00RFpZWnN2TEU2Q3pFLUNHYWZzeTBwaEUxT0hSX3ktRXNnNXFyeTVwLVM2V3FScnNuTmd2S2dWa0xTa2tlRFZMNTZzWUozNHNhemRzaV9MTTkyM1BqZGdPVFY4eGFpbkZZdUVoRUx4M1FJdGQ1NFM1NGdLa3RrNA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

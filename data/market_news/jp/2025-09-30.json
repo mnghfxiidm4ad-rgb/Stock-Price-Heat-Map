@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "44,932.63",
+      "change": "-0.25%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "328.30",
+      "change": "-0.06%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "148.60",
+      "change": "-0.81"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "商社・卸売",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "日経平均株価終値111円安 期末の需給不安、日銀「再利上げ意見」も重荷。",
+    "FRBが利下げ、日銀は利上げ見送り 中央銀行の役割とは？〈2025年9月のニュース・経済〉。",
+    "円金利デリバティブの店頭取引が活況、日銀利上げで3年前の約8倍に。",
+    "日経平均は前日比-0.25%の44,932.63円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Sc3dhN1YyWDYxMjYxU1Q0cVFQbU5GZVFkQ05oXzRiZkNtWHVqS2kzbDRUck1EYUZUeDRCeWRvbndLUHlMZ19zcktyZThaaDd6VU5qTEVZM3hYQng5NTRtSmFkVmpBb0tJU3RrNQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04VFVsQV9kWTZVSVRkSlk4M0IwVVIzVTR2QV8taFFXaEF5YzdSa2lOcXJwRHlaeWN2WHk3OE56ZXVFTmpaTEw1RnprazZuZmhBMVRPN2Jn?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kVmJWVVhuaXNyUmNDdXhpQ3JteWMzVGdfVk1FSHFEX0xUck4zeVFrWXhnSjFqZlEzaGRhZEE1Z1JudVdXOFBpSDJqVm1jVkdwR3QwbGVQUTI2Sk1CLURLQVViZ3l0VlYxN1E0V1M4VEt2LXpYemc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

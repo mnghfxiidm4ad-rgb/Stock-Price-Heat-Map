@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-23",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,515.49",
+      "change": "-3.48%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "365.90",
+      "change": "-3.48%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.23",
+      "change": "+1.31"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "ドル円午前の為替予想、主要中銀利上げ観測で円安地合い継続 2026/3/23。",
+    "豪ドル/円見通し(為替/FX ニュース )：先週末の豪ドル円は円安で111円台後半｜日中は円安が優勢ながら夜以降に円高方向に戻る(2026年3月23日)。",
+    "ドル/円見通し(為替/FX ニュース )：先週末のドル円は円安で159円台前半｜米政策金利の引き下げ見通しの後退が影響か(2026年3月23日)。",
+    "日経平均は前日比-3.48%の51,515.49円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tdTBxcjNMc3Vpcl9DdmdfZ0FjdkhpRDl6aXIzUnVEdE1Xdm9LQmNPdEE1QXhKcE9ZSTdRTVdkV0ViMG5FUG43dzRUcHRJN3pJTy1kRXZfMkhoaUVZTkVIUEVQcw?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE52eXh1aGpENDlyNkNBdXRSNHU5MkJwT2VBay1CV3FGd0J2U0I4aW9ibnNXWEpYRElLbGlabGlDTjFQZXlsV2JpX1BhTExQeFhlR19weEJ5OTNQM2EwaXdzLWFqTnpWdjlfMjN6Y0h0NDRWYWc?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxZE03V1FoeHdra0pjTU5heXd5NUJGUkVpSE9wbDY4ZE1TVnFjVldudzhXYmVSTHRyMlFNa3RaYmRBNTJCQ1RHM21yVXZpUmstYV9Vd1RIT2wwaTFtbFYyNGZ1U1VwWWNITVZpb0ZBS3dsejQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:09+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

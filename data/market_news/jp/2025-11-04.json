@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-11-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,497.20",
+      "change": "-1.74%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "347.30",
+      "change": "-0.54%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.20",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "日経平均株価予想、2026年末55,000円に引き上げ 決算等を反映し業績見通しを上方修正 野村證券ストラテジストが解説。",
+    "日経平均株価が大幅続落、終値1284円安の5万0212円。",
+    "NT倍率の罠？──日経平均とTOPIXのすれ違いを読み解く。",
+    "日経平均は前日比-1.74%の51,497.20円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kcmNXNE9fbjdOd0lyODZ0bTN4c2R1UEpUbHBfemdQU3VkMnFreHg5V0swaWxxdEJUczFtTjJhNVAwT2dVTUJCZlNBLXN1TTJLZXlCYjU1QnhZNWk2MkRn?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ldGs0Z3lUbTBiVEduMmNoYUFhU25ZOVBDQWJRdXh5OC1OSlhVS25XVDJHZ1M1Uzdzby1MSnRlQXpqeG11dGVMVjlvQUxQSElzLVRoT1daNVZSaFlRTzVqT0EwX2hJTUdVRk5zNw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rUlBhTGF3dWZoWVkxVzNCYVhvNzB2SXdqSWg0WmREaVkxUVctZkg4TVZEX2xEZWV5UmU5WklDMnlYeUc1Y1JCeGpaSHNCM2xhWkZFeE92Yk51UG81bFU5QVptWXltSm5BaE45Sw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:04+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

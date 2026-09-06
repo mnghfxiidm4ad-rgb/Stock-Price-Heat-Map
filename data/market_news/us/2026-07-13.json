@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-13",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,515.34",
+      "change": "-0.79%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,873.18",
+      "change": "-1.55%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,498.64",
+      "change": "-0.26%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.61%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 preview: Markets brace for inflation data, Q2 earnings」と伝えた。",
+    "海外メディアは「Corporate America's best earnings in 5 years are set to keep the AI trade humming」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq open lower as Iran tensions jolt sentiment, chip stocks slide」と伝えた。",
+    "S&P 500は前日比-0.79%の7,515.34で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcndUZ0ZvYmZhM2RqMVlUNjlNTk44VnlWeEc1SnVvV3NLT09XVmZQeUVSQWk3VjZ4NXhrNmZOeU5FbHNLdU5wNXhrQmQ1MG43eHN5WndiaHJRbHFyQk5oMTBtbXZPU3FSMVlCWW44RVdXaS1ZeFJlbVZ5OURlVkdpM3ZVR0Nhb0pwUjVHbHFMVVBoYXdBeGp5UUlaQzQ0N0lSOXl5dUxwdTlQYXFuZWd2eVZyeXpyS3F5eTBrMHFFOWJ0SnJWRkN5MWZLa3dlZw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPUDlmMnppNElDTHpGdUhYYVlFMlVXeDRfc1BhVkFVcHQ0WVpPeFdKaDNjd2dxMmw5bHZWYmF4ZXNYSm90VE1EWG9ORlBmb0RJT3k1Qmg3QjhUYVZDVF84X1NuQjNsdXhEM1pIU2s5OGxUWGk0LXR5LVI4aEtDelVGSUNWV0dieEE0NFJPdk1Wd1NkdHZLV0FUYW1RNkV1dw?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkVxSWR2TWc0b2hLZDEyZXpkTnFOaVlpQ0Z2RUdTQ1BFZFI4Q3p0U3dpTHhqQ0gxUElLXzEzRFpSR2hzWkF5djBidFBzMEI2UjFlaUlqOFhYWHRvc0tjV3FBNzFUdVl3aWFaSTdzYXA0UUFqSU9CcTA4TWNvYnZ0c1hwNnNfS3VveHpiYUFUdVByWkJvRHZIamtxa0diQVNqVXRvWXRBc01rRXlMdmVKVlVn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:09+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

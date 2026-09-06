@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,483.24",
+      "change": "+0.00%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,832.67",
+      "change": "-0.80%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,900.07",
+      "change": "+1.14%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.49%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq Futures Climb While Dow Futures Fall Ahead Of Key Jobs Report: META, MU, JACK, CEG Stocks In Focus」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500, Dow Futures Subdued Ahead Of June Jobs Report: Why TSLA, MU, NBIS, NVDA, SMCI, IREN Are In Focus」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500, Dow Jones Rise As Jobs Data Eases Fed Pivot Fears」と伝えた。",
+    "S&P 500は前日比+0.00%の7,483.24でほぼ変わらず取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQU2UzWVVuRUhvRVY0czMzYVZlNEJWRWVGTW5GRTRJUUxXT1BNSFRzLVVRVTAxWERMNC0tVDBpZHpCZ2ZtWE5PY0NMSkdaZmdILVhxWXd3SXFVT3BBNUZwcFFqcGw3QXJvdVdlYWZSUTBfYklpT2NFLVpCb25pS1hjVnJsQVlZSjdhWHR6QkRlYVJQWVZLdlpZOUNtcXoxeW5mOG9Va0l2T084RWpkMHRQTXlhNno5RkZIMmZLSy00S2xCS2lHNnp3dzdJRFBIbi1FbTdmVklHLXJqVkVnaGgxWVFNeVZFSmhXdFZxSVBIRlEyVjJYTmpiSGZxTS16WGs?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdkZ4cW5LSXFzTkIzX0ZvczlDcUJuYTQtcTFUT3JscHVzU3hOLWZvM2tvYWxNdVF6NFoyQ1RHYXRTQXlTbVhZeHRzQ3NRSkFTbGNWXzAxZk5PbEFBanY3V1czVzE1eExLUEhXVk9TQlJuVUhZdnN0cGdrc2ZZQUoxeFJ4ekVjNGdOQTU3QXkxVFN2MFR3RFl5OHBRbndNczl4SUxUTlhEdi13eDl1VTZMdllaTzJsTGphbXNmZXpPUGdkTFl0S2lDVEl0X0ZZZGpBTml6WlpiSlJYd18wdmhzaXp0ZEpvRjg0R25XRWs4NlZ3SV9RRXNBdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc1ctdVp2SWdyd3BGbGprNjRGMzhlNER4Yi1ObDNIRWRTeFBOWGh4QmRhR2N6LW82LWpoUm1HV1JzbGkxTW52WHB3OGYxT21lWENSdjVHYXZlbFI0QjRwMFp1Q3FyMFdXM1Ezd0pEajJZaWt1QmpfVXpPdjJaLXF2OWZKSjZMdzU5clFsTWNmSndTQlNlbW03bXA3MFp2ZnQ0bWtoRFFkTmNla1VnVTc0UjNVR1R4SlNlSnNTY01NaUvSAcgBQVVfeXFMUGNHbTZDdV9Ecm1kcHgzSkxOcXpPV3FpcTg4WTRibUhxMklTelVqalpQRU9BOGt6Rk5jWFlrUGdTMFdqN1BpaW9UazVlbnNuYTRkZFcyYzdJWndJMzJrVThpR0h0U3dZSEc2X25ib0FLWS1wbjRpQnc4NW1ZTng3eTd4LXREeG5WMDJZNlkxb2YtY0NHSEsxam0zeUlFbWZOa3Q4bWhUeEJPVm5xUEhJYjFHVHJCdXA5VUM4dzRfYUpQUm9ZNzFhZjk?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:04+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

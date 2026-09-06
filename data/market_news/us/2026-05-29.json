@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-29",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,580.06",
+      "change": "+0.22%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,972.62",
+      "change": "+0.20%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,032.46",
+      "change": "+0.72%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.45%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Gains 363, Nasdaq Adds 55, S&P 500 Rises 16」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq, Dow Jones Touch Record Highs as Trump Close to Making Decision on Iran Peace Deal」と伝えた。",
+    "海外メディアは「Tech Weekly: Software Earnings Help S&P 500 Hit Eighth Week of Gains」と伝えた。",
+    "S&P 500は前日比+0.22%の7,580.06で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWE8waTlBRzRyc1dISllHQzR5eGJwamFVaFVfT0doMk43RjRTbHd2dzJFSzRsUFlKMTZHUnFWTEtzU2NXdTkyNXRoLUZqRHdtSHRMcFlKMWtLd0w3Z01reDZLb0JLMHd4X1ZJa0FQTmRFa1JrYzZBZ1NfMXltYzJSZWN5dXhFTlJTU0QwSjFzUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3VvOVhJQzlDMG12ZUpBU2NzMy12a0dYcXlLOXNtRU0yUnZJdF81WEM0RU9KbmxGNnBQdzlTT0NsYURaNGFlUC1RalJ5dEFUcy14Wl9ScG1VMHhZV2dyUmpudUx6eTFyeDRNeHhYQ21LNEVZSFN4MENjY1V0T0V5UEhuaTg0djdWTW1SYU96Q2VoZw?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yV3hacS1KY0I4NVBNNlpWUDdLMDViRmpEakYyME1RRXJwMmp6S3ByeVZtQ0REM2ZPLWxWMXFZLVdIbkpZc1hzNy1pcFVBNTI1X3NKREZfWTJ5dUZLLTc0MHpZLWVOeDIyNTBPbWFyWmdQRnRDLXc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

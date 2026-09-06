@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,256.96",
+      "change": "-2.12%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "431.80",
+      "change": "-0.83%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.09",
+      "change": "+0.64"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "植田日銀は「受動型」政策運営から転換するのか？テイラールールで検証する“2％インフレ時代”の利上げ判断と春闘の重要性。",
+    "NYダウは連日の最高値更新 155ドル高、半導体関連が上昇。",
+    "NYダウ一進一退で開始 半導体関連が下落、サムスン電子売りが波及。",
+    "日経平均は前日比-2.12%の68,256.96円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrYkUwMGZfSnh2QXJkQnJmemg3czY0YU5WMVRVejRvT0RvMUY0cGhKbHRsajBGcDdpQnJJc05SWGJvMW1uMXEzZmxRc0PSAU9BVV95cUxNejNTS2JMdlkyYm1qZWJmMmRJaENzUmM1TGtiNUJ0NkNhR2VIa1BYbVlLRnFOMXF3eVJ3VVBiNnJxRDFCVWxQLUlJMWFwX2lj?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jUG9MUFlId1JoWFVYUzd0TkswcThpelFhbjZIeHpJLVVJT0VSdW1STnVJOUZybHg3Vk41VTVDSkdHNjRDLVpGTkU1b1M5YngtY1BmeHh4LWtZUmNYWms3cUpqZ0dLRm53WTJ4VA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSTJOLVJlR3dOZWIyZ3lzSnVfYWxFNUNjbUlhVmxhSHozSjJyZXM4M3QtYXBGdTdDRkcybkxOVmpTWThMQmZyN0NOYll2VDlwOF9nQjBWbjdvOGtMdzhRelZUaDFWdkVPVXFtbQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:59+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

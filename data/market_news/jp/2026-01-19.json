@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,583.57",
+      "change": "-0.65%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "384.00",
+      "change": "-0.21%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.54",
+      "change": "-1.06"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "不動産"
+  ],
+  "news_bullets": [
+    "日銀、利上げの影響など議論＝植田総裁会見を時事解説委員がチャット解説。",
+    "日経平均株価4日続落 終値592円安の5万2991円。",
+    "日銀手法に倣った合成予想インフレ率の推計（2025Q4）。",
+    "日経平均は前日比-0.65%の53,583.57円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUjJySlE5dTN4cTY1SVh6bm1MUUp0bV8tOGNDYW9yZ3BadlEzRlpSZmdNZ29LR0VxREloYzBkTmpmR1JNVmhvMldGZkp0WEtGQmlmQjIyeGZiel9RdHhTajFkTDRIc0FRdEFBbQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Cc1V1UFVOSTcwWFVkQXA0MHhUaDBtaVlBc0QyTGRyYTBZYlVzcVNCZ1ZEOFpKaTEzQ0Y0VTVmRmJ2TTBZYnJHSmZmdFktR1pmdURBRC1Ja3dOV1N4NGRzZ1NnekJkOWk1RThEYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZeThMQmhReDNwRDhubEhhaUlMS2ZVM0hFeFltYmNrZzB1SjNZakpHV3BRYW1KOElHY3M0QktBdGVtQzVXTTRrOGFULUxBR0F2cDg2R2xIbER0bWc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:39+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

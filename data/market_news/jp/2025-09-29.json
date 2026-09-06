@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-29",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "45,043.75",
+      "change": "-0.69%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "328.50",
+      "change": "-0.64%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "149.40",
+      "change": "-0.46"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "日経平均株価続落、終値311円安の4万5043円 配当落ちや円高重荷。",
+    "米国株SP500、日経平均、ゴールド(金)、原油のCFDのテクニカル分析見通し 2025/09/29〜10/03 米経済指標の強弱を見極める中で日経平均とSP500は神経質、金利動向にらみで金は方向感を探り、WTI原油は需要期待で底堅い展開か。",
+    "日銀の野口審議委員「政策金利調整の必要性が、これまで以上に高まりつつある」…早期利上げ前向きとの見方。",
+    "日経平均は前日比-0.69%の45,043.75円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZWlhHUENkRktyTzF5OFVYc2hUVG1kMGVPazBiVTdWOHpTYVRyYU1SVGdCRWcxTWcxRUU0bUJ4WFZZV3g3NC1hckdscXZ4NmhwaUYwNDNvaFJmVF9ZQjJxN1kybkNQTElfaDI5Vw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FMmJHU1RpczVUYnlrT1BKQmNsNUM5MmFXRkpEVWhrNW1Gb3hjWDFuWDhEcU8yWDNFeUZZMkdHRk1uX0c5U3FoZUd1VkN5YmpJMHo3Vjl1Vm1FbklIRnEtYmxBZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ob3cyTFlhQVJDTXRpRllvRlpta0Q5YWJaek02VzRDbmV5S3BoRG1VM005bVMxLU80SFg5bHFlOWNFaU9ONTZUU0tCNjdjSTRNbEdlS2FaT3N6NnZmVnplRmdIcEY?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

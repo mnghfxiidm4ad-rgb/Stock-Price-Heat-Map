@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-21",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,316.06",
+      "change": "+0.27%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "340.80",
+      "change": "+0.24%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "150.77",
+      "change": "-0.13"
+    }
+  },
+  "top_sectors": [
+    "素材・化学",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "機械"
+  ],
+  "news_bullets": [
+    "日経平均株価続伸、終値は130円高の4万9316円 連日最高値。",
+    "ドル円、高市首相誕生で円安継続か！？151円台の攻防と今後のシナリオ（今夜のFX予想）2025/10/21 #外為ドキッ。",
+    "【小倉高校】華麗なる卒業生人脈！元日銀総裁の白川方明、元アサヒビール社長の福地茂雄、PIVOT創業の佐々木紀彦…。",
+    "日経平均は前日比+0.27%の49,316.06円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjSmkxLXhFc3plSlF4ekFXMVpuaXpub055M05DcmZCMFljVk5rNmVndjRXTEUwbm5pRUJsOFlHVFJienNQZ09hT1lIc1RQNUVnZzJzNEhKSnRNNE5OemV2MFdCUVJiODVBZ3ZGWA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zZ0l5TTJjR1ZPckhWdU5BWFRxOElteEdycXRUb0ZJNk0zNXhxOFJYR28ybFZXQXpOYWI0SEZCV2RWbVdvc3NfX0VSZnhIcllzRGNIbHR1SGNXMGxvSFZMNE9SOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vYng3czhiZVJXMGRlOV93eENJQUQ2NzhqQURGTV9wbHRUbEt5dU85YzJDMktkOWZFbkZqSlJHSFM0UTBPYUdwZVlXYVXSAU9BVV95cUxQTk40eDFyMEpWUXVjWG1jdUp6QVllb2QydlllTS1xRFdyWnhLWERZdTNpNVFFeEd2YklsQU5fVGYzREN4azlsTWV3V0R6TllV?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

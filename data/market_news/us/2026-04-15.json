@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,022.95",
+      "change": "+0.80%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,016.02",
+      "change": "+1.59%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,463.72",
+      "change": "-0.15%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.28%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "資本財",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones Falls 0.5% as S&P 500, Nasdaq 100 Post Modest Mid-Day Gains」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq push to closing records on earnings and Iran optimism」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq push to closing records on optimism around Middle East talks, earnings」と伝えた。",
+    "S&P 500は前日比+0.80%の7,022.95で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmp5Z2NyYkM5bndjdUd5c1NnWHhvUDB2WUJCRDRxWHpfMW54ZW5idzhYNlNrUU9VUWk0UVMzNVVnZzh4Z2Rnck5WMUIydEFnVmFVMy02TWQ5cGJsQ0hGR3FrZnFDeERmS29XZHE2a2dvV3Yya3JIeHhydGczMDlRaWx2SmRlZWlQc1Y3YThB?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXdFd1lyMEFvZTYxc0M3YmVBYnVqTi1SX0dOVFlsTFB4S3hfNDJVdHFVMS13bU13anZQZml1Zm5kWm5jVkszR1JwZU9RVE03cEpuWGkwZTgtSlBCdVI2VVh0OXpSMjdMVnNWZ1lFNUk3aXlIUWtqYWpGR3A0a211SGZ1aWV1NnFCY05idFdxel9ta0hKZlVianEydldxVDJyYjQ5MTF6bmtOa01uZ2FXRUpfSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYU9PdE9VWERPN21wdEE5dTl5cThMNm92LVFpQWdDZGh3b2hkakFvVUdHS2w3UEEyOXRETFlndzI4Y0tJbk9WM280Y1F1YzZkaVhheUVEMnlhemtfR0lldEtQaXJkWTNvWEtBOW9Mc3BYLW5qejdFdS1fVXdEeHlLZXJPNjFLMDQ4TGg0LXNKaEhDUG93c1E?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:24+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

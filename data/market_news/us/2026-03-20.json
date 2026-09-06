@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-03-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,506.48",
+      "change": "-1.51%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,647.61",
+      "change": "-2.01%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,577.47",
+      "change": "-0.96%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.39%",
+      "change": "+0.11"
+    }
+  },
+  "top_sectors": [
+    "金融"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「JPMorgan Strategists Cut S&P 500 Target on Iran War Uncertainty」と伝えた。",
+    "海外メディアは「Dow Drops 444, Nasdaq Sinks 443, S&P 500 Drops 100」と伝えた。",
+    "海外メディアは「S&P 500 Index: Stock Market Drops as Oil Spike, Hot PPI Pressure Fed Outlook」と伝えた。",
+    "S&P 500は前日比-1.51%の6,506.48で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxWUYyWkd6ZEllcnRyZEM3NXdRTjFsMUg5Z1IxZnlOWGp3YUMwRXM1NmVsZFJXeWI5enEtRkl1NENGSmRrWklESEZOSU92V3pOalhUNHhxOE50QWZTWVF0eXVXR0Z3aks2eUVMakQ3Tjlsa1l2UlBXSDg1WUR6NFBhU2VJNWwyeWNsM3FGYzBOb19RS3l3MU1YTlU5T1pTUkRrSGNFWFEzSkJsOWtjS0pKei0?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMnR4ZE5SSzF6enZ3NDJmSVNaZEV3UlN6T2JsR1hIX2YyamthWmdaOXVZajRsZ2xTNUstTXk2a05HTEJzSVBQU2xERXVodElBSEhEeHBMbWdvcVpxTlAxeW9MTFhpTi1sX1d4R1dsc0FRWEFQWTNGTW43ZWM5VUgwbHFBUkttVVBYWTlLUmFrUVFrTDQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ0tWa3VHd0ZQUWM2eEphZ2FIcWQwTUtranA3UnZ5ZVYwRlN0aDlETFc1VDlBSV9MRjlBb2t6RDZyeUZJMnpZbHdxeHFWN0dfbE95UU5XSVgtRGttcDRwV2U5TjF1TDlQQk5LRExPNi1oOUJTeUxmMC02M2tpZ3BnWUFaYzkxUWRKVVN6NXU4WDRHUW96eTdCRnFIWWp6U3hFOWlXZ0Z3MVNrRmY5YjR6VnB4STFaWmNMcWpSenZwQl9IQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:12+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-12",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,020.04",
+      "change": "+2.81%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "412.20",
+      "change": "+1.45%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.13",
+      "change": "-0.40"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "食品"
+  ],
+  "news_bullets": [
+    "【ドル円予想】日銀利上げでも円安は止まらない？再び為替介入はあるのか？大槻奈那氏が語るAIバブルの行方と金利上昇リスク。",
+    "日経平均は「1,802.77円高」と続伸。好決算でストップ高〈東証プライム・値上がり率1位〉の半導体銘柄とは【6月12日の国内株式市場概況】（THE GOLD ONLINE（ゴールドオンライン））。",
+    "【ドル円見通し】6月日銀会合・FOMCでドル円相場はどう動く？「利上げ」か「据え置き」か、160円を巡る攻防。",
+    "日経平均は前日比+2.81%の66,020.04円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JRXJnZlpnR19OS1VmdW9ZS3ltOGdoa3dvNVQxM0ViOVQyLUxnVDhwbkFpN0p5ajVCN2lKNERXaG9mcW1FSGpKUWhRa0tlb3pfN3BmVlpWRjlmclQ3SGFuYXVvMA?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4Q1pvTEpSUGR2SGxlM1RKZFVWY1M5eXVLcm5DdmU5eWlXY0N4S2hUSHFNS1h4UEdta09rc0VnNUN3YjZtcl92NDV5cVY2bF9JSWttRXRxV19SOXJ4bFFLVlF3TFFHdEtwdURMUlBwTGJvWkVqZlltTzZXcmE4Zmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JNnBZQ29TaTNDZjVUVFVXWmVXUmxGa0F0WnlhMEU1cXFyYmhkdkdRR2djZ2tFVkZtWmlZcXV5aUVQNFJNQ2E1ZTAzWjFyaXpDT0JJbGo1NW4xTmZGT1dnTFJtcw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

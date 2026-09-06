@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "67,242.73",
+      "change": "-1.92%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "417.80",
+      "change": "-1.02%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.88",
+      "change": "-0.49"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "【見通し】NY為替見通し＝ドル円、中東情勢関連での原油や米長期金利動向に注目。",
+    "NYダウ、一進一退で推移 半導体関連の下落は重荷に。",
+    "日経平均は3日ぶり反落、半導体株に利益確定売り ポジション調整も。",
+    "日経平均は前日比-1.92%の67,242.73円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zdjNhSkhCOUI4S1VwTlFRVlZLR29lNXFhcjlUazlhTTlpTDNNOFhqNWprbThGbVBvZzQtSkhDTXV2ZTBMSzBuMVZzVzlZaTNnTDNIVjM3UlV4cmVoeXp5R1pmVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTQ3lDV1BRakEtRlVJTmZ2cFpncnJZQWFYb09lUXdXRWtWWDR3aXk3SGkyYVNCeXlZNVV5RXYtX0RUd3JNdEdHQkR5algxcDlVY3R5NVVwU25hclA3QVI3WTJUOEw3dU9qUUJsUg?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnJPYXpPcTZ1czI3aDg2R0Fob2VIcTlDOGIwV0s2ZGdFcW9KdXhaYkVWWXRoX1NDcE1NZG1rakpZN0F6TDA0alpBb2I5Tm42LVJKNDBVcTF5RzJ5YXE5cl95dDFnZ0l3OGExbXBkUTVkUmo3N09fLWhVcGhWb1VMOQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

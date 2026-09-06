@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-31",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,845.50",
+      "change": "-0.74%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,241.99",
+      "change": "-0.76%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,063.29",
+      "change": "-0.63%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.16%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500 and NASDAQ 100 Trade Flat as Jobless Claims Decline and Dollar Struggles」と伝えた。",
+    "海外メディアは「Dow, Nasdaq, S&P 500 drop after flat opening for last US stock market session of 2025 — Details here」と伝えた。",
+    "海外メディアは「US midday market brief: stocks sputter as Dow, S&P 500 and Nasdaq dip ahead of year-end」と伝えた。",
+    "S&P 500は前日比-0.74%の6,845.50で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVGRTcDRvdXZyellDMnhZcE81MUdJRzJiSFZRWUVZdm4wVEk2UVdIUXI1RldSM3RNczBSZUVvd19UazlrWkV3WUtEejRETER2LWVoOEVfR2NEazNYdVZTbmowQ1V5WmR1SEk4T1VCOUZ2ZWV0SmtmVy0ydjJCV2lnTTk0ZmhqMmlZY18wdW5HdUgzbUo1RTdvXzhTNGVBY1lWWS1TVGlKWVRQaV8waks2dURhQ1p0SHZVVDktTlJqWkJMWGFfU1NYcFEwT1pidkQwVFNSWTNtdlXSAeYBQVVfeXFMUDR0dkQ4RlpwelNFMHFaNW0yYXA5QVp0N0d0REhZUUpMRjR5cGdJYThxMU5MZTRvUWtGRGxFWDVfZ3lWbmlvUjR1enFpMVZPSkM4Z0VUa011LURhU1dSODVER2JaTTZ3UXo3RUdKeTRNeDRYWW1WdHMtcWdzV0tjUnpCUmNMVXQ1M1BpNEhMTUh4cnIwM1p6a3hmd2xzVjl2dkZzcnhpN1Izck9HZWFQOFEyanQ3SDdTS0RnSzBMTmhTQWpRZ1MtUGN3NHJqczE5NDdaeU1mVWxSTzM3ODc2V0RleFFkV2c?oc=5",
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONmxGVndXS1FXZnRCZ3o4YUZhenRla2JTVmNma3l6anFmSTdRaWZCYW5uc1lQamRLSUtLemR6Y1J4WVVMUk90eFhhY19YMGUyd2R6b2lJcFhiSEcxeWM0d3dCMzhjRW5RZ3NSSDk4SXp1Z2pxeVZ1dGJONHQtSm4wT04xeXdaRU10SWhsUVZNTTQ2d3VRM3FYM0dTRU9xbWJnTTVGT01aZHlndUYxeG41MmJSOW81QnY3Y2JWU0I2LUp1QTFoaHJlOE1hblhPemZROFNyVzNWQWZ4bGhfR1VaTTFUUzdQQXNlZzlnbmpDLVBFemI0enpGUDJR0gH_AUFVX3lxTE9Rb0txMG9GS3dBN3UySDJ3aW9qMm9DMzBHaG1NUVk4SzFvNlJQMlBWMmRMcXVHUEJJUUJHT09ta1ZOUzFxdC1MVGtyNWxBNkRzVFRJX2R2VHBFWWQxMzdvaFZPVnZtdkRKVFhCWUhhdmJlUlpFRXU5MTRFZEpSTm1HeEZ4a2xwV2tVbklwdFlnUkdKQ0x1bElfaGlRem5kVGpyT3poWGFZNjNuZTh5UlVNeTZ2cm5BNDYtVDRjV1JfWEhicXZGRUhsMnoyT2lSbjBncjBnS01rWmFmVDFZTEJCc2VScWlHbXFhYWpYUW5xN1NYQ200cWVMRGZNSngyMA?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN2hfVkZ0NnlPTDJDVlVfTTVoWXBONEQ3TjBtaGtSQml4SXMyNVJ2U25jS2ZodzM1OUdCR3R0Y3kxUFh3QkhFc2h2SWtNdGRBWGdUYTdUU2lrMWZFMEtMeWZKZlBWSGpfQ3NrWUNVeG5YYjg0ZU1zNHFHUzBHcFpYZkZBaXVyWFpfNGZUQW5DSW0yeVR5TTYxWG9qaUg1eXlGeG9wajBxb1lQazZ3Zkw0bGVQMEcxUW1zU0h0MjJNUFhEX1RaMGpUdWh6RUlNMEVtdlc0andyQzBaZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:34+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

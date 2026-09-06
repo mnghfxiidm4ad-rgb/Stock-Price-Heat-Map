@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-31",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,840.20",
+      "change": "+0.26%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,724.96",
+      "change": "+0.61%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,562.87",
+      "change": "+0.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.10%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains and Losses Today: Amazon Stock Surges as Cloud Business Boosts Earnings; DexCom Drops」と伝えた。",
+    "海外メディアは「S&P 500 tries to hold gains Friday. Plus, more portfolio earnings on the horizon」と伝えた。",
+    "海外メディアは「Wall St Week Ahead Resilient stocks rally faces earnings wave after AI, Fed wobbles」と伝えた。",
+    "S&P 500は前日比+0.26%の6,840.20で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEF5SEEwd0EwWTkzendTOFUyTEhuaVphcHVrNnpaQUxsczVvVW1WM0NsNk9rbXJtcjdqdDhTbEVtcmdTRjU3RnVzenZrNjBMNGx1TVNGWUlWbnZOQXF2cmNqOFUwMndqenRqZC12cnlxT0sxYW1SMmc0TVFROXN6cjVVbkxGdnNJV3A2c01mVGNOVEdqNUVzdFNvTW9ONV9FSlR2bXUtTmZIcGpfYjdHZjdpTG5RRy1kTmFxVjlxYWw4Z0JFTzdIZjFQTlNjMEpfMEF1WU5R?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3lJWEl5ZVg1VDZtcW5GQkRGT1Z5MjM3X1dqSXU3XzRGQkJfT0Nxd1I5NFNGNHVlZWdaS3RQSWhuUFNDLS1ETUdpbC1wWnRFZjhtYkx5a0R6ZDh4Wm50MDJRcVNfM2lTZFdCeEwwclRCaFlBRkdFelMtbFZQYlU2U0dfLXU4RkNVRExoVTNxajREYVVJYkNTOG1Jc3JKbEhnYVJQaFdrS09yS29XM3d2MmV2R2wwUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaUMzc2w2LWplZ1A0T1pSc1dOcjZFbVEyM0FTMjZ3cUpPMWtRc1NfMGdPaS1aaW5WWDNkYTFXeTRmYXlhVmFLYkkyODZWMGFFOFh0OGo5N3NRekRJT3pUUzYxMUM5X0Z1NFFJTkg3UjRNREhDdnUxUUtiU1I3MFE3cXE1UzFxRGpoWXpsT2FQUlBISzNpdnNzeGtucEtPRWFIT3RWYi1vX1FBajRXaFcydFU2N2hKS19JQVdz?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:04+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

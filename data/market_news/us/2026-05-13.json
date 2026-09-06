@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-13",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,444.25",
+      "change": "+0.58%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,402.34",
+      "change": "+1.20%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,693.20",
+      "change": "-0.14%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.48%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「U.S. Stocks Close | Tech Giants Drive S&P 500 and Nasdaq to New Highs, Chip Stocks Stage Strong Rebound; China Golden Dragon Index Surges Nearly 4%, Alibaba Jumps 8% Post-Earnings, 21Vianet Soars 25%; PPI Hits Highest Level in 3 Years」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq boosted by chips to record closing highs」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq extend record run, Dow ends within sight of record close」と伝えた。",
+    "S&P 500は前日比+0.58%の7,444.25で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3JIXzhQTUhweDRiTUlmTmxqdGR6RXhYdU9vSFdEMnhRNllmSF82Z2k3V0o2WFR3b2Vfa0dyUno2bkt2TkxvRGJkQUJTLXVjMEdhTGVOdEdHTldiRkcweWJXcDVnVGtFQWVFZGRYSUYtYlNkbi04cFlvYzZnOTlpSk1zLW1ZNHB5emFiMjV1dw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFFvTzhsTGtZYjFZd3ZLQUNtNGxSZTlyb0ZmX3pKSHFucWF1bnpGQlQydHhod21iUWE2bW54QzgyeEstVGZhQmRpSWZQZTMycFlMeTNtUGtfT0VHeWdaSlJCb0xrY29Gcy0tbm5XMWRDYkgyVUY4UDRycXgtMHRfc2hiUHN1Wmd2YTNEMFZ0ZVdqQXRGTnhETXJuZjYxTUpwRGpaU2N6ZEd0Yldh?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0tndHRPV3BKaUhWNUhLQm42Q1JCUWR3SURYdUFNSl9JV1V4dHRETGtHOC14YjZhT01wSnMzVFNsdFNMemJ4LWx3S0JoMGZsbUctRHN3dWJVWFVhNHlMNXdsZkFYMmNXUXg4R3VpMW9oQTBBNkF0VGtRdldGbVprREIyN0VlR2JWTlM2R3BYTzdJY2VPWFlKMjQwQ0h5bFRNZ2REV19KMmFUWmNTZ000VHdHZTJKRllsMDJwU2Rn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:40+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

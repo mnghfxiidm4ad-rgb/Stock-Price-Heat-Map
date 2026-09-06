@@ -1,0 +1,39 @@
+{
+  "market": "JP",
+  "date": "2025-10-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,299.65",
+      "change": "+1.35%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "342.50",
+      "change": "+0.53%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.60",
+      "change": "+0.65"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売"
+  ],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "日銀、金利据え置きの公算大 関税影響なお見極め…利上げ求める声も。",
+    "日米金利差が縮小しても進む円安 背景に貿易赤字と日銀。",
+    "日経平均株価3日ぶり反発 終値は658円高の4万9299円。",
+    "日経平均は前日比+1.35%の49,299.65円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Vc2VyMFE1SWd5U1V4T3kzRzRzY3A0T1BnS1dzZlRER3JDS0p2dXU1MWZQT2d1cjM5Y3BuU3NlN3NIRmtKSThhUzRpc3hGQmpEOUZtc1AxZ0h6NzF5OVJGY1JwYjlJVVk?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TTG9LNWl2QXJpOG9pemZWTEhNaC0zUnZVeDVhdkFyazZzY3hHXzdESGpJWlB0X0M4cThJZDc0Z1ZWQWJnVklYN09XdTJFeDBuNS1IMkZxell3cEk?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wVlo3SDUtSXRjOXd1WjlwRjNoMmxILVg5NUZRWjJfVjlsSVIxalNJa3R4b25DQXp4M3BxZUlyX0FUaDRuMXN5U2lHOTRjZk83RmNUQWNIMVd5VzhmTXd4cktOVjdNY1Jnb1JJZQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:00+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

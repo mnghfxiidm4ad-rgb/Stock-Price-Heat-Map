@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-21",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,064.01",
+      "change": "-0.63%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,259.96",
+      "change": "-0.59%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,149.38",
+      "change": "-0.59%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.29%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Eyes Apple’s Changing of Guard, AI Tailwinds as Oil Pulls Back on Iran Deal Talks」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq Take a Breather as Apple Says Goodbye to Tim Cook」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq: Profit-Taking Hits US Stocks as Oil Surges」と伝えた。",
+    "S&P 500は前日比-0.63%の7,064.01で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV25BQ0Z4T1VvQTRVWWtHVUV2cDdNZTByeUNTeGdmZHB4aDYwZFFtSUZEeC1rNHA4TU9vZXlXUlk1eG91bGpLbU81NTFGYThyRG02aERDLXNhVzNhZW1qNlI4LTdsS0xBTE9BN0g0cXFWeDJoQnNYZF9ac0ZzaE5fajVIUV9Vb0huVVM4V1JYNGc0VnZscWhZcGhUaXRtM1Q0T1dyMWFfX1hLdnBhWEo0cmh2WlQ3RnV4QUhSZE1kWUM2akVYaERyVWl3?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ1hVd0xyalZqbHJ2YXhxdjE0eW1jd1VSa2lfT0IyTWR2c0NuNVpSc1hsbU5mZEFjUFV4RUdpLUVSZGoxWjIzVVhDUnp5UjNxcmx5aDI0TXBWTi1lLTBvak8zXzVaMnJpYmh3aDVuSFVyN1dWMG5jQWtldWQ0ZEFKa2Z6Nlk4VXBSYVJ1X0laLWJRNkFT?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUdmNHBjbi1uZzdyVXNLYlNETnFRQTRub3ZteGo2MzZJVHpZanJoTzFKdkpnbk16WkluMUptd3E5d0YtMHB6S2RKeE1KX2xzWEtVdXpUWkNmOVF5QWRDNGpRTWVBNWpYb0RSQ2xQSnI0N0t6ZkJXZVJJTFNzTXpvdjhxZW5OUkhLekFfVGZaNFloT1lHX3pUREt5eEpfaVZjUm1tY0JJMWRleWtxQVpPSA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:27+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

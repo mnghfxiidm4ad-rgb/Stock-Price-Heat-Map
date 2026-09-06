@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "55,239.40",
+      "change": "+2.87%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "390.70",
+      "change": "+2.57%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.89",
+      "change": "-0.22"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "商社・卸売"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円高で159円付近｜政府・日銀による市場介入が意識されたか(2026年3月18日)。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で113円付近｜豪準備銀行は市場予想通り政策金利を引き上げ(2026年3月18日)。",
+    "日経平均反発、終値1539円高の5万5239円 原油高懸念が後退。",
+    "日経平均は前日比+2.87%の55,239.40円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRS3hJc05LYWZlNEJ3ZWx6RHd3SnE3TjNJdHYzTmJMS2hKM3kxM2NCTmphNV9mVnRpUkxzNkZEWHJJaFdHMGlaUDhsVFJyZ0J5eFFIODdIX1hYUUNoTXhQTWdXcDVFZEtQZUVfZFNKTFNtdW8?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMR1plVzBMZEFKNG1DNWpvaVN6NlFiallrWmZMaER6dEpPSlA1azc3NFloZ2dqS19aM2RnSVNwTFVBaEZfekpYeEhFS09jNjFIOTZBM2ZMTEZVbUJ3UG44dEJRaG1UX3FGdFpKTHNRWDVFQ2M?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1cTJrTkhxMGZkbXhadG1CWjRSWXYwYmMyT2xDR09oSDFQdDdjeW9pamhXaHFEQ2t5azlhTnlGV2U4WDlZejBfR1ZTb0RBU21oMXAycVJQeHNTbDhzbEJxQzFZNDJqaGM?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:08+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,528.09",
+      "change": "-0.74%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "424.70",
+      "change": "+0.14%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.90",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "建設・資材"
+  ],
+  "bottom_sectors": [
+    "金融（除く銀行）",
+    "素材・化学"
+  ],
+  "news_bullets": [
+    "日経平均は続落で寄り付く、半導体関連株が売り優勢に。",
+    "週明けの日経平均株価 様子見で小動き 米半導体株安が重し 業績堅調も高値警戒。",
+    "特殊要因除くコアＣＰＩ、7月は＋2.3％に鈍化 コアコアは加速＝日銀。",
+    "日経平均は前日比-0.74%の65,528.09円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2hmZklmbmpsTDRESjZIMjFheWJ1dWpCaUtPamtua19MSXdSeXFfdHRrQjdIWFZZTW50T1hITlpDci1XS25mWXB1TktndzVIS0drazNDSVNYd3V2Wk5YTm9wR0dyeGxDcVEtaFItcHJmenVhVjZiSHdUY09tdXJteA?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE13S1BvSVprekNZSThvaHJuaklaSTVRMmZTX0RwN0lVcE40TkF0a080dm1FNktBM05rMFVVOVpYSUc0MFlCMW9oTVNGbFNEYndPNklsQkhDbjlUaVR4RmZCandIeUdsdzhFSjQ3ZnYza1RKUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ25haGtDVHo0b1RYcmgybjEwS3NSVUFoUlRTd0dOYmlPMXk2SmM2Q0Z6X2VvVmpiakZCLXAzd19sdGoxYzNCd1JhbzJqc21DQlhtRHNMaFZVdnRERDRONTdNanRzRlVkZ3hhWklmZXc3UVJHWk1RcE5yWno2a0NnTkJOeHdxRUM1MDZv?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:24+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,693.75",
+      "change": "+0.44%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,788.98",
+      "change": "+0.70%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,381.54",
+      "change": "+0.14%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gain & Losses Today: Oracle, Nvidia Shares Advance; Kenvue Stock Slips」と伝えた。",
+    "海外メディアは「S&P 500: Could Forward Earnings and Fed Cuts Spark a 1999-Style Rally?」と伝えた。",
+    "海外メディアは「Goldman Sachs raises S&P 500 target for year-end」と伝えた。",
+    "S&P 500は前日比+0.44%の6,693.75で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXNlYVAxNEVEWWtxdFZxaDloaWZ6YTRyODkyUEdZdUtPaVkwQW1LeTVXZ1JsZkpqVHVSYXVLTjNkZVJUM2xTWEt0Q0RLb3dzVkhISHlVbGdDTGwtT2JlYW9mbTBMdDd4RUNQNm1wV2dUa3hUUnhjTWlxX0JCV09qeUJPVDlDMW95NkpaRmdvaG9WWktBTS1CSnEtNXlaR3IxLVRNd2hEbkhhbjlacWxNVjlHQTVkOG5zX19Z?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDBLMC1DaE9QVUxDbHAxZzNwZmZXekVpRDVrLUNPZ2p3dno3QWYwQURodk56RUlqNnhVQkVRTlhUTUtkYWEwZ2VOSlUwNE5Gckc1ZUd2NFp4bUhNT1UzWHBZSEhMS2I2WmFOLXI4WVZ1SHAtR3hxUUZBU1g5ZDF0NW5ybEx4X2laOWE2a3B1bnlHVDZSZFZEdG5wWTdNZEhpTjN2c3l4UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0lKTDBIRkNlcHlNVU40c3QtTWVoT0xhN20yOWt5WnlLYTA2MzBoSjhzUkNTTF9QVGJGcWtJQ3pIbElQYkxrQWdCWXgtR1htOHgwS0FKdENVYzhIaDBYc1NQVG9iWEdEc3FhcXJ6ckZ4WFJNQ2c1M1dvdTMtMUxxOWZIUnNhM0FzeGk4Uw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

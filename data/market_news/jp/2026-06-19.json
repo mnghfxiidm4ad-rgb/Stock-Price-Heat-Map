@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "71,250.06",
+      "change": "+0.28%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "429.70",
+      "change": "-0.60%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.29",
+      "change": "+0.69"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "銀行"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で161円台半ば｜米政策金利の先高感と日銀の市場介入への警戒感が値動きに影響した模様(2026年6月19日)。",
+    "インタビュー：日銀はインフレ対応優先に転換、年度内2回追加利上げの可能性＝桜井元委員。",
+    "AI・半導体銘柄に不安定化の懸念も 日銀「1％後」の利上げペース行方は。",
+    "日経平均は前日比+0.28%の71,250.06円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pbUdxS3RqV29xRlJPVU9ucjdRYTk1TXRwNk1TZFIzMXZad0w3bVQ1TFplR1E5UkVaWUFzLTNNbWtHU0ZQeUVWaDVNdzhLZ0Jxd0IxVDhwdXpueWNIbHFsLVF2eTlBWUFESTlYM1BVWmVXSVU?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aY2RRVHJSLW9jLUFYbkhTTHkxWGtTbjhYLTJJSS1xdFFiTXRSZ1NUampwUFpkakx2cDNtcEp4WF80cjNEWmtaZ3FPWUNVNnY1RHQ3c1Y2LWZ2VW5vRWNJU2EyREp0ejhINEhVSzk0NWFjLVEtYVNzMg?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85TlRMZGhyeGdYblR5OVlLbC15bHJ4UndUSEJEVmtDZUs1cldrcVNTY240cG16bWZHNUltV2pQeC10czY2R21UWFkxQ25udTVhbmVfWFY1Vm9BSk1neVk5MHV2bkJqSkk?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

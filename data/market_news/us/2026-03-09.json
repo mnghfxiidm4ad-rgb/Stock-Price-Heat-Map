@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,795.99",
+      "change": "+0.83%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,695.95",
+      "change": "+1.38%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,740.80",
+      "change": "+0.50%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「With oil rising, inflation worries return as Dow, S&P 500 and Nasdaq futures fall in Europe」と伝えた。",
+    "海外メディアは「Dow, Nasdaq, S&P all falling as oil spikes briefly over $120 per barrel」と伝えた。",
+    "海外メディアは「Wall Street futures crash: S&P 500, Nasdaq, Dow Jones down 1.5-1.7% as oil tops $100 amid US-Iran war」と伝えた。",
+    "S&P 500は前日比+0.83%の6,795.99で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxObmg2Z1phMm1BQTBfTzRVSl9CaGNDV3BnTDd5Sk5fNlhsWi1GVzJDRXJ4SWxqaXdHZ0FZMk5YX0I4Y0w2djNuUHFRcklKQlZER3UzakdaNVpnY3ZTM2hxUkM3djRzd1oyM1VRVnRxMmpNNjhyU2ZQZVVyRHlIbXRwMDVVeXBQbk43RFJ5cVRHdzlXZWVSbVVsTE44VWhBeW9LdmRwRm9lLVNBdGUwM0RZdUxCLS1sdDRhQnhXTDJvU2VfbnRaWUtzQlZHcnNDcFE?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUxndHJzbGZ5aE5GNk9OQ2NHWnZoOEt0VjAxTFBaZXduOWtydmRPY3NNUmgxT082bk5GbE1rYU9Sbl85VkVwTXRXTzdxZmdWMW9JY3M1R3VFRFk4TzdzWTdGeTU2RnZaLTdBRUNqbm9wbENXNWVpTWp4bE45bzEwMC1FaDI4M0hqTVhzVjRvWlVaWmt4bmpRWGw5MllaOGts?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkNiY1F0dm5OOHVhSDZhOEdLREtkU1g4UkJFcjhUTEY2NTB3Rm54ZlVHVUR5VW9rSEJWVURkU3d5VWlxN0hzaW9uZkFFaXpFT0NlVjJFb2hRNmY0R0Jzb25JbXROdzBmalRDTnBlcG5SSGdmWWFHWWpBZE5zWTQ2cjNnZU9qZFl0UUFlMlNPNkFzd2ttLVM0a2NBYWwyR1RDUk5RZEVhcjc0NS1YMUNCM1FkY3NlWGxo?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:06+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-12-29",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,526.92",
+      "change": "-0.44%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "359.90",
+      "change": "+0.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.46",
+      "change": "+0.37"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "【写真・画像】東証、午前終値は５万０９１６円 円安で続伸、ＴＯＰＩＸは最高値 | | 全国のニュース。",
+    "日経平均は前日比-0.44%の50,526.92円で下落して取引を終えた。",
+    "鉄鋼・非鉄、商社・卸売セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1udG4xMlo4VUhYNDFuNlhCX1FqUEU0SHRqLTdoMDBNT2g5VmJpWnNLRDZWUnJVT2R1VnU2cDY2SVBpUGoycmlmYS1pY2ZJZnJEMzcycElHS3l3UXlUOFE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:32+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

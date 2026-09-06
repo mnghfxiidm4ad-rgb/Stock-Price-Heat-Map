@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-29",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,905.74",
+      "change": "-0.35%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,474.35",
+      "change": "-0.50%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,461.93",
+      "change": "-0.51%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.12%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Earnings growth, Fed rate cuts to drive S&P 500 higher in 2026: Strategist」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Futures Rise, S&P 500, Nasdaq Slip Ahead Of New Year's Week—Target, Coupang, Taiw」と伝えた。",
+    "海外メディアは「US stocks : S&P 500, Dow, Nasdaq see slight dip in final week of 2025; AI valuation worries linger」と伝えた。",
+    "S&P 500は前日比-0.35%の6,905.74で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTE4tUkVzd3AyN2dETVUtalF4QnJuWTRmWE54R1llQUdZeDJqMG5JVm1jdElPT0tSSTVSaXptTmVObVNUOGxzQmFmcmtzd3pLLVpqVXhNSjZRRkZZUzE3eHo3Sm5nR05yWWVaWTBiWmpSeGVLdHcwTFNIQ3owaGEwNjlRUld5cmI2d1ZTU1I5LWgtbUV0X3BmVjM3THR6eUJ2R3ctLWZwNVAtQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZnB3RU43alFHUWxiSkFkOXE3UkwyYTR2MFdPV3ZhazB3SG1ya0V0SXBDTWxIOEFxMV9aeDkxQmgweGxNaXN5RFRmRVJJaDJsWmN1TGxXd2RYWGpMYlhLR1IyS3VUQ21XLS1LRDdMeEMtS3J0SVQ2MjBSdnlkR0cxLU5wMnRPNUdoMEgxX2dHNktjM1lqZF96anNmSXRlb0lQaEhDQ1pxTVJ4QlRSbExvdFZiemtGbFQ0LTAzdjBITFZtVkNDalBDZ0F6UkIzdXRoSlowSmhQeXFNb05LTnBWbUNaeVlXcF9wQ2hFNFpSREFmamFGTXh3UF9ESldweTBiZ0hOT3BwYkxOQWRu?oc=5",
+    "https://news.google.com/rss/articles/CBMilAJBVV95cUxONGRxVGQteUpzd3lMNTREcllKOHY4QkF5Nk1tVVNQeXVFQTYyc2ZvTndIR29FQWNBdFlyTHlybEZfakt4SGJ5RzVVbmhVQkZHWlVBM0Jqd2hIcDM2Z2NDS1ptcVo5bVpSOWRQd0ozZ0FJVU9EdG03SEkwRWQ3LWZjS0w0cG5iTGJsb3BxNEdQd0J3a1V4S3ZmLWI1T21RTHRRSWNYNVJNekJzQm8yYVh0a3BHQ3NjYjlqRnd6MG84UDhZc0w3NFBHaGpsUDB5RkMxVWdScmZmZjN0aHVqSWJoSUxveGcza2EzZFk3YllKUmRCZ1psVzI0MjdQdFZZOTVScUp5YVFHV1BTQ3RZRElkbnV6cXHSAZoCQVVfeXFMTVU1ZUZGUFBpaEh4S2Y3NkZlZjduZnRNX2l1SndaU1ZIeEJGbF9obXQ5OEtlMEozRldoTXZHTzlZZlVRV3VQZWtILWYxMHhpVjkwMk40bmVTQU1zaTRtOVhac194bkxHY0Q1Vl92MGZPWVUwOThKWEFWVVNzRzFnVXcwT2VWTXhsTGpBV2dwcnFud1pVR2diR1dFbW5qWG56RGpxYnU5RExmVFh2X3dhWEpHRXdvdkxmOElZSEx0WE8zSjFiTlQ2blVnVjE4VmZRSE1VMmNZRm53QXowLUQwMlI1V0hsV0NSTmZ4a0k5dkQyMG8zcF8zLW5ySnY3Z211dURQOW9Cc1Q1U3RFd2dMU0Fack95Ui1CQWhB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:33+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

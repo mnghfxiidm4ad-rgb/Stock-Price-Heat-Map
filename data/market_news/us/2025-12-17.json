@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,721.43",
+      "change": "-1.16%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,693.32",
+      "change": "-1.81%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,885.97",
+      "change": "-0.47%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Falls After Jobs Data Shows Rising Unemployment Rate」と伝えた。",
+    "海外メディアは「Dow Dips 228, Nasdaq Drops 418, S&P 500 Falls 79」と伝えた。",
+    "海外メディアは「This Texas Landowner Is the S&P 500’s Top Stock Today. It’s an Unusual AI Play」と伝えた。",
+    "S&P 500は前日比-1.16%の6,721.43で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHhOVWU5ZTNscFhab3lGckhpZmdrc3FjN1NCOTdwbnhWR0xfaG5xX0dfemxQOXUtRmlJSUhrbFkwc0ZEVThXaGlGYTBMS0tjbHNiRF9zanA2Mm5UVXJLR1BoM1ItUWF5V3M3TUlvcGF0Sk9nX21EWkQzVGdyMVFTRWgtcG56dHVXTGxlZG5adVZQQ0hnODJfaVFCeXpzMVNIc1N3VTV3?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3RnVi1XUW1SZFNreWV6bHVaQi1qQVgtd3Q5RWZHa3p5V2VrRWRTTGlqMzB6RVI5WTM0Y2ZwQTdzNTVtdXFhNWdnS1hJcmhjc0xXSTlOa1JHWGMwREs5SFhlY0UtQ1AyejhiQ01HYmwtQ0ZDbHJKREdvRnR1a2dLdHhELW45ZFVaRm1HazdCWHM?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcDlULWR3My02cmwyMXZUWS1BdGxMX0FpcWwtRHNKY3FrdjM4QzR5OVQwSjNZVkhQZWdYdUp5aXRodWlZSnZYMFRuNGg5UEVRU3ZlbUlOVjlwZnRrNTk3amNEOV9fM3d5VksyRVFDN3pQeHhrQ3RVNGgtR2F6WGkxX2RKRl9Mb2p2b2c?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

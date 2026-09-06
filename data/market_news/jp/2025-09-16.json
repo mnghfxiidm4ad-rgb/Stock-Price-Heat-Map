@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-09-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "44,902.27",
+      "change": "+0.30%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "329.40",
+      "change": "+0.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "147.40",
+      "change": "-0.26"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "不動産"
+  ],
+  "news_bullets": [
+    "日経VIで読み解く「相場のカナリア」──暴落を味方につける投資戦略。",
+    "日経平均は前日比+0.30%の44,902.27円で上昇して取引を終えた。",
+    "エネルギー資源、自動車・輸送機セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPNVpxZVVTZmN3dXRsSnhtRm55S0tZTXZ0ZF9vNTRfdmRIVjNGN1JIc3BGNkhzcWJlVlM1TzRxNTN0ZG9zMzdvdk5vX280Q1ZZMHhwb25KSjZMQk5ra1B1WXJTXy1tbmVpNlZueg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:43+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

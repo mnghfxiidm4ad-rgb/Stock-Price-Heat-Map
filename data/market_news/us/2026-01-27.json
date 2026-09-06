@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,978.60",
+      "change": "+0.41%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,817.10",
+      "change": "+0.91%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,003.41",
+      "change": "-0.83%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.22%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Futures Edge Higher Ahead Of Fed Decision, Mag 7 Earnings Kick Off: Why NVDA, ASML, ALT, AI, UUU Are On Traders' Radar Today」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Mixed As Investors Brace For More Big Tech Earnings, Fed Policy Update」と伝えた。",
+    "海外メディアは「S&P 500 closes at new record as investors await big tech earnings, Fed decision (SP500:)」と伝えた。",
+    "S&P 500は前日比+0.41%の6,978.60で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUTdockd6WnFYcXNZYVZpdFhHRm5DVUdzT3hFWGIyTU5NbGJ3cGwtcVY5Nng3NktDMDZ0b3czamhnRUNrVWd2a2hqeVV1YVlGUjUzamtZa1BjWHJKSkpQcTF6UVQtWW9WOVFQQUQxWTdFUWVUbm5Edy1LOEVtUlduenpPZnkyN1NhaG50dHdTbTA4dUN6RnZSeE16NW9vTjFUWU80RGNFa0NYVDFUcGRrdVp6SF9SdTFXajM3NjczenBXZThXU3lRRzdMWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNemI4YXdQRVh1X1BZaVdPRXJXeW1lZGhaczlQVjNwQWhKbTdrRjd4eEtodGh1ZzZDTkQteGlDRTVaNVczdHlidk9GNmgtTnhjaDBabEtRUFZwUHZMRHNHQWxGZlNVYVpJamh5SmRZYS1nRlZMMWRJTFpzR2wyam1BZGh0RUFqR21iZV9GSlp5ZmV0QzItZFNVRXdURHJ3eG1tcjVMUE1XSzRQVmRxVDJnMTMwVDdLZm5qRzYxeWMyUDk3YzItek5mRzVuZUh5NlE1d2wtRTFSSkRvQ2xzQmI2RnVONGNfU21IQ1FoZ1dpTGJ6a3ZHdVBZ?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0xTbFh1MkxzaTRzMi1RbGNwVEZNdzZTc1pCU2FrUWVlYWpwclJMLU1SblV1d1JaOEpIaWRrYWlrbWxyTTJSX2YwcUIycUFVbUFOcjlHVjdjTkdtXzdvdDNpU0R1dEhUQ0FKXzRzRlh5TWlBQWl2V2QzSG40SENqTlVHZk1XaTFYbjZWMU16SU1pb0JYbnF5Tg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:46+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

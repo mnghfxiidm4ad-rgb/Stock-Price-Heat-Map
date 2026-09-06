@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,057.24",
+      "change": "-1.35%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "409.40",
+      "change": "-0.90%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.63",
+      "change": "+0.77"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "日銀人事サプライズで日経平均は6万円目前。 「勝者のポートフォリオ」は月間最高値を更新！。",
+    "日経平均株価大幅続落、終値1778円安の5万6279円。",
+    "日銀審議委員人事を受け、高市政権の円安許容への思惑再燃か 野村證券・後藤祐二朗。",
+    "日経平均は前日比-1.35%の58,057.24円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LaGMyc3RhYUdPcHFhU0w0T01sOXQzNVFrTWZkbFB0ajhoeDlxTHhDdm1qWkVRVjdSUFlESkxPR3dpTEFGXzlaM3Y0U0huS1k2cllJ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHY0pmYlYwTnRteDdJR2RZOHdaSUdOaFFuQ3Uzb2hQX3hySXlnQnVlR25VS2tqTVdRV3VxT2tqZmVuTkFwbkpsLUdYeTdHUlAwQU85LU8zV1NYMVp2d0RySXFzaFNhMkkzMUM5Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuMGt4WGdBNWFxNE1CcllzeldTRHplQ19rZWFRdThVLVBIV2RGbGR2NHZPSjJCMWhoMG5HM2FJTV9HMnp4NDc5c3oyUHM4a05Dd3B0MDNQTHFhZnV5aHBB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:59+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

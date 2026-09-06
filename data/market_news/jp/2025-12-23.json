@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-23",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,412.87",
+      "change": "+0.02%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "358.80",
+      "change": "+0.45%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.88",
+      "change": "-0.80"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "機械"
+  ],
+  "news_bullets": [
+    "今日のFX予想： 日銀利上げで円安加速！ 2025/12/22 #外為ドキッ。",
+    "アングル：日銀利上げでも円安、残る「介入カード」 効果には疑問も。",
+    "日銀、円安進行「物価の上振れ招く」 10月会合要旨。",
+    "日経平均は前日比+0.02%の50,412.87円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnRkSHdPejZlaEsxX0V0blZaQ0ZXT3VZNENuNURiYXhZMk9uaHJhM2o5SlpfUUp4OUItVk4xc1ljcWxBZ1dwWmNvUGZkdzRta1l6azJvLU84UW1LcVVydVR2Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ia2NhVGlwelJ3MXhqblc3VEltcVZIMjQzTllUcFF2SXJqNXBpbGU0dnA2SF9raklvOVdpa1QxWDJuVEtudmhsQVEzNmhEMHlCdmIwYzlFcGRld2hfMXRPYmh0ZnVIZXhGenJsZGh4Z3EzUE5zU1lkQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Idkg5d21HUjhFQWwwOWtHd3oyNmlMdEU3bWM1cG14Nzc1Y2NPQTRxcVlPV0ZZUndoNlFHcmZTc0ROZlh6LTBOeWVYMjVSUEIweUN0UmtiTlZhZUhoZWhlR1BrVGxjVklIZ0V5Yw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:29+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

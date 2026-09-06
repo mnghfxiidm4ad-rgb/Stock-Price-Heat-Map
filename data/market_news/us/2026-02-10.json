@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-02-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,941.81",
+      "change": "-0.33%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,102.47",
+      "change": "-0.59%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,188.14",
+      "change": "+0.10%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "S&P 500は前日比-0.33%の6,941.81で下落して取引を終えた。",
+    "NASDAQは-0.59%、NYダウは+0.10%だった。",
+    "公益事業、素材セクターが上昇率上位となった。",
+    "金融、ヘルスケアセクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxNUEE5WVluU196aHI3MWtUZmZLUjhkNTg4el9IYU53WklUMU1HdzhrUHFWMzREa2JkRDhpcEx3Nmtna2x3clFMVG1kRjM0WTZrMS04ZUkwUk1zRTBWeUU1TnMwUnVnVEZaUjgwMkZJdXBNc0xpWWI4WXE3aTU2X1JQZlVGRk9LQkFNTlNEMTZXaVNwcnRsS196VWpMQ1R1S0FrSW5wZ1dOcjB6UzlkY1BBb1pIVm5kaGVhNGEwVDlQdGlJdlNubnZ5SmprS3FqUm84OVdDQ2VnRmY3ZDBuVG93UFN3WmM3T2xOcnJXSGl4ZUNCLUtrWlNkSXBiQ1BuM3BDWVdYVEV3?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmNHRWtyR2RkcVJDcXlXUVM4SnlYRWIyYnNKSEh3WlN3aTM2QVN4QTdKUUpneHZGVlhWVlp6Nkk1VWJSMlh5MlUteVFubGlmRTF0SmRSZURmc3J4Rk1LWHBNUDE0Qk5NS2JBTXFBUVYwWlR6bFo1Z1N3RENwRTNUaUxpRmJGQWJxNk5LRWtsR01Bcld6WVUyemRoSkFORUhfU1VZNzRiSk9hV01wakF2OVF1WUJXYUE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:38+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

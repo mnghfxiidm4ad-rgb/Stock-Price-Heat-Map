@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "57,143.84",
+      "change": "+1.02%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "399.70",
+      "change": "+1.14%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.15",
+      "change": "-0.46"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "食品"
+  ],
+  "news_bullets": [
+    "ＩＭＦ、日銀追加利上げ来年まで3回想定 消費減税回避提唱。",
+    "日経平均株価5日ぶり反発、終値は577円高の5万7143円。",
+    "高配当株指数の上昇、日本が米しのぐ 東証改革の追い風続く。",
+    "日経平均は前日比+1.02%の57,143.84円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWZkQ29sSXB0TGpCVmhyamZDLVJ1WGxPbVhzT2RmYlFET0lBU05aLU9aTTN2bFB5TlEwbXl4dnlSVFlvckRxTUIyODdWTHVsZkxRMllodVVUZ1hKUjFNdVoyaGEzN1A3M1B4VzhOQXhOdDdQbkRJcUZEbVZ1SHdQLU1Oc2g3S3Jpd1FV?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WYlpSRDA4ZDdyVXFid0d4ZEpndnlYZzVXLWhabVpQMlRjZG91SE1SZDhzaVNZRk1IRXlOUWJfRmN6M0ltY2dWbFRucWQ3ZlRxVlhMZGZVWkd1SW1pTElDekNhUTV4VXFQTEJDQg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EOGdYNlNHQlZwcXd6bDIxMllLM0ZXVWtfUUFXS2pvM0pQbndQaHlKRTJncllJLXRUOVZUM2lRMDFPYUZWbkNVbWJXaUMyc1ZSMDQ2U1RRajRPb20xTDhldVhkOWZvWU1NcjI2Mw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:54+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

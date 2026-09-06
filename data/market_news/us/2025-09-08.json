@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,495.15",
+      "change": "+0.21%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,798.70",
+      "change": "+0.45%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,514.95",
+      "change": "+0.25%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.05%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P Dow Jones Indices Completes Its Annual Review of Adherence with IOSCO Principles for Financial Benchmarks (2025)」と伝えた。",
+    "海外メディアは「Robinhood joining S&P 500, Broadcom & OpenAI, Duolingo coverage」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Uber Stock Drives Higher; CVS Slides」と伝えた。",
+    "S&P 500は前日比+0.21%の6,495.15で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd1FUZnQzVXhGdzhEUTFmUWxGOUZBeUNXcW9SMkNqSldzYThWSl8wSTI5NGNJclBNVy1CdlNkVVBvRXNuQUN6eC1GZ2FkTTRWZmhiVHBfakpCVEEzWGJ1TmVUQ3kwejJYQ3RyeGs1MktKakFXOGlQbldjX3hQX0FSOGhGZkwzWG5CTGxScmU0MUNxODh5Q0ZSemhxY25DLTF0T2hySkZrOUNsWnlyYTlDY1NsN09OalRBOXo0UFNlSUdFbklSRzBIUU9xaTZsbVNWVHdZck5JLXRQTnV0cUdteFphSVFwams?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZE5zdUNQcW1zbVBaUVNTMUVlc2JNWUhIb3hINWZzek9sbDc4WW85Y085QmF1UDg5bFRoUGsxeTdoUk00LWtfR1JadkU4dktDUVR1Y2FqX1RWYVhWTmJSX09paWVEcHM3bG10TVJmN1pKLWtCY09QXzhIbTlpM0d0MXVXdmJkdw?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2gwOTBBbXFiUEVKWEE0cHBYMUViWjVMTDVpb01kUm5uM1VlMnNndlozVV9EQkk3RW1ZVjRqaUF6UmZHRThURkZ4UDdHclhEeHdWdU9XSklsbnVZMWswRlJvVnpCN212NkdNUnJjeWNZb2NHYzRrQVQ1V05QMjVFYXg3RmxES2hITzJONjFGSTNIYnc1UXlTZktJOFRjS3dES29iOFJJRzM5ZDIt?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:37+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

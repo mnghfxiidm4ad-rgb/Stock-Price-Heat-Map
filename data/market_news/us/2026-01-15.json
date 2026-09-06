@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,944.47",
+      "change": "+0.26%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,530.02",
+      "change": "+0.25%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,442.44",
+      "change": "+0.60%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.16%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq Futures Higher as Semiconductor Stocks Rally」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Recovering on Thursday」と伝えた。",
+    "海外メディアは「Nasdaq crashes, Dow Jones, S&P 500 fall even after more stocks jump on Wall Street. Here's why」と伝えた。",
+    "S&P 500は前日比+0.26%の6,944.47で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3M0dFAtSzVyNm1hbFlTcjZFN3p3Q00wUnBxa1U3ZlYyUVBNeVhkVnRtRTFtekdsZHZEVXY3LVdqYXZDZTdTN2hha0ZHYmRkQ3NTUWF4Szk1aVJ5M2R3bDZyZThGbFR1eFFWS2tybFVDQmR3U3pvNjNGRjhKTDY1aW4xVzNHUVNXTTF3TExmQjJ4eXZGczV5TXBPaTNrTzE3YWsxNE5nRnE2YjlZNFZ5dlBXLThQZHZJaW82eA?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3JnZm5VcjNOc2xuck5URVlNWHhkZmFrU1NNMTMwcDZQMWFESWNlcmFsQ2FqNzZpYUd3d0h4U3h1LThGQndJRFZLa0pCX1Q3ellZV09MY1Vtd3RqTkRZazR0ZDFXYlhjWXRVYTczQXdkTlpaYmI2ZEZ2SzRyU2hwU1hzbDRHcWR4RzlvU3phUE14dmZPUWFwM2d6ZmpJM2x2VzZnQzZvajNfT1ZkVXRMZjRIY1hXd2VFM0ROLUc4VHljMnpxQUxB?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNEtBRlp2MkROdUNsbDhHYW5Ja0lYOUNlcW5RZ0UyVGRJTWpaanp2dGtGX2FTbUJjOEFwUzNKRTRBTEo1bl9fWlVlcThlMWducC1mOFB3WmN3RUpVVUowMmI2dTllRXZBam01cnRJWUJ4eTQtYkZjWk5pQ3N3UFVtN2F2QnJOMENSMTJMODAxem4wRkVMTFJDODliV2dDbXU3V2EycGJwLV9tdjkwemF0bm9rSXktR2ptN0c4eldYa1JfMER0LThlSGVFR3FzbjVaY0UwMVZiU3BrU0tVaTNCZEZfcnV3c29JX3JTYXJfWElDTnl4eXVqWdIB_gFBVV95cUxObEhVVnNyQndpdXN5Ml8yNnJJTjI3emxNSnZpakpTbFJLSVBjbGZSYUFkenMyWXJrNTlvZFNEVjJBSGFaTXJSWFZVdXBaUU1MVy0xeXZpbjJfRjk3M3BaVGYxQ0VieVUwLU9INXd5T2x1YkpwNVVOa3lZcmNVa245T21ETXMyOHRNcjV0Z3BZdUcwX1RLcnVFbFAxYmU3TEFsNlVZS1JUaUVuSVBiV1VjYk43dDBFUXZ5aUtsU0RkNTRHRTlTOUNQOUVFTDFyUzVWNk5na1NLZ1dTYUswbW05eENjcVhjenZUazVxNDJ2dTgtU1l1MWF2MExLQnlRQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:41+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

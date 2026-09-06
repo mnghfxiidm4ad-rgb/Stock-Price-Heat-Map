@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,840.51",
+      "change": "-0.09%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,576.49",
+      "change": "+0.13%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,560.29",
+      "change": "-0.38%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.19%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 ends slightly down as investors await Fed rate decision」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Continue to Wait for FOMC」と伝えた。",
+    "海外メディアは「Stock market today: S&P 500 ends higher as Fed cuts rates for third time this year」と伝えた。",
+    "S&P 500は前日比-0.09%の6,840.51で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWg1Y2FES2FUbzhxVS0td3ZmVU0ydUt3UERKdnBZcEh3RjBoYVJlRTJYNjAxaWxIWXVtbjAtaTRSanRoekZYV3pYMjlrMHc5dXRVbEFNMG5ldGd4LXF4Y3RVblVHbnFSUmtqbjBDMlplakhSZ21XVmFLUVpWMmlTRGxfaDJ3TEVxX09QbGZlZThFampObXNlNV9sM1pVdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXhoX243Q3F2cS11c2VVb2RPby1La0ZJUVN1RWxfV1VKUHdWNkViVkpSZU9YNm1QeVJZYUFsZnZGMHVrdmdTcWM0U1Y3NDZjZWoxMEdmLUt4MXQyUnE5R0hhS216ZTBoTWlaQWd4T0hqQ2VydjdoQWs2bDBqNVZzUFlicGU3NGwtaFBTRzhqUThSSkxWeVh5M1dWMTk0bmNSQUxac0RkMEdEUnVqMkR0aFlxRE5WbExGcEFzemMyQjA3US1iWVVsVTgyRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU0ducDFiT1Raa0w2UjBVRG9XSDNac21wSV8zNDJ5ZHozd1ltVzNzZXFXd2Fxdm5CSlMyVUpXblFVOXNZQ0RHWlVLUzJ2UmVNSTMtQ1I1RlhUc1VSVnV6dllOamp2LVlVcV9rM2tXYW8zcDdVOGJDeDVxaXA0OTVDNV9Xd3ZpVWRDQm9tUy03NUVYdTdOOU1SbVVTVnI1LWNGQ1Y3WW5pemxXenpXTWlZWFRjMG84WmMtSHZReUJDN2Z0UjJRQXc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:23+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

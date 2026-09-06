@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-11-21",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "48,625.88",
+      "change": "-2.40%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "345.70",
+      "change": "-0.06%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.37",
+      "change": "+0.38"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "news_bullets": [
+    "［徹底予測2026 製造業編］AI競争が揺らす半導体市場、車は相次ぎ新技術投入。",
+    "日経平均は前日比-2.40%の48,625.88円で下落して取引を終えた。",
+    "小売、不動産セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZmw5cVZWb2FNZzdSdG5ITVBuLWZkTWRBcmJlMlAxZTAtZ3Y0T29pV2xyRWhxSkVFRXhSVzhfSTN2c1o3RXJTeFNzU05oS2hvMGJidVJGcEh3dmRCekphMkhZT3d6Xy1DUzMzN2dHZkIxS2xxcW14QTN4NGdOWDFxYTJfQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

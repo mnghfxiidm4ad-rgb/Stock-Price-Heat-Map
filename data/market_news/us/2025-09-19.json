@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-19",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,664.36",
+      "change": "+0.49%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,631.48",
+      "change": "+0.72%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,315.27",
+      "change": "+0.37%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Nasdaq Rises, Dow and e S&P 500 Gain Amid TikTok Deal and Fed rate cut」と伝えた。",
+    "海外メディアは「Why the Dow Is a More Accurate Market Gauge than the S&P 500」と伝えた。",
+    "海外メディアは「IXIC: Nasdaq Composite Logs Fresh Record. Dow Jones and S&P 500 Join the ATH Party」と伝えた。",
+    "S&P 500は前日比+0.49%の6,664.36で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVlPVE9QWjdwak44Z0o5ZHotNHk0UXotWkxhdzhFQ2Zfc1dWbEFuMjdDOWFzQ0ZidTFwN3JEdG50aktib2lCSS1CRE11R25QSGVyazhJOExaZnlkWlJyZTl3d2VHck16M3F1TmF6c0dleXlwVkIzbUpVNjBBaXdCbkppWVhlUWdlNExtUEs4THlCU2ZZZzlpYlFzcnh4eWxJNWZaSHBCUk5icTFzMlp6bU9FNWxtMGhLV1NnMTktSF9vNmVzMmZBUTg5bw?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMjZJYmxSY2tOMHUtWVY4ZXcyNDJiWGNTaEdhdmphdE1YTkYtTm1DcXpvZUN0RDVSZVZ5S0FqS0dTTXFSejMxcGpOSWNTekQ4ZjUyczd3S2lTYjJwbUVwZDRaZUp4b2p5amt2RnJOMDhkUTNYdDZMb1lJTE1ZZWpwYlQ2cFdqeUlVc19GSHR3?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaG9WOHdoS0c5WnRPMGRrbWdFS3ltdW85N21fZ2dvVG5nRFotR1ZuNkhLYTBYREs5eXo0TENVaXRtR25ZNy04MFRQOWotQm05T1lXT0J2U3FGcTlMNlRjd1JKNHRKd2ViZS14UzR1WG9fdFBkN2xfZXI2WXpUUkhTaHdUQ1NPN1hZZTEyS2xjcFVLNnNCSVd6a3puS0U0RU13by1oZ2ZKZzRibHNDUlYzYmx5Q3RuXzJDVllaRXZOWGVYbUtBcXoxbEkyb3VfODlrZnUzbWFBQkZIdw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:43+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

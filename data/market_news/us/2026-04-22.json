@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,137.90",
+      "change": "+1.05%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,657.57",
+      "change": "+1.64%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,490.03",
+      "change": "+0.69%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.29%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Adds 341, Nasdaq Climbs 398, S&P 500 Rises 74」と伝えた。",
+    "海外メディアは「Prediction: The Nasdaq's AI Stocks Will Outperform the S&P 500 Over the Next 12 Months. Here's What to Buy」と伝えた。",
+    "海外メディアは「Dow Jones Top Markets Headlines at 9 PM ET: S&P, Nasdaq Set Fresh Records After Cease-Fire Extension | South 」と伝えた。",
+    "S&P 500は前日比+1.05%の7,137.90で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNazV3bm9wWEcteVhMNTV0eTlVX1pfTktWMGIzbUw3M1pTNzlCRzVNQXEzMHl6cXowajVNVW5fSlFnV18zTHhUekdPTlo3TEduNkNFcVU2STczaHN0bmZWdFJJdkFwMkc2RlRuRVROVlZkUjA2WUE1dXBqRm5vZndEbWctRmhuSWsxbzRKS0Nrb3hCUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0tpdkJGZzZmZ19jUEJfUFB0SkFST1RicEZyWTVtNy15TTNRYWVGaFdqTUFIZG9haDJxR0poTl9DVldzN2xqUldMNUEwSVBpMm5rU05iM3c1MEZZRVRpUUJicFJRamVoSjJtMHFDT3JxcHF4MmNmb2tVR2taWDlzcmFiSGVmVTZfd2JONmV3RFQwcFBSN0o5WA?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUVkazhlT2JMU3A2dlA5cjZIZ01xUjFJR0FiRW1TR3Z2anBVY0JJZTlFNGxKN0JQZ1B1OFpzd3V1ZXJSX0tzYXpZR2p6NHJ0VFZyUkpsUlpfeldJWGNkaFI4bWlaaU1CX3hPWUVnRUtxNGxzWmNUVTkyYXR3VHZ2anJYdFFMSmlaNHJaMkJBbw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

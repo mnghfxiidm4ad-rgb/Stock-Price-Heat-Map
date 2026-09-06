@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-19",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,707.98",
+      "change": "+0.21%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,331.09",
+      "change": "+0.16%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,463.05",
+      "change": "+0.22%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.65%",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow, S&P 500 and Nasdaq Rise as Treasury Buybacks Lower Bond Yields」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Climb As Treasury Yields Pull Back: MRNA, BULL, MSTR, NVAX Stocks In Focus」と伝えた。",
+    "海外メディアは「U.S. Futures Little Changed After Semiconductor-Led Selloff: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比+0.21%の7,707.98で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmN6Tk9PejlUdHZzOGFHSFI1b0RvNWdpVW04d1VhY1FYdEViUVRFdVE2bk5TMDk0RHBIS1ZjcmlMbmk5dUpYdXZ6LU02VTlaNTc0OEZEYVBCc3NHcUQxeDBhM2x1VHFiMURrNDVlYi1IUXFPM09GQVUtbXJodktlX1VlaUVrR1hqS21vZWVYZkduaGMwdFNNeWtOWFR0M19FNnRYajB4SXp2Zl9QdmIyVXkxVWdlZjdTM2VraTFxN1JoNnk5ei1r?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEtxVkhMcXpLRlZSb2kzd2ZqNlN4aVJNRmhmWnhHTVNLaGtpejFhXzA1dlAybVQ1cEo2dDAwT1hVV3ZtbC1RdUpPZGtDYTJLa1VkSTZ5M2pCd2ZVTG9xT3EyVGh5OHdfX0ppVFlKaXpYV3Y1blk4X0lEQTRtT3dZWENCQU0zV0JJMFZiOTlEQWpGOVk?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYnJCeFltOGxrc2dLQVZpX25fTlZma3daNkRRQWd2SUdpY285MlNyZ3Y0V2RjY1JlRDV0NVpmS2hPV1Y2c0R3THJ3WTZMSFBXSzRMc29rVkRadndRdkVoa0loOHJ1aWZaSFMzSE9aSnFzczBLZmRiYnBXNVNXQXJSWXE5VHFNRV92TTlrek9IejhmNC1Wb1liTEZNc3lDenZRM243Q0Z3?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:30+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

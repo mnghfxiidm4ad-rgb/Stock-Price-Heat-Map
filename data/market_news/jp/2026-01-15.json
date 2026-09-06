@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-15",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "54,110.50",
+      "change": "-0.42%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "385.40",
+      "change": "+0.78%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.40",
+      "change": "-0.78"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "商社・卸売"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "NYダウ、続落し42ドル安 半導体や銀行株が下落。",
+    "解散総選挙で円安は加速するか？ ドル円160円が視野に、為替介入への警戒も 野村證券・後藤祐二朗。",
+    "日銀、1月会合で政策金利据え置きへ 利上げ影響を見極め。",
+    "日経平均は前日比-0.42%の54,110.50円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlRnotM2ttcUY3eFJubTBIc2VFcG1aVW85cGJ5T0J2a0tvMExIVU16NWQyZ3gxaHNTcGRSME5qM1psTW1ZSzZVNHI0bjc4WUV6dVMzT1I3OEdVNGJWRHI3bHRzcXJYTll0NW1xVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5dl9zV0hEQjNlU1JuSl81aUZRMW02cmdBaW9VcldoWGtFSmNmU2Y0OGVWeUZGUm5kRUJqZGFreUVjYkJBQ0hNbEhIX014Nl85NnNNckstR2p6d0pBcFI0?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSXd1ZU5xOW40YnoySHNtY0ZuRldQM3g2YjNMeUlmWU9DVWJtZ1RWMG9ZX3NfdFZoTVFSRHZRM3hlZ2FpNXF0MUQzYy0xdjF0RHBrbkhndlZMeFE1bU4wZFNQNlJCRzR6?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:38+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

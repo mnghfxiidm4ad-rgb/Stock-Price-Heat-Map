@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,713.80",
+      "change": "+0.59%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "437.80",
+      "change": "+0.55%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.43",
+      "change": "+0.10"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "【ドル/円、来週の見通し】ドル円、160円回復も？日銀9月利上げ期待高まるも、円安止まらず・・・＿2026/8/14。",
+    "NYダウ、一進一退で始まる 半導体メモリーには買い。",
+    "野村證券の日銀見通しを変更 9月利上げをメインシナリオに、年内2回利上げのリスクシナリオも 野村證券・森田京平 | NOMURA ウェルスタイル – 野村の投資＆マネーライフ。",
+    "日経平均は前日比+0.59%の68,713.80円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GakhIOEhmUm44djhaUEhoOEJDRkt1VjFMMXA4OHJrVkpQVjRTdTZrUDVxaXBtNW5SdjBvajN2OUhVQmt3MTloQzMtOHlYSHNkWWpjQi1jU1pmUG40MGwyTkkzQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55a2lvUGo1RV81emp1RTZaTzN0RWtzVTYwelByNVNIQ0dBSFA2TGhaWmNFQVpKY1BzTmVnQzRBSE5MVVBfVmNIX2dEU1RQeld4Nll3WmlSOTdGV09zV3dGaG40ZVpuM3ozRXc4eQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qcWlQazVUY21CSFBwZXVoLTc1Ylp5WXBHSW9ZdkJMemR2eU11TG9GV1RpYUFNVF9GUkV2UXhPaFVmeHlEZXhiUXo3TGVRU3VhQXR1TXVkN09FalE1R3pV?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

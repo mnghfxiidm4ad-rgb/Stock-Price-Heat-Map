@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,806.41",
+      "change": "-0.24%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "398.10",
+      "change": "-0.77%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.78",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "高市首相、植田日銀総裁と会談 衆院選後初、経済・金融情勢巡り。",
+    "【日本市況】金利が低下、日銀追加利上げ観測やや後退－円がやや上昇。",
+    "日経平均株価4日続落、終値は239円安の5万6566円。",
+    "日経平均は前日比-0.24%の56,806.41円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aV0l4VHVEWmRER3FaT3YtRC1zaG95UVdMZ2JKYm4zUzhyVTVDYWVGT1BPZ3Q3NWNqYTU3SWZqc21qRDloREtpTzJNWUttWDRCcERGa3VIeEY5dVZtaXdIREZ2QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ha0dDbmZ6dC1XeVM0djVuS1FJUFFEZGtpSldlMkNmU19DQXo4U19QSnBsTXhYd3N3VEh0blhQMmhUQ3NNWUlRdWoxbkpJM0daUmVXMEdneTR5OUJERnFNcFZGQ1ZGYklXVU9saFV6Z0F0dlBaUnhN?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41NDBwZHdZWXN1SVVOMjFBNm9QWjVhOVFTcEJzSUk4RDR0TllTUG1NTDJ0VG9paWpxRzd4VG55WUtiQXpSVjRCR3dpTHRmMHo3anJYRGY4OWxkWkhDU29oeFFmS3lBekhhaV94UQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:53+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

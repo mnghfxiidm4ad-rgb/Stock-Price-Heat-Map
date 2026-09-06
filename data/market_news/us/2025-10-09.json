@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-10-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,735.11",
+      "change": "-0.28%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,024.63",
+      "change": "-0.08%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,358.42",
+      "change": "-0.52%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "資本財",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Wall Street Today: Dow, Nasdaq, S&P 500 trade lower as US Fed's Jerome Powell offers no new rate cut guidance」と伝えた。",
+    "海外メディアは「Stocks, dollar tumble; Trump says he will raise China tariffs to 100%」と伝えた。",
+    "海外メディアは「US stock market today: Dow falls, S&P 500 and Nasdaq pull back after record highs - Investors paused amid」と伝えた。",
+    "S&P 500は前日比-0.28%の6,735.11で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcjR2dVZTNVBFTVFxWElfVVVVdExLZXRwUGdSeFl1MHpNWGdVXzlTWFZSV2lTdkpNMHlIOTZwLVh0dC1UTFNIVWVIajVnOGNnRjNBb1pOaE9VbTYtN1FPU1E3S0xXTUh6ckhxenJUempKa3YyekFpMTNBTHR6alpVbHhoT0RDcjhnRmVWeXV2MEdFdUxMUDBmaEFLb1pFX180STZ3NDd3aHpCWU9hNDdaaHZnbzZHdzh4ZTJueHVMOWxpeUM0ak1NM0NiU3JCQ3QwSU1hbVh6Y3Q0SFFrYUd4YWdGWjlOY05YVW84NWRLT3NoaURqSjB4aWNrNUFRNzVKSFFfZFh30gGLAkFVX3lxTFAwX2t2TWthdEJuYUZfQ05wRzBlREZSNEpMS0FUNmJrb1RDamk1SVZSaHJyYUhISllDdXVObFM4SzFvVGstUF9TQVpGaHM1d21aaDNEckRJLW8zUkJmWEZhS190VHRURnJPNG1vZV83NF9qelZCRWJsV0NMMTdCbGlfeGwzNF9MblhKOFdsenZZUENIUF9zZHBVU1E4Z2tPeF84TlN0eDZkNUlGSnB1R0lFT3hyODZLTWhWNDJKTkJOTjExWFB2ZVVzcS1qNTExQU5BaVJvTzhqNm1ReC1DUFlBZzNEZ0RYbUdVbzFjRUtTcjUwNXdHV1hIZFBOV2dWcGdHMHYycXhmUGFRbw?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LQkx4N0NPZmU5SG9Rd09nTVZrTGlKQWlwZ1ZPWjkyUEdmTFIwVG53cnc4SFN0M011VU50dDhjbWpoV0w1aTVZYmoxYlFGeE1mQjNKNFNpUjk4S19OQmNvYVp4NDlKcVRtd1YzWkNxbld0YzhBNDlFZzVzaw?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPNloyN1Z1LW5yM3NUZUt5OWFqaDUteUxtYnJtTnZPNGRjaUtHRHpLUmZHWjRwMUxMOFRBZmZQUzM5azFwNkJKRndmQVdzWXFTU0Rjamxod1ZWWXVNTl9EZS05WC10OWxvODA4WVpnaGlEMFpXRm5mRUVrM05FRXhxTG5uZXRsc1k0QjhXaVNfekJJWE9hRlphUzRNZTAxREpDMFhMSW5qS2c1Qi03UW5wZ1Y1SHlfYkh3aWNXRzVaQjhIRER3ZjMyUVd3NHhTSTNlSkxrZ1NORWlGSkN2QkJHM2lNX2JUSlZhVDR5MEItQVJQNGFyZjJSYkdoZjdaMkRhc2EyaVV6YXM4ZHplU2E3V0dzMTJkbU9aYXZwN2hETENjd0ZUX0g3UWYwcEFXZEp6ZFJDNnE2TXJodTRGQ2h1Q1JRdlRrS0tkaUw2WDlfZm9TUGM2eXpDeUpNQUbSAeICQVVfeXFMUHIzX29BNHQ0ekJwb2hFbmdoWDN6Ti1NZ05yOE5NTGlCZExMYWYyOXRBaDJJR1NUdkJwQ2NTdlJBTzh6TWo0SnNDWl9ycGg5VnRDY1J0LXFnbTJ3X2M1VVJvNGtPQWhIbnZzOGI3dnl4YVFtWVJSMHRVOTZLeHhVc1oyTDNxNXhKNmVkRk1iU3ZGTlM5cnlfSUxUeE1TeHd5R1JqTmhiWkdFY1Q4YndGSlVCdzM0ZzhVQUMxeXhISzlIVDNucHpuX0RBV29JX3RobUxwOTU2Q29TcmN1QjJmejNWWm50TUlnSTVrazRZTzR6RzlnSklZUUVNenVPdGRaWGZsdnVUWXBQQUtKZC0wYUJ0YkhmeEs5alFPSnJTbWFELTZHXzkzZ0JvRWlVV2dPenBkOEJTb0xQXzZFTHVfblFNeXAxUmFrZDlCbm42OTQ1NHhVUnFIaWNJS3BhNHREejVR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:53+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

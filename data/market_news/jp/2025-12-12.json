@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-12",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,836.55",
+      "change": "+1.37%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "359.30",
+      "change": "+1.93%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.57",
+      "change": "-0.22"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "食品",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "【為替】日銀利上げでもあまり円高にはならない？。",
+    "【為替】長期金利がさらに上昇した場合、日銀は利上げを続けられるのか？。",
+    "日銀の『金利水準』と『利上げペース』巡る発信に要注意、それでも『高市トレード』へ回帰するのか？。",
+    "日経平均は前日比+1.37%の50,836.55円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UcHg0TWpxOUNIQU5Rd05TeVBUbUR6R2E4YlRWSk1YQ29PV2pmdUlhSGxtREs0UC00Sk5GeTNnTGxxbHhlZVJZSVNQQnpRR1dULVZKbNIBV0FVX3lxTE9WLU5Ed0JkblRnaVJRQzBMYTZPVjBsQ01rMGlyZWdsODlNbDUzUUdXdkVraWptNGt2Zm5kM2NmYzZmUGtITDRkSWwwUVp1NHQ5T3lDUGRLQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFeWl4ZW9FN3FlcTBwTjlzLU5NUzZVbU5BYUVjZEJ2dXh1V2JRZGV0NjF2M1UxY3RLQlFsNEhOblBobmh2WnJaOEdtc0U5TFgycUIwa9IBV0FVX3lxTFBHT2lERGVwc2VpMmN2dzdUNXpTbHEwYVVnb0prY1lPazVIUHNPYTdrOWE1OEQxVGE1MnJHeV8xWTlRQ1ZNLVZMTDVkckJkc3V1d205X0FYaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpbEt4cFZYOG9tVlNBbkJvb3JBZkdiYkRhTjI3TVZDTEU5T2ROUmJURWM2RTkxdGZYaDRVWkszbkgySWRMRXNVUlFMdkM5NlNENF85ZERDbE5HSWtZdkNqQ0VxNA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:24+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

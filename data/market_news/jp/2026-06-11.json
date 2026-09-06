@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-11",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,217.27",
+      "change": "+0.06%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "406.30",
+      "change": "-0.37%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.53",
+      "change": "+0.14"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で160円台半ば｜米CPIは市場予想と一致(2026年6月11日)。",
+    "日経平均は終値38円高 一時1800円安の後、AI関連に買い戻し。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で112円台前半｜レンジ相場模様で取引される(2026年6月11日)。",
+    "日経平均は前日比+0.06%の64,217.27円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ic3JRNTZIWWJCT3V5S21rd213T3EyN2dLdDdsYTdaZktVRlJKUW5kNWxIaTV3blpZMnNkbE9TeThnbU1kT2tVOEJHLWNKa2J1cjlVQnFsLTg5S1RBZmJFZTJOeUhaSTBwcno3TVJMZlNDQkU?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEX3FYcmxDNk5TaTFTUFdJaDNoVkNRZzRoZVZOakRNRkhELTAtTjUyZWQ3SkJuWTlHTkRVSXlwMHR3MUJ0RmdLQWVZSzhRZVcySmhTRGg0TXFEZkgyRkdfaFBZQ3FNZ0U?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LV2xWTEVDV2U4OHQ3cFI4UF9lTFRjTHYzM3B0SzlFYUNfcndhY1E1T2xfcTduZ3FOdjJlUVdJd0VtNjVZQzRESDRING5NTTJ1dW83a3dTRDVEM3dLemNQbUxiLU9jT0F6XzRmZUdFTFdQbHc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:46+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

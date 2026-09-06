@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-09",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "52,728.72",
+      "change": "-5.20%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "375.40",
+      "change": "-3.82%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.43",
+      "change": "+0.89"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：先週末のドル円は円安で157円台後半｜米雇用統計は市場予想よりも弱い(2026年3月9日)。",
+    "ドル円が160円視野に！中東リスクで原油急騰、有事のドル買い・円安加速の可能性 2026/3/9 【FX分析 ドル円今後の見通し】。",
+    "日経平均2892円安の5万2728円 原油高騰で歴代3位の下落幅 [米・イスラエルのイラン攻撃 イラン情勢]。",
+    "日経平均は前日比-5.20%の52,728.72円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZeWlVUTA5SDdFZWV4N0ZBbWYzekktX2poUnB4Sk9vV2Y1TFRYNkJoZ1dWTWlyTk9SNkt5MWpkdDZleUFxRVdnVlE0UDJ6NHotd3lPaEZEQ1o1UlVPUzdWVHFYLTlsbnhXVU1ETjJfQmRWV1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSeTBqQTBaOXY3OE1COEpXVXM3SzdZbkdQUVN2N2dpTnlpVm1wazBEQThDX1BSTXB3YUZaOWM5aV83WU1HVmszTS1qNjJrZVNsZ2VRemtsM1k0bU9PamVocndZNA?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vTXZqOUlvOUpsR19hUWNXeG9UeGpaTWhwdWlyWnU5bGZTT3AzVUM0U1FycXFJLU9DeFFPUTJTRndHNDZGMGU1RVhJWmJFZDUxcnVXM0ZUT2hnUzYxXzlERE8wNlJPS2c?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:03+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

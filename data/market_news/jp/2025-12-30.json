@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,339.48",
+      "change": "-0.37%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "357.90",
+      "change": "-0.56%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.01",
+      "change": "-0.45"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "日銀委員、追加利上げ「今後も適切なタイミングに」 12月会合主な意見。",
+    "FOCUS：日銀が0.75％に利上げ 財政規律の緩みが連続利上げ招く恐れも 服部直樹。",
+    "日銀、利上げペースで委員見解割れる 「数カ月に一回」も 12月会合意見。",
+    "日経平均は前日比-0.37%の50,339.48円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ea3AzcDZheXdxWG9HMVdJSkZ6b21EQ3pRa2UtNlJnMTNvMGJ1YVdZdGV5ZHZxSlM3cnFIN3pDMVpoWkJ0NUZQc3JpelpZbjVKTVVnaUhJbVpjSENacTNlakJXczVRMnBhZzF5Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Pa2lIa0pKbmtRandadktJRmlVa0RqWFVuX1liSVJTSkRDUl80c1R2WDdjWjc2aUdLRURNUnA1WDNZZWFUb1huMFZ5UE5GcHhoMWpqa2xoRnB6blpFV0g2TVVlQ1NLa3dVbnc2VnlSZGlCZWJRekozVkUyZzVETGs?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jbUJDSmJNbHpmN1Y5dU9tSXhqbzgyT21hd3NqZFQtdG1kX0hEaFpTemVQbVZvOXZqd0plaGZ0dG0yaUNBZ1VVT1lSTUpzU2cwbVlRb3dB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:32+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

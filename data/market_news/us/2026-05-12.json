@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-05-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,400.96",
+      "change": "-0.16%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,088.20",
+      "change": "-0.71%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,760.56",
+      "change": "+0.11%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.46%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "S&P 500は前日比-0.16%の7,400.96で下落して取引を終えた。",
+    "NASDAQは-0.71%、NYダウは+0.11%だった。",
+    "ヘルスケア、生活必需品セクターが上昇率上位となった。",
+    "情報技術、一般消費財セクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXhZaXg4Vm0tN1dtaElIcENYMUE2a2M1MWg3SlBXVkZrczZ5WXJUVGJXM0VFbFRGeS13WTNfd1pYa1NxbkZLNlRRUVBtOF9jRXZHNVNIcnlXbFZWaF8ycnk1d3BUUUY1THJrQmUzRmFOSURuZnFHenZyTFEzNmFJTEw2Q1d2QVhDbDVhSE9qSGM1anp3dGdDM1d4VndSSUoyNkR5TzY2MmEwY1BqZ0hCTjd3RHnSAboBQVVfeXFMUDJpTDVWTkpHNG1rVmd0YkFKSHhpcnYtZ0ZqeHlBVFZkSzdNX3VsQkVMOHpUaF9Vc0IwbllfODRpREFuTmFrLUZCSGwxbUNpall6RE00U1ZRTlhZdXNHX202SHFUX0Z5eklQMlNVdTdEaXh1UHRLdEI1dThVOVlYRVpMN0pYU0hkWUJ1cE8tbU93bGZBZkV3aEpvUm9IZW1sS0JGbWRqeXNmTnZhaHhNZm9Rb1d4Tjc2Vkx3?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRSdFhfX2dwTkYzSGtmMkZZSzY3enF2bjVVdEhkdm9DbnBIZVJ3V3ZhM1g1VzQwc1E1NGRxa2ZFMkphR01EYTJjLWhPcFFSZWhkT21Qa1VIckpYOUtoN1NudTdvMXVENUs5SzhlUkV0dkZRcElYcEdjLUR5ODJ6b3p1Rzc4Uk5RZU5RSElxLTlUWS1BazZHUEowUzd5TUFwVFJj?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

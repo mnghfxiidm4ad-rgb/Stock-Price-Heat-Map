@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-30",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,822.34",
+      "change": "-0.99%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,581.14",
+      "change": "-1.57%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,522.12",
+      "change": "-0.23%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.09%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Futures Skyrocket As Market Eyes Another Weekly Gain — Apple, Amazon Rally On Earnings」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Futures Decline, S&P 500, Nasdaq Swing Following Fed Rate Cuts, Trump-Xi Meet—Ama」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq slide as Meta, Microsoft fall on AI spending concerns」と伝えた。",
+    "S&P 500は前日比-0.99%の6,822.34で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONGhkSFdZbmhGMlBXMDB3LUstYWUxaThhRDhrYW9rM1Jyb3ZWSDlrTTJvOVFjdzNQQnRTTzl5Z3RWOWJxX0dCbVRUMkI3QnhpaDViN1VVRHdWWEllUXoydFEzdHdjcGxEMENlbnNYVGRUdnVJZDZMd3JWMXdCZFpCdkFOY1NNNWJndzJrQnVORmxDQkZBd2tJY2ZGVUVCNUNDWjlZMUFYY0k3MjE3NlJTLV9FUU1sUDJfOFVHdDlTMXNDX293RUtIWXU1V3Q5VEU5TkdJczlNeUtQODBQZ2w4S0w1N3o0U09vRlYzX2VMakVMVFZpVUYxVHVR?oc=5",
+    "https://news.google.com/rss/articles/CBMimAJBVV95cUxNaTk3R2JRTWozS0R2bmlFejVnVFNkUlZ4akN6TnFVaEhOY2VRUnV1Y092cm5DY1JidWRnLXZJY1NMOUJnazZJUm9QaFpNSFFBSXpSanBFTkxOSDZIQjNPYkRpRVZzZ0hqVkZHZDJFeXFPYi1RU1BOUkdGQVdyVGFOUmRvT3EyOGI4OG1CT2JhTjU1amY5U0hKaWgwbmsydDFZT3ZjU0tiR2UyRWtpbkxiT3hLbkxNQUc1alMwcFQya0lVTjFldi1GemRUdEJ4dWZRVXVhb0ZhcUJab0Y4eHdKWVdUbExGeUhWMW5teUYxemRmd2FES2tFZ0FXTGU5RUw2M1kyOWpCdUtsWTlReEFZSVhFclN5YjBx?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdTdhVF9laTNqZ3B6czd1QmZ6bThlTFQtQnozUjJBMzdEMXpBRE9YS3Vhc00wTTFDdEQ4SDJlUWpSTEMtbTJZbVhWVndrUXRBX2hrUzBLUFNpNDB4VzJfVWRnSExFeGVYMFYyM0d2Y1kxcGRJUklZQ2F3cGtQZWdSQUlzMmxvWUlqNUt0bGgxN0FyN2ZsZ2ZPM2FLbVV5SWFCaFF4eHhQRzUxZUxCNjkwMEJmYVVIdG5hTkhORU9lMFNLRTU4ZzBDb1dxNWNyQ0F2MzE0?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:03+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

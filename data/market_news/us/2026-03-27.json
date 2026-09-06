@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,368.85",
+      "change": "-1.67%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "20,948.36",
+      "change": "-2.15%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,166.64",
+      "change": "-1.73%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.44%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「NASDAQ Index, Dow Jones 30 and S&P 500 Forecasts – US Indices Drop Again」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq Slide as Iran Conflict Keeps Oil Prices Elevated」と伝えた。",
+    "海外メディアは「Dow Tumbles 800 Points and the S&P 500 Posts Its Fifth Straight Weekly Loss: What Investors Need to Know About the Worst Streak Since 2022」と伝えた。",
+    "S&P 500は前日比-1.67%の6,368.85で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcXFFaE9sUVQ1NS00NFIyQW1kSE83YUhmSnpBTnBaWmhtTDBmZUhyZ0dEUlJtcG5PcXZoaUhGWTNuMHB6bzAwODZkRUkzeUNUcEl6dXY4bEkzazRyQWJRMjBhYkVkT3plUS1pdWozMVIwVmc1WjRxUWE1NmF6YmFLcnJ3bkdST2gtdU9WeXdTdkFwM2ZjUTVRWTlRVXQwSjRJR1NYMFl6VVFQaEFzWGlhZGJ1VkNBMk00dnVv?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVBtU3ZWaTVMeENxWllha21KclFiOUhoNHBZUEhhTWdXeEhDSl9UMEdyY1JHZHpWWERLbWJqWTJaa2licFVzUWc0bU1uTENNSVlRVU4wNUdBWU5wWVR6NTR4YW1zaUowMTFWTm9TbjZBbTlONEpJUmFQQlJmR2FxbW1aeWhFUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWlRaFRaaGplSlpETG4xVVREN3F5U1hhVU0zYlVJbTdOdlNTaFpiTFpwdnB5ay1rV25NRFZzMnE3bWNMb3Y0T01kV0dmNFJBX3ZPX0VkeHI0MWQzY0txZFEwVzBOdUFhejBzSkI3VV9aMlU3dkVJenR4ZHYydDRSZ1RQc3h4Nm50UmVROFlSb1ZDZUhMbWdROA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:16+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-21",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,016.36",
+      "change": "-0.30%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "424.10",
+      "change": "+0.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.88",
+      "change": "+0.61"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "日銀は9月に利上げを決定し2027年末に政策金利は2.25％に #エキスパートトピ（藤代宏一） - エキスパート。",
+    "サイエンスアーツ[4412]：「日経・東証IRフェア2026」出展のお知らせ 2026年8月21日(適時開示) ：日経会社情報DIGITAL。",
+    "（まとめ）日経平均は200円安の66,016円で反落 来週はエヌビディア決算に注目。",
+    "日経平均は前日比-0.30%の66,016.36円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejgwb3Y2MGRENjRyMW9DbFdkWkdSZHVVZ0pSWmd1YWFvZURMZ0xiMDRxdU5aTC1yRXdYWVBIYzFIWVFMdkVnZ0o0WEpXQ01jQlVrWGkzQ3RWQ3ZkMlp3Vy0tLUhERTBoT1hWR1owdUJVdmcwQ1p0U3JkYUtENXdyLW93S193SjNK?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sZ2VHMjV2ZnRaT0FvZ1V5M1FUOEJrZFNlc1dsM09TM09QTVBMMzFxdDgzQzFXUzBscl91RWhFTUlkb21UaExWTWhRY19VMFBhQ01ya0xuOGxTOE9YeklZbDNhNmlKQlA2bWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aNTJDc3hybXhYbjU5SnRvOUU0cWthQTdCWXl6R3dObHlZQi1kdFppbEhNTXhieTJ2Z3I0eHNuNjRGYjlSNm45OEJLOEFURXZOZjZ2RNIBV0FVX3lxTE03bmNDcDdPZFVCNVFxdGhtX2paWEhpU0J1c3pPWEtCTnVqQU5iUjFubzdtY2hOaE9JUmtMSzBvQ0FlYTBiWmR3UWtDTExiNmp4cVViZF83UQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:23+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,45 @@
+{
+  "market": "US",
+  "date": "2025-12-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,774.76",
+      "change": "+0.79%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,006.36",
+      "change": "+1.38%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,951.85",
+      "change": "+0.14%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.12%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Can the S&P 500 Get to 8000? These Experts Say Yes—But It'll Take Big Rate Cuts」と伝えた。",
+    "S&P 500は前日比+0.79%の6,774.76で上昇して取引を終えた。",
+    "情報技術、一般消費財セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcW0tNXZRRDJqRFViRUNUc2JUMWtIUmg0YU9mck00MGJNUlM4dEV3TFAwcXhpN1RCTzZvY0FOWjB5S2ExeUJSOGJyVngtaktMYlJNS3V3bVJ5cUZ1RkVMV184Yk9Zc2FfSWQ3SjNQeXRHN3JweG41MXRCNHotUmpIbTFpNUlhVllqMl82ZmdTdC1yQ295dllycjJoMENBTjVCdHUwWkgzWmE0aWNRR1lDcjR6YTJkRGpHSDFyag?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

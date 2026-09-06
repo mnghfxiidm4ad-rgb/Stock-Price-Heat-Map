@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,158.19",
+      "change": "+2.87%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "418.00",
+      "change": "+1.36%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.95",
+      "change": "-0.07"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース )：先週末の豪ドル円は円高で113円台半ば｜日本のCPIは市場予想よりも低い(2026年5月25日)。",
+    "日銀の6月利上げは長期金利安定の最低条件、金利上振れリスクに警戒 野村證券・宍戸知暁。",
+    "ドル/円見通し(為替/FX ニュース )：先週末のドル円は円安で159円台前半｜米国とイランがホルムズ海峡の開放や核問題について合意か(2026年5月25日)。",
+    "日経平均は前日比+2.87%の65,158.19円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OSDU2WVROQmNTeUZGOWNXamN5WHRfRUowcVJmTW9FYVlvSlJoNjJfdVZ2bFAzeURUcTRXN0dBSDNtTENkN3F6V1FVd1Q3ejZvb3lQQm5pUUc1TmppeDVOTnlMaWFROG11elZ3TjhLb2pMUk0?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlcVFmOGpkTThqaGQxSVp0ODFpdmRBa0ktdTJXRzJvY3d3ZFk0UXZwWkdKYllNRVlfaGZTU1NDa0JEMWZQTF81U3JhdkdfcFRIUWhWZG1WTXNkRnEwNXhR?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGaHNSbkhzdllydktzWlFGYmRsSGJKQXphV1p1dXBDTHVKTFRHUVZISkt3SVo2OUIyc0lOQ1VLcVVzMkotWkh6Wklydy1xcXp5WjFTdjRGZmJaTFhfU2lhTGVZaGRQOXE3UDJERmNzMGMxenc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:37+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

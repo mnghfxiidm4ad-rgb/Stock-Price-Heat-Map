@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,109.14",
+      "change": "-0.24%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,404.39",
+      "change": "-0.26%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,442.56",
+      "change": "-0.01%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.25%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「TRADER’S EDGE (21 April 2026) U.S. markets pull back from record highs, with the Dow declining and both the S&P 500 and Nasdaq easing amid rising uncertainty over Middle East peace negotiations」と伝えた。",
+    "海外メディアは「Dow Dips 5, Nasdaq Falls 64, S&P 500 Loses 17」と伝えた。",
+    "海外メディアは「J.P. Morgan lifts S&P 500 year-end target to 7,600 on AI-driven earnings」と伝えた。",
+    "S&P 500は前日比-0.24%の7,109.14で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUdlbVFSd2NLWjN4S3VvcXFVRkZEbWdPc25mX1MwV0lwQjBXZG9fWDhHZEZ0MTd3NzI0bG1fOVRMcUphcmZ4TjE5d2lWQjJTeWRUd2NGRnNSQjc0NE5FcU5WN3V6Y0xLa0ZnWDhZT3dVbWMtNXhEdDhLY1pHbzBFMl9fekhWZklnZWM5b3NVaEp6VTdqZlp0azVxalUxUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0VPX094cXlVX1dVcWdIS2Eyd1hoLWI1Wjg3MjdPbGM2RzhvU2tXakRRX2hreGdOR3dpMS1vY0YtSjZZekZOX1BLVWNKSG5mbjUzZ01LLU9tR1NmbUc2Y0dVYkM1Q2tJXzdaVy1QdUh2TTktZzNwVkNkR3VuUlhHRnVJcVpPMXdRRlFSRg?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2F6RlhkMzJsX3NnZ0JYWjJybnd2V0U1TERuNlJDTDVnc3pOS0I3N2l1RWlpRTU4YlNYZ2MxRnZVNFJkRHp5SmdDbnA2WEdjQmJpWmhtdFc5LWFGaUo5MEJ0SUs3WHpmczlRZDJTRWRsbzFadVVsNS0xYzlMWjN4a1ppVTJFSGV6NUF0bkJQeVFkTE9QWWJDX2J0MFEwbFcyWHh1SG1ENGh4RkE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:27+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

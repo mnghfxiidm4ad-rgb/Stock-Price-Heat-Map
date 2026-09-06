@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-11-11",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,846.61",
+      "change": "+0.21%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,468.30",
+      "change": "-0.25%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,927.96",
+      "change": "+1.18%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.12%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains & Losses Today: Chip Stocks Slide as SoftBank Sells Nvidia Stake; Paramount Skydance Pops」と伝えた。",
+    "海外メディアは「NASDAQ 100 Index, S&P 500 and Dow Jones Forecasts – US Indices Sluggish in Premarket Session」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq fall as AI valuation worries resurface」と伝えた。",
+    "S&P 500は前日比+0.21%の6,846.61で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN2xxNVZuOE9IZnlyS0tsTFloNmpyN1lpRkpzamxHYkxHZWdnMElxZlN0NUNWZk5KdnhDMUZZYk9NaE4tSkU2TzVUb0VLWncwSVJfb29qMlp4eGRBanV0VC12RGdEYjRnaUtscmNrbmx3UFo3UkVmSDk0ek9vZkwxRU1aZkg5aDY4YW16MlEwb1l6bExzaXA1R1FCNDBoeDFYUUlybVBTRmlHWlNpNlo5alNDU2E4X0tkaWRvc2ZTdVczYnhBbXBveUljaVdTaE5vX2hPV0RDNWVXQ1dJQnc?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVjBwaDRkc2c0RTRvZ1RvSHc2TmpCMWNqaTdZQnMwblVGc29uSkVGMnFTYlVZOGF6aVU3VlExNWFWS1hVV1lvd25hdDJTbk95dVlTRm5JcVdVenZjU2trYWp2Z3lveTZXY1NEOE5wcE1DR3A0M2sxcm0tRkQtNWJHQmNPUFlqZld3X3ZnVVh3cHNSR0V0Uk8tVDJ3ODZCZnRKZjVHNElpUlp3RmltbVF5Mk9jUDdaWlZrTGlUeUZCQXU3LXRvcG9WdV9ON0JrVVE2TkpiVWx3?oc=5",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LQjBuNWducGpqNXFKdXNTWGRaNnVaTGhEVmE0UTZhdnRsN20wUm5oV3Y5T0NBZjV0QTIxVFJ3MDhpVHRXMGJNMjl4OE9rZUts0gFWQVVfeXFMT01lS0lIS2FWZnNLN2tVVWRtOEVuVVdDbFFRYzVYbGF1ajZMM0lYUmZlWk5oOHduaW9PS2N0c3pCdXo0RnVXcnhEM0tXYS0yd1M0TmgtY3c?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:09+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

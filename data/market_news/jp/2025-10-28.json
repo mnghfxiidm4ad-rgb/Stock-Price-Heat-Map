@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,219.18",
+      "change": "-0.58%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "344.90",
+      "change": "-1.03%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.69",
+      "change": "-0.37"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "（まとめ）日経平均は3日ぶり反落となる293円安の50,219円 大引け後はアドテスト決算。",
+    "ベッセント米財務長官、日銀に利上げ促す 29日から日銀決定会合。",
+    "日経平均株価3日ぶり反落、終値は293円安の5万0219円。",
+    "日経平均は前日比-0.58%の50,219.18円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ncWotNG9TZ3VPVUxoWUpGZVNXMldpWmM4S3RfYXUtNnF4U0FlaHpBVzNqc3JHVEdzdzlmX0hudjEzZXJVN1JqNDk2MHE1b2dSd18ycNIBV0FVX3lxTFA5bTFkZDR1TU9FR1BUcGhIZWJBWHF0TnptY295ZTdQNC1mSkhYcHFfY0VWR3liX0FsLTl1MW1zRnRIQm5sNDdSS3hOYmN5Q0Uwd01TNm5aNA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0UkMwMS1LUzBUeWl1cTVhbGljYk8wLWZLSWdyLURUQUpzQnRHbWJmT2d5ZnRCRU1lZ3RETTk0dVd1QnBTX2pzZzJUTVRZSEY5SmlfbG5yTnhISnBfVzFsT0NLRW5pX2hvSlBQcA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hQ3ZWcG54UDJYLTd6dmd0T3BlNGRvaERROHdSbF9LYmhKbTZob3A0cHBVc3Y3dHpPOElFOGFKbkVESW5CeXlFZTE5VFB6V0VNWWhsT0d1LWxwS080bFoxOUQyVjRNS29UNHJ1aA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

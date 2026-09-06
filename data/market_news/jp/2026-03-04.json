@@ -1,0 +1,39 @@
+{
+  "market": "JP",
+  "date": "2026-03-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "54,245.54",
+      "change": "-3.61%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "381.80",
+      "change": "-3.56%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.77",
+      "change": "+0.52"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "急激に増える「自社株買い」と「配当」（東証プライム上場企業）。",
+    "日経平均は前日比-3.61%の54,245.54円で下落して取引を終えた。",
+    "情報通信・サービスその他セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UmJyR3loZ1Bra2JuTy1Ka1RzMnJEUm9mdXRYWGx1NURCdkJvOFhHZEpFZ0lkbm9kR2RkUWpGaUtXNEs3dHZuc2p2YjNNMmphUzkw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

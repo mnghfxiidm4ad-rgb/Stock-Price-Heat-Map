@@ -209,13 +209,13 @@ def build_payload(
     if use_llm:
         bullets = _llm_bullets(market, date, indices, top_sectors, bottom_sectors, articles, mode) or []
     if not bullets:
-        fact = _index_sentence(market, indices)[:2]
-        sectors = _sector_sentence(top_sectors, bottom_sectors)
-        news, more_urls = news_bullets_from_articles(articles, market, limit=2)
+        fact = _index_sentence(market, indices)[:1]
+        news, more_urls = news_bullets_from_articles(articles, market, limit=3)
+        sectors = _sector_sentence(top_sectors, bottom_sectors)[:1]
         if more_urls:
             urls = more_urls
         seen: set[str] = set()
-        for line in fact + sectors + news:
+        for line in news + fact + sectors:
             key = re.sub(r"\s+", "", line)
             if not key or key in seen:
                 continue

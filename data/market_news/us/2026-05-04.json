@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-04",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,200.75",
+      "change": "-0.41%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,067.80",
+      "change": "-0.19%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,941.90",
+      "change": "-1.13%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.45%",
+      "change": "+0.07"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 preview: Packed week ahead as earnings, jobs data loom」と伝えた。",
+    "海外メディアは「Dow Drops 557, Nasdaq Slips 47, S&P 500 Falls 29」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq close at record highs as U.S.-Iran tensions cool, oil prices dip」と伝えた。",
+    "S&P 500は前日比-0.41%の7,200.75で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDFUczhfTjNvTU9fZHV0NHJ6am9GbF9YWlU2NnJFRnJFZmVGdmRSa3U3ZzB1VWZ1QWlFdHY3ZThucFpRRHc2YXdhdDVfcXlQX2NlaFVoQ0gwaGxvZGYzVkZYNDdLaTY5TFRTbVp1OFdnSEFkeFB5Sl9sS3BxR1kyVjMzLU5LaVhIaGhUN2U3M1VUOG9EQU1EeXZBaEdyMUJONTdTVlVxei1xVG96LXpRX0pmS1VIM1ZBeVQ2MGY3d2NnTVdHV3FtRU9LVVB3Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ1BnWTBzT3loVUFSd1pKeHBzM2h3WjkzUWEtUWhkcEZESHRkMlA4TFd1ZXVLbVZxOXB1TXZHQ0gtS2Z1d2tJTGdlY2g2QUcxTWVGU0l3Nm9sbUs5MG9nLWtoUXNYakN0andZV0JNY0RtUkxjWW02NzVuRk1ERG45WlRuV0hTejRSaUUweDNFYXE?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZmxmRTNiTlRwQ2ROd0JSZW1CTkIxYkM0a3lwR1NjcHIyQXl5REx1b2FIZUQxTk91NE80eTFnWVRMRjNMV0JtUjVTS1EwLXJqZEd6VE43R1lKZHE4RmVQYmNHbUp4T3FnN001bHZCcXFuWmZEYWdwYmljc3o0ZGxJbnpsbkFmMFlRZU1NVEp4RHRTV0Q1MlpnSmJvbzN2dUNTNWdkN1N4QTVydGlpUFE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:34+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-10-23",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "48,641.61",
+      "change": "-1.35%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "340.70",
+      "change": "-0.41%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "151.95",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "内閣支持率が高い局面ではTOPIX堅調 海外投資家の買い越しも誘発か 野村證券ストラテジストが解説。",
+    "金融システムレポート（2025年10月号）。",
+    "日経平均は前日比-1.35%の48,641.61円で下落して取引を終えた。",
+    "エネルギー資源、不動産セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvMzM1dFNac0hFQWdNc1ZuVDFEMWl1QlRyMWx2Ukg0S1ozR2Y1TXFDWnIwb1BPRDJlR2Fqa3NKYlNSb0ZRcnROcnY0Uk1UOGpaX2F2Wk5meTVDa19qeDVZ?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EM2kyVThWQ1lrbkY4cGNQc1ZqNTFlZzZKR2t1aUhZTm9xNGN3d2YzVG5jRFVBNzlKbW1MTW91Zld4Y3FBN203RHJKUjJPWE93NnI2cG9BemNxTXBTSFZ4aWFn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:59+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

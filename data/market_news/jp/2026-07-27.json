@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,931.19",
+      "change": "+0.50%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "424.30",
+      "change": "+1.63%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "163.61",
+      "change": "-0.22"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "高市政権の円安許容度は変化するか 円相場と債券市場安定には日銀の利上げ姿勢が重要 野村證券・後藤祐二朗。",
+    "日経平均4%超安、巨額投資や中国勢参入への懸念でAI・半導体関連売り。",
+    "日銀 今週決定会合 政策金利据え置きか 経済・物価見通し焦点。",
+    "日経平均は前日比+0.50%の64,931.19円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tczA0NzAwVDVDMWJ4UzhyQ0hZQzVCeXFWOThrVkc3U0ZTOGFrZ2dOdy0ycGpIZlR6Rm8tX01yWFdjVGhNRWlDVVVSSkF4Q1QyRElBYzNGejBINHdOR21V?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkS1FYaXhXZVZaYUJ6b0hFTE1YTkVqS2ZwdFFsSnVZV2dBRjVtUndvU1VOSEYtc3ZubWloNkV4UExabDR3bmY3QVFMRUJQWWNxWDFwcEc0NmRObC00TV9wWWtUME1NSEpKQUFUZE5EUzhHbzVlR2Q0?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXcHNkSHFpVUpJS0F4cVZRcVZZaUFMWk1hN2RQLTluQmlWLWpFOWJIbkZBUkxaRHhhUjI5N0JSTTFETkV0OTZFLW1TUkJpNWI4TWJleUwyaWNpaDlmUU53?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:09+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

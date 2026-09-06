@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,936.17",
+      "change": "-0.32%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "384.80",
+      "change": "-0.16%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.60",
+      "change": "+0.19"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "【2026年ドル円大予想】円安・株高・インフレは終わらない！エミン・ユルマズが語るマーケットの未来【FX/為替】。",
+    "NYダウ、続落し42ドル安 半導体や銀行株が下落。",
+    "日銀、1月会合で政策金利据え置きへ 利上げ影響を見極め。",
+    "日経平均は前日比-0.32%の53,936.17円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SczB2b0V0ckhRLXFNdnFWUDdUQ2U4b01IZ2xTYkY0U0U3cXl4UzVKSXdONWlRU3hEdmVxUS1jSFpPdm85dFhaS095M2pGNkRhOUFCWnB3M3VmY1ZGdjdRWUR6QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlRnotM2ttcUY3eFJubTBIc2VFcG1aVW85cGJ5T0J2a0tvMExIVU16NWQyZ3gxaHNTcGRSME5qM1psTW1ZSzZVNHI0bjc4WUV6dVMzT1I3OEdVNGJWRHI3bHRzcXJYTll0NW1xVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RSXd1ZU5xOW40YnoySHNtY0ZuRldQM3g2YjNMeUlmWU9DVWJtZ1RWMG9ZX3NfdFZoTVFSRHZRM3hlZ2FpNXF0MUQzYy0xdjF0RHBrbkhndlZMeFE1bU4wZFNQNlJCRzR6?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:39+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

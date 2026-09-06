@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-26",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,643.70",
+      "change": "+0.59%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,484.07",
+      "change": "+0.44%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,247.29",
+      "change": "+0.65%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.19%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today : Dow Gains +0.33% ; S&P 500 and Nasdaq Fall ;」と伝えた。",
+    "海外メディアは「Market Cheers Steady Inflation Data as Dow, S&P 500, Nasdaq Futures Rise」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500, NASDAQ, and Dow Jones rise 0.3%, US Dollar dips 0.2%, Gold jumps 0.8%」と伝えた。",
+    "S&P 500は前日比+0.59%の6,643.70で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNm03d3BRUVBIZTA0dlBkT1I3STZ4TGgwcko3cmxBNTZJbmpQd3hsS3dwbF9QamtvRjY1Z0xFU3hpOWtLM1R6QVRWZU90OWpkNXNFZDI0V0dZRDVoSWowejAzTDZmYTc2NTFSWUZSWlcwUUZPaExYcWk3RHBnS0tpVUoyNkFvZHVjbU9yc2tiTDV4enkxTXZVZHNLTkVwMU40Wmc?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYW50QUY2UXpWMFZ3N2ZJRXU1S1RaMHFIUFRJSjdGZVgtcXA2LUF2MTFueDZBWlRMYXNJbl84ckVseWhyTlEyQUZLVjFPZy1Ob0w3QUVsVG1MdzhVbDI4TXlvby1tQUhNMFN0U2FqZHFvczFrY3otMHktel9ndV9QZE1sMTgyekN2QklCU1QxcWNMcldsS3NUd1d5dmhRWURIT3ZxbUc1UkIyYmQ4Wi1JWUZLU1Zmd3pSXzAwS092ZFdRTnJ4eHBSazBzekhNR2I0dWx6RDA4eVdLQ25fZkhLamFWNA?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRUFTZlNQUXpjN0VXMTR0UHhDWnpoZ0hMamppX3NaMTdnOTNPSkhCZE1QclhZUlVvQ0lUZjc4SmZIUEJaUzJzUmM1LWUzMVpaajVtSXJxOV9qSXRPWENxZnR4a3gtaWpVeGUtcUZDV25JdXQ0Mlp5MFFPRnBWMktDY0toQmdhWlhFcm5meTRFcGs3N1V5NnZfT0RtSEoyMWFzOWhkb3dhcjdUakc0czFjS1ZWSm1kSHkzMGVVVGo5NElKeVRJOUHSAdMBQVVfeXFMT0ZUOTJEb2hoS1VhSUNKLXRrVGpLSE5OT0llLUhIVlVNZ29ob0xabFlEbnYyZ0MwTlA4eGhPQWhTVHFsQzFJdl9UUkZlb1UzaTRzdzRzTW53cGhtRGEyOE9WbGh4RUhsLVF3T0lKWnl6ZEJubUJNV0lzbWU5VUs5YTBEbTQ3aGstTHdCWHRsRTdmT2hEMk0tU3kwSEJTOHVjYTNOMEFZQnpzTUotRFFPRHotWjZHdGpZYk80eUV3MG5yY3FjbVNmdXpyckhMSm05WWktZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

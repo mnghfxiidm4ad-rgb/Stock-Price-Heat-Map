@@ -81,9 +81,9 @@ class Handler(SimpleHTTPRequestHandler):
             if not quotes:
                 label = bundle.market
                 if label == "日本株":
-                    hint = "先に C:\\data\\日本株\\start.bat（または update.bat）で日足を取得してください。"
+                    hint = "fetch_history.bat で過去の日足を取得するか、update_quotes.bat で最新終値を取得してください。"
                 else:
-                    hint = "先に C:\\data\\日本株\\start_us.bat（または update_us.bat）で日足を取得してください。"
+                    hint = "fetch_history.bat で過去の日足を取得するか、update_quotes.bat で最新終値を取得してください。"
                 _json(
                     self,
                     {
@@ -98,6 +98,8 @@ class Handler(SimpleHTTPRequestHandler):
                     },
                 )
                 return
+            days = bundle.days()
+            ready = bool(history_ready or days)
             sectors = sorted({str(r.get("sector") or "その他") for r in quotes})
             _json(
                 self,
@@ -105,9 +107,10 @@ class Handler(SimpleHTTPRequestHandler):
                     "ok": True,
                     "market": bundle.market,
                     "asof": day,
-                    "history_ready": history_ready,
+                    "history_ready": ready,
                     "quotes": quotes,
                     "sectors": sectors,
+                    "days": days,
                     "message": "",
                     "status": snap,
                 },
@@ -191,7 +194,7 @@ class Handler(SimpleHTTPRequestHandler):
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="株価ヒートマップ WEB")
+    parser = argparse.ArgumentParser(description="StockChronicle.app")
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8765)
     parser.add_argument("--no-browser", action="store_true")
@@ -199,7 +202,7 @@ def main() -> None:
     url = f"http://{args.host}:{args.port}"
     threading.Thread(target=warmup, daemon=True, name="warmup").start()
     httpd = ThreadingHTTPServer((args.host, args.port), Handler)
-    print(f"株価ヒートマップ  {url}", flush=True)
+    print(f"StockChronicle.app  {url}", flush=True)
     print(f"データ: {DATA_ROOT}", flush=True)
     print("終了するときは Ctrl+C か、この窓を閉じてください。", flush=True)
     if not args.no_browser:

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,108.40",
+      "change": "-0.41%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,438.50",
+      "change": "-0.89%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,310.32",
+      "change": "-0.36%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.32%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Drops 180, Nasdaq Sinks 219, S&P 500 Falls 30」と伝えた。",
+    "海外メディアは「Meet the Unstoppable BlackRock ETF Obliterating the S&P 500, the Nasdaq-100, and the Dow Jones Right Now」と伝えた。",
+    "海外メディアは「U.S. stocks seen pulling back after record-setting rally: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "S&P 500は前日比-0.41%の7,108.40で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTXM5VWVybS1DWS1LQ20tSzNzX19YODZ1TmNOSU5wSVVNZ3FtZEc4WHdZVjB4M2hMZjRFNmFza2hzSVZZRnZySGFpRVoyQmlmMldocHl0OGZGTTBWTmM3Y2c1MWtMb2FxdlRoSERINjJNdHN5UEs5TVdxVUVaZTBKWGxJMmlRdWJuMG9XdGNZN0ZOdw?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX3dEZU5JcnBISVhtRjBwclJnbGhxT2RETHF0ZHphU2FXX0RNTXVGX1ZEdk5zdWlTdk4zVU5JV0x4OE9tTW9ma2dLNHpQT05TSEw3amFMQVpyY2ExenN0WXBYTWtHMU1yRGFwLWVLdUw2cTJkYkZJeTk3WVRlZDhOdjFESGR0QzdPWm1DYUFzVDNadzk1ZTFr?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT2hiY3dVQXZEeUl1UU1mc0UyMDZpQlpiS2I5SmFCajdQRmYxNzZ2bDFuQVhkd042MVcwOEpKYnlkalhPb0tlSDc0am94cnBJTGhnNGNCeGpzNFlyZXFOOGE3cFBrMWpIWWZqbXRyeTJ4MTNadHVQVFVzN1NRNUlDeQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:29+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

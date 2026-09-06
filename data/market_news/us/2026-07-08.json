@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,482.71",
+      "change": "-0.28%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,870.65",
+      "change": "+0.20%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,348.39",
+      "change": "-1.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.57%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Dip As Oil And Rate Jitters Build」と伝えた。",
+    "海外メディアは「This 4.5%-Yielding Dividend Stock Is Beating the S&P 500 and the Nasdaq. 3 Reasons That Can Continue in the Second Half of 2026」と伝えた。",
+    "海外メディアは「3 of the Top 5 Performers in the S&P 500 in the First Half Offer 1 Particular Thing for AI Customers. (Hint: It Isn't the GPU, and Nvidia Isn't Among Them.)」と伝えた。",
+    "S&P 500は前日比-0.28%の7,482.71で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2pWSHZxNnNLdjFVeVNaNllWLWFWaHUzeXZzd3UyY2pKVnM0ZnVudlRBWWRfYXF2VE9Nbkx5T2h4a0ozWENGRG1hRzZyMUdYMWVZM25rTDNDZmdkU3c3WE1oalQ1WktMNkxXa3lSWVk1TWtxU0U1UmYyM1QzeEoxR3FCUVpKMHdNT3FnRllYbTBnQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1IzaHJNQ29oLTRNNnRMbktlRHpfMlB6YWRaZFVQMEliTUY3R0ZHNGlhY0xFY2dKZVpnMUYzbURFd0VYMWVKMXdMa20xdV9LSmNJZEJXU3cyWFV2b3NFRUxGQXFFR29ZWUlHQ3ZEU3FyNUVOZFhNWXZMajRnekxBVkVleEZrWk11M1VhLUloOGRMTEFrbHR3?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWE0d3p0UHpOdHpFSUNzSkIyWmxKNGVlT2Z3Vkkta0lSRklvMGtnNC1jQWk0aExNN2c5VWozWUFQVjFzalY5ZHY5cnR2SjAyaHJ4bzhtSjNBX1pscjIzR3hxOHd3RTRkdDY2UExNanZKYWxYYkh0YnZBUFNKblRnUzJsR210ejZXOHpJQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:06+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

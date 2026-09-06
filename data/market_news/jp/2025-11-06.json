@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-11-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,883.68",
+      "change": "+1.34%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "347.20",
+      "change": "+1.34%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.07",
+      "change": "+0.52"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "【マーケットフラッシュ】日経平均株価が一時2,423円安！上昇相場は終わったのか？。",
+    "日経平均株価予想、2026年末55,000円に引き上げ 決算等を反映し業績見通しを上方修正 野村證券ストラテジストが解説。",
+    "日経平均株価が大幅続落、終値1284円安の5万0212円。",
+    "日経平均は前日比+1.34%の50,883.68円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aWk1QZE1xNnlBMUlram1adUVfTVRkWHpJSS1tVkJyRkVzdmdMdElaZFVKdzRiZUFzZ1lDSTRZQU5kNmo0WFF6WnB5YnNNNGd4TC1DX1NIcUZRdmdxUnZfaTBwdEFWUFFrMGI4RzU3ZTV4WXJO?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kcmNXNE9fbjdOd0lyODZ0bTN4c2R1UEpUbHBfemdQU3VkMnFreHg5V0swaWxxdEJUczFtTjJhNVAwT2dVTUJCZlNBLXN1TTJLZXlCYjU1QnhZNWk2MkRn?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ldGs0Z3lUbTBiVEduMmNoYUFhU25ZOVBDQWJRdXh5OC1OSlhVS25XVDJHZ1M1Uzdzby1MSnRlQXpqeG11dGVMVjlvQUxQSElzLVRoT1daNVZSaFlRTzVqT0EwX2hJTUdVRk5zNw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:06+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-12-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,864.68",
+      "change": "+1.14%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "349.60",
+      "change": "-0.14%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.81",
+      "change": "+0.25"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "銀行"
+  ],
+  "news_bullets": [
+    "「半導体はどうなる2026」 - sangyo-times.jp。",
+    "金利上昇や増配が後押しする銀行株の魅力は？。",
+    "日経平均は前日比+1.14%の49,864.68円で上昇して取引を終えた。",
+    "鉄鋼・非鉄、不動産セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVSzFPbUM2NVM4cllBZ2xndjRpZWFrTmg1ZFM0czQ2YVJ2cnczX2YwNUg3bmpXRGttbF9rWlA3ZjJuYTRFbFl4WnhHQ1pOZE1UbVFqS1BXRXpkSnlJTDJr?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGVk1ZeFBmQ1JtM3pqbXdfSC1MVERFS25RQS15c0ZYQlVfRS1hUlI5UXJmRTNkZzNreVJxcG5hVkhhZjhIUG9PdTRDSmE0VXNOelRV?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

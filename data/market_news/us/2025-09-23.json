@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,656.92",
+      "change": "-0.55%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,573.47",
+      "change": "-0.95%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,292.78",
+      "change": "-0.19%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.12%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains & Losses Today: Vistra Stock Falls; Halliburton Shares Climb as Oil Rises」と伝えた。",
+    "海外メディアは「US Stock Market Today: Dow Jones Rises 0.3%, S&P 500 & NASDAQ Slip 0.1%」と伝えた。",
+    "海外メディアは「Wall Street Strategists Chase S&P 500 Like Few Times in History」と伝えた。",
+    "S&P 500は前日比-0.55%の6,656.92で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblU1NElfSUZXT2kwcWE3QUFGeTZHOG5Oal9wcVhxeGlPWHhRSXU1WVZSeFRqMW5qZDlhQVBkeHB4OHJsNTJUWjVWZGtQMWg5d3RSUHJWSDlDU1BiYWlPNHFEZFl5M0lWZ056ZG5uVWtPZS1XaVF6T0UtdWNCNWlxTHdOcEZiNUsyV3Vpa01tMkY2a05JZnF2RWdOaUJGLW1tb3pVUXlHOTJnYmRBOGhoWjFtXzY5SWxKYS01d19mUVUwbFQwaUg4eg?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOEc1MHlwTlh0dXdqQ2tnSFlLbkVKcVZTQWUzVnBXLTJSRGRtSEMyZUR4SDdBOG5wcUp5ZnBPN0h3aHN3elZlQnhXYldJdHhXemtEVFJack9iSmpMbzU3UTRmTW9wLUFONWd2VkpTN3FIbDdVNFRuVGNmdlRUSVdtNnNhQ19vdk82VFZndVkyX3M1REhpd05TS3hkby1VUkk3SzZKeNIBsgFBVV95cUxQREdUemlTcXdOS3Fuc3dlaE9HaENEbDBVTndJVTdMZUhnamdwSWpvZ3g1Y0RDWXQ2elU5T3FsOEwwVmktSFFtelZOeE90V3dBMExrcHJOVWloRjF4VWYxNlYxQzhQRE5aazM1OTVhU2lnZm5hZ1J2dGpOT1ZDZVBOVmhaX3ktUUhqZFA0bjJ4Z2hZQVlWYmJMbngzbVZvYm1uaVpGMVFfZWRjQklBNHpheEhn?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTFRWc28yNGNkVER5c0oxOERtNVdDR1Z4NjRxVXUySVdibHJPVmVhbUFvSGRCcUxGWmk0WGFiSHNMZnNrRjlNOF9iT0tGYUZTZG9oTHNoVV9OQ2UzUDR6VngwaXI3SDcyNVRiRTVab3dESFhaOU5fYlRVUndiU05SWE8xMTVIVmcwVkJFRzRuckdSZW0wRVNiOEViMkNXcm5MZ0NnQl9SWWZkNFlkSUVFMlg2MVI?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

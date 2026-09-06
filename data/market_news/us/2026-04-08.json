@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-04-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,782.81",
+      "change": "+2.51%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,634.99",
+      "change": "+2.80%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,909.92",
+      "change": "+2.85%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.29%",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today S&P 500 Futures Rally On Easing Yields And CPI Focus」と伝えた。",
+    "海外メディアは「Markets brighten as Dow, S&P 500 and Nasdaq futures climb strongly, nearing 47,900, 6,820 and 25,150」と伝えた。",
+    "海外メディアは「S&P 500 hits record high on strong AI-linked earnings, Mideast deal hopes」と伝えた。",
+    "S&P 500は前日比+2.51%の6,782.81で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlM2X1dXbE1kSHZoX0lTbUtubzlvUU10bXlSTWtES28zVWlMLTJCTkd5RjVBSEhIN01RQnpTNUZvXzYzd19DNWZEd3lYLU1XTG50VDBja0dPTTNrQ1hoai0xVURXQV9BeDBBN2MtNkx1TTc0c2ZjU3YyZm1RYklHQktEZkRnUnhKeFFuYVJUelFXZw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY0hGNjliN2FPWjBQaG5CTU9PamdnWkJQeXJjbFlGQUxKM3VWdXpkYXFOVXN2QUdFUC1oeU9VaGNNQ0pGV3B1dTEtblNPQTkzd2hqckRfRTh1LUJlM29KWlk5U3VqdXJwSjY4WlkwdFhmTm1qbVV2RGsxd2k1Zy0xQW11MmpHWDk5NzlYSndKeFZLT1c3c3dsV3AzemFQb1NaTUpPT2NtTE8weEQwM19UYUVaTFhHdzhsbEpCb0ktRkpnTksxczg2UUlEMldjYzNIbG5LazFR?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWVEX3F1RS1KVzZ3YnI2RzN3QmNxN0x2UnI2cUNBXzNlM2tkeHNfTGJ3TDl4ZGJJUlNYejRVSWo1TW5jNHMzZmhabGVLSEtWX1lsUGxPZ1UzYklZbGZ3ZW1RTDc1blhXazN2ak51bk5qT0pTdzJCb240d2lSU1BjZ3BGR1BEWk4tS1N4bzZfX3B1cnVHTXpOeHNXUU5STlpUQ1BNa0liUHlWTVNwcXdKc1Z4WG9Gckp0VjNNTFUxMVFsMzA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:21+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

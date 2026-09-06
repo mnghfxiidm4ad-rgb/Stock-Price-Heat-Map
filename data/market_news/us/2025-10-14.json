@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,644.31",
+      "change": "-0.16%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,521.70",
+      "change": "-0.76%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,270.46",
+      "change": "+0.44%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.02%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Fed Chair Jerome Powell Warns Investors About the Stock Market -- History Says the S&P 500 Will Do This Next」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Nvidia and Intel Drop as Tech Stocks Falter; Wells Fargo Pops」と伝えた。",
+    "海外メディアは「Dow, S&P 500 turn positive as Powell says end of balance sheet drawdown is near」と伝えた。",
+    "S&P 500は前日比-0.16%の6,644.31で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEhxdndKMDBfQjhVN29zRGx2aU5QWVE4TzRDcnFaTDVsWEw1Zmd1WUpUYVduYWRrS0lsMl9FSTVjTnVITjRFV0MwYk9Yc1ZDT1Fqc0VhLVNCNXBaZVlSd0U5eTN6OGgxUmpXVVhRZkgxQTh2M2xZd0RpbTdveTkwYW1iYktLQ2JoaWxZeUFMSlVCYndDbjAw?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRmdNTFFpVm5LZkpvSnU2dDZrODV2amdJTU84UmRGUlplVzJhN3hIajhoZXY2Z1ItbVNpZ2pYVEh6dWZEdm13akFJN1NSekJ3N3dHeWNpT21YZHVKSU5CcTBHYnA3WXlhM1JfX2dBS1NtOU51S3JpeldKVk5hM2p1emNLU0Jpd0Njd0dBNzd6WjNvWUdLS3BYMW5waC1PdVFuVWFabnRfSFN4TW1QMEkxYUV5b3NvSjlRbXFYU1FMRUFwLWd4QnB6aktHdEZRUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYXMtRU9IRVlIUVB2Xy1sUUxreGN3TjM5WnRHbnQ3M084VGlpZzFEbE1ia2U5enF6SzVsZi0ybTNpZEtjVzVmRzlpMVJta3VkeEprMjNaN29UTHF4ckY5T1dWdHdMN3NTeXMyWUk5alBZN1I2ckMyS2d2bjYyMk50RE1qa3NfUVJZUnpFOWtqa0kwUzNrR0Z1WGdvWjU5V1NrTE0yQnhuVkx2eGpKVXlCd09zYWNpVzdSeWJlU0ctWmhEaXpEbExLVTFLWlh0c01Rc01wVXdlWWwzTHB2VG1kS1N3?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:55+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

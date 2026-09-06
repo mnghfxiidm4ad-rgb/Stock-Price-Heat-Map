@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-26",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,675.70",
+      "change": "-0.02%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,130.20",
+      "change": "-0.08%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,463.88",
+      "change": "-0.21%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.66%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Markets brace for Nvidia results and PCE data as oil slides on Hormuz hopes: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq futures flat before PCE data, Nvidia Q2 earnings」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq set for lower open after inflation data; Nvidia results awaited」と伝えた。",
+    "S&P 500は前日比-0.02%の7,675.70で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTGY3WEZnVVlZMXJnWFJodmxqcDlPNXhBYmlvaC04LW16aXpqckpfLXVQQlJYMGRDUXNldm9SbENPUUJDMUQ5dS00aEcySXpMeEZTZVgzMzJ4TjFWY0dQam1ScnB1RWlVSVJJVDV4cF96cE9yVHliOHV4OU5ORGo5bHZqVl9KNGJu?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEpzRVJQRGNJMjE2VmplMjdhLWZac0xPVGMySkxtN3M5T3JVV19Ia1VHQnplUmR3T3JoTjJUcGktSXVyVW55REkxV2NETHM4blV4eFA0a1gwdHA5dnNSOGNEaDZIZFFmQk82MXdpc1B5TjZWY3V0TXNhNnFxSzNpQmQtMGVIRDJPLUNrMXBTenVTWm5W?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMktpQTBiRlZrUjVTQlF5VzZnVW56Mm9wakp4OGxXYjJsekF2bkFLSzNWOEJvUDJOVEZHaTVOZUliVnhaOXhnd1BlejRZcXRMOUU1Zm5Wb3UzOUY0eTJSZUJrSUlQNTdTUVF6aTVra2pRcnpQaVNKcWRVSEdLLVYzWk5RNEhhSzlmNlcwZk41MGRPZzA4MVE2TXA0djRQV2FONUZSclUyaGhQdlNlZTlhRlJhTmM0VGhqYk1fTUtRaTFyX0FvYTBlUFJIRnlobkdheEozcDNKencwaEZ3a2VMeQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:34+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

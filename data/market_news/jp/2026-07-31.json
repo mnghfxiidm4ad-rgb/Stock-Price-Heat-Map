@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-31",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,362.02",
+      "change": "+4.03%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "417.20",
+      "change": "+1.09%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.18",
+      "change": "-3.12"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "不動産"
+  ],
+  "news_bullets": [
+    "ドル円見通し｜為替介入観測でドル円急落も円安は継続？内田稔氏がジャクソンホール・米CPI・雇用統計の注目ポイントを徹底解説。",
+    "日経平均2494円高 米テック好決算、AI・半導体株で見直し買い。",
+    "ドル円160.69円まで戻す、植田日銀総裁ハト派を織り込む市場。",
+    "日経平均は前日比+4.03%の64,362.02円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mRzd0aWhPYzdkcXhWdkVPRnM2ZzNFblNKSWlhbko3UWlKaWxsME10UmY5VGI4VzF2VGRNSFhlM2hES3AxNDVzaVpGN295VVFjd2FUZmJVdHhXd1pMclcza0VIVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQmJ6ZFBjSGRIVHpFSHd1ZEpPelcwVG5hWDRXNmxHTmtEVlBwYzNja1k1NmV0STc5UTNNQzFkZ1B6dlExR0IwOTR2X2lGTEVkb0gxRkFtTm5weHB2SGh4V21NQVNuZGxpMGlEMw?oc=5",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MRmxpWXB4TVZiWW9wTnJObGNqWUdYazlsY1NjSjljTXNQNkFzWk9mM2dGakk2ZlJMbmZaSWZxWWl6bDNvVVVlOA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:12+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

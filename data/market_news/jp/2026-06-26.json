@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,360.88",
+      "change": "-4.15%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "420.40",
+      "change": "-1.29%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.80",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で111円台後半｜豪州の新規雇用者数は市場予想よりも強い(2026年6月26日)。",
+    "（まとめ）日経平均は3,005円安の69,360円と大幅反落 AI・半導体に売り。",
+    "【速報】日経平均株価 終値3005円安の6万9360円 歴代3位の下落幅 半導体関連株に売りが集まり相場全体を押し下げ。",
+    "日経平均は前日比-4.15%の69,360.88円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Fd2dOTW9feTlxakhXcVliNUFYQzM0R3gyWHZXTWg4Q3dCaTNYYWtNaDdZbUxXei1DcHV0RzBrSzFHU0FZcXoyVGhxblR1emQ3Umdnb2YtWUFpUjdLajlOLVh4QkFIRDVsb25fZTY3cGJhaXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WOUlHV2pKbXpKUl9BVjVQNEhwNGZKaEx2aktkSlByQ256VXNBYjNqbFFIXzM3Y3FYUmdOQl9iRXhmMllUTW1aazRDaWtyQldUZ3NrYdIBV0FVX3lxTE9pTGxpNFE4SnlZeC1vbmlCdW43QWFKX1hMeHJUcWVib3gxbFdRQ3puRS1PaV9xejBSY2x4SkhPUGxhX3VEa05DYzZWdm5RZzdBQlFzUGM0WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jNF9BUEdSeVZhRFZVemN6dHFranctcXpSdkozOVNCZEVKUGpnUWMzUHFra1hXWXluRmstcl9iOWNnOFB1dkEtYmdkSjhxVnJVQ2lvTHZ6Zw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:54+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

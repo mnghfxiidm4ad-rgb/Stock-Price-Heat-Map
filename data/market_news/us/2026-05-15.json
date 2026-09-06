@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-05-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,408.50",
+      "change": "-1.24%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,225.14",
+      "change": "-1.54%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,526.17",
+      "change": "-1.07%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.59%",
+      "change": "+0.13"
+    }
+  },
+  "top_sectors": [
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 and Nasdaq Retreat as Treasury Yields Hit Multi-Month Highs」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq hit record highs as Nvidia rally powers tech gains」と伝えた。",
+    "海外メディアは「Dow Drops 537, Nasdaq Sinks 410, S&P 500 Falls 93」と伝えた。",
+    "S&P 500は前日比-1.24%の7,408.50で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yMEVQdHpQNkdLb2hKcExwdXBqYXZ3WGR1Q3FVeGg3a2RNem1vWW01V3JIanJwQUc1U1VYbEt0R2s2MFMxOTZlNmljVERyNXk3bVVwZVN4Tk05MGpxYnhOOWxDSU9NTVZlUmU4d2MycDItbERpbHNB?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlNRM2pxcVVKNG1NNjhWSGlfM0M3ampZLUVFYkhLSm9CRjJDdEVDa0sxRUh6UHZ0U0Q4MS1DMTgtUkZkMTRHSGQzSGs4aEJfY1pCQXNRam55Zm9xaUpzNDBOdHRMS0FobnBVbGJvbU9kbVF6RUtxT21fdWlWU3p1RzIxQ2I3R0dhT3pJYU9BM2tDbFlPcnF6U01VNEd5a1RDVnVlUjFYUjczalNy0gGyAUFVX3lxTFBDSWZQZFI2VlgzZHNoRkdzam9nc0p6RTN2NjNHaExibno2LVFQZmlBNEVXVjI2WGFIckNjUmlJRXJEbmJVUzk0N0dsX1d3dUZ3OFVaaTRzbHFjTElvY2tzc3lMb0ZTemxOd2JfbjRvalJJUGs4NmY3YmRnTUVhNDJhUWFERGpIdVU4SlJtdmF6T00wcHF1eC1INTI5M1FadEVBSkUxeTRKVVJMUG43TVhUY0E?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOElYMElpYXNVbEpsVHBKNkJBNnAzMlJiN3FQRXZXbk5hNnBLbXZoam1LakY0SXdSZndOa2pGMUtCQUQxX1R5OUhoem5jbGhnSk85QUNKa2lmYlZraEdweGVLLWlHel9EOTh1UlhkaEdaZm1YUlFmeUEzTklDdmsweEpicFB5cmJsYjBvS2ZoemhhZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:41+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "60,537.36",
+      "change": "+1.38%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "395.90",
+      "change": "+0.56%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.58",
+      "change": "-0.17"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "東証大引け 日経平均、終値で初の6万円台 半導体関連が押し上げ。",
+    "日銀「6月も利上げ見送り」観測が強まれば、円安長期化リスクが拡大 野村證券・後藤祐二朗。",
+    "ドル円は158円への調整下落と見る！日銀・米FOMCに注目【FX戦略】 2026年4月27日。",
+    "日経平均は前日比+1.38%の60,537.36円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE96V2RseUFPNUFYdE54bTF5aXI0QTVCeHRGWTFralR6U3JORlF5eWlJR050LXN3OGh3dlRBcjJWOGI2UDZtUUdxeG1JUl83aXl1OFlfUzhpY3Z2UGwwMklWTzV5VklTdnd4Q0hScQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tZXF3ek9VWl9WRm85ZGdDTUIwNlhQRW9kZzV3aUtZbkstdElVLWdmWExDUWsyNExHcHBQbkUtSnJnMzN0SDNROGRhTnphaERzemxCbG5DS0FlM1NIbFNV?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xQ1VrSUV5Vzh4MVhWeGY0d3pQcmZpSEZHZWhMdDFiTWNFbjdWeDdRdnBYVHlFajFsZWlUUm0yc2pSNDY3UnZYd1dNaU9BMlZITTgxNXRpMVJLRURSOWJWZEIwRQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:26+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

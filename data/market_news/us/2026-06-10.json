@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,266.99",
+      "change": "-1.62%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,169.50",
+      "change": "-1.98%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,918.78",
+      "change": "-1.87%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.54%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "資本財",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, S&P 500 & Nasdaq 100 forecasts | Payrolls, Oil and Fed」と伝えた。",
+    "海外メディアは「Dow Drops 953, Nasdaq Sinks 509, S&P 500 Falls 120」と伝えた。",
+    "海外メディアは「S&P 500 Index: Iran Threats, 4% Inflation and Chip Rout Sink Stocks」と伝えた。",
+    "S&P 500は前日比-1.62%の7,266.99で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBURWVNN1Vzak1uRUZlZ2Y3dFdBOXplekJ6TXFoaGFOODdvX0dKWGJlS2dyMEFNeXN4WkFpTVpyamwxSTFzRlFpZ3ZTckxWMUlMZV9RdVJCZ2ZCeEFvcGg0NXl4TDVQWS14VmVMQ05vQkR5MDBOYVBQYzVR?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVFBvSm9QaXJ2ZDZkSE41Y2g5WlVVVkJiUDNZTVBTUTU1WWJlVm5wSktjR1A2eTN2akNqRDVwdGtVbnFKTnlyY3BIVVFBVUc1VzY0WU9CUzRxR3ZoSU5pZ2tNRWNpMzRzZi1XX0dMX2pkenpPd2Q3Y1c5UjhSU09GSXNnV2RZYmJVcFl5bENPNHA3UjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxORHlXLTE5NGJMdXh3dXdnUzJIZklSZkkxdnNPY09hSnIxSlZWQ2trYnkyV0R5bTVJUXVXZjBzMUFGb3RyODc1RVQ0LXhkWVl2VXJrRFhXT3lITzY1WFZhWnMxd0N4QXBsWGRJbjdlZGEzSURsTDY0WlhxLXozLVJrSTN5cWZQakN5ajBCclFSbVYzaldqWjNZb0hrYnN2eURNNGxJY1NoZC1qX2o4TzZELXVfaUo?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:53+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

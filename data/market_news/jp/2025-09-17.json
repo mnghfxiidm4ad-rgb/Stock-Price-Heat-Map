@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "44,790.38",
+      "change": "-0.25%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "326.80",
+      "change": "-0.79%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "146.41",
+      "change": "-0.99"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "FRB、9月0.5％利下げでサプライズも～日銀利上げで長期金利はどこまで上がる～（愛宕伸康）。",
+    "日銀9月会合は金利据え置き濃厚、「次々回利上げ」で金利1％に達した時の“懸念”。",
+    "日銀の追加利上げを決定するのは「関税」と「コメ」どちらのナラティブか。",
+    "日経平均は前日比-0.25%の44,790.38円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzeUNTVEY5NlFyQ1ZrNUs1UHA1OFNaR3VtSGZuaGJuSlNUVlVpMi1KeDM2RVFhRC11R19EaF9QU19OODZzSThSczJURjN0ZGwzTGk2MXg3MktFdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9STEdYZlVsRUd0R1p1amQtc2NOMU1tMVlUMGJhVVI1bzA5REdSbmoyc1FDeUJGZGJqRDkzdjVxNy1UUGxTUjFkZlpMeDjSAU9BVV95cUxNOEpPR0RIcEtQX2JBbmxEclhmdzdsbTJnNFVfOUc1TXcyenZybXIwYndHSUFNaUIybHI2aFZVS190MEpZSk92cWpoa0t3U0FV?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9wLXJDVTRMNENiaXB0U3h6cE15MFZJQW5BZktKVVl2QmpDMHFCRi1wVUFfQjVzcFVjWVdRLTNpeW5CM1pZMkF3UHp1ZknSAU9BVV95cUxNWE9xd2pZM1JQOVhQWHBvY1pOYTMxVUxVWGhTWkJwMmlyTWNtOTBXaWVubkFwNFJGVWVWdXBNcWdSZmEyZjkyNnFTNnNIUlkw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

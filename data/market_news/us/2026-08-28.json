@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-28",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,711.76",
+      "change": "-0.25%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,402.42",
+      "change": "-0.52%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,559.99",
+      "change": "-0.02%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.72%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq Futures Sink While S&P 500, Dow Futures Gain Ahead Of Fed Chief Warsh’s Jackson Hole Speech: PYPL, MRVL, IREN, AFRM Stocks In Focus」と伝えた。",
+    "海外メディアは「Warsh, Nvidia, PayPal and oil in focus as U.S. futures trade little changed: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500, Dow Up Ahead Of Warsh's Jackson Hole Address; Chips Drag Nasdaq Lower」と伝えた。",
+    "S&P 500は前日比-0.25%の7,711.76で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxQUzh3SWRiVDlHUzczUVRwYzM0NERpcnprTUJmQzhIMEpZdW9IdFY0WkZJZXlTLVZlQ0xRMWotekl1ak12WFEtS293NWNGVml5QTdlNTg2RnRmODRmcldXamZGSzA5OE1MY2tjVW5RZFhFdVJoNFRvdC1nSHAxQldPTGQyMW96U0tZN1ZfZXZiRDRKSjZLRUxoME1LN3FFX25wTlJxQ3Y2cURMZC0tLUJzVDRkNWZVbzVpZl9FS1hIS0hIblpBaTlJRU5EX0x3cDJSREkyT0J0S2lzYkZINDYxZnc3V0RYMk5nb0lzVzZuTGk2VklQUEdyem56TWlKSlNmT0U4WmQ5M3pIb1paWjhRdHo1YUNMcnptQTFVRnF3?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzBLaEs5cFQzd3VfbzJqZ2kzblg1UE8wZFlvSmx5UVFIMUhVT3B3SFBVVW1fdERsc1UzV1FLcUpBUkJhQW9SU2l3dEdJRUdrV2ZIUldSN1pKNmtUYTk5WjMtWW1qaGlKc3Zvd3dGYjBkdU1FVzV0cWRXbkxVUjJBM2U5U3l3V3JVTlpIdF9oblY3OEVQUDVMOGV3?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd0ZTbkhfb3N3RGlXRmVvSzlpcW93Qi02cFRmQVdhNmVzTm1YMTJsbnFVdXNFOVVUNlVTWF9zNy1SRGFrTkdKTUh3ejRBRWo3VGk4c0I3NEFMRWgyb20xM19HV0FwTXlzV1pIakRFS0VUcmVzUlRRV2p5ekVlRDl2VXNLd0JsVUlRSWJaSzBPT2VqOXF5SFpHcmZPelRRRUF5SW9LbnhMY0Nlckw0TlhHcEdDNVR0MUtKRU5ybnBxWV9TZ3JwZmRtY1JRZUxnaks5UzEtRFlTaHrSAeABQVVfeXFMTnpBcUQyYTFaZTVVSmdQLWo0S09pcjdETDdtcE15aktKaWVxT1BSNm5iRUpTOVcxcFpNQ3ZYcXNTYjA3NlBzT1VMcVd2WGF0aGxwb0w3cDRDdVlkanE2ejlmaWwzUC1LZ01rVzJVeW5MWlhRbmhVSHMtcjZMaEwzR1hfRmdFWTY2VlppZXhlSVZkakxlWC0tempJaVJZcC1BZ2tYY19LTDF0LW9YZElpdzJBcmhTWF9OX003SVVaNFN4eERaRWtxZ01sV1kzOXl3VGoxUHNYWXREc05HSFNPYko?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:36+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

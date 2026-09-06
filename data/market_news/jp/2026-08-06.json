@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,683.26",
+      "change": "-0.93%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "423.70",
+      "change": "+0.57%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.60",
+      "change": "-0.09"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "日銀は半年に1回の「利上げペース」加速!?植田総裁が物価上振れリスクで挙げた3つの要因の“危険度”。",
+    "米雇用統計の予想とドル円展望｜9月利上げか？注目3つの論点【外為総研】2026年8月6日。",
+    "「日銀の利上げで円高になる」は本当か？ | 藤代 宏一 | 第一ライフ資産運用経済研究所。",
+    "日経平均は前日比-0.93%の65,683.26円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5NYUZKNGdtWk5ESFd5WkY3eEJpcUJfbk9ZY0dkWnRzVEpYekNOeVRRTkpaLWRXT2E1aWk2UWV2dS1IbkZFYWlvcmhRQWfSAU9BVV95cUxPNEpGczJYYzFDY3hoY3pTS1NIZ0VXaEJPVzNXNHBxOU9hNXhib3JmRm03c21FZ1NMdGxmUlY5b0wwdFp3M3dIaXo3ek9rYTA4?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BaTNFWnFyUkdYRDVyS3pHeGI5TnVVQ1hyQzZkcGJVa0wzM2tBWURoT3JJSDlJLWEyTGZsY0FaOFF1OUhQNXpnTFZyN181dHRIVUN2cUphNVlaSVliU1NPYXRjaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpaXFBVEdFMkNyNUVhSmFJVlVJaEJTY3BhbnB4NklHRXIzSDhiMzNlS2pjOWlrb0JpMTVWd1p1SnZSXzlHNVRud0lGWW1ZX0d6aEZwcnRGZ3RmaUk?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:15+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

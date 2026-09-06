@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-30",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,688.46",
+      "change": "+0.41%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,660.01",
+      "change": "+0.30%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,397.89",
+      "change": "+0.18%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains and Losses Today: Pfizer and Merck Jump; Payments Stocks Decline」と伝えた。",
+    "海外メディアは「Dow, S&P 500 Futures Lower as Investors Eye Government Shutdown」と伝えた。",
+    "海外メディアは「AI boom fuels 75% of S&P 500 gains since ChatGPT launch in 2022」と伝えた。",
+    "S&P 500は前日比+0.41%の6,688.46で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVVjWnZFQnNMd2J4bmJ2cG95R3dIMm9wSGlSMURvbXluM2RQV056aTRHdUJPcWd6V1NCWHZHd0hFTllBWVZBdWt2clc1N2dkdE1Ma3dMcUFyUVdTalZnQV9yT1ZnSnlWUV96bUsxc3JFdnZtUm5CYm05YUVReHEwbDBNS0Z6N0NYWFVfazNtMnhrTEUyQ09Qc1hqYVNsQUNfRWt1aUxjYVo3QXZ1RWpQdW9HbEM2azdRWGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM01zV3BqZ0FNT3R0UmF1QU9aSFM2QkdxSkdORXlLRjZLalAzNFBSazhSTHlQSnVwNmRJWi12U1FHYVFxNTNhSm1LYUQ0M1FYS1lzSlQtXzVCdGotUjB5VFhYQ1VJLThyWG5GTGoydDNoVU9raTByX3pCZVgtS096TE1ZWUlMLUtlV3pWRTBOcWdOSTg3dzF2YktNSlJMTGF5RjkxZUlLYkoya0RDOXBuLXhFbGRHRHduWm5jOC1vang?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTdwVmVoZFFtSzZhUzdOaGJkTmJmYlNHRkZUcjAyOVFPbGhacmltX3YzOC13Q1BBNmtDYkdDaVZSbE9LLVIzbDRhdTdPX0kyaFY1bC00SnBGdkl0YVRDc0ZMejlKWHRKaE9WcWhpcTBvV3lPaHo1YXppM19jVDNaMTNvR3NHV3B1MTVrazdGbDhjbTM4S2lPNk53YXFUVEMyVzl6dnlrQjhYTjd1U0dBVkZlbFhzcTZkVU1mTnc5R3AtdTFTR1HSAcsBQVVfeXFMTlFSdWJKSEdFMGZGdzlQYUl1ajJXQURnQnNpMndVNFFXX0pYZG9DVGpodG1CcThRWWJzNms1NGhDUTYtdFVVRWlPanRDMzJURUR3WEQ4cVpHRkdtcW5nMENPSV9MUlZfdU5lREFJWGd1ZWNPa2pKV1J2UE5RQXFvUFEtdGZCV1VtM2t1SHV5U2lWdWlqN1o5RkhoT19xVWhnczhRZmt1S3UzdDRrTlJ5OUk3enNhWVFmSUtBWmp5Sjl0LVQ2Y3ZSSmw4V0E?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

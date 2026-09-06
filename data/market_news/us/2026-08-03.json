@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-03",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,600.50",
+      "change": "+1.48%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,913.90",
+      "change": "+2.13%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,178.41",
+      "change": "+1.32%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.69%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock market today: Dow, S&P 500, Nasdaq rise as Trump calls off Iran attack, oil prices ease」と伝えた。",
+    "海外メディアは「Wall Street Set for Higher Open as Oil Prices Tumble on Iran Diplomacy Hopes: Dow Jones, S&P, Nasdaq, Futures」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Rise, Oil Tumbles On Iran Relief Hopes: Why PLTR, BABA, TSLA, SPCX, USO Are In Focus」と伝えた。",
+    "S&P 500は前日比+1.48%の7,600.50で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBieWllQ0NHbWJUbk42SFl4T0dtb1hRZktIaXZqbFRvY205YXIyVGJSa0JYT2RETERLWXZPcmZuUGFFRWc1YkJCUWZtUnRBRDhjY19ubGYyY0xyemw0SDI5MTV6SzdUalU1cERzWHhveHdtT1gtOGk4?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXBTR21GRFFkM2U1NTVkS2RrUUZURGVKQ19jY2ZDWW9vSDYxUUNDVm9VSHpiQ1BsM0EwNVF0NlVqb1E0T2lGM3JDMVU4SDhMdW1QOEI1OXd6Q2p5enNKRm9OcWdzSk5EaWpXeGlPbVpnT3NzWUVwV2NKblBSTGRhRXNqUDlCcjg3MUNGRmJJQU42VVE3djBz?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR0QyUVh1MmxrNVBlNEJfcndwX2otQkFxcUdZakZJQnFSdFVGdXZoSDNiZzF5T0I5Z1pqQkRkcC1BdnNnRVhYdWFQYTNYT3ZiTHJ2OUNkWWtrckV0NEZwZlBPWEV3N0JielhYNlU0cjIyWEREZ2JNdGZDLS14RHlZSV9Da2ZTS0Utd0tPeUtlNlhxbFYzSzhRS0NzY2FsUnZpbnBxcGFDZi1OYTMzYWVUTXMxaDhCWEs5TnUydF9WUmNtc1I0QmVKdm5WTFZuQUhMWGFrY0dEQkh3cUJt?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:21+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

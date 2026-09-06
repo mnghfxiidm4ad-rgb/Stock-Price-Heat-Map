@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2026-02-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "54,720.66",
+      "change": "+3.92%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "383.10",
+      "change": "+3.18%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.44",
+      "change": "+0.24"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "タカ派日銀と高市首相の財政拡張の折衷案で動意づく銘柄。",
+    "日経平均は前日比+3.92%の54,720.66円で上昇して取引を終えた。",
+    "鉄鋼・非鉄、機械セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HMU1idW0wMFBpZlR3alI5VnByN3ljRk44OTJIZ2wzSEZDX08tblFnVkwwR1ZoY0xlMHUyUzFxWjZkM3YwYkk5ZExESVd3QUFXcXBsaDJMZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

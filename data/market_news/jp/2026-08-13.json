@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,308.59",
+      "change": "+1.16%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "435.40",
+      "change": "+0.81%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.33",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "小売"
+  ],
+  "news_bullets": [
+    "日米「円安抑止」協調介入の米国の本当の狙い、日銀利上げの限界と為替相場の読み解き方。",
+    "日経平均終値784円高 AI・半導体買い誘った「適温経済」期待。",
+    "米中半導体競争が生む中国特需 ヴェリタスEYE（8月13日） - 日経ヴェリタス。",
+    "日経平均は前日比+1.16%の68,308.59円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBETG1Kb29yZVAxX21HR19maEpWN3JiSHFVMzFaSG1tNTRZWmVSNmxkWm1WTWtoT1BJX1I0WHRFdHQ3RHJCUU1iX0xteUvSAU9BVV95cUxOR3h6NDJpWjFVREFFSnluaEZBWExEbklabUEyTGllY19zcmxteXVlbGdiZVBwankyVTkyRGZ1aFRqamdFRm1NNmZJLVQxeC1F?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xYVBiNWF0M0J4T1NiR0ZIRmF1YzNvY3hEbU4wbkI3clltSF9QZ2NaeDJZLXRIaDhRQW10d0dFbVh5NS12ZWZWYUFlZ2dEX0Z0dlNOMlJQRjhBUFF6NTcweWpkTm13Y29FdWZZNA?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mbFRoYXgyLVdVRDFtUjczeXVVQ1hCM0NpcGhja1pUVXpJTHQzNHAxckloR2dPT3FGVlFidEFLR2ZKN1V5RnNET0dmNVZSNFdqYXZhaFZEOUNfRlJmY3lZNm10dVVEWlRmeTduOWxLWXZWVFRqZGZzLXo0UWdOdw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:18+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

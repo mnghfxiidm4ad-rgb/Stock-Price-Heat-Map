@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,220.25",
+      "change": "+0.74%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "435.90",
+      "change": "-0.43%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.22",
+      "change": "-0.20"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "建設・資材"
+  ],
+  "bottom_sectors": [
+    "商社・卸売",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "長期金利上昇 一時2.930％ 日銀利上げ観測や財政懸念で。",
+    "利上げを模索する日銀 もう1つの制約要因。",
+    "【ドル/円、今夜の見通し】ドル/円、159円台で伸び悩み…日銀年内2回利上げの可能性も？＿2026/8/17。",
+    "日経平均は前日比+0.74%の69,220.25円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE83a25oQ0xmQWVzYWJmRWZ2d2JlZlozZ1JZejFEQUUzTlFobWVNbFNTVkQ2TkdENTRkR3BJNjJ1VTVCNUFzMTh5enIwN1g0Ty1RQkF1UkRTQlFFV19pcEJDSHVKSzRhTW9LQU5ob3A4S1VrNXZU?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3JUNWY1aEd5Mzlfa0xZZWNZcm1pMFRaeHE1cWRWZTdzMjdJVHFITEZTN3FOWXRndVk3ZUZZZmMyNDhiNExGaC01NFpFbWxqTFNHcHF5OGpvTGxVUUdTeU52TlF4UnhjRGUwYzV4eWtaZVpTcE10YTlZVks0d0dtYlJQeXR3cUNi?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeGw3NlRGaGdOMXUxbFJmR3Z1b0NtcVVaOTJnOVBwaXV1T2lLU3RNbzM0RTRwclpOUGcweFI5dnBPV0FUVjNPQ2RzcTljcmIwNFkyaGNPZGtUZU5oTFdiaVNkWQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:20+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-13",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,632.19",
+      "change": "-0.61%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,105.36",
+      "change": "-0.93%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,558.47",
+      "change": "-0.26%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.28%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500, Dow Jones, Nasdaq Edge Higher As Oil Prices Retreat Amid Iran War Uncertainty」と伝えた。",
+    "海外メディアは「Key Fed Inflation Data Hot As Oil Torches Rate-Cut Hopes」と伝えた。",
+    "海外メディアは「Dow Drops 119, Nasdaq Loses 207, S&P 500 Falls 40」と伝えた。",
+    "S&P 500は前日比-0.61%の6,632.19で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHNVTkdQX1FaN1RBd0ZnMUVwaENfdkRVUFZHN3otTXF4Qlh5cXJYcHo3ZzZRazVnQk5OdzhNN1hWaFB2Qm94ZTN4andqWGtmWmRDSHBNRG9wMzJLMklkQmxtWXVENnphTjZUWHlFTFNKQlZaMVBlVFFLNWpBOF9uVk1uLTVkRXhXd05JaC12eXFxUlltZWtLR3p6TWtUUWZ6TE1ZUWg2Vmd1LTdGUDRGczh2djVUVlRjYjZjU3hyRmJfTUhoWFBSQWozckhDenVfQlVVdkxjTWRmUUNSVTFEV0V30gHqAUFVX3lxTE45WjFrWXVFZ0Y2RkhJeWJuWnFHTzJ5X3V2dUlMTHNpNjFnZzd2YlNKaUpHRjZNMi1COWhxdThCcjJVVUtIT3QxVVE3cGlCX3NqM2dGZmNBYWRZM0pKVmE4Y2p5S05YQVNKdGVXZUZwZURBWlRWVVl6SEdmWjhKb2J4V2RfRnpER3d0azJIZTdfTnBPaUg4WXM5TVV1MTdIUTNBdUdqZkhQVHZlcHdBM2NGOWVHVGlTb2FhN3FGR0RhQXFJY1Z0UGYzc21RUGk5SmlnTmU1MkhFelRtV185MGZDaUQtLXFZb01Xdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQW9yUm9qSlZqbHdJLXBOeDB1YzdHWHUyMEgza3JuU3A1YlNSQzZWaVJSdE9zanE2TGxvNE41a1N6WTFPdVNWYXNfWHp4TkpuME9BWHNyUnJlM1pqZVdYM3JESndaT2J6d3Nxdm1LUjFXT2ZCVnptdGctd0NVaTNKczdxQ29YOUtJYllBQzFndlhmbTVjZWQ1NDRJRDAwQmZDb3pDMkN6dnRiakJnVHdkN2hqLUlrbHdD?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnVLVllVWDVWYktjUE9HMjl3UGtwa0QzTnZjZFQyQTRfVFY2QXFNMzJiOXkxUzhTSW5KZmJQV1k1SXFmN2hZV0RiY1VaakczekRRMlpCUDhucF9lVnJzdlJrZnJjQXV2MnBFUG5GZHNnaUI2bGlwUGZuY0YxalRGd1htUlBLNVAzTUJSMEZLRjczZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:08+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

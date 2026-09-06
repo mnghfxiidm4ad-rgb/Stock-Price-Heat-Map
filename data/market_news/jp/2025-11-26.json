@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-11-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,559.07",
+      "change": "+1.85%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "352.00",
+      "change": "+2.00%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.23",
+      "change": "-0.71"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "食品",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "日銀保有の国債、32兆8258億円の評価損 金利上昇で過去最大に。",
+    "日銀の利上げで円安が進む可能性も | 藤代 宏一 | 第一ライフ資産運用経済研究所。",
+    "中国ＩＴ大手、ＡＩ訓練を国外移転 エヌビディア半導体活用＝ＦＴ。",
+    "日経平均は前日比+1.85%の49,559.07円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUXZFVVhEeGRsNXhOZDRJS2tOMzZvbFdkdVIyZEQ3WDRFYWhfZW9vZ0FXRElrbk9UMWMtU3VYSjZaQ2MwcGo1RHBwaUpTMGwtcE5nc00xQk13ZkVXS3ItQWdHZlVPR1k?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWXctVVVRTmFYMm1sN2NYS2lDN21rSzZ2cVhyZUlpR2wwSllSX1RKbnRkQXMxZzZSdTduYndSRzBfcTh4SU5xLTc0ODIwMWVxU3hrU01CbnNxYzQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUtzaDRpSHkySjVwNFhTSlZEdTVLZUtuSlJ5bmdlUHY1QXVjZE8tR19mblZ5SHZMZHlmamhWZDA1Tm0tVjFXVkhBX1dYclBwSjdEMDFZdkEtX2RYOFQza3BhRXRfaU9qZ2YtRFZ3b0JmdnQ1LUxpdEhxTXhsX0pZZ2FwVUxsQldIMVRuaQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:15+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

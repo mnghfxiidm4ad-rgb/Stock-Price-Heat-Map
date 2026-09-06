@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,179.27",
+      "change": "-1.89%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "407.80",
+      "change": "-1.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.38",
+      "change": "+0.21"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で112円台後半｜日銀の政策金利引き上げ見通し報道に反応薄(2026年6月10日)。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で160円台前半｜日銀の政策金利引き上げ見通しが報道される(2026年6月10日)。",
+    "ドル円午前の為替予想、160円台のドル/円、焦点はイラン情勢と米CPI 2026/6/10。",
+    "日経平均は前日比-1.89%の64,179.27円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsMnlQOTZxdWNPakNoMndDdG4yM2pUZmVSODVpQl8xdE5rNEpYTUtzaHJOd2dhWmw2VHF6N3c3V1JGS3ltZmdhUHlrOG5WeG50dGd1Zncwb2h2SDVyVDlzODVXV2hESzI1SVpqdUp1MXB1a28?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZS2RrdE44M1FEQTNsOC0yb3YtemFMV2dndzdGbGo5dFJuM0FWSFNEWnNRQTVRTTZZYm1vRWxGQTY1eFpRdFlaNDBiV01YQUVXazd4LXluLTY2akVCYVNCYzA3a1A5VTUyaDc3b2ZPWHBOMVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FSHNVN2hUOGYtUkI1SU5ZNFAzSFM4U0gwWmhRYnZxenZvSjhKTm1PTlFsSVhTbkdOU2FpQVJlUGIycHRqbWYzU3U2ajhpdXF4TVZaVjQ3UExOS3RDWGdWcllQYw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

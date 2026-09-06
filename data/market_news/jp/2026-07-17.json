@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,141.12",
+      "change": "-4.03%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "407.90",
+      "change": "-2.81%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.38",
+      "change": "+0.30"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "日経平均一時2900円安 「米半導体弱気入り」「決算良好なら下支え」。",
+    "ドル円１６２．４０付近に買戻し、日銀は政策金利を維持へ＝ロンドン為替。",
+    "【見通し】NY為替見通し＝ドル円、底堅いが3連休を控えた介入警戒も。",
+    "日経平均は前日比-4.03%の64,141.12円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVGhJdVhDODNzOXR5Ty1hcnpvRGRwdTdrOWJWVDAtN2xocTZ0SmRMVjdUUUpQTTVTNnY3Y0FManZYMDRHT0dZZjA0M0FPZ2cyaWppNEZDbnpaMnl3d3FzdWIxczM2QV9DVVFlUw?oc=5",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5pdDl4VXFaWVUxU1k5UGpYWVdBaTg3c2RvMy1FcTM3S3RuTzZLY1d4dko2bHVQSnJwM0xERmxWc240VWx6UDZ6Uw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oT05sVTZxR2VFZW40RDBZalBRbzVoeWRWVVdsYVpxcWphenVVYTRWYXdQWXFmdmQtZ1M3RWxiWXRVZk45REtscHR2VE9TUmhQTG9lNW9zU1FBMFFrc0lqWEJoNA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:05+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

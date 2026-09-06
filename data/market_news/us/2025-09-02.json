@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,415.54",
+      "change": "-0.69%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,279.63",
+      "change": "-0.82%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,295.81",
+      "change": "-0.55%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.28%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「AI revolution could lift S&P 500 to 7,750 next year, strategist says」と伝えた。",
+    "海外メディアは「S&P 500 Gains & Losses Today: Kraft Heinz, Nvidia Fall; Ulta Beauty Stock Recovers」と伝えた。",
+    "海外メディアは「Stock Market Today: Nasdaq, S&P 500 down over 1% after holiday weekend」と伝えた。",
+    "S&P 500は前日比-0.69%の6,415.54で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOXzJtU3R5NTBxUXhnU1FKVElmbzB1VFlXdU12OTdYdnNFdzhFcEdsbFNvOWdLaXpIU0tOV1JHQ3ZNclYzdDdxMHVpWllvWXQ4NmQxQzJmTE9TMU9tZjZ0Sk5pRTlvWG5HeF9fejdmMk1sMmo4WW9nZ21yeHpHcktXbC1scU5qY3JQZU43NGR0V2loaGRKQ2JhbmdNY1NiLXBuZWRrWGpOTmw0akdKaThVVA?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMS1oZWp6a05OVlc0WVJIZFlSbzlwRjRuekI5Ylk5ZnlyWHhTMy14ajJ5V0RyUXRjeXdNYlA3N1drTlM4S2czT3p4WXRZNDFhQWsyZkgyYmwxLWZNUlRQNzEtRVVGb256c1ZwMVlnSzRBNzBFMW5oU25ZVzBhRUpyM2p0blFZZlNQYTVfdnlpNnoyNU9tRkxSQWVUWkNjTFZtTTZRQWZ4U1ZEa090MHFibG9HRG5WNHRBcWdrQ3RsS3E?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1YtV2dfNTQ2bGlzTUlTbFFYZk15MkRwaVEtU04tYUctOUZLdXY1ZGJmVGFnM29DeV9iN2t6Y1pKOGY1RlphWFlhWFhFSHJrbHhrdkdrMWl2T2hvV0Rua29WNGV6cXlCbloydlhJUmtGdUlDa0ZqS0JWUUYwSXB4ZUYySG03UDZa?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:34+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

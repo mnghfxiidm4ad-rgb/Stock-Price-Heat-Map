@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-03-05",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "55,278.06",
+      "change": "+1.90%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "388.50",
+      "change": "+1.75%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.98",
+      "change": "-0.79"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "【2026年最新ドル円相場予想】ドル円170円へ｜朝倉慶が警告！円安×インフレであなたの資産が目減りする【FX/為替】 2026年3月4日。",
+    "【ドル円見通し総まとめ】構造的な円安は続く｜ストラテジスト・佐々木融氏が語る2026年末165円シナリオと日米金融政策の行方 2026年3月4日。",
+    "日経平均株価3日続落 終値は2033円安の5万4245円。",
+    "日経平均は前日比+1.90%の55,278.06円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtSnVpTzNwTk5NODVHa0dOdXBUTHpQTGdEN1NZRmlnVXBnLWZKdkhRUGwtcjVqUy1GTG03czQ3YzNmRS1pSHhkWjVlbS1UM05SZ0dGZU05eXlCMGJoNFduM0xqcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZYW5BOV90M0ZVTVdPTV9PSV8zeXlZZktJUVdiM3o5SVlOM1Mzejk0TWJ2aGVlRU82YVZvbEZBN2JzLWR1UzVqM3Y0YllfQUg1VGhkd0RpR1FrSGdkZnJRVmt6WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aZnBNMTlRSW9lVURCd1lVWEtXdldZWFJHTksyMVZYaTdmcERGOGo3Z0dTdDRadXRtdnZ6U3B3OEpSQnNTS1JtMG0xUnZhMWFIeUx2ckd1Q05FczRWd0phMUZ0VVpEbE03TGRIdA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-25",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,591.90",
+      "change": "+0.54%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,929.82",
+      "change": "+0.77%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,429.49",
+      "change": "+0.66%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.33%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Gains 305, Nasdaq Climbs 168, S&P 500 Adds 36」と伝えた。",
+    "海外メディアは「NASDAQ 100 Index, Dow Jones 30 and S&P 500 Forecasts – US Indices Rallying Early on Rates Drop」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Climb As Inflation And Energy Jitters Linger」と伝えた。",
+    "S&P 500は前日比+0.54%の6,591.90で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkp4Vm5GcnU2MlU0a25jRHRyWmJ2WWNzUlBZRkFpWUZOUW9Vb2lhb1FoZkt4bDBxbk85N2FlRlk3LVhYaHNiOXBVZVM4N1oyM0licmpiMUxnOVpaZS1ibGRTVElUWG53U3pfNWNUVWZudXh6bzJLZk53R1ZLc3diWGNXazJ3RUJzSXhZNkJqUU9Tdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVnpfa2NGbUgyaVpzUE5ma0NHc3dIOHFLLUVJUFBqNzhOSE5KU215RHBBbFlQdV9kbktGeFZkNFhPcjFyQTdwaUNXQXNJQmpKZHBoYU02OTRYbFFJaTRfZ1NvMHNfd3JmeEYyeGEwUkJjcF9QLW83SS1MVGt5RFVKLVR2YzBFMlRnWU13S2JoRWVVTzAwdmk0c2lzeldwaEt0a0lNT1dndUdBdVpxMzU0dk12MFFsbEc0WWo5TzE1V1dydWhZelhwX0dNemRXd1lVQklpRTg3OVE?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOFkydFlKN3V1VnlYemZhX21IYTNuOV9KYUlBTk9BU2pIV2JYOU1sYldYbndJSThNdkhXWGpZSVlwbEp2NndMcUJyVmVVYjJiaXJYTlFTbHdOVTRvcUV3OHJST1M5bWRCelVRSHl6SDQ0bFhzUDhsSTNFNVJ2ZVB1YmV6ZXhrMFBaSW1KUkdDcHAtUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:14+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

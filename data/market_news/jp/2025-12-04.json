@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,028.42",
+      "change": "+2.33%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "356.60",
+      "change": "+2.00%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.11",
+      "change": "-0.70"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "食品"
+  ],
+  "news_bullets": [
+    "東証大引け 日経平均は続伸 米利下げ観測支え、先物主導。",
+    "2025 年12 月調査の日銀短観予測 ～追加利上げを占う最重要指標～ | 熊野 英生 | 第一ライフ資産運用経済研究所。",
+    "日銀、12月会合で利上げの可能性強まる 高市政権も容認姿勢＝関係筋。",
+    "日経平均は前日比+2.33%の51,028.42円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4weEZHVTZmSUxHckRKdXhrOUE1S0phZWxUVmZ5bHd5WlNzR0hueG9ob2l3enh1ZTJYTlBqX2p1Vmt1UE5zdUJ2N2tJVVRCQkVRUXQ5UmV2aUcyYThLdlZtOUJOUzd0SmtMaUNiRg?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5idUhPdEdsYnplU2NIcHZwQmVuN0hPQzJycHFza0pwV09SVkthVXBnRzZzMTFFcEZQaGY0X0ttbGFlVEpyLVhHLXZRZDBKZ1ByRUVtN0V4aExsckU?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTlZV0V0MnpObkN5NDBfc0Y1ZmR0Nk5pZmpPWXRiWFc3WGpHZ25JQnZLVnZkMHkzRktXX0p4bkZEeHF2WTBvaUpxdW94Q01vd2VCanFISU9ncjBUY3BMOFVsWGtHUkowMmJFT2lSZTJ1WnFiNHMyZTc3dnViS0lITV9nWkxwWjZwQ1VV?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

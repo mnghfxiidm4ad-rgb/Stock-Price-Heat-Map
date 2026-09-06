@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,581.94",
+      "change": "+0.18%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "355.00",
+      "change": "+0.79%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.34",
+      "change": "+0.20"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "FX分析「FOMCでなにが変わる？日銀利上げ織り込み92％の今」ドル円見通し 2025/12/08 #外為ドキッ。",
+    "日銀の再利上げを歓迎する日本の株式市場。 誤った歴史認識でますます暴走する中国。",
+    "米国利下げ×日欧利上げ 逆向き政策金利決定の際、過去の株価はどう動いたか 野村證券ストラテジストが解説。",
+    "日経平均は前日比+0.18%の50,581.94円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5maTBGWUxZNXJ2SHJvdTE4R3RRdGRHRzlkb3ZENXdjSExOMGhrX0tyRzV1UDdYQmlBUmNSTXRqdE96dlg3SkVwVXZzMzRuejRXNk5Qbnp1TlZiVVRmd3dRTnpiSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwTzR1X3k0QXRLc05MQjBFbm1JU3NYOUNTdWs5aDJfVUprVWJmVGdnRXNwTUlUb1hhS0tMc0doUWJBblBKR0xpd3ZqNUhHOHB1WlI4?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZUFUTG83UnRDcjhNNEJfTHo1Z0lXc2RLS1c2b09RSHY5b0JJRmpSWU1tMGhBWkFvV3djaWJNdGxiN3FRS0NBTjlZTHc3VjFraHo5VEYteU9JQXNMOWk0?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:21+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

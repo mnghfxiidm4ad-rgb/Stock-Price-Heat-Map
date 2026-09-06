@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-11-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,911.76",
+      "change": "+1.26%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "347.90",
+      "change": "+0.69%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.82",
+      "change": "+0.87"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "建設・資材"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "ドル円155 円突破で高まる為替介入の可能性。",
+    "野村総研・木内登英さんが語る 実体なき日本株高、日銀利上げが修正のきっかけに。",
+    "トヨタも恐れる「半導体ネクスペリア問題」…その裏で中国が着実に進めていた“国家戦略”とは？。",
+    "日経平均は前日比+1.26%の50,911.76円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzcGVYVVpYWVFyMll2VWthbldkUWViZlRWNzNKOV9rNkdtVVdGMzFURVB3TmFYQUUyc2dxazVxWUVyNkFmamtNUTgxSC0wSGxYMlEtWEJvTXd2dDA?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Cemc2SzJZcWFGdGlSMjlLcTdOMXJyR0FkUk5RWklFMUlwc19PbWJ4cExSck43cDEwWDJEa1hvNWcwSlItaHpXNmp2QnRIM0pRS05RQXhtX0F1eG9Td2lR?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsLURLdElmVmFPRkdoSzd6QVZsTk5tNzhxc05SQUJURDBWN3hpc3NkNUFTa3dSX0pDbzVRWjVXdm5ud1k0QjcyUUxZcmhkRTJ5eVRwUkV30gFPQVVfeXFMTURzX3VqQXhEVjFJeDJ1dDVfRklIY0lhOTJkZG1IanZ3aU1ZNGlaZ096ZU54WGlOTmV3X2gwR2NrU2ZtdnFrUEl6d2lobHJrTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:07+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

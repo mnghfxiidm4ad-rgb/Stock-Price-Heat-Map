@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,672.62",
+      "change": "-1.52%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,311.98",
+      "change": "-1.78%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,677.85",
+      "change": "-1.56%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.27%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "資本財",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Plunges 600 Points, S&P 500 and Nasdaq Drop 1% as Oil Spikes Again」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq futures slide as oil surge rattles markets」と伝えた。",
+    "海外メディアは「US Stock Market Today: Dow Jones Plunges Over 1%; S&P 500, Nasdaq Edge Lower As Middle East Oil Disruption Intensifies」と伝えた。",
+    "S&P 500は前日比-1.52%の6,672.62で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkZ1WnZLc05xNG96RUpKeE9uLTdBQk1MbHVLSVRzbFcxdnkwVmxaTDlZcTR6eWxUMzRQdGtQaDZOeGpWRFVwdkQ4QktwMEswdGUwZDVzZWtKYS10MDVWSDlxQWlMMWJ4bXJueTRtYlA2M29aaWNnbExYVGxpOVlGd0g2blRFYmtOZms4LS1ubG5ZZ1g0N3RLZm0xSElram9tZkllVHA0enJlQnRibDFqTWJhWXdQbGhWUmc3Q29xQ2VrUE43N21v?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDJSUTBRcHZnU20tUXZLVVpsMFN5MDBSRWd2T0ZvMVJfcUNWbGRyTVY2OWt6X2pqSERlXy1YYTFSY3FSVjFLRm0zb0pyekJ2SFRPdGlGY09ROTdpZ2c2eHpueGg2MlJvdDNCMEF2RVh3aFEyQmV6ZWRmSG9qcDRDM1lKYzhTRW95MWc?oc=5",
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZTlqRWM2TEJFdFFmeUZtYkZHZUdmUjF5RnRMcklmWHBjS2FBV1F4MDhKYnhqSUNPRXdKaWpEU0R1bFFxRXpkc2xJU2EyOEVnRjFSWHZWaE1OeEJfWnJubEdVeXhCOGdnWUdUU2xuMGk2VGhjcmgyOGhOOUFqbG15amN5MVRkZkxCSzhtd0ZWTEV0dVNWRG9sZHF4QnVySEhMb2wwbkZKbjRzMjExLWdSaURPVEZ6X2h1aHFjei1CbWxWVVJWMlpnQ1gzcDc1anFXZk5MNUNpU25rNEZxeF9RY3dJSkpseUtucHVkatIB9AFBVV95cUxOX2p3MVktNGE3X0V3Q1d4dzNBZDJmanRCUXhWal9PRUR2ZHZ3bGFkdFZ4dWVFQzZkZlVCYnRtM0FidEJMeU8wcnJDYV9QV2xHRmhieDBxQm14NTlHRnNVU3pfSTJuVUpSN05zTU9fM1ktZy0ybnB3YUNYREpnZGFtWVlpVUJPd2k2OTBKYmtnRGJOa3Uwd3NJTXhvcDgydVIwOHlDRWtHQXE3X2hhNDdsY1p5SE9RZXNPUDd6SC16cmxSRUFIMzhGRjJyam1HQktuTkpNZFUxalptTTZBc3YwSVlVdGJnV3Znd1JvWGJ6TFY2RXVs?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:08+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

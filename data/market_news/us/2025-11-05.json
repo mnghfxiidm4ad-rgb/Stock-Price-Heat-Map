@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,796.29",
+      "change": "+0.37%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,499.80",
+      "change": "+0.65%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,311.00",
+      "change": "+0.48%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.16%",
+      "change": "+0.07"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Futures Pull Back As Market Mood Remains Cautious: Traders Mull Election Results, AMD Earnings」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Seagate Stock Surges; Supermicro Falls After Soft Earnings Report」と伝えた。",
+    "海外メディアは「Stock Market Live November 5: S&P 500 (SPY) on AI Valuation Concerns」と伝えた。",
+    "S&P 500は前日比+0.37%の6,796.29で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnFNN0xkdzlYbVdqZV9rNWpiamZBcnRvTDcxcjN3a0VhaDhDS3VtTWZ6dDBxMHdkal9keElKT2I3blhpT0dfUkg1dTdwTnREZEZCWlZOMFNqVWJqdllOdXJyNjBNemh6SUFmQ1FrcTg2NnE3em9TSzRPaGM5ZUpjaXJMQXZnZFlEV1dpN2RCbkdjcTIyU0tlRnN5emJ6VmFXZjR5REVVT2lBblkxVklkNG5naWhxeWlsYWRDakp5S1UteXFWN0h5blgxZEQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDdBWDB4RW9YLUxwNUxPdFh6Z3RVek9MLUI4a0tPblFtbkcyN1JsbU5vcndFSXJrYjFaal9sU1Z1cU9TeHU5Q2h5UTJEd1RHcFoySFM2UHF3LUN2NTdOclFBMUQycW1XTVJLV1hlNzFtaTVtQVNlcG1qSHhqamE3aWZaN0hWTHZzcXRiMzNicWc3Tm90UkRIbVhtd1VUSHVCU2h0Nmp0U0lucExtRmZaYTgwa09SMTIyVk82YjRIZWw2NnVxajBNSGJhVzJab2lnZW5z?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRjQ5UEM1SzVfRDdKUXB2dmpka0FYRFBIRXc4MlVqejRmRjNDVWlvQ2k5Z2hXVEdSdGY4QU8tczJReDRJQmZrcDBGeWNEaUNWZ2pmRzJud05CSUtock9pc1J0YzVKSExqcjgyYnRibUZDby1VZ0MyS0IwaTBJSUt2dGlFR2lOeHFwUGxXbF9OdXNnTll2MUJ3b3otR25KQ0o0S2w1REUxaC1FZ1VY?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:06+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

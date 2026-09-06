@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,431.46",
+      "change": "+0.50%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,888.84",
+      "change": "+0.31%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,202.26",
+      "change": "+0.70%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.49%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Climbs 354, Nasdaq Gains 79, S&P 500 Adds 37」と伝えた。",
+    "海外メディアは「Highest Number of S&P 500 Earnings Calls Citing “AI” Over the Past 10 Years」と伝えた。",
+    "海外メディアは「US Stock Market Today S&P 500 Futures Climb On Hot Inflation And Fed Jitters」と伝えた。",
+    "S&P 500は前日比+0.50%の7,431.46で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVUY1WDB3a1JPU3NlVE51XzNWUzIta1JYaHlVdXNTODlVYURUdkNqOG92cWZKRXlWSk9mcXVLdU1DUzZrbXhmZFRqTG5jSURUN3lkUFRsTUNWcG9oQ3hZLWhPRXVPWk9OcVNpaEtPQU5teTJwTEJ3RFhVd3V0SlFqQWp0N2pQRm9kODBrMlg5SDY?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjA2Y0hRSXZmTnlENWZfSVA3bmVpc0RST1dWUFNXOHFTenFYZUlMd3lNQnhGQmpaRDB0NDlFYUppbEFMLUEzQk5qOGpzeVhoRHVXSXpidEdtVExLSkhwUHZSTWNKb1dBZEpzQVBoSWdMSnlrRFh5MmdreDQ1Tl80dWphVmxlZk53UHlrN01jb0dveXliMkxmN0RVZFZsZHpxRkZ5a9IBtAFBVV95cUxPUW82SmtwdHJhU3RWeUJiMWxRV3J0S1VHLTlyN0g2UEZTTUxHdTQtRWlRY3FkbEtzZDM2TkMza2hTRnBCZ09MTWNxOUE2SlRCd0M5bFc2dG03Ym5Gb0xwX1FXSUdQX09pdnFQOXNZc3lnS280bTdLS0ZPMXh5TGVkQlpndlhLdjJtdlk0SHJYc3JmT1lNUGo2bXZQREE2X0VxRW9JWmdQWk5CUV9VZUpqd2JJYUg?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREtEVDNpTjlIUk9JTW1nbjNMU1c3Y0p3elhRRS1aeDlsb285aGtUSUdrcXMtYldteGlyMmtYZTV5S1NRY3NzTFQwNkFyYXVsODduc3owNkJfQ1lBSUFRSWpJQmpMSW9nLUhrckpVZ0RYRldpRW9yWGs1b2drTkNVUWYyQlNaQ0VtMDFzUzN4VWVYUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:55+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

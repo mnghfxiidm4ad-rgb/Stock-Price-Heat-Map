@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "57,467.83",
+      "change": "+0.57%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "404.60",
+      "change": "+1.23%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.69",
+      "change": "+1.54"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "高配当株指数の上昇、日本が米しのぐ 東証改革の追い風続く。",
+    "【セミナー開催レポート】第3回東証改革徹底解剖シリーズセミナー ～日本株は上がりすぎているのか！？ - smd-am.co.jp。",
+    "日経平均6万円は通過点か、それとも“最後のバブル”か？100億円投資家テスタ×エミンが語る「日本株新時代」の正体。",
+    "日経平均は前日比+0.57%の57,467.83円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EOGdYNlNHQlZwcXd6bDIxMllLM0ZXVWtfUUFXS2pvM0pQbndQaHlKRTJncllJLXRUOVZUM2lRMDFPYUZWbkNVbWJXaUMyc1ZSMDQ2U1RRajRPb20xTDhldVhkOWZvWU1NcjI2Mw?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51YlBBWHZVcGdpOU1ROW1lQUNrNlI5alZkdDMycGxISGNYR091MTZ5QU1oeTVfYjRPWERPeVVNOGRTX2tMODNwYkVjR3FfSHJacE8wTDBHWVdpTjRLZDQ2dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXQ0p4d19FTlA3ZTdYYmt1VGd5WDZjSGZvZWhtd2lJdUlDejV1d2c5Q1pycFQ5d00wS1M1NEZmclRnSlZmcDV3cnA1MmfSAU9BVV95cUxNWWdsaTFtOEdpWDlTc213Ylh5d1Q0cVlRYllBbHA4bERjMmR3enl4U21mamxyaG81ejdfbHdaNlh2Q1d4MWhteWprMEpnX21B?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:55+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "54,253.68",
+      "change": "+0.81%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "388.50",
+      "change": "+1.28%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.78",
+      "change": "-0.13"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "日経平均株価続落、終値は475円安の5万3818円。",
+    "学生向けコンテスト「第21回 日銀グランプリ」決勝大会の模様（動画、講評、報告資料等）。",
+    "ドル/円、衆院選後の値動きを徹底考察！160円突破だと為替介入警戒？（来週のFX予想）2026/2/6 #外為ドキッ。",
+    "日経平均は前日比+0.81%の54,253.68円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSm9sTnVpOWNiSlktbTVRYncySkcwYTlNRGtLRzZlNkp1YzdmLTlid0J2VHFwNHV2WXJTaVBfMjhFUVlFTDZRd1ZKLUtfNlVhbWVrWXNRamIwdVk0NUJiNzNaS3NrcWJka3oyTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE14Q3MxamhlQVdrYWt3UjRCVXh3bXAtWnd6dzg4c2hLbWhQdXZDUGVNdXdaRDNWX0ZlNVdKVEVrS0FvME9ucmhQTldpR0RqUFVwc29vUjZ5cnBOMGZEUEdxS1R0VnN2VUFEaTdFaHJDS05aOW8?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lWHB2NDUzY09aUTFUQWRMZUc5WFNIRzl3MGdSQkdTRGIwcDFGWEQ1cjRXYUZpZVJYYjlNVXlLSmpvUUtmTndmN3A0WXdpUkRKQVgzLXUweGJ4QU83TkR5MVZMbw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

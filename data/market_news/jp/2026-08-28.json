@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,405.56",
+      "change": "+0.41%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "432.00",
+      "change": "+0.61%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.32",
+      "change": "+0.07"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "建設・資材",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "来週（8/31～9/4）の日経平均株価の予想レンジは、6万4000～6万9000円！ 米･長期金利の動向や、キオクシア、アドバンテストなど半導体株の動向に注目！。",
+    "決算:日経・東証IRフェア、東京ビッグサイトで開催 来場者最高1.4万人。",
+    "来週の日経平均見通し｜67,000円突破なるか？米雇用統計と米金利が焦点！2026年8月28日。",
+    "日経平均は前日比+0.41%の66,405.56円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xTTJ4RHpnSzVySDlFamlwck40SHBTUDlJNE5FQWFkRk1Tb2NuYUFLUGlQdHpxZEEwMmNYVzRVdVpFbDVLS0tsMWJINnNoeTh3NEZJ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EYm0wSl9CSnJCSkR1NXU3RUdSZHJZQUFhSzIweTdieXZjOUhLVDBOcTZWcm5rX2tmZmkzSjZ4dTRRcFNrb3F3b1Z4Wlc4WDFKRHRneDA1TnRWdTNEXzVyUGoyQk9vdVo4SGk5Nw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uWjl1OVUwUzVwc2xmZlg0Z1gydnNfT0VydlpNWVVVeTZjMFBOYnA2VWdzcGs5RUVTWkpoOEc3ZVpzODNVVnFKTzZGOWVkLURkMGVGQWtLUElZTElWcVNmZkFmQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:27+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

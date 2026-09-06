@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-21",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "61,684.14",
+      "change": "+3.14%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "408.80",
+      "change": "+1.64%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.89",
+      "change": "-0.15"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "機械"
+  ],
+  "news_bullets": [
+    "ドル円午前の為替予想、ドル/円、原油大幅安でも小幅安 円は「買われにくく売られやすい」 2026/5/21。",
+    "午前の日経平均は大幅続伸、米株高や金利上昇一服を好感 1400円超高。",
+    "（まとめ）日経平均は1,879円高の61,684円で6営業日ぶりに反発 半導体などに買い戻し。",
+    "日経平均は前日比+3.14%の61,684.14円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xN0xKU2gteTh0SE0xZ09DSVc1MGU3WVdDTzY0VUQtd3VmUFlrM0JXejFGbmFjc1lkNnl3ejV5Tl9zLTkwcWhCdjVsYUxuTGNTb1pNZGx4SXlndHpycG95Q0h1bw?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3JHUlZWR0hKUFF5ZDZZdG5DMDVhS2dZcWNILVVyVm8tby1MYVV1bFpScWh2WmJjNFlzWFBTU05BcWdaS1FVQ3dNUm14RE5KdEZnd0xqQm5kVWN2c19Bak8xcVhrQkNTQWlwaE5jNk9vaUExWndyclBaNUZEQUJMaA?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFd1diX3o2a0doR3NYdXVqcG16MVZHOVRfZTF4WUFVMHFwMlZYR24wbXptRzk2aVpvdHRBcHhHQlZDcWxsaEFHeVdncEFINnRMLWl2edIBV0FVX3lxTFBmTGlCcWN6TVllQzNoX3Jrd3RyaXU5S051Y1JqZ2N3STBtMkZKR1ZmVEt0MW5RQTdyRTNJZE9qREx1QktMNEJsTU9oX0V4aGJtdTA1XzJ3TQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:36+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

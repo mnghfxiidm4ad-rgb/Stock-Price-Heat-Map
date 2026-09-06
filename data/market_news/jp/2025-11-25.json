@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-11-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "48,659.52",
+      "change": "+0.07%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "345.10",
+      "change": "-0.17%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.94",
+      "change": "+0.25"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "国債含み損、過去最大の３２兆円 長期金利上昇で―日銀中間決算。",
+    "日銀保有の国債、32兆8258億円の評価損 金利上昇で過去最大に。",
+    "日銀の利上げで円安が進む可能性も | 藤代 宏一 | 第一ライフ資産運用経済研究所。",
+    "日経平均は前日比+0.07%の48,659.52円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kbXl2Yjl5MzlKaG9ybWdqUzFwaVZPeS1EQXJFOThvR3J5bEFDVG9MVEZhdHgzUGQtdkZZQ1ZZRUNfeGh3dXNuVnB0bE5leGVVcjFKRnZqc0tpWmF1enVnd1VBVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sUXZFVVhEeGRsNXhOZDRJS2tOMzZvbFdkdVIyZEQ3WDRFYWhfZW9vZ0FXRElrbk9UMWMtU3VYSjZaQ2MwcGo1RHBwaUpTMGwtcE5nc00xQk13ZkVXS3ItQWdHZlVPR1k?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuWXctVVVRTmFYMm1sN2NYS2lDN21rSzZ2cVhyZUlpR2wwSllSX1RKbnRkQXMxZzZSdTduYndSRzBfcTh4SU5xLTc0ODIwMWVxU3hrU01CbnNxYzQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:14+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,816.51",
+      "change": "-0.16%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,057.41",
+      "change": "-0.59%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,416.56",
+      "change": "-0.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.18%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500 Flat as Treasury Yields Fall Ahead of Key US Payrolls and CPI Data」と伝えた。",
+    "海外メディアは「Stock market today: S&P 500 slips on tech woes, but Nvidia’s rise limits downside」と伝えた。",
+    "海外メディアは「Warren Buffett Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $835,000 With Help From Nvidia, Apple, and Microsoft」と伝えた。",
+    "S&P 500は前日比-0.16%の6,816.51で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSERSam5vSHp0MEg5VlpYdTl2YVNzbVdpQ2gzMDJwUjlEZFFCUnF5SlhRQ2d4Qmd5VW93SWR6QXZyLW9UTVFMQWdDdUJ5SzMtUE90ZWx4WU8tNGtjdmZjVVY3VGNRUkRoUjJ0TklNXzZTUUR1clpVR2NIS21jcDJnZ3JMNWViRmZUTGZmVWFiZGVyRFpqQ1c0VVpXVFBEUTdzZzdRX081b09UY3RqRkhQVGlkN2ZIN1N6QnZONGVkWUZ4YXhLZDBKOHlMNWRhcVBI0gHeAUFVX3lxTE93WXZxNXA3b3ZLMnNONzB5UlhXc0VPY2lpSElwSWtScXIxVGpjeDRjXzh3X01FU2VMaWdrbUY2bnlPRmhFMkJnMm45bWhMNmlvMWVGNjVreG5ZZUctTzlwMmRZVl9oOGQteHNDTmFJX184TElSaE9JV0VwMUJySVY5SFR6SDJJUlV0QnlUMjhGVzRFWmFWSGpYTGMwN2FSdjNidi1yVEh4OUFLel9Ub2lSQ0kyRzMweXhzcGY4MmQ1T2hiMFFpWlBBaHkyRjJGRXJYY2d2aHY5dzhPMEpIUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT1JiUHVEZVBTZExXOWpJNVBNbV9xS2lmeGFKbkJUUWNGc1JMVHh6eVY1Y2JIVHRobjZVSHkteS1Bd0dLUFo4UkdXRmw0UjNVOEFvWGYxWUVCcU9tN3VqcDhhN21WTW82VU9GQ0FDUVdra1RvWE1Vb2VockRMQmVaNVNfd0ZtRTVCd2V4QXV2a0Z3ZENSbVV4Y0cxenVFVFFrNUdZUVBCeDhMM2U1V2xQVDliQ0VndFRnRkJqRXJiNU5STlpIaW9aby16bw?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGJVNGpJdzVsQXhpN3YwdFpMY2R4dlNKVlFhWTdpMkdfbENKS0ZMUkhpYjFWNEQ3dG9yRm1nbUVIM0FPdjhyRnNMaUp1bmxGdU9EaFdZaF95TWNEeTItdXZPakZ6Qmx3ZWwzLS1zRE9DZkJVSlFJU01IT1FhTzNwUERoX0xJSnQ2c1NfZUx6TTFTQkZ0THc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:26+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

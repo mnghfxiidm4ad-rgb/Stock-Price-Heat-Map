@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-12-15",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,168.11",
+      "change": "-1.31%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "360.60",
+      "change": "+0.36%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.89",
+      "change": "+0.32"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "news_bullets": [
+    "半導体関連株が下落､12日の米国株安が波及。",
+    "日経平均は前日比-1.31%の50,168.11円で下落して取引を終えた。",
+    "銀行、運輸・物流セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9reUc5OU1Qai04MUpNSGVodmtiRlBQNk96M0lJOVJwWUhkUDUxZF9INHl3cFZuTzdHNW5welFwVzlvZFJFR2xsaVd2MjdvYUFpNGZ0STlCdw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:25+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

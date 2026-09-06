@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-04",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,771.55",
+      "change": "-1.17%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,348.64",
+      "change": "-2.04%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,085.24",
+      "change": "-0.53%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.09%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "金融",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nvidia Forms the $5 Trillion Club. Here's What It Would Take for the AI Growth Stock to Comprise 10% of the S&P 500 and 20% of the Nasdaq」と伝えた。",
+    "海外メディアは「S&P 500 Gains & Losses Today: Palantir Stock Plunges Despite Earnings Beat; Yum! Brands Climbs」と伝えた。",
+    "海外メディアは「US stock market crashes today: Dow, S&P 500, and Nasdaq falling as Wall Street questions sky-high tech val」と伝えた。",
+    "S&P 500は前日比-1.17%の6,771.55で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOVJQVi1rX1pmc29DYm9ycUo3SzBNVjBGdVlJWDFRekdnRWh5ZWxhTUR1SEphbHhLVndWZXhZQXJwcW5BRFpSb01Oa3ZWanlUWENVSVdfbVI0cVdxV1FQbTFXMnZ2S080UzBTNGlKWlA3Tnh6ZHI4UUxWTTFoREhMbHQ5MFh3c0RPMG1RcmxDMnM?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa1pCazhxT1psTEI0OXdSc1k1d0hwYUppRk02d2dMSlk5Y2YtWU1JTkJRb0hoX1hMa2EyQllxRFctWjk2enZWd2s1dFkzeU5GLU1uTnlhNEN5MHAteVQxTV90NTVCZmFWdEtXaEhrNWpyMHNnTWlaRkRzSmhBVTRMRjBveGpOM2tsYjFUWUdydWNMMkowSC1IbGNSWjhQVDFKWGFYVGNrc0FUektuZllUZ3BzYW51U3pZM3lGdWlkemxqNS1PTVJZdFVjLXV2NC13?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNcm5rYkxtRVd5dVBuU1I5WDRHVHM2VGk1NVVCMFZOOGo4WkV6NWlGV3dhWjNaR2d5UUVNdXBuOUtHSTRuM0ZVQUYzenc3dk05RFIxMFFpbGFiaWhJVExBN2VOdzAwM3cxbDY4Z0hDRU91d2x6SVhFX1NzRnFQM2RlRmx4cmtLdUh3QnhyRTk2Z0lnV1VuTjA4cl9tM3JlemNDZWlVNFNWaHdkQUhQM2ZVeUJIWWFmd0NCcmdPV0xWMFRXc19lOTk0bVczOTJ4WmhIejY3SngtWXg2ZTExN1JrNUZ2NXI1RHhJUHRLUHhYaDdSRFdSN0FLMzdqZ3dYVklHelNmNWZkWnJHakpDRy04NWhoN1l3ZzdKbWhOSVJrU1hocmRmZ1RyWGdoMXhndUdGTXpLN1lXNm1nbHRkVkJyNkpiMVpOdjhsTlhwcU5BcFBPWVZOcmU40gHcAkFVX3lxTE10OU8tQWZWZkE4bEhDY29sODhJVlBXYW5lM3hDel9SVHJ1MUxsRVhhdWNlMHg0TVRaSFBZQWJBSllwT01NYm11UTVnMFFIRXp3VURvWkFtWEU2dVViOUNKbW9VeTZXZFpxMWtwbDhMbzlEMmdlc2FCRlhwbGpIUGY3LURvZnAxWVI4NDExWGwzVWwxY2trWWZuX0c4QnZtQ3lBOUhWU0dNT0FGX1pJemI0S0RPN1JCWjR4YzlpMFR1WFoyX055enFyX0JnNXJCX1puTWFXMUxxTW8tS3I4Wi1GYWJobXRZTnA1UGVrUmhQblVic3lPNHZmcEVCcXBoY0VEZGNPRVhqSWhxeDVMZ0g3bm5jTzRwM1RmSEd0QlZidmVCWjk4REdhMmxISE44VWxzaG9ENFBDQ2dEY0RKRDBvYUNvYTNoc2J1QkR6LVB6UHZQTXdTWUVIYjlrNQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:05+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

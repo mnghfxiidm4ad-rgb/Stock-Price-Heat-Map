@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-07",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,757.64",
+      "change": "+0.62%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,690.62",
+      "change": "+1.30%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "54,036.93",
+      "change": "+0.28%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.66%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500, Nasdaq rally to end winning week as weak jobs report eases Fed rate fears」と伝えた。",
+    "海外メディアは「US Jobs Report in Focus as Middle East Tensions and Corporate News Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq set for second straight weekly gain before jobs report」と伝えた。",
+    "S&P 500は前日比+0.62%の7,757.64で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQUlKcXRoanFEQlBtY1V4cW5CTW40dFpDN1hta29DejlPaFVwWFpOWXk3R2JGakVxOFVQRXFuX3pIV0NmNnM3WXludG9MNG01cVNkUkxCSkZ5UXZpYUFINEtPX2oxUWxQaDJfM19aN1ZvZmtETUdLbnFmRGJtMFhUWUVocEg0VWVCSDJJYTFzZmhmaWtLM3V3MUdDYTdyRDdhVEx2aWFabnhyanluMFJXZjNpRjY4cnlLZWRDZkJTNEp1VERianVtWDV0M0tfZDBfcExNS3VIWlR3QXVLM1VGTVNQM0xNTEhsa2FsSA?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd1U5ZHl5cDBKdGZIbi1LckE5YmxCZV9UNmY5R0tNNzlITXBXcHQ2dTdvajkzN1g1d1k2dkZuUzZRbllsd2kybm5SNWlKeFFXckxzd2NUV2NnSnNxNHNBQVdsdDlvVUZlMHgza0tGc1lBTVRZbEdfcm9XNGRqQnpmMTYzUTBWd2g0Z0FCZUt6VXNaVGxlTXNZ?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PY1hCR3daLUViRXlrMzR0RDlza3BnU3NjNmxPQ2RDWFNhRDhLbmlFN255M1JFbzRwTjEtbThFQ0lXWjgzcDh4NzNHc3Z5RHlEaGNhdzlQcEppWTZkNnpZckkta3NKT2hCb281S1Q2SkIwV0NXd3QwOUxhQUhQVTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:24+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

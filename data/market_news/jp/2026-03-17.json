@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,700.39",
+      "change": "-0.09%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "380.90",
+      "change": "+0.50%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.10",
+      "change": "-0.46"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "ドル円159.40円台 植田日銀総裁発言で円売り広がる、ドル買いも継続。",
+    "今週は日銀会合・FOMC・マイクロン決算/レアアース関連が急騰！/日経平均続落【今日の注目株＆日本株市場見通し】「デイリーZAi」3月16日号。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円高で159円付近｜米10年債利回りの低下が為替レートに影響か(2026年3月17日)。",
+    "日経平均は前日比-0.09%の53,700.39円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PbnhVZWF2QWg0ay00VjQyM3MzWU5MTWRWWThORk5LZHlRd29yMzVONG0wMW1DaHI4UDRjN2NOWHV1YkxvOUIyVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4Z3BuTVZjN0ZwX0JVMERmWUE4Q240bGE4X2trVHdHN3BDRzVzemVIVS1ZUjJWVjJhMi02N0xzeEtON01VbEU1OGl0czEwbHA3bUxvUzIwN2Q?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PRmN5R1lwaXh0eHdESnVJbnE5c0xycURqVUpLNFQ5Vk5NemNZN25aQlZJeVRmQ0VjVGR1YlNNMGdBY3RnNGl6WTFrQ1Vpb3E5VW1xVWV3NmZlQmo5MHA1dV9DRjdrMlQ5UVZ2S0tLOThTRVU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:07+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

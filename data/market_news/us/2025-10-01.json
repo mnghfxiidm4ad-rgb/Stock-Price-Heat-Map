@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-01",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,711.20",
+      "change": "+0.34%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,755.16",
+      "change": "+0.42%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,441.10",
+      "change": "+0.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.11%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「US stock market today: Dow, S&P 500, Nasdaq slip as US shutdown collides with ADP’s shock 32,000 job losse」と伝えた。",
+    "海外メディアは「October 2025 Market Seasonality – S&P 500, Nasdaq 100 Enter Bullish Seasonal Phase」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 On Track To Extend Record Rally: What’s Driving Futures Market」と伝えた。",
+    "S&P 500は前日比+0.34%の6,711.20で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPNHkwUGtNU3FLOVF6eDRreFFVY0tfdFpGQXJDOTNpMVVIdmpyLTJyRlpqY2Q3TDVWT0xENTV6SC1xRE5wT19HSWlDTHU1OGpLdW9FaFFWUjc4WU0tWE1uZWpvV0JMcVdaOVdIeHYwNmlWTXlBU2VTYktRaVBlczVMVXV6SUs4NVM0YmhqTGo3Nl94SDUxbkdsUlRtdV80S2Y3eU9CNGRKQjVaSm05RWIzMmJZdDFEV240VWppSk8yLUFRQW5GNWp4T0hDMUsyQjZpRTJ2Zkt0TzRZblA2ZVFSYld1N1JFRDJheUlwWWVCMUFzSzNXbms2QUcyMUpxRDN0S1R4Rm96aWc4YXd0dk1VWmlFcGZUczZhN2o1VUhpbmRBQ0ZPMDhuWkw4Qmw0M0F2cU1Tbkh5Z1NiVmJibmx5ME5TaldPc3R5MlozYUQyZURqMUdsYlBUOHNzZTNjeVc1TzVkM0xubDZwOEV3Mk5qSW94VGFSQdIB-wJBVV95cUxQNWFETXNKYzNIUVFDZE9INGxVeTN5S1VnaUxQVUJFV1hVbUtOUUJVejU5aWJiMkpxcUUwWXAtWU5Ra3d5ay1KemgxbmNrWktmUmZrWTJaYUJUTUNhTlByeUpCaXNpU3hneGFmak1KZ1pmQlA1YlMyV2RSOGxjYW9XRFUyV0UtR1VCNnF4YV9hdVFqT0tPdGt2WVRlQU1VQ0tDaWpuejlBZDlTVWVoRjZyR0h1VXpJNEdHWDQ4eTB3eDJMeXRVdzhQX29BTVdYam8wb2NWQmxkWlM1MVdObUlsRHJlS3RTNjR1N2lURjRobjJZYkY5NXdnbTdYY2ltZjFMRnFEbGZzV29VYy1iUWJlVFd3a0pqTXVZdi1PNjJDZXpFT3lCZ0N5bzQ5dXBoRzIwcVk3NG56TGJueGlVMFhjRmZtREpPQWc5UUpsZVVlUmFtczNoXzZTNUEwakl4SkFtQ0JNZFFTNzdDYXVKb2NMcEtDMTlrVGp3T0tj?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3pIQUJ2MXpRbHJ3ck4tZHJaM2Q4UmhYWHBNN0RiRVI4b2puN2NWcHp3N0FEb3hvQ19JYW1JUDNiS1B3TXhhQzJ1Mk15N21oZ250SG1VN25EMHRhTGJDd3A3NEZRcTlBNlBrQ1htYmdOVmMwLWxYQjgyYVBVTVdackdrcEREUjg1UnJUY3hMOHdzNk1fQUFidVZnc3RLMUJTNnREd2JXR1dwQzJ6ZUI0QlNWX3hRUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ21ZR3lIbFR1bUVKOG1NZ3BlTGpXLWI1dHcyTGFXUmVwTThCcE01SEZKZHB4MWcwQ1VXa0I2NXlzTzhEdDRPdS1WOFlqbmxTTndPOHVBcHhKSGd4RlFDTmE1ck44V3cyQ0VNSXNEdEZzZXhhc1o5WDY0OHRqUzc5c0JKOTk2YUwybDEtU3FGRDBSRGFITTJxUkhEWmtzXzBvYVBNdkN6MU9QdHNDandUZi01RmZHb2VH?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:49+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

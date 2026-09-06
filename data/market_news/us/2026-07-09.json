@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,543.64",
+      "change": "+0.81%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,206.89",
+      "change": "+1.30%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,487.41",
+      "change": "+0.27%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.54%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, Nasdaq, S&P 500 Futures Retreat After Chip-Led Gains At Close: META, ONDS, FUBO, FRMI Stocks In Focus」と伝えた。",
+    "海外メディアは「Wall Street Futures Rise as Chip Stocks Gain Despite Middle East Tensions: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq futures edge up as chip stocks gain; US-Iran tensions in focus」と伝えた。",
+    "S&P 500は前日比+0.81%の7,543.64で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZnh3TlhxdHRlSEFRTlJtVTJxY0NVamM2VEVERlZ0bGhGVWg1QUROb2J1WkFOc3BOek9OYm5uYWlsYnBUamVfSjRtTGZoamo5Q1dIekkwdmZOWk5kRVJxYzBJSnFEX1NMS0YzYVhmNW1laW1BMnJMeDhVanJxTlVqUVZUSTdOZlc1R3I2LVBHWFdqNUU?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQODlXcndGLVlwVm5tcGw4N3JaVXd6ZTRUT0d6eGQ3dks1OUIzeGhQTVNzZVhVM2FVODRWajRrUGpGTF9JU3ZyX0sxQ3N5MlF6WlNKRmpfb2hERjlCRnVRdFEzakVaa2ZRWDNXSllzM1ZTMnp2NzZOUXpkdU5CUm5aZGwzdzJvQkJLRU5haXVPYW1tSGQ0UG53VFpR?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxORjlpQTQ4TWhPcVZiNmItZlFMZUNtRjFpemdBeXBhQW8xRVNMODEwVlRrakFHTlZrQkdZclZIUVB2dU9Za1VsLV8tS0lWTlViMjJJYjJ3WnZScFlxM2YxSzd4Zl9lRDdPbWQwVGs3SjNHQ1ItbEpXSml1NmV2WGJ0bEJrYW5zajZFVmhzX0VUUnVFcmFMZzNxSXdLX2E0b1pRQjFtbW13?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:07+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,533.77",
+      "change": "-0.51%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,881.95",
+      "change": "-1.47%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,552.97",
+      "change": "-0.20%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.57%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Futures Slip As Iran Tensions, Chip Weakness Keep Investors On Edge: Why TSM, NVDA, NFLX, ATAI, ASTS Are In Focus」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq, Dow End Lower As Chip Stocks Slide On TSMC Capex Concerns — TSM, MU, NVDA, UNH, GOOGL In Focus」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq fall as chips extend losses; earnings and data in focus」と伝えた。",
+    "S&P 500は前日比-0.51%の7,533.77で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUDdyUXAySGx2Wm1qb05LaFVWMW1uUHZHaHZGNHBCZmx2bGtyZzJUbmd5ZzJudzlwX0ViZzFhWnJ6aTlySG1UTVl0cWRvVHNSejY0WEpIQWNtUFhfSWFhcnVON0loRzBWWFBmOTlrcC1wX0R2NVpiNjNyUlhneUZCdnNJb0ZhdWdEOUp1TkNhQTFhTlAt?oc=5",
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxQc3RLVVdMX1h1blF6eExKZ05VX2FpaUdHeHl3WWMzbTVWRFo4bE9SR2t1enp6M2xLU2tXVlNxQnQ4SXR4ek9wVUUySEhWRFlKNzRONXZWV2JqdVBqRUxNTV9ob2NlazJaQnJ2OGRPRWxDZ3d5UTRXUzNSdngzTTJ1dHA1akdZcGcyOTZzakgwdzBpTEpPMFlHdVhiRTF6QVJ3SzQwU3ZOb1FUMjhiQTVJdmR4VF8yYWJXR2NrcmdoR1M0LW5Db2kyQXgzamhEanE0UEZoa1k5T2NwUU8wQVgxQjhUUG9aY0V0ZkpHU3AxZG5sSjVHalJ5MXdXLVZBcWVr?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWxDd24zRWRqQlRXNjk1UnU0TnVKUWV5QWxLdkVIbVpQa3ZDMlVIVEJnQUg5cFJPZndHZWJXRDR2RHBZNW9rc0xoeUVhOEFreDVLSG8xNGIwMTZxTGZ2Y2dWQ2w0aHVzMmZpSnlWM0tjeklxQnIxSnFyYVljQWQyV3MtS0xMRkJNMjN4MHZsc3FET2F0c0F4N2NDbzU5cFdhd2xfOXNSSFFZMmNpZzhmbHVSbmEzUXY1UHZVTktheGpPc1hNaG0yUFdrRkt0d2R0LXpWQ0tB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

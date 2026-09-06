@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "60,550.59",
+      "change": "-0.44%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "408.30",
+      "change": "+0.59%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.86",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "過度な為替変動「望ましくない」 植田日銀総裁と会談―米財務長官。",
+    "日経平均株価4日続落、半導体・電線株に売り 金利上昇警戒 - きょうのポイント、明日のヒント。",
+    "（まとめ）日経平均は265円安の60,550円で4日続落 半導体中心に利益確定の売り。",
+    "日経平均は前日比-0.44%の60,550.59円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaTkg1N2RpRmFYN2JCN1lqUmFrV2x2WmViZkRHNVQ0VlFfb2tPbnFCbllMMUxlbmh1cHUtZWxGTFRCWlJ1Nlg1aXEzMVcybG12UUdfM3o0NjdZWFpVMmcwSWQzUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hYm01UzRvc2wwSi1pMlZoY2JPeWhMWW8wdUNpSGV4a083WUJCVDlZRXZXaFE5OEt4V2xvbTdET1Fha3g1TkRoOTZnSEx0MS12b2VfWA?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vOERNcE9HenFCYmsxQlF1cFh1UEtVU3I1SEZuT3pHLVZJVExsSjRIaUJYRDMtVS1meFZ0eGY1UU4ycTZOYXk0Q2d2Yy1xMEZ3eU1hY9IBV0FVX3lxTE55QVJpbS1FbGlLeVR6RHVKMkI1cWIwQlVzdFRVeVRxNDBtOVV0Y0dLbzVKRVlRTzFXRjlDRDhnNzZpY1p0WUNKSG9oNVYtbFhsc0luN19Vcw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:35+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

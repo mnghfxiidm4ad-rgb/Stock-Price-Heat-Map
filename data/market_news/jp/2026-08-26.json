@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,262.16",
+      "change": "+0.62%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "428.20",
+      "change": "+0.35%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.22",
+      "change": "+0.08"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "運輸・物流",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "ＮＥＸＴ ＦＵＮＤＳ 情報通信・サービスその他（ＴＯＰＩＸ－１７）上場投信[1626]：NEXT FUNDS 情報通信・サービスその他（TOPIX－17）上場投信 決算短信 2026年8月26日(適時開示) ：日経会社情報DIGITAL。",
+    "【見通し】NY為替見通し＝ドル円、米7月PCEデフレーターとトリム平均PCEインフレ率に注目。",
+    "日銀、9月利上げへ「地ならし」か 氷見野副総裁が27日講演。",
+    "日経平均は前日比+0.62%の66,262.16円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wQ2JTTmtYMDJmYlNyN09oaWt2TXlDVFI0MnV0VUI1YXZKWmVWODFjdEN2ZlZfWFk5bUlvSUQ1bEgxR3c1eVNpNnozdWw5dFdncVlZQ0h3eXNPVnd0eGdRbWJVU2QyR3BpdHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxcmd2Z0ZCcjBrTXRKQlFHdE9GWFB1RWtDTlkyQzZ5MzlhMjJmUkRzMTlPMGdKdmd5SmVMdm1Cc0ZJQ2x5eFFMUWwwY0RtWlViemtNR3U1c3BJWTdxTTZTdVVzdw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9odEpXYUZxQl9OdndpdkhvMERVUEdfU2IwSTBEZnNKWWRpWEtHZkx5Z0lxY09QTnJRdkhMdkR3alpqMnZnZjl4NXdZcnA1MDlSdDBoVF9vZ2VtVDBWTFBQd3FlcFJCZFlhY0lyVw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:26+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

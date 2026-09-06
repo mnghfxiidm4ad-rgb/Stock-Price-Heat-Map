@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "45,630.31",
+      "change": "+0.30%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "329.30",
+      "change": "+0.21%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "147.61",
+      "change": "-0.11"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "商社・卸売",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "日銀は10 月に利上げ再開へ 日経平均株価4.5 万円と「不確実性」は相容れない。",
+    "日経平均は小反落で寄り付く、米株安や円高が重し。",
+    "COMMENTARY: コラム：9月も動けず、最長記録更新の日銀「利上げインターバル」＝上野泰也氏。",
+    "日経平均は前日比+0.30%の45,630.31円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6akpjWlVxSTdvdF81WHBYU1JVdWFfb3NxMXQwa0E0bkNrcXdzUDNOYTQ0b0pjVVFCeS1iSXMyc3FYb2IzOUZmelJ1OTEyT2R4ajhxT29kc0J6aGM?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WaERqT3ByclQxbC1iWDVYWklXbXhEeC12a20wLVJ4anpVM0s2RG9lYk9YWkJZVDFpU3ZwUDBTSDE3YTA2MGdTV0JLcjdkTmR6NlBIZnE4VU9sMXROSFNMcHNJcklnSk0?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQjVVNm1LTEVXak9VbE1wOTJ4RjZzZU9SUHZTbDNGOUhpckc4bzhNU3AxcV9jOWxhdl9CekE1bVRBV01ZaUFXcVY5eVpmQXBvcHlzN0Jhb3RVSEszT1B5S1UxbUEzLWg3d21nS2VVTE84dkl0WFc5VktlNFkwMmVtWUVTVVNlQklO?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

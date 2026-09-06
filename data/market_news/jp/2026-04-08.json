@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-04-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,308.42",
+      "change": "+5.39%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "400.40",
+      "change": "+3.25%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.72",
+      "change": "-0.97"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "ドル円、一時１６０円台 ドル高ではなく円安 日銀とＥＣＢや英中銀との差か？＝ＮＹ為替 -。",
+    "日経平均終値2878円高、半信半疑の｢停戦ラリー｣ 鉄板の半導体株急伸。",
+    "日銀3月短観はインフレ予想の強まりなし、4月と僅差も「6月利上げ」がメインシナリオか。",
+    "日経平均は前日比+5.39%の56,308.42円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44d1V0TWlyZ0tKZUJPS2RxYzR2MzVfdnNDMUFYdzhMVWRlcC0yTWxSY2tZT0h1cDdDVVJhemRCMENKV3NlOGRJVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTc0ZtVmxpVXpSeFJpRkhWdW5yNFVQYmJ2Q09SYURDV25QdjltM01tR1Z6d0Z6S3dzVWVyTGF2RE5fT082TjA1NllmdkIzVlNpbmR2SzZBa2lvS1p2QjlQdS0xVzhBMG1kNGY1SQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE14eWt2UEVJbVFxYXVHQWM4Sm5Ybk5jSU1jMXNiSS0tUjNWd0NXSENkc2NxY1ZZcjI2eVVyU0FraDhBbEhZd3ZjVlFPcVHSAU9BVV95cUxQZGpqVDdvZ2NBYWluSk1XVnBqNGktdHVSTEFYUlBtdmNxRmpTQkY3RkIxLWlSS2Jyc3dpQU1kOW9CSFl4YlFVVUo0dnNnOVBj?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

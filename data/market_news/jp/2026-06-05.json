@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-05",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,588.12",
+      "change": "-1.31%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "418.60",
+      "change": "+0.00%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.99",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "素材・化学"
+  ],
+  "news_bullets": [
+    "【2026年ドル円見通し】エミン・ユルマズ氏が警告！円安トレンドは続く、インフレ再燃と“AI半導体バブル”崩壊リスク。",
+    "日経平均株価が一時1600円超の下落 AI・半導体に売り注文 一方で“市場全体では約8割が値上がり”TOPIXはプラス圏。",
+    "日経平均は853円安、TOPIXは前日終値近辺。",
+    "日経平均は前日比-1.31%の66,588.12円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByazUyWDFaNGNGNXdzNlVTZWc4X0dyel9PeFlsUzdGbXNROTcxdlFXUUV3elFqMklWSGNObnVUWENCZzNrU3ZtcEpndmFOMHJ0aHNyTm1vQmlKakNqa3BfS245aw?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE10YjF6c1REa2prZE84TnFpaHA3YmljOTEyOXVuSV9aM2haajJDMFVFLXJocFo4b05xakJCLVhIZDhYS1RDUjBCZFNZVHRldzVmdWpWbUJDTmI5aDlqdHQ1X2ctR292QW84b096VWd2dDBNZGJE?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrY25TSFdkX1ZuckRYcGdrODhFRllkU1RHMHRnN0MzTGU1bFFnZUFuemRNNTgySDJyRlRObWsyeHBhUXZhZjQ5a254czZQMEprcEo4T2dNZFJZNDM5MVFWRg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:43+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,913.35",
+      "change": "+0.55%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,436.02",
+      "change": "+0.91%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,384.01",
+      "change": "+0.63%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.25%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Rise As BEA Pegs Q3 GDP At 4.4%— Microsoft, Mo」と伝えた。",
+    "海外メディアは「US Stock Market Today S&P 500 Futures Climb As Traders Await Key PCE Data」と伝えた。",
+    "海外メディアは「Goldman Sachs Targets 12% Gain for S&P 500: Here’s Why」と伝えた。",
+    "S&P 500は前日比+0.55%の6,913.35で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPNlpyLXRNbjItdWNHczBLeG9hbVlDNjVIU2FLUld3aFR0OVBwU3IzaEtwa29tNTRneUNfT29ZZU9RSEY0M0ZNTUc4MzcwWjZNNkw4M3JNakRnb3dHTFItS2xDazMyLVVVa0MxWVVKSV80VnZQUGdFX3BpOUh3YlFiSi16SGh3WDZ0VG83akNNbjRFcFFxdmxhanl3T2YtaUoxejc5cHhuYWxEQllpUmRnOWF4Mk1Yd0JCT2l0WWcwNEwzSG1NSFJhM2pjUWxCcHBjTEpaWGVyT3FacW9HdjNjLXBGbEM4S21hRG1vWFlkeEVLZEFqZWw4Yko1MmpUNEJaclhtLVJNeXI?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pMXVKYUxucUVQUWZOU085MVpOZExVQ2dDa1F1R3EwUnlNcFRVaHU0alJ1YUVKY2lzRTJuSm9ZT2hwYWZUWG5ZT3ZRTjVLNE5MVDE3QWdzYUZXeEJMbzlueU1fUkZ0X2VXY2NsTGVUYy13eDBlNHpvSA?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSHUxU1RqVTRRcTZwXzdXTXdfNjZrNVYxWm5yN1Z6MEFGbVZ0Uk5jWUFZZ3lCeV8wX0hhXzNzVDBYWnFkMFVvZ3FWakpXM2xBRk1rVDF3Q3FZMEQ0MjlTR3huQzkyczVWS2dqOG53OGZOellwYjVFVnZQQncwazJsN0ZTTGxwUWxhYkFIN3dYNDBXM3doM2U1bGdB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

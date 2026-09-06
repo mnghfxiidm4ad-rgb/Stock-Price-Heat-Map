@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-08-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,730.99",
+      "change": "+0.72%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,541.35",
+      "change": "+1.57%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,569.44",
+      "change": "+0.20%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.67%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500, Dow Futures Climb As Nvidia Outlook Boosts Markets: WEN, CRWD, CRM Stocks Also In Focus」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 lifted by Nvidia's forecast; investors eye speech by Fed's Warsh」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Slip As Traders Watch PCE And Fed」と伝えた。",
+    "S&P 500は前日比+0.72%の7,730.99で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZl81aHA5QXhzbFR2cWpnR09uR3oyU1FMcFAwa3pIanZELU5EUlVjMjhvY1RwaHN5VXZVT1Y3OEZUN01FQnduYXV4OEQzVkRrNG1LV2wyLWh5VTRIajI2dklUVzBvQ09XSExZbHB1YU9vcFhYTzdvLWJ0eTl0WGFaX1NMTnY0UWlSQmRwdXBfNDA3RDVGT3lTOXVpYmQyRnRPT29ibFNEQ2RYVGdwZHRoUWN5NWtLY0pIUFFZZUU0OWpMbDdEeUVzWnVtUFdDaXYtdFItUkhjLTZVQl8yYzR6QTV4M184VVdGdUVBR2xZS2I?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQlE0YlJuWF9fQXdEUnBuZlZEVzBOYXRXX1pUakNiZXEySkpHWmxnT2NTTGxaZzl6MWtvTnpaVVNIWld6dTV1cWc0bHVRY0FqN21LQWhMaGF2ZWJ0LXZrMDZhdC1jSnVfRHMwdE1uMHVZRnJ3X0F1OTE5MjhTM1VSM1JNSHc5LWZWS3FmQVVMd2dnOFgzM29fUzBhTE1HRk90cTZ6QWNOVU1NTUJiM3puY3NWNHltQ251NUJmNWF1SlJrSzhpTnN0a05NOGlBMXVlakhoRDJVQ0M3TVI4V0JpSEhn?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd1l5NEwyY3lUUlI3dWRjeTlSWGl5QjZ6M2dqNFJvek9vT2VSMGZpbFVZQzcwNXA1cWNRcFllc0hCdlRON2dqV1dZbHYzeHVrbFlIUEJMakM2YmlyLW5la055aHllN1RCMlFFRThTYTBYak5fb0RmcnJsVzR0NW42eWMtc2s4cHByU01hQ1FPZnRfZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:35+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,753.11",
+      "change": "-0.06%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,605.36",
+      "change": "-0.32%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,975.98",
+      "change": "-0.11%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.70%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq, Dow Futures Mixed As Hormuz Uncertainty Weighs: Why AAPL, TSM, MU, SPCX, ASTS, SLS Stocks Are In Focus」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Climb On Softer Jobs Data And Yields」と伝えた。",
+    "海外メディアは「S&P 500 futures inch higher as traders watch for Strait of Hormuz deal, inflation data」と伝えた。",
+    "S&P 500は前日比-0.06%の7,753.11で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUW91N0lYVC1uZE1NRkF1RWdhUFRyX2l0VDM0bkZXTWozbmdPV3JxLTgtd3huZkRlVUtpLXlLQVhzMjBZeDhwaHgtTEh4VUlKWGFURnFKOGZpMkpoOUlCU1VHLWRuYWd0T0tQd3hxMTk3NTYwWVJKY25OQ3pSem5SdHZLaWdEVnVPV2J4SmpLX2VsY0dNYkVuSmpTVm5FN3JDWUJwUmNZdFhlMnRnRVdLR1Z0TTJxVmd2YXZPVEZZUjRIT3I0Qzl3MTN4WndKLTFTZTRzMS13UGxMcFRNcm5kaThkUkM1czBmc1plbWJWZFZyYkRNV0RoUmNQRXBvR3c?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1FyQ0FfdjhlbERFWktMUDNIQU1TbnItblhtUWVPWGd2SXlQVHRsVmlCbm5vV0NkaGtlQ3lRdEJKdUNrRU9jRlJya1RlMnVubU1lVjZBTHlGVzljb0NxOG5lRUx5dndzWFVpRk5jZndWdENRNWNENFpodmlveFQ1X1FNZm80NzRpeFZacWxrNm5Udw?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWRYQUs3R3FSa3EwRWRYT0MtOFY2cWl5WVdhV3M4Qi05azNPMW5fQ3JUMEU3R01HNXlpUUI3b1g0UFgyd0tWZFFfQjVGM2J1NHlNTGhKNnE1YkJQbmpMakpWNVpmemRuTDAtUTJuT2JQQUIya2NlYVpITUxtT05JRXJnMzdkQ0s3VXNtUi1sME9FT0hJb0FuaGRJd1V6YnMzVGN1UHhSc2x2M3lVc1NqT2puU1dTTlJHVW9wU1VlV2dlZWZpclE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:25+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

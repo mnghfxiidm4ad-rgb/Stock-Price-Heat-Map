@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,837.75",
+      "change": "-1.04%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,627.27",
+      "change": "-1.13%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,804.06",
+      "change": "-1.66%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.03%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「7 S&P 500 Stocks Gain The Most After Trump Tariffs Are Slapped Down」と伝えた。",
+    "海外メディアは「US stock market on the verge of largest loss today: Dow, S&P 500, Nasdaq 100 wiped out over 1.5% as losses」と伝えた。",
+    "海外メディアは「U.S. S&P 500 e-mini futures down 0.4%, Nasdaq 100 futures down 0.5%, Dow futures down 0.3%」と伝えた。",
+    "S&P 500は前日比-1.04%の6,837.75で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNjU1MGVLNF9nOXBWT2t6TkkxcW41dkg3VEtfR21FQkFFb1FQejFvRVVUS21XYmZWd0hicm5ZNkFoQlhYN3Y5NkpBRGhCNHQ3aVJ4dUtvRGRWaEtjeVlZUFU5dEk3Z0xUWEI2OU9XN1pMTU1qNm9ETEgxODdtc1d1YUVCYjZlQWZsbTNDSkdIRC1jRXNfVWNqazJKMVVRY3ZpUEw2cWdxWGdQV290aUhZ?oc=5",
+    "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNSFBXRFVKOGJtWHFXei1FVTJhMVJkYy1SRVNuOHJKZnFDOHhYUVR0Z3FsWVRmOHJGVlF3U2NqdTRmUFlhTGRPdDBhTTRLTkRJYklsNVVmUE1oV0tkWHAtOXJOT2pPWDU2VTBrSnVEQTdlM0k5dzNxdmxzV1FhY25DTkRUbnJNSEt2eTc3ckFlaHdhZEhjZjJYbjRST0s1bjQ1bVBTWEV4ZTNoRkRBS1pSY2ZEUTJ5eUxBNVpqRllRQ29GVWhoMms0QmFuWFRFZEVYSVlhdHVCcGhTeG5FdW0xRkhyZHF0YWlRM2F3dEtvTW1GNkJfaHpYMjhqLTlhazJvVnRjYVIyRENoaXpMcFFRZmlJRV83ZHoyN1I2UXlxd1BmZFVpV0hZZTRmLVpUY1RvODRBV1FkVzJNb045NThyQUVqNHFaVC0wYUlqVmRfWkhkWWFJM0hHejFHRXBXUzQzM2xjOW9sdG5QOU5KdjdfMmhCd1NpZTV2ZHFqSmQtWdIBhANBVV95cUxOT1hMaEpGN3hnaWZ6dXh1RkRhbUpNcmlXd2VXTTNUSndlb0hMU1FocW5VSTFrQzdBVjlHWWtVZnJ5THJLdlQ4ajdYb2JVQ3hrRjFEY2JFV216OV9Ib2hxN0FLWjlQdHFrVEhlREgzSGJFc1pkZmFuWURGUm9RUTZyUk5nbnlPY3lES2tyZlQ2THpRTVRUekdyVkZnN09XRkNDM1d2RU1fUFNMZERIeU95emotYlpxbnNrS0FoaGl5RHUyc19xMkpza2tNalZvNEFRbU1fVEpyTi02dVA2UFB6UXZMWXNYVzNNUm9aTlR5d3JEdjA0QnhweXpJbllVZUZPalFJUl9XZUVQZjlVRjdWeGt5ZGdDZTVnbFVfWHRQaWg5OTFEWWt0V0RnTDdFWVZlblBPemNaOS1JdGkxVUh3eTd0UU1zanNfTTZjdUhJWURra2NtTGV2Y2p6WXNjUDVVN1lhQkxpMklVMkczZnZWSExDb3hXeV9pYUtfOTNRa1JuVWg3?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM0pfbGdWdGhmbmV6WE5KZnhEZWJndXFyVGdRTU82ckFFRU84cGwtWE5lai0yQUJmNWNKbk9kZ1BNeEtYT2tJSTFlZ0pLdlk2Z19odWFBdk1SalVTT2N2MDROR0xwMVFBN0FrZkRLOU1iRUVTYW56MXBiNHV1aWw2YWlKRFNXUDdUZmtwS0JvOHBUZDVRWUtTaTRLcEs1dFZFVVpFSUlvcnF4U0ZBbTJxTnV3ZUFKbmN0MU1IN0trWWk4SndibTNyVllud3p3eU5OTnlF?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

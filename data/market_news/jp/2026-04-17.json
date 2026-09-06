@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-04-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,475.90",
+      "change": "-1.75%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "399.10",
+      "change": "-1.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.20",
+      "change": "+0.39"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円台前半｜午前中は円高も午後以降に円安(2026年4月17日)。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で113円台後半｜豪雇用統計は市場予想比でやや弱い(2026年4月17日)。",
+    "原油高、「政策対応難しい」 物価・景気にリスク―植田日銀総裁。",
+    "日経平均は前日比-1.75%の58,475.90円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBocGtaekdyam9YeWxfd2JSYUlKUmE3RjI3Z0pFVE50ZFVLSTJEenVvYkh3R1NKVmFxdlBHWnkxcjJXb3I2a3IxcExKNjFCRHBqSnZySnhJMTBvZU9OTEpmN2RHVGZEcUhQa2dvZ3dybTdOTU0?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9leW9HUWhwdThKbzA5UmZ6ZzJqWGhmc2VWQWxOdW5qSVh1RHA1bnJudGwzMmF2dWR0VjZ1S1A2aDdXLVdBa1Mwb1JIZjVnUkFJcTkyb2llS1hPMVpZY0dKU05QbGpWS1ZBSXhnUWY3NVBUMjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IaktyeUVDUDEzbFZENjFSSUpBa0w3SG5OQ3RSNDVwSUpnVXNUa1dQS2thT1ZPQlF5bVUtUzQzMWVrYmtfbE5aZHVWN2FlTk9RbEhqc2hmb2QtVUR1NFpCeW9UVQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:22+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

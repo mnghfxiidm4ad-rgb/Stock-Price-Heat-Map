@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-11-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,538.76",
+      "change": "-1.56%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,078.05",
+      "change": "-2.15%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,752.26",
+      "change": "-0.84%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.11%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, NASDAQ and Dow Jones futures show gains as Nvidia’s record-breaking earnings report eases tension」と伝えた。",
+    "海外メディアは「Today's Market: S&P 500 Surges 1.5%, Nasdaq Jumps 2% After Nvidia Earnings Beat」と伝えた。",
+    "海外メディアは「Stock Market Today: S&P 500, Dow Jones Futures Rise As Walmart Posts Beat-And-Raise— Nvidia, Palo Alto, S」と伝えた。",
+    "S&P 500は前日比-1.56%の6,538.76で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNb1RQd2N5WEJpRGRVRnFIbTV1REZMd21MS1lTMVhqVEZmV0lNNTJBaUduX0Q2QjQ1UHZXNlJYY1JOSzNLMGxrSUJwMWRCcW9hYm5VcHJUTEdVOTdVa093QlU3cnpiVWFSVmc1U0hKRzF2dVZmRXVnOGtyMDBBM0x0cDlWSVFVVnV5Nkw0Q21kZjgwUnJqMUloLTJkbnVLUTdQMzNfRlNoLXJudGp2ZEU4cDYyQWpfZ3pwaS1udTIwYUNTcmFNRkhMbkRiSHZJb09PSFhPbXlDejRrZzdueGx3S05ONlhJTjJlSDdlYTVwRVFHSzh6MC1pM3RXa3d6SEE2TE5PWUIwczR1bUExcmFwSHMzb0trUmpzVTJhQUNkRzNpUmo5YnJDa1FISkZ1akh3QlllcVE5YXVtU09tQVY4SS1OTlJWem1id09BQWl2dzBQR1lkbW1zMjlxRVRrNGNWMzlZX0tvdDNYSTdtZHRNcThPaGFMRzNv0gH-AkFVX3lxTE1UbC1WMjZWRVhjWUxuZ3Z6MXhWOG5oU0l2MlpXamlDMVA5Q2VzaGQybm0zcDVCVUt1WkFhMUJZdlQxRHBWaVpLdTJoek9uaVJVRWJSNU1xVE9ra2NRYXJza2FKY0VIUEVmRXNUbWpRN3ZFUVR2LWg0NDhEY1ZXWEhsMWtiSFIzRzFjR0xEWnp5cTI0aUlHTmhPVlhsd19kZEJmVFlhRzZOZ2E0ZWVqaHJWUlpLSU1MR1ZkTXZad2FqSC02SW9fQ2p0d1V4dGVpcVc4SFVDbTFGemJJZ1V5VkRxWGotLXFkN3dmOUFNZ3JiTURhaXFGdlN3Qi04Yk5RNlRhMWtxZTN6dnVRMlpMTlZjN1AwRHo1YUFjaWh2cE94YnhWUEZ6a0pNQTFBdGRWZzQ2bEd4NUlza0lKR2tBQmF3REd3SzV4bk1NV2U2akNKcmttLVhkN2h4UV84OXFQUk90VUdpTEVYa01zRGVoOWJfYUM4bGdGcUFGdW1XY3c?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQVhvdGZOVndJVm9nQkdUaGFFdk1JOEhzS0hqV0hLTXZ0NE9FcXRBWUtLX1dIOFFyRlFZdTVZS2cxb1dsN1ctUVVHT1hINlpObjE0QTJ6eUNnY25vMHBEWVVZN3ZLdE0yUGpWQXlhSFdmX0lXV1hFaS1NRzQtRHd4TjItVDY2SFpfUE9BbEpMT1M1UTRkNUlEcmtRbTZsd01fcTJIa0VydzQ1UVcxTGZVVG84MWhQMDh1QjFZYnVsX3A1dzZYMFdYM0NfNHhCTmhn?oc=5",
+    "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRFY1aThqSndOWjIyVGFKeTVLaGVUZnJWUFUxRmFTQjhhcFlyTTZWaVpaa0QtYUZSVDJfTUxtTE9hdWlRNlJaMHVvNHpZY21qVUFOMjNncTlQZUk5VGlUUUExckV6VW1wMkZ1eUNmSXVDaTh5WndTTWN5NDJia2Z2WnE2cWJreDNab0ZLcWVyVy0xZF9FYnlHQjc3Wlk0QU9LbV91dl8yd0FoMzJ0MEM0QlhIMzAzME5BbTljd3JxVUp4UjRIaFpkR196NDNrV0tDaG1ka1JNcFMyV1lUTkU5N25VVF9KYmpPVnhwWnREczBCNEFoNUgzUWRMZ01xMFdLSEk2VmFSS2FDMzRZX3ljZmVocVJqMWUzaDNOd2ZJdlo?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:15+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

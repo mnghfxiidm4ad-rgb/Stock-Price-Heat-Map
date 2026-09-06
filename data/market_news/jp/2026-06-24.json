@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,174.97",
+      "change": "-0.88%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "419.90",
+      "change": "-0.69%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.60",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "金融（除く銀行）",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "NYダウ、小幅反落し45ドル安 半導体株安も下値堅く。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で111円台後半｜1日を通して円高が優勢(2026年6月24日)。",
+    "日経平均は反発で寄り付く、米マイクロン決算好感 半導体関連しっかり。",
+    "日経平均は前日比-0.88%の69,174.97円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HakVwc011NGpjU3VSY1RZQkFwUlp4VEd6Zk9uQzVvWFZZSnE1RFAwcXgtdTFLVXhHeFBVX1ZWNUppTzlGZ3J1TlFRM1EyTkFIMTBfQXRwSjFGdE9BUkFZeklKSEI1eUJDR1FzTw?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QVGZvdlhnZ0h5bktvSUZQd29ocmdjZXJjNHF4X05zdnVhUURUSjJrdHQyRTN2a3lXM1J5SkVVbTlzZjFGQWtrWmtzR01hUkRIMVVRWTJYYmhCc2lSaXZLNzBQYUdzRnhxMzBHSEN4dVdyOVk?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNWN6Yktpd0hLU1pBQS11OEp6N2FpV1RYaVlNVERmWGdnTVdRa3ZMT0x5eGZKQXVJclZ6Rm1xV0xBc1NQSk16THdPVTVONThMT3BYbWpOQzd4alFyV0lfTC1VbkRmMW1wUi1VUE1TRlJZY2xEUTZ0TVBNWlhpdXA0bQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:53+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

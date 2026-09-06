@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-09-04",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,502.08",
+      "change": "+0.83%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,707.69",
+      "change": "+0.98%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,621.29",
+      "change": "+0.77%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.18%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「Bitcoin Faithful Bet on Saylor’s Strategy Being Added to S&P 500」と伝えた。",
+    "海外メディアは「S&P 500 registers record-high close as data keeps rate cut views intact」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: T. Rowe Price, Amazon Stocks Rise; Salesforce Sinks After Soft Guidance」と伝えた。",
+    "S&P 500は前日比+0.83%の6,502.08で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3ktbE5nOVMwcjUxQmZUQ2IwNnVQVkROZWgybnpwVjZBUHZRaHBGVnBfMGJUMHVDclRxUmNrN0lOM1hFYTJiU1JVbVdEaW5oYzh5UlpudUtvcFNUTVlrSlRBSlQyeTdkX2VWNGVjUHNRcm1PVl9WUzU0ZlRTQTBmZXB5YXhleEhmRWdTeERFQnZnMERrZVFIM3daWnZuREQxOUc1bm5wbGFkNXlOa0JLSmhNZlFYQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU2xKd2RsUXVMUnBvMldxckdfMFhoYVFiMzJpdXVSdk5SWHV3X0tUWGlZWXJDSVZYdDJFcmJHUW1oLXZIYWhXeEk5dnlqbGViYUJ4bnNUVGFpak1xN3NaV0ZDLUkwOUFUQVZUZTBORzNhb0pMWUdGdW5aVldoS2tUNEhXQXRGU1IzUEg4UDlNT3hCWUhwUm8xdXRhb3NRbkFoY2tPOXQzSFJWa1h6eDVaY2Rn?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT1A3YlgzNHJZdURJS3dvMkk2VjlmQlUtSU9rMkR6WUI0T0gwSGdFWUJ3RDNBNjlLb3RnV0NUc0lCN01vazJYYUhzVE9mazJGdDI3MUpVNEMyaTlfZTNDYmEzUWprWmpvdEt0WUNLYmoxQXhqZ3FxbGkzTFdsbE9vTTZHejZaa0pQeEJVT1FBM2llMldaaEk5ZnVwczJKc1NzdjZvbnpIZHpxZVZYMExFT0RGQlpRcjFaaWNIMkY4bGowRDZBcWlORFZXTHhjUjFBSUdwUWtaZzI?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:36+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

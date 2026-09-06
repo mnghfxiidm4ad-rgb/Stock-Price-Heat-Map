@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-09-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "42,580.27",
+      "change": "+1.53%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "319.90",
+      "change": "+0.98%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "147.98",
+      "change": "-0.57"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "素材・化学"
+  ],
+  "news_bullets": [
+    "26年は円高ドル安への揺り戻しで「1ドル130円」か、FRB利下げ・日銀利上げの金利差縮小効果を試算。",
+    "【市場は日銀に\"期待しすぎ”】丹治倫敦＆末廣徹／リスクは高市\"新総理\"・円安・米国のインフレ／財務省は国債の買い戻しに\"消極的”／長期金利は来年後半に1％前後に低下／財政不安が世界的テーマに【1on1】。",
+    "9月5日のアメリカ 雇用統計の予想と戦略「9月利下げ幅見通しが固まるか、ドル円は下押し局面で買い」2025年9月号-By 外為どっとコム総研 #外為ドキッ。",
+    "日経平均は前日比+1.53%の42,580.27円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oUXRYNmdFZW1yU2t0aDljQXpWdEpEckhGcnRQNHk5Tm1JWXctOVJnNEF5ZE9VUjlCZWNfcllmZDZmalkxNVpBWkZ5UHnSAU9BVV95cUxNS1I4elNpYy1NajFSR1Y1eTdaRmZ0QnBzcHdfZDBnTlN0TG8xMDZnRVRJNl9PVTBzVk8xOU9kWkM4TEo1VGhrX1FRdE1LbnpZ?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE12VVdJTV9weGVsZjRWeUlBM3N6Q1p0Z0dMMDJ4YjFPV1lDbS1iNkdtUGFDcnVHVktEY0RScHRma2VDYzBPOWNBNmVEZGloQzFzWGltb2dZLVUteUFfQ2lsVXlUQjl0N05WUk5GVzFZWXF2cElR?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpNEdUc1FNbFN1WjBDaVJ1czlTRGR5NTkzbk01R2hfczZONk9CaHlKYUI0MkN6aDVLOXNxM1BLLUdlVnJKdjB0TWtuSmtLZFQwVXgwQjB2STRWRElqZUhPUXF5bw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:42+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

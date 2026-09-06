@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-01-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "54,341.23",
+      "change": "+1.48%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "382.40",
+      "change": "+1.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.18",
+      "change": "+1.19"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "日経平均株価 初の５万３千円台 終値としての最高値更新－NEWS - tochigi-tv.jp。",
+    "半導体関連の新工場が益城町に完成 テクノクリエイティブ。",
+    "日経平均は前日比+1.48%の54,341.23円で上昇して取引を終えた。",
+    "銀行、機械セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0T0JmYVlLTVMtU04tdWlmeVJlUmpaRWZ2TEZUVHZIZnlHemE4VXRFUlI0aHRSVmF1eVd2d0NxSENNNHl4dG1DLWFkQ2VORWlHVURxUl8yenVxZ2tVQmw0?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWMUtRVFpGUWhtYTUyOVZmYlhlTU1VQWhVdlRCbFl3SjFKcjJtR2FfQkdNYU5iejRoQnJTNWdIa2dQWExQTURGZXRPa0RLeGNTckxHRFV3?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:37+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

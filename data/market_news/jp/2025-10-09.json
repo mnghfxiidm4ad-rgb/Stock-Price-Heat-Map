@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-09",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "48,580.44",
+      "change": "+1.77%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "341.50",
+      "change": "+0.62%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.68",
+      "change": "+0.63"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "日経平均が最高値更新 845円高の4万8580円、AI銘柄が牽引。",
+    "円安 ドル円160 円突破があるとしたら | 藤代 宏一 | 第一ライフ資産運用経済研究所。",
+    "【速報】日経平均 一時700円以上値上がり 半導体関連株を中心に買われ。",
+    "日経平均は前日比+1.77%の48,580.44円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3ckJGUWk0ZlI3SG1sSTZETFJ0bFJpQXhUTklyeEkxVVhCUGtaRnNPMzlMNEhUUndWbEdSTDJLNXR1aXlQejl5R3VKTlJ2dUFQQ2pjcFJZcUxBUGhBeE9wOXUwR1RaenM?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01M0hwdkFyYTBVcm9LTk15YzhfNjhFWkNJaE5tS2hHQ3I1LW5oQjlOX0hrQkp1c1NKWVROdTR0dkFNLXZxdUxwaHpQNWZCRkExZ2VoTGxWNjRSa0U?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91RlBNdGxxNEVsdzhCNDgtNmxLZ0JndVdsV3BZbXNKNk55ak1tN1ZDV090QW1TSVlXNUlWWmlXblZtVFhxaHlWUnR2MGZNVU9YaWRWMlh1UQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:53+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

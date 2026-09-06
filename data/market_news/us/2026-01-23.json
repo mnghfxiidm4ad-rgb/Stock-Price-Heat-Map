@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,915.61",
+      "change": "+0.03%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,501.24",
+      "change": "+0.28%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,098.71",
+      "change": "-0.58%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.24%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Decline After 2 Consecutive Days Of Gains—Inte」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Looking Forward to Earnings」と伝えた。",
+    "海外メディアは「Dow Drops 285, Nasdaq Rises 65, S&P 500 Adds 2」と伝えた。",
+    "S&P 500は前日比+0.03%の6,915.61で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRGpHSUpFUUUycXZ5alNLVVU3a0Fab0pLME9LLUVRU1ZsVnhnQkxtZTlhblFZNGUwckw2cTk2YXZFUFFZdHV2Ui15WmFMZnFDc19QX1BqRGk4Y3RxaHFEU2J1SUY3dzNkaWRZenlnRmpONTJGU0pqT0t2ZGY5LVRqZ3d3Zmx3RDRabzdZUTZoVkZhRkE3d2s0dG8xTlBWR1Z4aHBwZ05IZ2tLMlJqY2s0NEhIZTI1QjRaeEZqVGY0czRQS2FheXlnTEZPOHFwSlpSeVg4djNCOU55RWRZLUFsU3dQUm8zaVVvYnVYaUJWR05BZGEtVVhBNlRMOWNKc2dFN2xEOGw0dXluZw?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPemV6dHVYeFNJem9McnFtNEpYbk1IT1l4WjdTRFhWcVpCNG5TX1NrUF85SkFlRkQwSEpxbGtrS1NKTTluazQzZzBuOU95RlE5QlFjLWEyWkVRb1N2N3RlWlo3b2lab0ZtTWFsZmExY1pJenVzSnpHRUYyd3J6M3MxQTRpQjFXNmY4RUV4UUdtYzlyVEVEaGJUaERmZmQwSDhmc2tEZzhCa1JsNFFSckFVRV9VMWMza19qV1J6N0lSRWJQYldLMU1qMVRVZzVZZw?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFpwQVJmNjREN0lUX3dwQVJTX3VwaVlqa3VqVGM3OVFEMjVuU1lweUpmMFRfeGxwUFJVbGM1bkxvZ3dCTm13dllwY2xLWVhUY0ZRSHV2ejB1bENOUHhNN3pybGcyVkU1WDUyQUZjTkNiZzdqN0tkaU9mLWxfUzNyQTJnX0RpZUtKYjRTb3Jn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

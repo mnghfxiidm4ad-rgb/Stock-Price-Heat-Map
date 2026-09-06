@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,501.24",
+      "change": "+0.77%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,635.22",
+      "change": "+0.88%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,063.46",
+      "change": "+0.75%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.46%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「The S&P 500's earnings boom is facing a bond market warning: Chart of the Day」と伝えた。",
+    "海外メディアは「S&P 500 outlook: Morgan Stanley raises target to 8,300 after earnings crush expectations」と伝えた。",
+    "海外メディアは「Cisco Earnings Send Nasdaq, S&P 500 to New Highs: Stock Market Today」と伝えた。",
+    "S&P 500は前日比+0.77%の7,501.24で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTZMZEhOdWlveEQ5ak1qa3pGdThTdXlBREhlc1RraEVId3U2QnFzb184Q3czTkV2OUhGWHZsanQ4blNzNXlRcFQ1YmtCWWEyZW5IcnhtNE1BWDNlVVdGbzV2THk2ckx4UkRsMXdfY1lmclhwMG52SWhjQ2FXN3lzdmZfdklxSC1fMmZIdHRMVTUxbHNnUklKLVRzeDlRQk9QNGlSd0x5aWF3MHVDemxIWDhTXy1ROW9NN2hPc0xmQVZEaGRSRzYyZmkwQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUVloaDhlbmNLc1pKbXNBbzdtSks5dEI1N1pKd09fVThaTTEtWnpFaUprUC1ZdUF2RHc5UDFmN3YtVGE4eG1xNXh3dlh4NFRKQnVGSWZ5eWJlNm8yNVp0dkd0YTI4Y1pqY0pKU2I1T1lCcWV3Q1lqcDRMRE5lck5uWmVyX0M0dUpteDdVVHhnSHNvYUZFVFUxSEJ1czlsY1paMDhFSnhXZGhCejVpUnZWbTFod0tXb2MzU0JHNDFhOTBWM1pQTElkT2ZWV0ZXeGVJY1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTBoNkFHcDBISkowUG1GaVloSlp3QnoxT2hoRWN5dHk5UWRPTERQRWQyaDVsdHYyNlFDYkxZdnAzSFBaNHdPVXZuZElVYUZGRHhlNWVKRzNzdVdOOGVJeUdkX0hEYktSREpoS1hqaUxrOERleG9Ja0JMUlEyYjc5RXNHUE91MzhiMUpXZWQ3OEhaZV9pbzMwV1J4eGg0YjhEcGc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:40+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

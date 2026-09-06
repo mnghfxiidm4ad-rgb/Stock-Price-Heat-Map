@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-08-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,745.06",
+      "change": "-0.52%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,644.91",
+      "change": "-0.32%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,459.78",
+      "change": "-0.51%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.72%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "S&P 500は前日比-0.52%の7,745.06で下落して取引を終えた。",
+    "NASDAQは-0.32%、NYダウは-0.51%だった。",
+    "エネルギー、情報技術セクターが上昇率上位となった。",
+    "コミュニケーション・サービス、生活必需品セクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTlhVGhKYXpXUzZtS2lJUHV1LVVwVVpTVnFVMmpjenRrMVVpbVJnRGVXRDFydmRNQ3hXQXRnODBJVUI0Wk1Zbl9iUkFMUENBaUx4OU1pQVBRMmRZM1NLRlA0cVJFQXVlZ1A1SEpjdGNZZWp0VHk1NVhqYURsUnl6YUpONEtZcEZRZjFycG1kcWhsd044Q1h5LS1zT0Z6X0k0SUdxM1J5UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSWVHZjV5Q2Y4V2NUZUg1LTJhUEVtRG55bUZCMm04N2NuNkJUZndjcVRsblB2UlliY3JfNjh5Z2lNS29GOGtRc2RtUGJwV1BoUkZaZkdpOVI3VWtFdXc5b3Z3TmZrNHA3RGdMQmd3clQtZVJ4cXNhX2hQZmMzZ3haS3FWYkNDdEdMSlU3MjI3ejRvdUd2SmZ4M1BZN3BLNy1IVXpfR0lKTnFkMVVwODZyRS1POTNOWTdJLXBOemg3ZHRtUng3bWNIU25n?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:32:14+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,584.29",
+      "change": "-0.05%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,141.10",
+      "change": "+0.44%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,834.22",
+      "change": "-0.59%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.06%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「21% Decline in the Number of S&P 500 Earnings Calls Citing “Tariffs” for Q2 vs. Q1」と伝えた。",
+    "海外メディアは「Smaller companies could be poised for big gains if the Fed cuts interest rates」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Warner Bros. and Paramount Extend Gains; Moderna Plunges」と伝えた。",
+    "S&P 500は前日比-0.05%の6,584.29で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV21QRExkQnh4RW1ZLUhCV3doSkZyR3JjY1d6WVM3NDJwNTNkWk40YlAwcDlCSUotNElpczEyRkJQSFB0WFEwRE5mdEU3NTBaeldnS1g4Q2hEQ0RwdXBBTm5sTUtmXzNtZmlLOTFyMzhkbXJxX1V4dFp4cWpIdmFvVmczbHZsc2djSTdSMDFJbXlIVjYyRm9QenlVaVNxWVVROXZwYzNRTjN2d9IBugFBVV95cUxQdFlJMW4zNVRDUHdseHo1YXVNNG1lUUlMZE5XUGdOaFFfNmpzbE1XTzJvdVlPTm9oZW54dGJvM2RYdmNqYjZHX2R6TnJtLXp2ZjVvSjMzY1Y1TEtNTERyU3V5SWkxa2JBYl9pQ1hLTllFWWNUTUQ4a2FfRmwyYWQzVDRpeG9jTURXb0ozYzVBWkZkYkNUZnFoZGp0Y25JRnRid21qQ0dRMHVhaVdXTnROQXBzVGRaMV9oOHc?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0czV2tzeEN6S2Z4NUxQeXBRdE1qR1duVXFXQTR1QndkTm04WjFoV1JMcHNwZEpWZTBnSGJ2YXQxR2ItSnMxZkhwY1NKc0ppaGN3UjVxV0FhLVdtUGhRQkZCTGliY09Oelg4R0YyZVZqYVpham1iRXJZbmhqX3Z0SXVyQ3IySVVlbjFMbTdGcG9Qci1sUlVHag?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY09vQzRrNTQ5RnVfaXVrU2FkUmtoWHFaRlJubGE2NER0YTJjazRLX1BVWHZjTDJNRlZUVVREY0NlenUxT1Zkd25ZY2YwMVpYczFyYk92bE5aaFdDYUpUQjFpeXYybmZta0J6NzBEZTBxY0FLWWpCZnEyMFZJcXE2Vmt0WmhlNDZGMmdpbElGZGZabnRYMk5KN1Zuem9aQkZoQS0wQjBIOGZmOVRZRUkxU0JmdlB1SmRTWXE0R2tzT1Z0MnRJdlE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:40+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

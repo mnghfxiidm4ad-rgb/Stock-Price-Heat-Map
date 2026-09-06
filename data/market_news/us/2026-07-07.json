@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-07",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,503.85",
+      "change": "-0.45%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,818.69",
+      "change": "-1.16%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,925.15",
+      "change": "-0.25%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.53%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「US futures ease as investors digest Samsung earnings and Fed signals: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Stock market rallies to new highs: Dow closes at record, S&P 500 gains 1.77%, Nasdaq up 2.12%」と伝えた。",
+    "海外メディアは「US futures edge lower as investors assess Samsung results and Fed outlook: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比-0.45%の7,503.85で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejRsZzJyRndwbFVQdDRpeFpVNHhFcGUxNmplWjhFd3ljejN6RzRxdEtxek14LU5IVk9zZl9EX1F4NUh5bkhNQjB4blViV3NsY2FRQnJtMXNiZnNEMHAyRXVSQlJ5MVhtZWtSUWlkdG16d3lmdVB1aE5WVk52aEhuYURWb0pjN3p1?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnX0czNXFyUmJYSnVQR3drWUdIZmN2bzFscVlyS1dHa0N2MUpkNVlqS2FhXzhRX3BHZndPTjdnRnFXZVZtR1NYRDlHRm1EanRWWkRnb0FjbFJQdlhMVFd2cEc0OG5BZ1JwMkJaWUlsLW02M1FK?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQS1SYy1yYm5SaS1hQXdsMzVLbk9YVk5tb0dqeHB1YWtNMGVrS3JHYVlaLTM1cEF6SE5OM2ZuS1F0VDcyYTdEbkVYcGhJTFhmekR6QWx4MGh5V3ROeEJPdkVkMW0yQk0tY3JnVDBuRmc0UW9oUUl6VDZRdGVGdER6WmFIQkc4M3lSUXpRREpNcmtWVUExTzNpNWRjMkc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:06+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

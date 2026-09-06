@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "52,463.27",
+      "change": "-2.38%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "383.00",
+      "change": "-1.59%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.69",
+      "change": "+0.11"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "コラム：原油とドル円、2つの相場シナリオと円安の処方箋＝内田稔氏。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で110円付近｜日豪の経済指標は市場予想よりも強い(2026年4月2日)。",
+    "日経平均一時1400円超安 原油価格も上昇、トランプ氏の演説後に [米・イスラエルのイラン攻撃 イラン情勢]。",
+    "日経平均は前日比-2.38%の52,463.27円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3NQeGVsMkt5M2t2azl2NVZRVzB3a2tiNGNLYXJPajIyY3BHU1J2Mk5GaGM3VjZRcHpqRG40YjY5UHF4emRFY2RkeXd4R1RhWm5CcVZXT0U4RlFRcTUyRkpaUlVkYTZiVEU5M3lSMV9jdVFkT3AyS3hMdTNKNG45ZEw1OFNzc3Nt?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1V2UtWDdVTTV6cEhpdXpxcHYzYmV4b1pJbGN3YnZ4dlh5UHU4b1dMUFNDc0t5cVlkV212T3d5VE9WTHJLWDlkMGFXUVhsampPWnh4UWNQNl9UVjR0eUxXYXV0ejFQUlp0c0s0OXZCY24tTjg?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zdlRhdE82b2otblR2OWhzZFZvU0Vrc2FwMzJ5UllVTWp0RUl2ZXRpZUZPTmppVU5BMm5mMlp3SWdieDVTdHYxQk14LXpIMUpQZGdJZUZ4cTl5OFF1S3FmUm91SWhPN0U?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:15+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

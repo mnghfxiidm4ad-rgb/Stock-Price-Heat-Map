@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,606.71",
+      "change": "-0.12%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "425.10",
+      "change": "+0.33%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.41",
+      "change": "+0.81"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "建設・資材",
+    "素材・化学"
+  ],
+  "news_bullets": [
+    "決算:筑邦銀行の純利益96%増 4〜6月、日銀利上げで貸出金利息増。",
+    "【見通し】NY為替見通し＝ドル円、米雇用統計次第。",
+    "日経平均株価、終値76円安 ソフトバンクG決算不発で失速。",
+    "日経平均は前日比-0.12%の65,606.71円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqdkl1OWxzZ19QMWtpQ3pNV0xXWDhhV29MUlh2T1k0U180UVJuZU5lWk1fY3diQlBXS3RtdUhVQTdpbzY3SEh4QXZaWVFLT0lpenFXVE13NkNNazJWWUFoN0c2YU1PdmpMTDZyQw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmaC1EOXNhVS1lNDdzdWxXVmJJV0xqZ0ttWV9sTV8wZVNtYkdxY2FWUGQ5MGd5S1ZzVzk3OGFCdW1ESHpaY2dlQzdVenJwXzhjcFg0eGo3ajhJNzhSVWxLbEgxTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJTEZacUhNb1Z5Nml0a3R2Q2F6Q0FwNndLb3RBNVF3c0RiTTF5Y0NYMWdSSGd3eDJBQkc3LXJLS2RhRDhZZ0stYUFhazY3T1RmS29YNGUtVHYtQVBmY3FlcG9neUZ5ZDdXb3FObw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:16+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

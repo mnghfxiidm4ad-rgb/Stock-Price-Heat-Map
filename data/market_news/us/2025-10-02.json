@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,715.35",
+      "change": "+0.06%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,844.05",
+      "change": "+0.39%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,519.72",
+      "change": "+0.17%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.09%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Look Strong Still」と伝えた。",
+    "海外メディアは「With S&P 500 near record highs, it's time to reconsider the set-it-and-forget-it strategy, some experts say」と伝えた。",
+    "海外メディアは「Tom Lee sees S&P 500 topping 7,000 by year-end, says don't be fooled by shutdown calamity talk」と伝えた。",
+    "S&P 500は前日比+0.06%の6,715.35で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFU3cG9taHRndHd1MzZWaXFRdWFXSVp2MTI5RnN2dE1USU1Tb1h0TlNFc0lCUVZHSkI4Tl95NnRZMEg2VjNVX3RNc0Y2UVlEM1lLWDJUV1NZcEw2YlJGYXJUODhwVkt1Zmd2NzFrWVZ2RG9ydXQyU194bXVlUDJReTVGc0tMaEdKcml2M1p6WGlLVW9HdlhrZTBIQ3g4MFc0NHg4Tmw3MjNSQWpXUmRqenllMXBpd2FveWhyb0VaSXg?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE14aTBwaWhFYnVMRDBFMHdpTFIyZ3VnRmp6c09qbGQ4bmYxdmZVSWpMWEdWV2N4U3ZpSnNObWxBaTVWMUZKWF9NUU1TVmpOX2QtbHVhbkNpZjR6OGpDMTg2dEVpVGd2MlRWcXpvNzlHa2FBdFFMc3FKQW1NVjNjQdIBgwFBVV95cUxPUUtXbS0tRGk1VE91QkEwWjZBOW1PclRMNGk3bUU5X2Frd3RLTGtQVFhsVFQ1SkxDUU5MM0g0cGtYTFF2T25nOXdRSnh0X3FBN3p2Rkx1NmJXZkhZUm84Sl9IQ09KWjdKZVBuLWJyUTFTbDhqUFJRdkdyQTJ6Mkw1WU9wZw?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb1ZxUkZjbHhOcjlmV0NTZVp6N2lVQld4WDJBMWZvODNyaDJiS29pQkRFWnhoRkNwdEU2U2hUc0dORG9FWndFdk93WkptcGg2NC1NeGxOSk1nSzg1ZHhEN0hoQ2lVcmM4MVFKWFY3WklXRjBLZEhRS3hZWnVOaGpHSkpMZ1RqczFWNDJYby1jOTljeS10am1BRUFHYU5RVmVsWG1wUHRBdmhZdEljWTJDSzNXWTJYbk03WFZ2UjhTRGFfNlVRWlE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:49+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

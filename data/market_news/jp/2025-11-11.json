@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-11-11",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,842.93",
+      "change": "-0.14%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "348.10",
+      "change": "+0.06%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.15",
+      "change": "+0.33"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "素材・化学"
+  ],
+  "news_bullets": [
+    "ラピダス発、日の丸半導体リバイバル。",
+    "日経平均は前日比-0.14%の50,842.93円で下落して取引を終えた。",
+    "医薬品、電気・ガスセクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ERlRfSllUNW9MbGk4LXI0QXF3ZXhoQUFNMkhoVUZCT25pbHFfMWx1di1qbUlodDFRYjI1OHFzTGlBbXEzSmJDRlMwenJ5M1NqTTJRdjBHRnViVzR2T3Zn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:08+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

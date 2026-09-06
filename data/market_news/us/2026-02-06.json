@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-02-06",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,932.30",
+      "change": "+1.97%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,031.21",
+      "change": "+2.18%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,115.67",
+      "change": "+2.47%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.21%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: Dow Surges 700+ Points, Nasdaq & S&P 500 Gain Over 1%, Bitcoin, Gold & Silver Hit Record Highs」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq 100 Advance as AI-Fueled Tech-Stock Rout Eases」と伝えた。",
+    "海外メディアは「Stock Market Divided With S&P 500, Nasdaq Below Key Levels; Google, Amazon AI Spending Stuns: Weekly Review」と伝えた。",
+    "S&P 500は前日比+1.97%の6,932.30で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNnpQSWRlcXBTWFpRT2lsRHRkZlBiUGNwcFhqR2FybENSa0dUZVhRYVRndV9YakpBdWFJaUN4Z3N4bTZPN3AxVHNWV2NubDc5YzVXMDdlV0dGN1BtREc1SGk5emVMYmxwNmlSbXluTHRySUFUWmxzaENlT2JOZjdOaWxtN1hQWm1lbWJaUmdNeFJmcFN5SEhsVVc1Z2NDYmE0SVlPcnJINkJreS16ZVFoWHJEUDQzMFVaNlVtY1hiYWQ3enZiQnlCWnh1VXFsdWpfdUQ3UEEzbFRoUVFlQTRrTU9YRTVJRDR1dVJxOElZcVZJVzRZa05QelRKMl_SAYICQVVfeXFMTnBmNUpENE9fSDdlWnpaVlhxVm8xdTJZNHVhM1BpQTJCclpka3luMExjdDRvSGFMR3RRazBSRTZwTkQ2OU54bFY0ZmZ4TWxFV1h5RE5JQWJQOEhvQy1oejFQSkpnU09GM0JZUURBS2tTa2MwTGpHcFVVdm96bTU0cWR3U2tUMXhxNFU4LWRadWFKQnI5MGRhWFdnTEF1UnVOV1N6VG1XVFVXTk5kOXU5ZUpndk13R3FMU18yeU9malNMNExPSFpJNkRIdzVsU0ltUjhONm1ONG00U2JfcVcxVThUdjJzdnpuaWJfRk1OcVdKaFNrZ1FvbUZnU2dRUnc3MHNB?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHVlOFRmVmxfMHFnUVpOSXZzVmpxN28xT2NZc1d0a2hKYTFKUlpIYXR5UUJuUllONHM3WGpMY05kS2JpVk9qZVNTU1owWXVQdmJ5MGlJR2pSS1lOM2IyME0tTDNTa0RhZV9BNFloT3dPaXR6dnNueDlGa0IwSEFvNHhzMG5zai0wVHdNMUdiemFXX2M4T2hWREhZaHBObXp1ZFFCWGVCeWkyYXhvakVZbk53?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjhNTjhqb0puSWhaSDhBYkxKa19lR2NaVWVJNmlJa3dZMXNtcHRXaThkTTBFZzgzQUxsTElhR2FDTmw2WnFNZlNzWEJGRlFKaWlQVV9wSUU2T1hMMFNxZ3djTGUxeV9jNFVndElOM3FLdHRFN1dVUE5LZlpCb0FFSTRCUWgzUlY2cGFYdVZEcmJFQy1IVzlhb1JRUThsRkJWZ1E?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:51+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

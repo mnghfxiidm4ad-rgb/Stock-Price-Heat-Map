@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-02-05",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,818.04",
+      "change": "-0.88%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "383.60",
+      "change": "-0.05%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.92",
+      "change": "+1.12"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "news_bullets": [
+    "日経平均は前日比-0.88%の53,818.04円で下落して取引を終えた。",
+    "TOPIX（ETF）は前日比-0.05%の383.60だった。",
+    "医薬品、小売セクターが上昇率上位となった。",
+    "鉄鋼・非鉄、機械セクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://www.chunichi.co.jp:443/article/1204243",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nTEUxNm5LNTZCVGhKaENTNkR6cTF1UHRhWVhNMkVNZXVzZk5SSFJnYjVwa05sZG1tdGg0WEJWY1VpZHM3X0N3NEx1VGhVRFZYeC1PVjZ3UXpJRHNJS25qZHBJRmM3dTlqSDVoWU5Qaw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:18+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

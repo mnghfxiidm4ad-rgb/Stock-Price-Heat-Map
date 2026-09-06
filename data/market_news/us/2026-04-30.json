@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-30",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,209.01",
+      "change": "+1.02%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,892.31",
+      "change": "+0.89%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,652.14",
+      "change": "+1.62%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.39%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「Tech results, oil rally and Fed decision shape market direction: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq open higher as earnings optimism overshadows Middle East woes」と伝えた。",
+    "海外メディアは「U.S. markets poised to open higher as tech earnings lift sentiment: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "S&P 500は前日比+1.02%の7,209.01で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxONVhKbTZuTkwwclNhbG9lWXpRdVRpcXVvRjh1ODktMmFkQ1NXRHdjVGV2T3pwa0xxZmFvSzhpa0E5THFMa2xzd3J4SldQZW5lVGw3UjFnbW5CdGVRelNsNHUzWWw1R1NJNGQtX3RjYmpWREE5TmVsUGU4ZFotV2tJMw?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTWQ0OTJkckx3YjJHTHlJQzc5SmVRWG9nNVdsZElUMGhxT1VRRE5hNmNiXzhoNGlzM2lReFdtSXR1M090ZUNIWV93eEtXVE41RzhyOFJBZVJiUFNsS25sRXpBWm9CZWNXTno2UkNSYnZsZTRuZ1NyOUhfcU1QMy0zSmRkQmlaSGpyMUhxRzAwczNHNm9LVHlXaDFxb3RKSndvSW5PNENQdmRXWHlieWdpaE1NSVBqenlTZzBfazB2NzlBeF9zS2lnTA?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWjJ3T1FNUXNWRWwxeVplU1FWdk54UUFub3hXcFFoaEVmdndtejRmSjFYTng0YnR4LVR0OUhFVG9BYTZRbGMyWTZHd0JtOWViLUprWEluN2tKbzN6RHlZWnR2bHNSNVVZN3VsSnZQZU01N0E5ek1sTC1FZnVFZ2RiRmd1OA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:32+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

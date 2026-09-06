@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,358.71",
+      "change": "+0.05%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "370.80",
+      "change": "-0.86%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.45",
+      "change": "-1.88"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "bottom_sectors": [
+    "素材・化学",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "日米当局が連携して円安阻止へ、日銀は次回利上げを前倒すのか（愛宕伸康）。",
+    "日経平均株価、小幅に3日続伸 終値16円高の5万3375円。",
+    "石橋は叩いたら渡る 日銀は利上げを積極的に継続。",
+    "日経平均は前日比+0.05%の53,358.71円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aVnhmcnhEWXVIVldwWUNOVVpWRHc0UC1UZmR1WXFqdFF2M01YdFN2S2pkUTZlVjdCUWlGcGVmcnRQcndkWWxvSG5JQU1BcDNmLWt0TkpRRFNrZw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE43b0tQblNFYTBSNTZQWUVlZUtIU0JwdmlxS1pkOWNuVUVwODYwNTBuQmVtelVFbHB3cFYxY3pSN1lHc0VxWkM5ZHQzazFFbFdyaF9DOHVkUEp1Y0loRU55a3Vmak5iMXlLVVY5ag?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lODJ3SHpvdDAxclhqLU9jVm1UZko5Y0pOZFNiNUFaTkJEajVZSFRyVFhnTzdBa0tjT1E2MzUycHVxUV9pVmdqSXRQeWV1MG9FckhxNXMwdDNOcGc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

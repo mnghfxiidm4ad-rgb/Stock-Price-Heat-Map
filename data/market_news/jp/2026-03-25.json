@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-03-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,749.62",
+      "change": "+2.87%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "383.60",
+      "change": "+2.48%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.72",
+      "change": "+0.24"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "日経平均株価一時1700円高 中東緊張緩和の思惑、原油も下落。",
+    "東証1497円高の5万3749円 中東情勢の好転期待で原油下落。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で111円付近｜レンジ相場で取引される(2026年3月25日)。",
+    "日経平均は前日比+2.87%の53,749.62円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HWUlFV2tIWFRpMVZBcVZkZmVZbWhDRjE0V0pNNGUwWU1sWEE2dG1tRU1UMzR6Tm1tQUNXc0ktVFhwZkFNV3lVRVhnMmZ4RFRIdG1jcExqVnVqdVpLemk3eFB6NGVzald6cWpXaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85cnNTc1VRMHBwTmZwWHJTX09XVlVXVURyUE85Unl2clBNZWVhZTBfWHF4eXpoZURKZWlvMXNfVmVZbEtVZW0wRGVZWTJiall6Mkk0eVZHNTFERHZXSEtqWElnaGNtWkU?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5abnl6WjJHUzdIMS1xQzJ0OXpVWkJZOTFqZmhSU0UtWVAyOFQ0RmJ3ZFYtdEFmZEV1WTlzdDIwS3N0SlRXWEFnNklocFFtTGxzdmNsd2hIRDhaUGo2VFVYOTZmZ0VnbDhvTDl5ZzBxZ0dIY0k?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

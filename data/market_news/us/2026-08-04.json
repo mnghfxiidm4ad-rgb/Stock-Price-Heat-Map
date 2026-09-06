@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-04",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,736.52",
+      "change": "+1.79%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,584.99",
+      "change": "+2.59%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "54,085.88",
+      "change": "+1.71%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.63%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Dow close at record highs on strong AI-linked earnings and hopes for an Iran war deal」と伝えた。",
+    "海外メディアは「Dow, S&P 500 close at record on AI-linked earnings, Mideast deal hopes」と伝えた。",
+    "海外メディアは「S&P 500 and Dow hit record highs amid falling oil prices and AI optimism」と伝えた。",
+    "S&P 500は前日比+1.79%の7,736.52で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWFNRjNNUWdGNHRucXVmTzlOcWltUXotMXE4cmJMb1cyVVVfR0lndEhMTFJfTVI3UWVqZElrS01FM3laWjdZa2pFR21YTjVBbGx2Rmd4cENpVlJsVkNlWDJsRlFMOGo4RjFYZDJ2NHRpZWhMY2E0RllVRnBMWjNiVnhiQUYwaXlNMTdXSVFLOVJqbm5WUHF1Wg?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMHk5N1NJZXlfQ196NTA1SjFaUUtUaDd0UXNDY2FsLWM2aE1VTElKc1oxaXFMbmd1M2kwcXVmaFBKbEo3TmFmY2lfRVFraDFVcTZpTTNfbGU2VU9iZnQ0Q2xBR0ZCVHFmRUktbVk0VTR1RVVYNzVxNEVUa3dJbmFQXzQ0SldqNzVoSXAtRnF3SDJ0M0UwNEhRLVhsUTd3Yk9jdnhTQUJ0WGdOUEdRTHJfeUpKZUw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92VlZrVjBzOUM3Z1U1UFc2dGd5aFJjcWlRbTJMem5EVmw1eGh2UzBndjhhMWFVR1VWbm11Ym13cXBqemZra3RuODhwc0JOM0gzX2FKRjgxUnROM0E?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:22+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

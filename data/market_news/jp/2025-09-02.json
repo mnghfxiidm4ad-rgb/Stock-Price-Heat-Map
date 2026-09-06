@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "42,310.49",
+      "change": "+0.29%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "320.40",
+      "change": "+0.72%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "147.08",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "小売"
+  ],
+  "news_bullets": [
+    "日経平均、前日下げの半導体関連株に注目（先読み株式相場）。",
+    "関税影響「大きくなる可能性に注意」 日銀の氷見野副総裁が北海道で講演。",
+    "午後3時のドルは147円後半、買い戻し優勢 日銀副総裁発言で円売りも。",
+    "日経平均は前日比+0.29%の42,310.49円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KNDN2X2JnQUNSckk4T0EtS1E2UUx4YTN1WWwzLXVjc0w3dkplYXJXSks4VmlCWldEY3N1ZTVQLWlrWkRxb3hfTzBzazhfQmp0dGdNbndOVkJkam9rSkJWX3RxZUNJUTc3aFk0ag?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RMmVTT2o3OVVDV0wycWFMVWdWa1ZYaW1kN0Z3MDA5ZnZ0ZDFNY0xnMUZ6di1sYmpVNlFNSW8xZmtqdS1qZER4SnFYaGdfV0phbHZFanNXX2p2d3M4RE84N0RDaw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnEtOGRaR2xNVE1aQ1lyWlVuWE0xR0daekdnOVZmRkJkRDRqV0lhTE5HbkJ1YlZqdWlkcEl0dFYxOFh0MW5YTzhDRXl5THpSQ0xFRjltZk9fSmdqM00yYXNyaWM2S3RNZTBhczVPckc5OXpLLW9OWXdtUnFHaFdtQjBfSnBSMFpP?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:41+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,654.05",
+      "change": "-0.98%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "411.20",
+      "change": "-1.08%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.85",
+      "change": "+0.18"
+    }
+  },
+  "top_sectors": [
+    "素材・化学",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "不動産"
+  ],
+  "news_bullets": [
+    "ドル円、円安進行158円台 日銀の利上げ見通しに脆さ 円安加速も。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で157円台後半｜米PPIは市場予想よりも高い(2026年5月14日)。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で114円台半ば｜市場介入前の水準に戻る(2026年5月14日)。",
+    "日経平均は前日比-0.98%の62,654.05円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0NNMjE5RUdENGliMlRNUnpmZi11a2ZXTzdQVHNvc3FnTlNPVndGY0lreG1NRFpWV0dMZTlrWmdVS0MxZmdFSW4xWGUtUm0xdHA3bDJZZkVCX2VOOGY2UmlSRm1TS05PSzF0V3RnMXB0UlNxSjZEcXZXdElfSURVd2VEQmgxOXo1enM5WDA3dkVuREN5R3BqNnNDV2JvbFN6eWE4ZW8xUjV4cjRxc1NwS3BLVXo?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xTERlWDRkQWY1Sl9PcGF1WVJkWTEzeDMxckxXUUdkZlhxSFhqLUZJNGp5T1pDN0lVbEMyVmNScUhybFdlZVZTYy1ZSloxUmZTRUJMMUIwSVFCZHdienNBenQ2dDBPNHJkT296RGYxOHVWNzA?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qMkxTTjBwcm8zRWNkQWdtWHMydDJCcUxyUXM0djJnWlhQaFN1MldydDUxWmVXRXU3OXkzT1FOOEduYU9sVmlvQkkyTm1rYXRZZ1NWTEdIT2FKWURwUkwtVEU4RDRPU0VXN0dSS19ZUXZLRFU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:33+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

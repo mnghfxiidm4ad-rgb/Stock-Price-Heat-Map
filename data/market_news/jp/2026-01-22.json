@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-22",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,688.89",
+      "change": "+1.73%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "380.10",
+      "change": "+0.85%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.46",
+      "change": "+0.29"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "食品"
+  ],
+  "news_bullets": [
+    "金利ある世界：日銀、政策金利0.75%程度に据え置き 追加利上げの時期探る。",
+    "日銀総裁、長期金利上昇は「かなり速いスピード」 「機動的オペも」。",
+    "円が1ドル159円台に下落 日銀総裁会見受け。",
+    "日経平均は前日比+1.73%の53,688.89円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13bU9rNnNMdUR6eTFvSklKcVFvRnZ1NWNRbG9HS08wUzF1QUxiVVp4c09WYmdTMWJZYWZnaGFlVDJvYWgtU05qTjhid2M2cmI1c1ktaUR2SWJSRmNDUlIzNTlsX0k4MXJh?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54ci1RcFJZZk5SMmMxeGg1dFdBVWhBNXFuN2ZwWTNKcDl0VWpnTWUxUVdEbWVFMHdwUkVac0JmWjV3ejNqQ1otWEMwNHFicEJ4WHo1OW42akVhcmo2aWdFQXRqT280dnM?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiN3FPX29pXzZBOC1TbnNLaVRjYnp3bXhLODNNQUxGbjdnUEk0akRwUzZsWHhROHRjejJkeEhSM194VWRURDMwRVFuVWxfbjNXaGhkVlpDTkpMQm9lTTBqd3ZOSUN4WWVsaTc4dA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:42+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

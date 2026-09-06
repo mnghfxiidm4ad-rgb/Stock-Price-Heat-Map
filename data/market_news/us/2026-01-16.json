@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,940.01",
+      "change": "-0.06%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,515.39",
+      "change": "-0.06%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,359.33",
+      "change": "-0.17%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.23%",
+      "change": "+0.07"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow Futures Slip, S&P 500 Gains Following Stellar Chipmaker Rally— Chevron, Paysafe」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Edge Higher On Strong Jobs Data And Tariff Jitters」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq open higher as chip stocks extend rally By Reuters」と伝えた。",
+    "S&P 500は前日比-0.06%の6,940.01で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNWpMQ3l0aUdVaU5QM1E0NXZPbGVkZGhXTzNsZHAtMHJDUjRMRXl6T1d6eDg0NzN6VFNoNUN3RlM3UHYyaWVSWWs2bVd6ZmxiVHpWU0RQbGt0cjJOV0tKNmNJR25XbnZVRGpMVFVzaWNadmlXS0l0Wk15alJTd2I1dW1DbjVYcDVjSEpyYXFYaERPY2dDUVB6LUFycWJtMHRFMFlSV0hLR2RnWVgtMEVMOGYzN0hDeUs4V2dpWkNCSjRVV3h3TFRPQlpJRzJpTHlNMldwR08yOXpmTEhwcGJkTFlVSVphYUtIZ1E2RDdpTW9QbC1MeXdzMkVLNTZ5dXExMWtqSmpoRjZYdUhySWZ1LQ?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JbjVNbmtlRnNYUXVZRGFKZGc0RWc4TXhVMDR6NTdNZnN6Zmd3QTltREF5VlptdXdPZFU4Zy1qWUdXZERQbUZRYWFkaFlwWGM2bVdCNDFYZEdpU3RXYUtMRk9taENpU2tWS2hsU2podjZkTmluNGdtRw?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWxjM0dBYndFUVBrSEw2bHdHUDh6ZTMxYmloQ0FvQS04czJ1UUxkUVFYcnliSjlhbXBWa0N4TFlXSFFlaEpTSGtySUE5U3VxQS1YNEE2WU9ZNElPb2dZeG1hOFFxaFVhMmswdkdSYjRFSnR6Rm5VRDV5M3VISFNlNEF3Y2tnd3BHUy10bXVuVU9ycTdKYWJ2amI4NlNnMkF0eWVITU1fOE1yQmptMDUw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:42+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

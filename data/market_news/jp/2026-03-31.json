@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-31",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,063.72",
+      "change": "-1.58%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "37.14",
+      "change": "-1.33%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.84",
+      "change": "-0.39"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "中東不安で円安・株安・原油高 日銀の利上げ論に疑問「異様な感じ」。",
+    "インフレ・円安・日経平均最高値更新・マイナス金利解除でビジネスへの影響は？。",
+    "日経平均、終値822円安の5万1063円 原油高で景気悪化に懸念。",
+    "日経平均は前日比-1.58%の51,063.72円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9keE9odDNSQlh5aDZMMWl2MmdLQWRhYXBzRHVSLUJfU3NENkdXWmRvcTJZckhkd21XWnlhODd3LU54R2lOOXpqMDhyZm5HT2FIVUZz?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zcVdOQWMtSFNpVi1keHRxbjJwcWxPTy1USS1TajdZWkFyVzE0NEFsRUFfMWVWTjFoWVhfOENfdi1yZVRPSGdSdDdHaWpTTmJzc1JHZQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxN2M1djhyVENENGpycDlXZS02VlFnY29Na1E1a0JXNHBWY3hFQ3prYndJbElDNUxUMUs3U0RYbHItRjRjeUtlMC1HVjlIN0RKTnN5eGVpVW1lUDVvOGsyTzBxc2dfOVU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

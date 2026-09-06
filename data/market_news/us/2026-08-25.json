@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-25",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,677.28",
+      "change": "+0.32%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,151.30",
+      "change": "+0.66%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,577.40",
+      "change": "+0.30%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.64%",
+      "change": "-0.07"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq, Dow Futures Mixed As Nvidia Earnings, Fed Signals, PCE Inflation Keep Markets On Edge This Week」と伝えた。",
+    "海外メディアは「S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus」と伝えた。",
+    "海外メディアは「Wall Street Today: DJIA, S&P 500 and Nasdaq Comp Eased as Markets Awaited Nvidia Earnings」と伝えた。",
+    "S&P 500は前日比+0.32%の7,677.28で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa2ctcTRKTEZqaVRSSHZnRlB1bXJ6clpnUEhJaDhhSF9rdDZuTHFCakVfR0VwZ0gydC1sM3BydHEzZGd4SEdxRmpCRHpDUjBxekIyV01CSW1QdVp5dDhmcldfUFZwUUpPYVloS3Nka1Q5ZVNUWVpXTWJXWEw3M2tXNENGa1R6c2FKZnMtNDBZYnNuclhrdWZkNWRSdzJKR2M4anBvWGFfUWpyeU1weFJveTlhLXRRaG5UREl4cHZXc1dHTmc1MFVYSDZDMGI2LW9SNmlZaDZKYW9vQXBPZTc3THBPOFIxYUN6RlFabm44c3FFZmdUR3RTNE9FOWY?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDNFdjJ3VEdYTmtaUm02RWFicXBhNXFsS2N3T0ZvdXJsM24wZGpJbXlLdmZVZy1QRTRxNVVmSnJxcEtjTVJHdWd6VGRXcU9LX1ItdjJURGpGWlF4eXNvaDJ2MEQ5Sk1fX2c1QjlCMG5PSWI4ZXFPLW9FY2FGYnJSbnBCLUFXOXNWdWY0OHpmMC1KWE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMng1alE3bGdUdEs3aElDdklkSkxCZEFENl80WGtIVm9PTGx0ZzlqSkhGUFM5U3J5cGV0bGJGTXNGT2tqZEZEWGtfMHFsYXhHTkVNSlZ0ZlZnX1pqMnFzSWNXY29LZVR2bWJxTnl2VVdBbHhDdmIySktGTHFLNmdBNm1ha29mc2JKdVRGLTMtMFg2aWZ4eE5vRHl0Uk5Za3A1a0E?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:34+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

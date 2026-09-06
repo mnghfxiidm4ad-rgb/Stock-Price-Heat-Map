@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-10-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,552.51",
+      "change": "-2.71%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,204.43",
+      "change": "-3.56%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,479.60",
+      "change": "-1.90%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.05%",
+      "change": "-0.10"
+    }
+  },
+  "top_sectors": [
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500, Nasdaq plunge following Trump's tariff threats」と伝えた。",
+    "海外メディアは「Wall Street today: Dow Jones, S&P 500, Nasdaq tumble as Trump revives trade war, threatens ‘massive’ tariffs on China」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Index Plunges as Trump Threatens Hiking Tariffs on China」と伝えた。",
+    "S&P 500は前日比-2.71%の6,552.51で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVeUtHdUJWTUFmdFQwLVR3OEw2dnN1MXg4VlVIRlVUN2Nmb3FWUXBILWRpdWJDV1prRXdZWUY2LXZyYmRNelJteWVCVUd3Mk9tS3JDMkpGbFk3ZEJDU3M1QU1Lb3ZEU3dxZVJ0R2ZvRkVFUjhRS1J5RFBn?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSEh0TEtrTXg4V1NFWjg4dDE2eHkzUGx5VlllZzlyRlp2aFlHSU5sTktoX3ZXSGpaZ0xVbWl3X1BXdkVCVE5fVnZEa3dIVnh2XzF1c2pwU2FFYU1XNmYxa3RUR0p1SFFaWTJJd2ltM3RhekR2bFYwa0pBSEcyaFVZTnEtc0JNUjFXdEFNUkx5TFlWZkVyRkZiSjNnVXFFcWFvRUJFaXl6dERWdkY4bGhkcG5BZWQ5M1hDOHd3ZVk1WTM4U1YxR05nMV9PSTRpdEhYTHJqSXdrYTZnUdIB3wFBVV95cUxPTzNjYXBEb3ZKUHV1WW12Vm5JeUFKemJSUFo0MmtnU0JFV2NIdG1aRERnakVIRGQ2MmdCQkllVVRwakRFV0o3TEctLXE4OW1kdnlHWGhzNW5TdEppYkhMczNibFMxNlVvYjkxemY0c0NIX2NlNjFodWtBcE1NWEZzRW5FVVRQTmdZb1RQMTYzZHhkQjU2dGV0QjVUUHRNNUpLMnhZQjd4SWs1dTl3UlhVRDZIVFNLcV95Vnp6QUtuZ3NSc3lyUjZzNXdNT2N6T21OVUx3WHlLakJ5OW0tYlQw?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckFubnVueUZUTTVxN2g5bDluUTZrRHNyVEhZLU40dFR3c192SmJpZkg2Y1l0Z2RCMHlKbzYtUGYxa1NBZVFtWnNKaWFvWkhCVVVCeUEyVTlLeXdQbWo5ZXYwLUQ2VWJ3ZzBrdTNKUVJWRm1JYm05amN2bFFlWXQ2V0JsdnVzLXgxN3lfbDVraDYzVUpHbktZQzdtb0ZiWlV2N2NreEpIeUFPSURkNVlmZzJTTlZCTGcyazVPWHg2c0N4cDA0clEtOA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:54+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

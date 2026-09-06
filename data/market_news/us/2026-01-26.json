@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-26",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,950.23",
+      "change": "+0.50%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,601.36",
+      "change": "+0.43%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,412.40",
+      "change": "+0.64%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.21%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow Futures Gain, S&P 500 Slips As Investors Brace For Mega-Cap Earnings— Brand Engag」と伝えた。",
+    "海外メディアは「US Markets Today: S&P 500, Dow Jones Open Higher Ahead Of Apple, Meta Earnings」と伝えた。",
+    "海外メディアは「Wall Street Today: DJIA, S&P 500, Nasdaq Comp Rise as AAPL, META, CSCO Gains Beat TSLA, INTC Losses」と伝えた。",
+    "S&P 500は前日比+0.50%の6,950.23で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaU9NRlJzQ253MEVQTVJIRWZ6UDBFTndaUTAyRjcxdTlEUWltZkw5cW02ZlRXRGtKUlFpc2NOc3lnR0FJMEtzNlM1UTUzcTJBX0lZWFhvYlczdjhiRlJwcURvaUZqeXg5VGtXdHo5bTRhUXRfVzliS0tyQ1FmcWkzcFFaMkpYa1E1eGhHTUJla2M0VC1OM1NfUW1RMmNFQXl3aFFLWXNUSmJQcldyWWZoX3FLTFNoTEZDMWt6OGdPSVlhWVcyZlFHVmU0ZzExaXQzOXFNdE9odV9jQl8xQWY4U21OdjdSc0FCQ1ByalhEMlZzSTR0dENYVUlqNVBaYjhlOFc4c1pRVHl0UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjVxMElCaTh1QnZTY2R3THdjQ3FPakZ0M3dYS1Q3eElhdVFFcG9JRU5aNEVRc2dIZ1ByMzVfazJtX0x1aHZETXBCTUp1T1ktWVVsX1JzbTNxaHNvUEFIT2I2MkNhZUlSNjljNmQ3MmpjMFd6bVBsQ1NYdm5rSnNnTGw5RUUwS2VFcC1BQXh6aHJ6QmZ6RXpaTndJd3NseDVmbWNnd1d4NzNWQ2pzNzF5dlV6R1hkdkY0Ums1V0FuVEhrZ9IBygFBVV95cUxQTmt4RVpJV2NWVWtpOUlGNmJYM1JtZG1DQjluNjhiNWt5NDYzdHJwLV93Vi1xTllueTJKcm1LR19nRHlpTlc1V2lZS2NCRHBRb1FHWkd1MnpoS1pJOVdKTGZHV2o2SHVzSVJXd1hEVUN5OUpUQkVScC1mQ2dhN0tXU1M4V2UyX0FFMFFEaENYdmx6VDh0LWdhWFRUaHdRZFVmbXJuUEJlYVhqZjVQQktsYTJJSXEtLTczUkpPaUdvLVZLcjgwcUhfSEFB?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzBfMXZCOTJWOTRkZmdvYS1JT0p5SWlrRmNGNzBkYWtyNUc0eFNwUTRKaHRvemZiQ1ozNGV3SUpZZGQ5eGx3eWpSekZhX1dwd3N3RERVci1EcVBCVlpyX1JlOF9UUU5SMjZuVUlPVVdVSUx6cjZYSHJCOXltVzdqLUdEQTd2NjhZeGpOX2kxUTJhbTlIX21hVmNua2dsU0s4VXg4?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

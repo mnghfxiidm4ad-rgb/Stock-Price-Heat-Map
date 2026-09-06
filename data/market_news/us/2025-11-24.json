@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,705.12",
+      "change": "+1.55%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,872.01",
+      "change": "+2.69%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,448.27",
+      "change": "+0.44%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.04%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Wall Street edges higher amid tech gains and renewed hopes of Fed rate cut」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Google Parent Alphabet and Tesla Lead Tech Rally」と伝えた。",
+    "海外メディアは「Forget Magic 8 Balls. Strategists See S&P 8000 in 2026」と伝えた。",
+    "S&P 500は前日比+1.55%の6,705.12で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNak1hQXlQN2dnSDhiOURpM2FRVHdidHpkWlN3cV9kRFdZb3JnZUVmUE51ZDBUVXBTQTN5X09uUUNPSWR3MTZSSXVlWThIenJfYmRvTC1RbDhkTU5VVEF0VGtDby0xYTBJQXg5WjNYTGllOVE3SThnNzJwMzVaWEZDb1k1NzjSAYoBQVVfeXFMTTlTVHEtMTA1My1LLU5Lcml4WUx6WnpnVnFxcXJtN2FaOGhKT1M1eWx6dFlMWkNqWUlRenJtdjBDV0c0cnFfVDAxbzBoOUdGSTMtNXhzVnF0NndpME9KZlB3a1NqZFY3M1JOY2NxMjJpZ1NHaWdDT2pReHphSlNndzl2RDNRazVoV3Zn?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFdnU3lOTExiS2Y0VXFVbDY0YjlUNjZKOEhhN21odVN4MW1vRmZicWVZTWlwZl81QUdGOEhKaTB5UWsweFgxbU1VWGd3NGtodEU2aHJXZk1EUG9SanYyaUZJUVB5aEJkdnlOd2FTeFJPZEc3X1Mwc0hVakdhZWhOVi01ZGxSenB2U3hDX1NKMk1vZ2J4TXotMk1oaUxKc0h4LU1IWnNpWTl4R2JNcnh6RFRVS1ZMOHNsNVJkVW9yOHJBOFR4NHg1RE9ocGs?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XUm15Ty1IRHlQaG9Tczk2UlhjVmlfc21lZ21haVdzdFk3b1FLVERqbFZfUElTZS1RM3UwZDd4ajdRUHRObkUzdERrbDZKWUR1ZXFOU3c2M285bEo5MGpJN3JZakdCSVdMUHZTTzVmWUxZVDBTc1k0YXVoVXQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:16+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

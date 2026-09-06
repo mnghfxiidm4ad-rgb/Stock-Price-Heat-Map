@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-07",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,728.80",
+      "change": "+0.13%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,004.54",
+      "change": "-0.21%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,987.10",
+      "change": "+0.16%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.09%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Bulls Brace for More Pain From Shutdown: Markets Pulse」と伝えた。",
+    "海外メディアは「SPX: S&P 500 Slides 1.1% as Traders Reassess AI Stocks. Nvidia Sheds $450 Billion」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Soft in Premarket」と伝えた。",
+    "S&P 500は前日比+0.13%の6,728.80で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2tGRzVYRkd4STdUUDNVakVTR1M4cFlBUzNnaENBX29vNkU1ck85elJPZnNlR2hqa0xpWGJhX0NzX0J6UFV1LWFPekNrNTRiNGljTEw2c1pqOGpuT2ZfTFVlSFVCWWJGSDA1ajdINm5qR0xSMEpvejJucVdyUG5iLW0yUXBoQW9NVnBQR1Q3WElYaXNYU040N0JnZ05IRExUYTBZS3lNakNLTG5zdEo3eER3?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3VCbGVTb3RqRFducXNfMzR6OTlOVWlaS1lqbVJBUlB6ZHFwY2lrMnJwekF0eXdJTnNZb0FseVBUdUhiWkRBRWl3NllkNjZFY3AzTzdwZXkzQkpEV2tkdnJjc1kzaXNEbnVHLURmXzFGbGRzZzhpTTBmQV9maDlzV2d0Wk9JVkR5c2VRbzRMOWJtUGJGRXFNVXU4ZFNBWk1MV0dGUHlZUzNHNzBieFh0Yklqb25wM2VGT2duM2xsUFdjZHdJRkpGbkpJZHFJYkxCZmV1Zkhn?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc2xPcXpsOXk3dEQyTnJQSGFBV2IwbFVIcDlGR0RuREtFb1RZaXZfSHJfeHloNDB4d05fYVR5OUI5NXZfaWt2NzN4N21FcG00bFJueGV0NHBxcDhVb0NuWnVWVXl5bXBrRkM5SEt4NFhEX1BkOFExaUJZNUxGZTJ5UFpXUHZhZTkteEJHX0JKaVpRV3U3dkFlOFZwMzZSTGxxbjJYdklhc05vZTdjYW1rTU9wdkVtX3h5Rkw5OUxWeGM?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:07+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

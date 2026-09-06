@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "44,936.73",
+      "change": "+0.87%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "323.60",
+      "change": "-0.28%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "147.08",
+      "change": "-0.91"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "銀行"
+  ],
+  "news_bullets": [
+    "日銀の次の利上げは「春闘待ち」か、家計のインフレノルム転換と政策金利1％への道筋。",
+    "9月日銀短観が示す景況感と利上げ判断のポイント。",
+    "日経平均株価5日ぶり反発、終値385円高の4万4936円。",
+    "日経平均は前日比+0.87%の44,936.73円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrbUxOMi1uRFcxNkI5Q2xVcE94WlFZdUFDU3BnbVY4Z2V2M0dvZF83N2hTV2FZLTZ0NzZPcXR4Q0YyN0ZqWUhlQ2hXVnTSAU9BVV95cUxQZU1DNVZXN3ladUlCLXRkVWdWSEk4OFJFZEV5eXJabmZGY0xfcW82eG4zcTM1ZTAyR05NNDJ4YTIyM1lPek55OHFtX0NQWmxF?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xNExOUXR2N3JwUTZFVGxqbUdELVQwdGFTNGR4RzNwVlVqaGp4WGtCNm5kNHFmcGw0Mk15eVExMXNUUXc0X0hCTG1Dd3poUk5xd0lyZndKX3paS2ZQdFNaNTdoeENXZV94SGpRb3ZTNTZXXzdPRDliR0JicXFkd0U?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VYlNXbW9MU3A5a2U0TVBSdExNUkJNc3JTb3EzVHNqbFhId21SWV94ZndlaEtOYkRXNWNteGk2dXhBNUpUOTU4M3NvUkFMQl8wNXhHWnRtUzM3bnZtQWJlVWtIaXR1VktQS1VIdQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

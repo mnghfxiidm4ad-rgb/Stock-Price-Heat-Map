@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,738.44",
+      "change": "+0.58%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,941.80",
+      "change": "+0.89%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,734.61",
+      "change": "+0.31%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "3.99%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Hotter CPI Unlikely to Deter Rate Cuts, S&P 500 Rally — For Now」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Las Vegas Sands Soars; Molina Healthcare Falls as Medical Costs Mount」と伝えた。",
+    "海外メディアは「S&P 500 Inches Up as Energy Climbs; Tech Earnings Misses Drag」と伝えた。",
+    "S&P 500は前日比+0.58%の6,738.44で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWm9KSWFzangzTW9uSkxXa0JMZHFSb0RjdXBDdjlLT2poa01XWjNGZ2tKanVFQS1EcE5zdEtGRnhTNjhXVDhQaF9uc3d6b0h5LXExaVFHcmh2Z0plN1NuT1RCSkhKSWwtT2ZlSmJEeUhQR21mVGwwSTIzeTM2RWVoRHN1Z0lzbTNrQjdkM2tlUE1sck13ckpzRmxXRXFWVTZZSGRPb3VpRmh6elh1SnQ0cA?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOekpGMmVwN0dSZVNhdEpyblg0Q3dtRU5wZ1lKV0dNc0NOUlJXblFwOEZ2X3gyNFVUU0VpcnkxTWVmN0wtM3RwZWloSElXUnE4blpWeWg3Z3hUTnJNd1pwdkFkYVFmLXRZV3V0am9OUC1KWEQzWlB1ZHRLNVZmTTF3OGxTTjZlWnMwTlZDSTYxQUxhbFRrREI4aEFKd1ZwcDBJbnNqQ04xVm9EYkdTaGhEeWdIWk81TEFhcVFjdDVQamN5LXlsQ1V6NkljazAxdjF2UTExMDdJSlg?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWk1ZNlhLZXE5aEY1Vjd1VFBUOEJwajBpc3lVdHRBYlFnNDlGN2Z4LTh6eG1NUWVXYWp6Y1hEcHNfS0hwVXhWV21Pb1lhRk43WXFyYnVlandxcjgtQ25EN21PQ2EyUGNxNE5peExyMWUtbjNQblFjaXI3cTVzZnpKUDV5UWVrSFo2LUc2dW9FMDZlSlBac05BeEtzQWV4QzEtQ1M5eExTRVF2aGJraEU3Vg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:00+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-25",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,765.88",
+      "change": "+0.91%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,025.59",
+      "change": "+0.67%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,112.45",
+      "change": "+1.43%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.00%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains and Losses Today: Nvidia, AMD Slide After Report of Google AI Chip Deal; Best Buy Stock Jumps」と伝えた。",
+    "海外メディアは「Is Dow Jones ETF Better-Placed Than S&P 500 & Nasdaq?」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Slip as Rate Cut Bets Rise Amid Weak Jobs Data」と伝えた。",
+    "S&P 500は前日比+0.91%の6,765.88で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOFZ1WFAwSmhaVGxoQmFxYkx3czdRcDhiM2M4ZExYSGpCczJyZkIzMXFNR2U2eDVnTHVoRHBIQkh5eE4wM09sTkFpQkl3QnJpWHlJYVZmWEJIeEFrNjdsSVRkcTUtd1JLTExXM1Y4aEgwMmVuWEZnSnplbnJfU05NUXJJVmtDU2RENHVJTUhKQ2VJOEZjZjFVelZ0NUtKcWQ2R19vQTV2QmhBbzl0VzNvb21jQzlJMWJrM1RuTnVhMGNwWWU2Wm5vWk5kY2p2SHN6bjd0bFEwUVZtUnBpcmM2aFIzMGF6dWlZbFBtSDF2R2U?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GUzQzaTNtWEs0N1ZOMjhqVS1SSTJ2eG5HLXpSUnV1MzRDVzRoS3MzQ3VkVkZYOWd6LVpRb3BEUXFITkZHZGN0Z0pVZS1kcEJWTlRmemthR0pFRnJKdVdEM2x0d1lqakhSOVg2ZHlLSmpPNzNCNEYwd255UDRpZw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5USXN1Z25pdU4zSDhOMTFDbmRmUnV2U0xqRFBwYkxDXy1pNUNFSHBvWEg1V1VhaUhxbjQzcmctSWhJNVZURy1ScFNqcFJzaTZqMGllOU5pQ1dYSURyRVM3aFpsUE1iN19Mb3RSTEliNS13NmdDeHdWQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-29",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,969.01",
+      "change": "-0.13%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,685.12",
+      "change": "-0.72%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,071.56",
+      "change": "+0.11%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.23%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 briefly hits 7,000, Nasdaq gains, Dow Jones steady after Fed interest rate decision as gold price」と伝えた。",
+    "海外メディアは「Dow Jones, S&P 500 open higher, Nasdaq drops at US market open after Federal Reserve holds key interest rates steady」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq close down as Big Tech's soaring AI budgets trigger flight」と伝えた。",
+    "S&P 500は前日比-0.13%の6,969.01で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMmhpbGljekp6dkN5SkY0dGhtSUFKUWtaSEdxRWVmNUNSZ0ZCR21QaGhMQlo5NEk2S0pRTUlIQ3pHRHFNdGt6a25OX2s2b2RZeDBvU3laTXdoQUpwR0VERzZGODhsNkxWajlWQTdvLVotOVRacG9lekhnN3pjN2ItNTd1T2s3X0JxbHMzb1FJUTZGQ0ZSY3ZBY2pSdlpmQ25WQktpakp2aGNPRVFrYlZDdXE2TXpITkJodU5rTzdzUDhfS3diM3JNdDhqV1ptQ01hNGYxTXl0YlJzYVIzeEx0cE9oM19TZXY3SjhNUThMZW5GVXNKcG1zWWN6M202dU9xcXFrU3VCNmlHcHBQU3U3SlBxZjFEOVFzSGZPTUVHNzB6bm1wTHp2WkZzVWp0VEQ5NWFya1lScXNOcnFQeC1WcDZhUFdUSkF60gHOAkFVX3lxTE5lZjctOHNDQ09BbFVWTVZSX3pBUFhwNzdTRGVMZjJZb0VVYzBpazFBOEh6czdtWnNPMFJPTFRCRjlOVFFXd0NBNmZESTRSUTJMWTBxRGdMY0xQVGdWblBGYWZ2ZDhNYmVZV1JzRGVRQjMxazkyUnFxeXBCbDhzRFBDSWJPdF9sVjZMS1BUR09EbzZmclZKSXhFbEd6X1IwUms2REhoM2lfalZ0dE1uMUdnWEZBeURIVk90c19wdzZVRmk0Y2hjNVdybktPUmQ5OHpJUXdMRF9Hb0toMzFBV3lwRlQyMkdnUFpuMThldVFYeDRDSlNxYXAtVkl4VWgzenQzazloTmx6SjltVUhZSnpkX2JXRFYwOFE4UmxTVUc5NnAtNmpjWkhxa1UwLVVMdGR0N0tQNHJBVnk2YVZXYTRsZ0ZBQ1JybDZUQWQxeEE?oc=5",
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxORWNVaVMxQ0d3Y24zaGl0TDYtdi0wY1pIenZxNmxmRHlnLVppbThVRWV4X3h5X0VxTEl4ci1sTXllazhxZmpVRmxoUjRmTGoyOC14YjBaLXVaSFZnblZ4bVpleU5oWjBaSEpTY3hhQ3hzaExaT0F5UjNpajBmRHdjZ2tyb3F1MkxkVHNZbTR0MWVzNk1mdFJBa3UzY1Z2ZWEwcHc3UkI2am4zeW0zUFI1TTAwWlFRZXhaTHJXbjNtRHplMGkwU2JRM0EyWWZtUVFDRXpZVUpmREk2dHM4akhDMlg3V2Q1N0RYaEhkeGEwYTE0OUxFZlpVSXpya0JCT1Q2T1RweHlQaFFiRFVmNjZBd2h30gGXAkFVX3lxTE9yTFRjZlhLY0JUa1JEVXdKeDQ5ZnVhZ3FKR29JNUUzamJCbjFiRWZLMFR6MFlZbzc5YkpZSzN6NkM1R1pRNWNIbHZvQ01oWEdtVlpYcjdFOEtLbGlQZ1FWelpidXpKQ2lXU3RCM25NX3RCZUV0OHNoUWdkR0E3Z0JVYmVrMmdSOTRkeDdNMnVkTVZJNk9tc0F3ZW8wU3RwaDg4cFJITHlzTXA1QnUxR25XNmtkcFBYbjBEVVZCeTFWNUVJTkhHUXZmQm9yemZUOU5jeTlYdTN0akF4QmpZVWlsRy1yOF83TWtVWGxkdldDaVVVNlNpcmpaVm5IOFdNR2Jfb3NacG1ieGN3VWpSNU5FR3g0OGE2OA?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZklrN1RrZ3E0bFhTSlBiczUydmUyM2x4VFF4NWw1ZXZiTXVMR1dJREUtMmN4elZsdm1HUXRXb2poWDBMTmJ6QXRhdkRJeUdCOUlpUlpTOTk2eXV1YUJxM3dDUzRVOWdOS1FqN3cwdHBWdldoenhqT244cVpkUkMzaXkzanZ2YjZKZFVzNTJwOEdVM3RFaGNVMTNWY1RYNmRiUzZZLUt6RUc2MlJZ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

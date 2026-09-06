@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-04",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,882.72",
+      "change": "-0.51%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,904.58",
+      "change": "-1.51%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,501.30",
+      "change": "+0.53%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.28%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Slips, Nasdaq Drops as Traders Dump Chips」と伝えた。",
+    "海外メディアは「U.S. S&P 500 E-mini futures up 0.05%, Nasdaq 100 futures down 0.11%, Dow futures up 0.17%」と伝えた。",
+    "海外メディアは「NASDAQ, Dow Jones & S&P 500 Forecast – US Indices Looking to Break Higher on Tuesday」と伝えた。",
+    "S&P 500は前日比-0.51%の6,882.72で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbUp0bzV5QVByMURtNkdmNWV6VmkzcHhQUlBrdEotSXBqdlRzbXZhWUUyLThPZFFzb0pWYTRKVmZRdzl6TVhQYVFtZmF1Tk9TZGdtSm1JU0NWSXpGLVZFNkp1c29xYlJzT1BDeGpSTFJNRGNJWUpFTk95WEdPbUZJS0Uwank2XzVkNU9TVTBwa1RhVDByR2thVjAyWWlmdndobURQbzYxd3hObmZyTFE?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWl94Yy1YWklQc21xQnRRSlZpSnFZM05kZVdFcklEU2lXVkpIVjhBTW9EUmNqWVowRzMzWmNQdlpJNlVDU2diNGMyank2akZncEh0akRtaUVZTVBXV3hlbmlUcWd5QXpfaEp3czB0MjREX3VITTViTG9FT0NVZmk4N0tzTkZnT0p1dDRBS1FHYVkwMHpvZ1VsZE1rUnNFS1lXdmlFWDY5S05Yb21IWFM3TGE3c0RQYTZ3S1FlSWhnN25BVUxXVmdjcmtkMDZ0UDcyY3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQckRSZV9va3FWMzBQSWphWHR5aWg2Znc4RzNsS1Z3Z3VDQjVTMmtXYnVvM2ZEd3RlcjVEZEw0YlltbDlzRG5TUjlPb0tEdEo1QnRtNHZYeVlka194bHZtRzZuQ2FId3Jfb1NETzZMbjNDa1hBRVBOQ2NHLVJTX1hiQ2x6TnQ1S0lENGVSY1ZhWTFYbXVTSTE3dFM3eFduMDhmZlZRR1VMcmtsYXpsWW5lM2I2MjJtQnZZbGVCdzlhV2w2ZDRCRXc1Zg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-28",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,563.63",
+      "change": "+0.58%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,917.47",
+      "change": "+0.91%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,668.97",
+      "change": "+0.05%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.45%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 futures decline as oil rebounds, traders await key inflation reading」と伝えた。",
+    "海外メディアは「S&P 500: Oil Prices and Treasury Yields Threaten to Test the Rally」と伝えた。",
+    "海外メディアは「Morning Wrap: ASX 200 to fall despite S&P 500, Dow and Nasdaq record closes, Oil tumbles to five-week low」と伝えた。",
+    "S&P 500は前日比+0.58%の7,563.63で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMDM0NExBemNmX3oyTTlHUmR0S2d0ckhiVzZVM2ExWUpVN3NObVA0WTFlVzU5SE5pcms5MWMydDNBU3RNeGltODBtVEZDOUVVaDF5UFo4azZqSTlzYkFXRkY5cVpHbVNBbjJia1BKdGZoT3dVaTB0UE05Q3AwVlNjWmZfNUU0Q19SLWFGYWpBYjN1TC1NSFZTektfYkdva0tMRVlYelJubEZ1eExXWS0zMHJCMldGSVhj?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHlzZkN6Umd0Rnp1WFVpTV9kYVkwOWtVRVF3UjB2YVRmc3ZoMVh2VGpNRGpfWjliTmViS2ttVEx3X205YWJHRDNnRzFtWDlmOWk1SlhJbjdtTG9ZRFBkenlMcnZ3YXo0eTVESXZxbDVReXhuTmIxZ2dMTWFaWDVWSjJ5aEl5RWV3dXBWdDJhd25UUkFHbGdkbnllQ1JGSGZuWnQ4UGZLMWI5STZjSXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdnk3MkoyeThWc1BDT2g4bEhyT1hiOEpPZUhjeUF3RlhMNnR2VDFXeGozWGR4LU54dEF2TEJYWWpuTEd6c2FOS3hqc3BBTXd1UGxrODFxOWEybzR0Q3hXZkQzc01HZ01Wa2xxR2hYUldSVS1KVlUtSVc5VnFsdEEteUsxTmduU3VYX2hoSVdBTlNmZ0NXaTZpY1ZUZjd4d1E1ZnVQRXVDU1Q3dw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

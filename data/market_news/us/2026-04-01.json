@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-01",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,575.32",
+      "change": "+0.72%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,840.95",
+      "change": "+1.16%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,565.74",
+      "change": "+0.48%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.32%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 eke out marginal gain but shortened week ends with muted sentiment」と伝えた。",
+    "海外メディアは「What Happens if the S&P 500 Joins the Nasdaq and Dow in Correction Territory?」と伝えた。",
+    "海外メディアは「U.S. Stock Indices Rally Smells Like A Dead Cat Bounce - Outlook On S&P 500, Nasdaq 100, And Dow Jones」と伝えた。",
+    "S&P 500は前日比+0.72%の6,575.32で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkRQRDh1VGtRRV8tX18xa04talZVcU1TbEpCTkpVT1V4NHFFSEdiYWhXeV9OaC1xcjZScjAyVXdIdWoxeHNaTlNMVUhnQllBZVhQaVRDMmpGOHFNRm5ySm82eThzbl9YUUwyOHloOEFzcFhodF9VNklmN2t1WEJQMzVUVng3ZUdxcFdSX2RNYVVPZ3BEeThKWlZ3clZiM0pJVWM1X1E3RlBUYk40UDdLYmxGVXJUTkJneWMtR0Q4T2Q?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHRyX3lpLTRtZ3htQWxGZzRVSUFNMDVJaW1vMVQwNW81ZkhDbGFwTlZDUEpRQzhQVmJnQWs1a1NGTUw4YWJuaUpFellubThZemZuVjY1QTR6NVRPVVU4eU9QNURMYnA3VXZ5S3dUaWRaWUdnN1QtRVpTTlBXWFMxbzdxMnpvSGxVc095Sg?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGxyU1JMcWx5V3NkOFFpWlFyajB0U1R0ZzI3MzF0b01qVTRZNXpCbmNhZFp1MjlTcUlZQzBDNHBsVllVWUMzTmk3aGpuR3dwQ0NRczg3Rzd3SGt6bEpyN0pLM3hmRkZlZmhoRmd2Y2lla0VndXBzWl9BWkNaZHFCVmwzSGNyYUdLSHp1NzBuZVE2cEFGeXlPNTh0dC1ZZVdMVVJCZzFJWmV5V1Vyenc2WkRSdkdfZGY3TXlhWlVSeTVPZDJ2SG5oOQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:18+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-05-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,833.84",
+      "change": "+5.58%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "407.20",
+      "change": "+3.19%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.51",
+      "change": "-1.17"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "ドル円、為替介入後も円安 156円 雇用統計やイラン和平が見通し左右。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円高で156円台前半｜政府・日銀の市場介入と見られる急落を観測(2026年5月7日)。",
+    "米財務長官、来週訪日し高市首相や日銀総裁らと会談へ…円安・ドル高傾向続く為替動向など議論か。",
+    "日経平均は前日比+5.58%の62,833.84円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmo0NEVHek5sVmJjemVBbE1FdGtvM2R1VmZIenFaQUVuWXVYWWRmM21vbE1Qb3JYMThBOUVjdGQ0NVZteUVqd3g0aFlVNm9DR3hnUnU0SEFCU09jaTFIanRVcVREekNVNkRWaUFxV2FZX1NFRDFxWkVhby16dXNSNF9NdGNRc0xBRkxXbGh6Qjc5YTZzWHdfdjlhMjlFUmQ2bGFwN3g1MVpzMVlyRmdTdVcydDI?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rSlBfbnY1TFhQNlNuZ0VkRjg1VmlFc0NJYzJqamVVd0MzTGtzV2hDYzR0NHd4SVdoeDVCWFVkaldmMVNiSTVqSVRucV9PQVdmOWh6aE1NeGl0aFhDUDdTdUpPallHUURFbE80cHFROWVrS28?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SU2JrblJrQThrX0lwb2NHYTJKdjlVMzZlMldNYkxsTHpwVEdHd3EtN2hsWkx0Mm5qVTBveDB2NVNiaFN4S2d3SXhjSjFuSzgtVl85QklZM0JiUGxSZlJTQy01TVM?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:29+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

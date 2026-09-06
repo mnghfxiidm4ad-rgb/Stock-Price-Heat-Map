@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,383.74",
+      "change": "-2.64%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,709.43",
+      "change": "-4.18%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,866.78",
+      "change": "-1.35%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.54%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise | CNN Business」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq slip at open after solid jobs data fuels hawkish Fed fears; chip stocks fall」と伝えた。",
+    "海外メディアは「Nasdaq Posts Worst Drop Since April 2025, S&P 500 And Dow Drop As Strong Jobs Data Ignites Rate Hike Bets — TSLA, GME, META, BA, MSTR, GOOGL In Focus」と伝えた。",
+    "S&P 500は前日比-2.64%の7,383.74で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAybW1nbnozSzFlMTM1Y2NtMmJxS3Bhdkk3YWsycXJrRnl3UTN2WUo1dkhjTlM1RENVaVN1dURQQTBtcDhBWkdHU3NMNl82c2FZQmZPVHNpUmMybDg?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZFNTa2JNZEJTdkpRZmw1bG45cWwtb3p4aHcwbHF0SVVGQm1zOTNlTENlTU9jTlNlRk16amdfRVhJT1dtbjROQld6Wm9sa1RPTkdiQzhXWGtRT1RnVlEwRGJNZm5RNDZoUllsNGdUdHBBR2VHenNWaHBjR1ZpNlJoNWVZOEtYTFRJbFpWSVY4XzdWaHZYQldHWVY0M3gyR3U5Z1liYjNUbnhPSERJUEdqanl4dnNGSmFqWnpmMmRJdV9yamozV1dTQ205MURuMGRxZEJtdGxTc1RCU3cwME9pNUlGRWNhVjJHYjZxUFIwOGt4SWpzc0VNWjlrLUlCcG9hUkx1LVphaVVOWmJ5UVdfWDJ4TmRRVmZxNEZUMVVTMG1scWhORGlRRkdn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:51+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

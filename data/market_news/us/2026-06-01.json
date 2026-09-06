@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-01",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,599.96",
+      "change": "+0.26%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,086.81",
+      "change": "+0.42%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,078.88",
+      "change": "+0.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.47%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 weekly preview: Focus on jobs data, Broadcom earnings」と伝えた。",
+    "海外メディアは「FedEx Freight Completes Spinoff, Joins S&P 500, Dow Jones Transports Indexes」と伝えた。",
+    "海外メディアは「S&P 500 Hits Record as Software Stocks Jump. Dow Jones, Nasdaq Follow Right Up」と伝えた。",
+    "S&P 500は前日比+0.26%の7,599.96で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcFZZSFJFVmhJNjRFczNJMTRCX2JsQVdleEpSRUhoSnNoVVR2OWJKR0F0U2l1Q3Zhc0ZUeDRqdDhpek5McDA4ZExzT2o4RzlKY2xjcGcwRWtGRXVJcEtXOGtOdm1wT1huV0h0QmxhZWtJTWZvTm1oQlFNT1QzNDBpYnNjcFJUSEdjc1N5Q09yOGJ5YXk3aEFBN1owY0szUkE2Z0lVUkhKRnBWV1hEUGlDLTVRT0psV2NsNkN3LUczcXhuMjlxN25IRWZOTHk?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdUxZbmZtN0pSY0thZGU4MVI3TzByY1BNYVNsc0RCV1g0WFVxU1FhVF9CVGRndExDa3Y2X3VrTHRPNUNvOVJYbWNBQ1NxUXNucTIwTERjaVk3Rlc3a1pObWNHeFNSX0NaM3VRQU8yRlFYdVc1S01zTkJnSXRtaEl5RVlCdXpVeDlUMmhSTEFjaXF3NzVDQWRCWW1NM1p5XzBCRnQ5LUppeFhfcnZKMFE?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVdLYnEtNDRyeEpvZ21IVEYtUzdGYXh4YWRJZ3MweWgweGRSMWRqTERqd2tyTFFSY1lpSWtCU1hsTWtFejRhSVJFUnpEQzhCcThGY2ZFQkZVMkNSNklhZ1Y1VFVxRXN2WExGLUpnYy13dmVSbE9DVkdiY0VLcGE0RzBCanN3LW5zeTNoZGJGRUVYZm5JQ2FQbHRfU21MMGMyM1Y4ZHZ4eUF5RUlWLWJQR0hCcjF1M3NkdGNmNHRwRmstUW1hRnFjeGxsc2c5bkNqd2RjRg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

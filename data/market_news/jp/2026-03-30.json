@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,885.85",
+      "change": "-2.79%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "37.64",
+      "change": "-90.16%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.23",
+      "change": "+0.53"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "商社・卸売",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "日銀3月会合、中東情勢受けても利上げ必要との指摘相次ぐ-原油上昇で。",
+    "1ドル160円台で為替介入の警戒ラインへ ～為替介入か、日銀の追加利上げか～ | 熊野 英生 | 第一ライフ資産運用経済研究所。",
+    "豪ドル/円見通し(為替/FX ニュース )：先週末の豪ドル円は円安で110円台前半｜昼以降はレンジ相場で取引される(2026年3月30日)。",
+    "日経平均は前日比-2.79%の51,885.85円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE90VDZ3MUtCQzQ5eFBHZW1abWpqUkVpaDNfSTVhVkYyMEQ2MWREd0ZjaGpqaFl2MEdLUnkwSEtrZjhXQjV0NUcyMGV0RlNnZGZrYmR3eHhzY2p5ODltV2UyVzhnZEpwRmFoM2ViNXA3aVl4UzR6dFk0?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KYjdvQzVuZ2Jyc1ViTVJtMUxtSHdjSDZvWEVUNWlnc0xYcWdyQl9fTHl6S3IyckI1Yjd5X3NfT0ZqMlNRUzQzSkQybTRxUXRCTzlJX2pDTHZCOFk?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE11T3dUVl93T09aTVJKR21mSWNPOVlPNE8zOHFfNWxCUjJRSlNkdUZmRW5WTnNka3UyZGlNb1oycjZOTlBNdldVREdwRWljWnU5cEU2Q2V6RExjVkljMWJJcVl1eXpBemVsZFk5UEQ0SFB1WFU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

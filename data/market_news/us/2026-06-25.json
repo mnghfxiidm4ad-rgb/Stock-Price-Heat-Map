@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-25",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,357.49",
+      "change": "-0.01%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,358.60",
+      "change": "-0.46%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,920.62",
+      "change": "+0.14%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.39%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Watch Down Jones Up, S&P 500 and Nasdaq Down | Closing Bell」と伝えた。",
+    "海外メディアは「Dow Adds 72, Nasdaq Falls 118, S&P 500 Slips 1」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Edge Up As Traders Eye PCE Inflation」と伝えた。",
+    "S&P 500は前日比-0.01%の7,357.49で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUhoRGNKUHEwOU5yRVQ0LXRleDVkdlBKNVNTZ1hRRFpBaU42aGpZMWY4Q1hDMUk4UVRURWhGRUFTd0NjSVItdTlJeDZPTFdza2VIa0lndk9pN2pBOEF6R1FpSnRTbEdiWC0zVmtPY1pSU2lZZzBkajVqampBVnZNaVN3NUdRVHFad1hhV1d5eV84Q3FzRTZZSGJVb2thLTdDand0V1FKT2U?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1Q2Z0ZINWE1ZnM4LUtsLW83elFzWF9HNTVWSVFQTHV6dWJneGtyT0Z2NDEzbnZpaVJGaG9NYldianJwWC1JdnE4XzVaYUJIWlVCUzNwaXBZcjcwdFFpUzZCODNNWnhzb0FqSVA2dnAtVE9VSG9pOWd4N3gzdGFCdVNBSlhwSUR1TnhONTJ3?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUTdWRmRyb19aaWpwdDNkRXpuUl9JdmlkbHgtSDR6OFExSXVQY3hsTENnV3VJa3JEamFGb0d0bmtNMUM1cHl5ZnBnV1UzZHlxblRQdy1jR1VrQTZNaDJvRmZIU1RvMkZ1dHlSaGtNdmdjS0g4U0dYTF9sSDJDcTA4YkVrWU9Bak1KeWVodmZxQUVlS3VKSVZCSUpGdzV6UlhXRVhTbkJNSUpiQnlIYXMtSEJtRjVya1FTSTVOdFBVckFNeVhNdGt4N01aYTEzeENxUTBjQUVR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:00+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-07",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,337.11",
+      "change": "-0.38%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,806.20",
+      "change": "-0.13%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,596.97",
+      "change": "-0.63%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.39%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains Unleashed on Chip Stock Strength, Falling Oil and Return to Optimism」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq close at records on solid April jobs report, rise in chip stocks」と伝えた。",
+    "海外メディアは「The S&P 500, Dow and Nasdaq: Real Returns Since the 2000 Peak (April 2026)」と伝えた。",
+    "S&P 500は前日比-0.38%の7,337.11で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0ZoRHBLd0lvQXZ2cWROZGxQdGJPcjVVZnVaa2h6ekVPVUUzcmJNVHBhdHE0RXRWRDY5UGxrYnJVRFlRVnVLMFlDWWYwd2xJVEVLV0U5dVNDQ0tKcmVPQ3JJRWdNUFZUdDV2TlNidG9LbnIxeGhaTXpWaTBXTTlVZ3c4WGdtM3ZmTUUyQnp4eFpQOWQ1YWJVWXQ1QnJOaXpRWko4aHN5azFIZzdtUTN6ZzBYQ0JfRVg5eXdrclROd2hqZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1pLV1ZuVTdlelktY05MM0ZGWUItbERBUTBPa0hPbXBUVTBTajhQbDZwanlveXBFSGJFUVRzVXRMUVFzLTNDMXE4ZGVfazZOek5wZjdnVU43RXFRYjZ0eHFlazRDNUozSGJxcGJUanVfR1V2M1paeG94R0kyUUtUTjdac0FIV1hhR2JQREVkdVotQ2NFLXZ2WDFMN21WWklxS1M2QUpQUnBPemRiUERuS0JjVjdoRnhrb3YwdndocS1OWnlvT01FUkx4cw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkR3SUsxbGhRZXcyWTNZY2dOOHh3Q1ltSzg2QnFsOWJNYTNFSFhnRm1LNmZOM0dFSktYeVY0R0ljMm40enYtUmZLRWFPZlh6Y1AwQzEyN2xrQTBOdW5qR3NUSS1zbXpqbFlxMkI4WDctazhXSWJJYnB1YUtrci1UTjA4NzFpX1dLYTlHS3lVTVRaYzgyTWhLdDQ4S3V0X0hqTVNiSEE2MnlibkHSAbABQVVfeXFMUElkVkEyZExGWnd5N1NIS21CbUJjWEdQWG1DZ0VBaEVJaGc2ZXpfQU5LWU5RWUE4TUhkU3lCY3ZQajhqUEF6X3UycWhCcU5GVjZHS09mTlVmU19LSURoa2RrU0N5dWdacG9Mcl9VcEtOeEZMdmQ4bXNISWk3a19YY2Q2ZlFLWjV5c0Y1WmxmenFfRVRaQUowY1huUWpsajhXMHJTU19xUjFYQ0Fka2h4dkg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:36+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

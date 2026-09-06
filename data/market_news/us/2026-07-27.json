@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,413.18",
+      "change": "+0.02%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,932.08",
+      "change": "-0.18%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,210.08",
+      "change": "+0.51%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.64%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Ends Higher On Support From Weak Oil, But AI Concerns Weigh On Nasdaq, S&P 500 — ASML, MSFT, NVDA, AMZN, PSKY In Focus」と伝えた。",
+    "海外メディアは「Dow, S&P 500 end higher on extended oil slide, solid earnings while Nasdaq falls」と伝えた。",
+    "海外メディアは「Dow Jones Holds Gains While S&P 500 Turns Negative on Semiconductor Weakness」と伝えた。",
+    "S&P 500は前日比+0.02%の7,413.18で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXJzbmxsU2lPQWlZdEZsWlAwQUxlT1NYZVdNcklUYlJXRTVhVmZJNGZUcGdXRXBoY2QxR0k0RnVZTFJXc2pLeTJiT2VWckQ4SW5nMVR6ZldHODBUeDRPVUlrbFlSMzY1TUNNTk1fNGlIejlpWGNHYTB6endZdmNFZFJWTEcxZGpobmdMWWVaTkdJX1RLRzd2MA?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEs0QllFbjYwWE8yTlZ1OGJBVU94YUpTeXFCTThDYmpZRGd6S0hLcy1EcWQ4SmhfT1Fabm1Wdmd1Z3hyLTliWGU1MTRYcjRuQ3JRc0FuUXJQWVh2Vm9FazNYenE2Q2ZDY1Q3RXR2S3ZkcU9YSWVlT3NTX1ZXcV9TTXRab3RnQnBxVHE5U0VYd2FQNWp1aWsxV2JBemlpd3N4SVFBZWxyeUxGbVRxZFllanpkTllYTVNNUXVWTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDMwSUV3MFdMNDZWODJ5T1lWNDM2b3I0SDJseXlDUnNldW9LS09hdGlsdGpIb2tWRFZtYmpDbndWMlBaeVp4NzNSR1lFeWtzQTZFb0tPUWhhaDRHWEVBZTBSUmVQazNweWVTejBzRlR0d0dOcW41UlZIekxKUEo4N3M0cjVSVmZSal90ZTc3aXVtX2dFVURZ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

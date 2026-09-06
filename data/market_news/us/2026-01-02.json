@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,858.47",
+      "change": "+0.19%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,235.63",
+      "change": "-0.03%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,382.39",
+      "change": "+0.66%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.19%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq dip to start 2026 after last year’s robust gains」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Looking to Bounce on Friday」と伝えた。",
+    "海外メディアは「S&P 500 climbs, Dow Jones today edges higher and Nasdaq surges as tech stocks rebound – why US stock marke」と伝えた。",
+    "S&P 500は前日比+0.19%の6,858.47で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFI4TGpMa2I1OEVXLU1WOXJpT2tPOGtQQWQyUjdCR2xFSWxGM3djdEdZN0xlcGFRaVZlTkZhNXRJdV9lNmFqcDFnQThzU1lMNWlyMjdQM1NUSktuSXFPSENnMmZndElzRFBZWDdTZ3c0Tjl1a3dZLThhMlhCWi1NOHpqWkxQeWo3YlBxdE5xVk9YVGFtX0E?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSF9aMktpVjJBNmNHdmN3enl1OHI0YU1jSExoV0hUR0ptcGcwQVJTc0c1Y0JWN3hRT1BLNWF1N1Y2S19tc1RuRzRJdU5ueFlySGxxWGNYMmtvSVVVdkZaX0hFcXJCNnFMWWI1YTN0ekhLV1hiUzlBaWZ6bkpPSFNNNkNOckNfUUxRSF9LVExlUE1Fd2NObnV4REs5dXk2Nm50NUlhaktQT2d5LTlxaV9RVmxjTGZBQ2RHSzNWc2ZaMm01T0FMaG5HcUNISXBZQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizwJBVV95cUxPLU4xLV9jckdnVTVocTdrNU9NenJMTldyN25FWmhXM2JBNnhLOFpMWnJBM3BXeGNna3g0dTRIR1pDUmtESG9SOXFBVEN3cW51QmJVcmFmRnNIU3kzQjJ2T29FNHduZTJweEdlN056YWlFb2hKSDUzQ01yOTVGaDZYLS1ybHVjMGpIQlI3RUdtWjF5bnFkRUtvVHlzZ2RvZGFuNVBmVUZKVkdRN3RHZGRfS0k2UGtRSFhOb01XNGFxZU4yN1N2ZFlrS3VKRFhMazdFeWQtTEN2bS1YV3dxOFZmWFl6NEU3a2pERWszWF9OYXFZT1RudmFXYjdMN1FXMUhXOWxTS2d3UXZXaE9vaXYzMjExUjR5dHFLRmNCcVI4YjVGTXk0RWxqTzMxUFU5NThPTGV6b1dSQ3BTZndHYnhOaVRNWktjYVkySUV6VFhsONIB1AJBVV95cUxQMFpBZGxHaXc1RlNTWEhTQ1U0amFrNXlKOUxqX3dWVk9PVVp2VDFEUEMtdldyT2tkZllFV3ZHWnJNZkJILXZ6V2gyYXppSWFNQ3ZkeXdtd18xQUNqZHN6b3lFaWY3d290Vko1T003elVrajNKR2t2STdMYS1EV3pKS3N5M3V2d0VZbm5MSTBZNFNfMFJtcWVnbWtTZkE3bWdFZUxjTVBuaTRRTW8zQy03M0tUalAwMWtGRnBUUklndXJTQ01JXzlpSlpyLTJuVDdVT2ZzM1FpR2dYZ2RqMlhjWEZjX19jMTl0VzF1MjQ5RTJKWWt0OGRhTmM4OUlpZkVrTEhmdVF4S212aWNMb0R0Y2I3ZWZWV19TYWQxckRIMm1vb24zM2NkT095U3ZKUlp6clY2QnZ1MFBab3ZfLUtjek9YMWZfSktqaGpZeVJ3ejFxOGRa?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:35+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

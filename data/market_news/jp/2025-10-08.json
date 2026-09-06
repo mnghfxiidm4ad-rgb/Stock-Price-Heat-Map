@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "47,734.99",
+      "change": "-0.45%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "339.40",
+      "change": "+0.33%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.05",
+      "change": "+1.72"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "日経平均はここからが勝負！円安と経済対策への期待。最新の見通し解説！｜株・原油・金の行方を読む【CFD】10月8日（水）野村雅道 #外為ドキッ。",
+    "ドル円見通し｜円安株高どこまで続く？高市新総裁とドル円の行方 10月8日（水）野村雅道【FX/為替】＃外為ドキッ。",
+    "「タカイチ円安」 NY市場、日銀への政治的介入に関心。",
+    "日経平均は前日比-0.45%の47,734.99円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LcWc5aHJIdUoxNW1Ob0pBdXdDbmZoNzd0YkJUNDRvMVNUaEZMNWRfNVR2TG1zZGFQOUpqclNQSmJDS1V2V3ItN0k1U01IbGdCSUFKM25PUjZvSWNJZnhKMlhyTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9neFA1ZWtmRU5Ra1haeFh4cXZoOEdhcjlNTjkzUG8xeHZ5eVlvX2h3VDdZR2wtSnJNS3V2RGRtVWROX1Vtcmg1emV3ekhIZnI3cDlyQUluYUIwRURqQ0RpUDF0Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE42Z0c2VTFjcDBjeGpoMEVzaWhDYWFpbVBMRFlNMFR4ekFvaVlSYnZPQy01Q2FwbE4taFlnSVlvUF9OWWZYWnk2RFBTRkFuMHh4emtpUDF6Qm84NkJFdnNfTGlWU0ZBd0tWdlFkRQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

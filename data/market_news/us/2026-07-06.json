@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-06",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,537.43",
+      "change": "+0.72%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,121.16",
+      "change": "+1.12%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,055.91",
+      "change": "+0.29%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.48%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Advance Amid Gains in Chipmakers While Crude Oil Slips」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq rise as chips recover, Broadcom gains on Apple deal」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq gain as chip stocks rebound」と伝えた。",
+    "S&P 500は前日比+0.72%の7,537.43で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUS1UMzNuREdSNl80TnR3TWtFSHUtSzdNa3lMZWNQNllrZWZYanVxVU9GRVRnSExWMTQ4bFVOTVUxWTZFdVcxU2k5a3NmVVJqUG9rRGVtb1lNUHlDa09aaHJvQjdCVUY1MnlZZ2tzaXhueXpycXhzRHBiSHVYZmNUMDRNLVhkVVFsQkE3Z1duNmNEWlVCTmd4VVQzV2x1NzlXb1E3Q19KRTFqdzRsRmlKLXpvNjc2Z19rQ09TQzFGNA?oc=5",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IQjVSeUF1SVIzMHJtdXFTWnlSUXBlRFBfTlp5dWJIMTZtNlJqbkozSFl6a0JGNVc3ZTNGS1pqR3h4QnI3YzR5V0FDMVV4UDlH?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZFJNcHRLU292MEF3WGlCTnBpTjBNNVRmLXRmV1duaU1wT241NklDTTRGZG1NczBHeXFidnk3a24yaFFHTS01NEVIdE0xYm9MTUpyTWgxWFh6RmozTWNDNTJuWjFydnhCdDBkcHgyazhsTjVCQmdaT0hyUGhDZ2tzLXJ6Z2lTemZmS1BZYVVQZWRlTFphbEE1cEM5MA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:05+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-22",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,585.86",
+      "change": "+0.40%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "396.90",
+      "change": "-0.65%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.37",
+      "change": "+0.53"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "食品"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円台前半｜トランプ米大統領が停戦の延長を発表(2026年4月22日)。",
+    "東証大引け 日経平均は3日続伸 最高値更新 ソフトバンクGがけん引。",
+    "日経平均5万9585円、最高値更新 半導体関連株に買い集まる。",
+    "日経平均は前日比+0.40%の59,585.86円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPcWpxbWZTa19KQzVKbjEyZVRVb1V3VVZiN3FQTEhZdDFIYllPcHVyWk9qNGJ6WV9kUFIwcWlaM0JIVTNyMG1FX0ZseUx2T19MYnpOZF9SektaSGpqZ0xQeVRtZDNxNGVuT2pBTUhueTJucUE?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE92MzZzTzNzbEtNTmI0VGdWcGNhUGFXUVlTcHVYMzg4NGV5MWFiaWdtNkFBeDY5MG1xNEZBNzd1MWZTdzR2Vzk2U1FIdC1fbENzNjBwMGplV081dmd2dnl0TjllaG5KYXdmSS1OZg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWlNKQUp1UXVRMy1Rbzl5cFV0dkg0SHVieEtSUlBVUUlyaDFtTWVJb2VraTBmTW54Zm5LdUxZZWJkblJpYWRQNXo1Zzd4LUhZTGdmU3Q4b1JNbGZSR2l0cE4xSFRWZUp4ZzhPVg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:24+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

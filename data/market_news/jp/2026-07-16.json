@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,835.54",
+      "change": "-2.79%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "419.70",
+      "change": "-1.39%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.07",
+      "change": "-0.11"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "NYダウ、一進一退で始まる 企業決算好感も半導体関連で売り続く。",
+    "日経平均が反落、一時2200円安 半導体銘柄で利益確定の売り。",
+    "（まとめ）日経平均は1,915円安の66,835円で反落 半導体関連銘柄が相場全体の下落圧力となり売り優勢の展開。",
+    "日経平均は前日比-2.79%の66,835.54円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xVmloU1luVGNMMk55WG4wRHozS2xRMTNqSmNwZ0JJTE4zLUpnMUozSU1CeW1DMHpPRUF0c1JVNzlYWVBvc2ZibzNrQklrRmgtZURadFF2WnFQdXRLVGRQWnZ1eFVkUWpSeEpYbA?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iT1NDWlZEZGk3eU03RmlqSkJ5Y3VLbHU0cDhQd1FITXNBYVVCaEJkOEV4NU9STXVVMFNEdU4zNUlQOVJHZHFiUWVoWHNSOXJtUllMZ0p2amd2Vk9hT19tSjNkRlJiMjg?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zNzNNS01GTVR1aHVhSEcyMUtCR2FmRTZhS2sxZ0hWVVhqdEVhdXA0X1p3UEhZeFVDMjBOdE0zYTBBZ05HR0RaWTN0dFFRakR3U3pSb9IBV0FVX3lxTFBiUndEYjVLSms3bUhEcXhmVzNxeWFhZTlrMVBJeGp0OF82LWtYR2lsYzNUWkVsdHNoWjlaQWFMY0RpY3RHVkIydVhnamZnWXVDMWJlNUttcw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:04+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

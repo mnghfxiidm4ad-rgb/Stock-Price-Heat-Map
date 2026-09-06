@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-28",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,138.80",
+      "change": "-0.49%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,663.80",
+      "change": "-0.90%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,141.93",
+      "change": "-0.05%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.35%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow slips as OpenAI worries, oil surge drag S&P 500, Nasdaq」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq, Dow futures edge lower on Fed uncertainty」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 end lower on renewed AI growth worries ahead of big tech earnings」と伝えた。",
+    "S&P 500は前日比-0.49%の7,138.80で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0N3WXNKNlpWMWRnTWN3a2RSWS1iZ1p2aFFoc2VibGU1cmJZemZfanVYREE5NGZ1aWtJbDlYWFlyeFFzdGp6cFg5ZXEyTkxGREVkYmVOUG5GNzhneENqSEVvX24wWDdKT09xLVhYbFVvRkp6U3FZOTFhOVA3NWZmSWRuRnRnVmdVZXdsU1BXMHZyQW54aGo1Wlp1UVdRbHR6TzZ5dzBHNE5INlRzUl9JaWQwNWg?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXVBSk9JOFdTbW5HZ0tzbWJXLUZTNWR5aG4xbUM5Z1NoLXR6QktZLXRXakUyTWp2aHJ5bXJNWXBDSHhENTZVV0dMdXVNOVlpWlNQaURpemwwaFlDY3Z3ZDNoeTJMWkkyVWRBNi1ESmVvRnE3SDB5NEtPNWJGY1AwLXY1QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXExM3g2OXNDemZveUU2enJ0MGEtbks1blpqeXVtUWFDeGhpcHRMUlNVYWpHYUduXzFUNU05Q0RDb3Jxc2hIZXdBUG04UHdhUHpKbUEtQjA2OXU0b3VvVmY3ZVZMei0ySGwxNW8tRkVnMFVPaS1DcVpsYzkwQ2NKVjJ3bnJ1MHVOY0hoMjF0aUFZNHdTTndISElXb1JkWi1BT2lsU2RBU3hZRVRRRF9PekhYcHJLcUU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:31+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

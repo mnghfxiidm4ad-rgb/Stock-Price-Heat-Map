@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,924.11",
+      "change": "+1.84%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "396.50",
+      "change": "-0.05%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.11",
+      "change": "+0.47"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で158円台後半｜米国・イスラエルとイランの間の停戦協議に不透明感(2026年4月10日)。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で112円台半ば｜円安が優勢で4営業日続伸(2026年4月10日)。",
+    "中東緊迫でインフレ圧力警戒 日銀、利上げで難しい判断：時事ドットコム。",
+    "日経平均は前日比+1.84%の56,924.11円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMjB4NXFoRENzLXNYRno0UlBobnprandqeHlHQi1xblZWWktWMkJZQjAyTjZSRUNxUWNuV1F6cFdtZmhVeXhPdkx2NHpSQUtORGZxMVNPZnA2T1ozNmF0QzNib3pxYUNtWEpFa2JDS2dUaWc?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE16aE1Ub0M4N0x2bDIzb213ZjZYdl9Sdm1SblFrak5HLVJjZkxIUDRoM00td09Ic29yWEdPcEVuTF8zQnNVdW5SRGMxeG9fR1lXX2JOWTdFMm43c1NkVEZTMGVCYWVwcnlXbWRtZWdIM0lPN0U?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lcmotQ3J6TFc4ZjhHOUczZ3hkZzlZYVowbjdNLXZUNENiOTBRZjhwQlBHcFZkZzE0N2U2aVE2dzJNbmZvemRXTGtaUlYxWlFGalVMczRUYlptcHVzYUprSFlkVQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,827.41",
+      "change": "-1.07%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,195.17",
+      "change": "-1.69%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,458.05",
+      "change": "-0.51%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.19%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Key facts: Goldman Sachs links Nvidia to 46% S&P 500 profit growth; Nvidia boosts H200 AI chip production; Nvidia reports record Q3 earnings」と伝えた。",
+    "海外メディアは「Following an FOMC rate cut, the Nasdaq climbed but the S&P 500 couldn’t maintain its gains」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Show Fears of AI Bubble Again」と伝えた。",
+    "S&P 500は前日比-1.07%の6,827.41で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMipAJBVV95cUxOUThvVzYzZC14X0t5TElxbWRFeTFXNkk4dUdFY1EtTjNsT2t5R1piUXhQM0x1QTg2VjJqTXYwSzgxbkt5d1k2N1NwaUJWeUdnOG1PR3VDeXZzRjU2bUV6dzdOQjlJTWQ4RGtBZEZRR05idzZMWkVWRGlCX1FGQ21UcEVxN0U4OWNOemFMRjFHemVadXd3c2hsbzhoUTVSNUhEb2Q4U29sNHdHRl9xSnA0MzFYRnVUZFJaZmtOcEdPc1dSOFJuYjU4VHVCb0hqbVUtdmVfSFgwS1BEdzZ5ZWpjam9MYm8zdmVuMnp5TUtTQU1mbDNTTDR6Z2JSNURZWlotb1Y2NVNLZXI3SlFWS1hiN3FPTGxfMFloWElVaDhDeVduZndT?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRXBMcGdmZkhDUVp0dFNUaUtfLUFOMThuS1BjQUNvT1MtUHVpeGdsQnNnMWYxQUdXazhsSlBCT1FNXzhXeG5KZ0tRV0l1MFIyQXBadVBneXpUVzFKWVNrWTZuZV9GWUxndzR5MnBURHpJR3RLLTcxVDVJeHgyeDktamtHMjd0dkVjcHF6anhlRDdiajhpN1Q3NUJld0hSX2wyOU1vLThidWE2a2pJRHBIZXl5UHpGc2ZnMV9vVHR0TXlVamM2U1pCLXBnZVdwdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbFZTb3lGWlI0VG9PSmF5ZW5YR3BvU3hTZGxtRHc0OVRfaEYyemJ3VGtITVdMNHotb3VuZWQ4LTF1U0dEMWNSX0Vaak9rQ0x0Nm9vdnpraDNrZk0zck45V1k0SzNRU1F1MUZPclNfakFXa18tcDFrUGlMTWxWcFFoNkR6MlF6Z2doNEtUY1VVdGRQbFJ6dzVWMXE3Q3RfbEFXeWN3R0VhV1JlV09vcG9rdUY4MVlSYURLNVB4N0tMM3FxRTJpS3Zmb3lQTllIMW5C?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:25+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

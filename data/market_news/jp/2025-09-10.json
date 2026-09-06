@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "43,837.67",
+      "change": "+0.87%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "326.10",
+      "change": "+0.49%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "147.39",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "FRBは年内3回利下げ、日銀の次回利上げはやはり2026年1月（愛宕伸康）。",
+    "ロイター9月企業調査：植田日銀総裁、「評価しない」が3割に増加 下期業績は3割超で下振れも。",
+    "日経平均株価が反発、終値は378円高の4万3837円。",
+    "日経平均は前日比+0.87%の43,837.67円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xS010cjdYMTlaemZGQ2hNNUNNUjFDTWVTR092ay0xTGkzMjZfSjU2dDBNcG5DM19vZ2ROLTN3dWNoSVFmREZKeTAwX1Eyenphb29KaWRXcHA1Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHhiNHhuNUlZOGxsUFZiUFJadWY1UWN0Qkp6dGQxSU5pU3o4c1hnbkJpSWJRODFvTVVfWENrUHNOSXVhU293WGVyUGs5aXJWME1QbHhyV0hEa1JiUndzdXQ2U0ZvTWItVlY2VjZrd20zLVhaSEMydnVHcnJCTnQ0aEtoV2FlMTZZ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRE1ua0RZLXczMFVVWTdrcFAtdmstYmF1UVV3Z01FQ3MyYjdKOUZiQU1ZdmJpbTBKNWhBRXN4cHVQbExzTVFYZXpWOWdRTXhUMlNWREJ5bEdGU0lkNTZUWEE5WU9XR0xCb2NWeA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:43+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

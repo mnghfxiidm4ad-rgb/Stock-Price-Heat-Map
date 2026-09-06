@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-12-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,932.05",
+      "change": "+0.32%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,613.31",
+      "change": "+0.22%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,731.16",
+      "change": "+0.60%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Economy grows, chip tariff delay, new S&P 500 record and more in Morning Squawk」と伝えた。",
+    "海外メディアは「S&P 500 attains record high following robust Q3 GDP revision」と伝えた。",
+    "海外メディアは「AI spending, strong corporate profits, Fed rate cuts seen as key to 2026 US stock market」と伝えた。",
+    "S&P 500は前日比+0.32%の6,932.05で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcnk2VWpLLWxTRVNqSTg3QU5mM0h3OUpRSXJiNDRNbnFKdDYxbml2RjdfNHZRT2ZEbV9yM1JBRXdPSksxX0RPQjdBdWl1a2FaaVJGOGd2M21MTlJfVTlqYk9UWVA2VFR1a1VfN2phUDYwQl9HcnZGcUVBWHgtRkxZb2xUbnpoRHpVdVVUclFqcUJYTnJkTGNGajBpamlJbWRtbnhNZzdVcXF4bExNbTJzWURZc9IBuAFBVV95cUxPZmgxTTlLcXJjRF95U1pVeTFaT0RxQ3J5RVhqQ3Bvdi1lc0ZWZ04wMjZmQzJ4NDFvTVhFUHRudUp6RXFGd1BmTVdiUmROZUJ2b1VGZkpWMm5Fb19oSkp0Tnp1WjB0OUU2aE1XTktWSWZrazBDdFlqcWpVLVBCbWZBMXM5WGhLNU9abVlzM3A5OEg5TlllMjVEdUhkV1A2dUVicWNjaXFyNjZFM0xqclluV0hYS2NzOUFF?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTdlMU5WNjcwZjJFek4wbUMyb0pUYVJ6TUZPaXp0am9oSUpDSDJ1Y3h0WVN5aFdOWndiVGpGdDZZQXpNMHFGdGJQdGNLUVdMdW5hWXItZy1RNnh2S3VCZDVCU3J6U3R4WVI2UldLbmJrVGl2RW1QcVd2X0d3M29YbllIbTg0dF94d3U3amdhclhGOG0tQUVTRUg2blRtY3Rha2prWTJ3dlVUcVhP?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQelB2a2QtODExM2NjUkZXMTlDYXhteDBIUmxVZVUzRThlT1RjTjZEanNMTnROYmg4N0JxTHh0MUxneHR1NjZCLXRsMUhBanRuY0JJa09qQmIzWW1UY21ma1hvUExraWZ6M3BYdUpjUnRNaGE3cVk2bVVWSzRMZ2JXbk9zRW1WLUNuNHdiVjNQTHRwM3VEcWdKSEF3dkE4R2lUS0hMcGFYWmtqVWRxQ09CT1R6WldMcHQ5bHFoeTFpTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:31+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

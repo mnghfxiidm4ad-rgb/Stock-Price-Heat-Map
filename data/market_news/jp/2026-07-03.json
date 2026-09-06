@@ -1,0 +1,41 @@
+{
+  "market": "JP",
+  "date": "2026-07-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,744.07",
+      "change": "+1.47%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "431.70",
+      "change": "+1.24%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.45",
+      "change": "-1.09"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "不動産"
+  ],
+  "news_bullets": [
+    "日経平均は前日比+1.47%の69,744.07円で上昇して取引を終えた。",
+    "TOPIX（ETF）は前日比+1.24%の431.70だった。",
+    "自動車・輸送機、機械セクターが上昇率上位となった。",
+    "不動産セクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UZVNUb045dEVTLW5FSWp1dXd4b1ZBOTVVY1lRWXdRd0RYQzB0dGFCbTAwMFA1eFprcXB0bVFwYXRkOFZHWVlUOHQzcVhEd0FsQVdQYkhFakFlbmlzNkp1aF9Kcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vQ0VCeVVERGJKZi0zZmk5czVEYnpUN2RXcWlDWkFEbG5lM1hzcVphejFOa3Z4TTFDNHpPSElUR0pSYW9aZjg4cUFUanpjV1lKN1I4WjdlV21GT1MxbUtYX2hRRQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:39+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

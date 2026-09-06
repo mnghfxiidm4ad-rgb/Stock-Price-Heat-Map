@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-03-12",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "54,452.96",
+      "change": "-1.04%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "382.90",
+      "change": "-1.39%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.07",
+      "change": "+0.96"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で113円台後半｜豪州の政策金利引き上げ見通しが影響か(2026年3月12日)。",
+    "ドル円、円安進行159円台後半 イラン交戦長期化 為替介入困難？。",
+    "日銀植田総裁、円安は「過去より物価に影響しやすい」。",
+    "日経平均は前日比-1.04%の54,452.96円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE81eDhJMGgzZjJ2Zmk2NGFweXk5aDMwRlBKcGZmTG0zekRCN3FZZTVmMExSMnlNUDhDSkdOMUNTbHJ3SURWR2F4YlRMc0tmdHZBcl9nX0h2QW9CSjFNa1VvdHhmSzF0LVhOUy1Fd0hEQlVuUlE?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUczOGlIeVBUZ011WHpXR3UwTWE1UWw2WjlYQ01ZTGhIWHpHZEZGN2d2TGF5VVBVUFJSTzk2WXBpTWxrTnFva0NZZkRiSUFmX0Y3VEYzRHZ1T3lBbDVRaDUxRVFqdnZ5dWRlUzN4VTZxVzZIdUZYOVpmbldieEEyY2JpWjl4RTFTb1dQQ29oVDdsNy1NcVh6M2E5MFJIRmQ4SWlTS1hnVmFVazZI?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtaFdoSU5HdmwzTWQ4VUJfeW5FcG1kMWNJUXR1M1lFT3lPSGgteUduZFg5blJBVm5RZkV1YXlSQl82QjdBanozRkRDZDFyWHJvbGJJNEZ3cUJVbVFHS1ZUeG9hX3FOaFdPYm9KVg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:05+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

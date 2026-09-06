@@ -3,10 +3,13 @@
 from __future__ import annotations
 
 import json
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
 
 from news.schema import normalize_payload
+
+WEB_NEWS_DAYS = 370
 
 ROOT = Path(__file__).resolve().parent.parent
 NEWS_ROOT = ROOT / "data" / "market_news"
@@ -68,3 +71,17 @@ def refresh_index(market: str) -> Path:
     path = folder / "index.json"
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     return path
+
+
+def prune_news(market: str, keep_days: int = WEB_NEWS_DAYS) -> int:
+    folder = market_dir(market)
+    if not folder.is_dir():
+        return 0
+    cutoff = (datetime.now() - timedelta(days=keep_days)).strftime("%Y-%m-%d")
+    removed = 0
+    for path in folder.glob("????-??-??.json"):
+        if path.stem < cutoff:
+            path.unlink(missing_ok=True)
+            removed += 1
+    refresh_index(market)
+    return removed

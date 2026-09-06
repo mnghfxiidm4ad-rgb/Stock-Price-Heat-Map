@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-03",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,851.97",
+      "change": "+0.17%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,834.72",
+      "change": "+0.46%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,336.68",
+      "change": "-0.48%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.11%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq end higher on Amazon-OpenAI deal; Fed path forward grows murky」と伝えた。",
+    "海外メディアは「S&P 500 Reporting Double-Digit Earnings Growth for 4th Straight Quarter」と伝えた。",
+    "海外メディアは「US Stock Market today: S&P 500, Nasdaq edge up on AI and M&A deals」と伝えた。",
+    "S&P 500は前日比+0.17%の6,851.97で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGlIS3lHaGRXbUpEcXVLNTRKNUlfMXBIckg5dkNQbFdwajB4eFBsUWN1TXpCTFBpU05UY2pjSFQtZWFBc1YxSXlKdmZSWWsxMXh6V1FqZW43MjVUYVU1SVBudFlCY1FVQ1plVzY5ZjZfWkk2ODY5QW1BMGs3YUlaUjNQc1d2VlctRkJTY2NtTUhURWFQSFk2WDFNekpVQ29mangyclhlVkZBWDBRd2w3Yzlwa3I?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejd1bmhMZkhZWWQwdG1vNG8xUTFkNVh5VTlnOU15em5YTUZ3RjhRdEpOLU0zcDlpUHc5ZEhHbVZlNUhRdFJOOTE4TmRReVpfR19vUDBCYnNjWFlRVHlYYlF4NU5PdzV4b3E5VTZVTE5BR1gyWDBlLTY2bGVxOWZDY21UTTBQeVk0eUxlN1ZaeEttcnE3eVJOQjQyMnAtMmfSAa8BQVVfeXFMUFBYYUtnVlpOVXBYRi1vVWtJZFAwU1k2bktwNExoZVpyNWFsNXNzZDBrUkxmMHY5UndXRHZPdjE2TmxxVTBOYS1Scnl1YmQwQ2lFNG05dlhXVTltRV9BYzM0UUdNRjJSbkg3Z0dYeHZkYlJlX3h0bkdMMmNDME56RVg4OG4wcG16SDBnSHljZkZabnpEMDRJWWh0X1N1SFJSQW5sQTBVMmEyQXdaVG5USQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVhKNjB3eUdjb3k2b2syRGRnUndWMU9Wc0dPczZkbmN2aDk5QWd0T2lvR3ZMeDlUbXNxa0REVmZPM0pCaDk4SlNFV0FoMEhTRGt3NjJPNFE1TzBfY2JxX0Y2Nml4SlZwLXNlc2c1bTNKb0Iwdzl1T01heEZpdTJqZjRCMllCTk5seF9UOFpzak9pbTVMNkpMYWl0elg1QUNJRXRVdEthSkxOU2M3WTlCLVNvaWljbzFiQ19aUTNWSjI4WHJuTy1KSUs0M3DSAdIBQVVfeXFMUDZ5YUpiNFlwc3BabkR0UXNacmxUVTB3QWt0OHFMV2hUSDFUNFRHYnNJbC00QlRtbFpYUTJEWFd5dzV6eWNLX2ZhNDg5Qm45MUJxYXFxTlZCN0JrVU1HQVVUbU9BTk5ONm1RbGR1YTYzeWM2WG45LXZDNldvNVNRSDRORk9tT252cmh1aUtQbWxCc2ZYMHB0d2Y4ZEIwVjhPZldhemdDbXNITGdlVTh6UVJnanpwZG1BOEVaVnVWd0NHZUtfZHZCY1NRSWUxcXhfeFFn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:05+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

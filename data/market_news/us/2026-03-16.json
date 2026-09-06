@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,699.38",
+      "change": "+1.01%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,374.18",
+      "change": "+1.22%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,946.41",
+      "change": "+0.83%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.22%",
+      "change": "-0.07"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500 Set to Snap 4-Day Skid as Oil, Bond Yields Cool」と伝えた。",
+    "海外メディアは「S&P 500 jump 1%, Dow Jones gain 388 points as oil falls」と伝えた。",
+    "海外メディアは「Today's Market: S&P 500 and Nasdaq Climbs 1%, Dow Jumps 300 Points After Oil Slides」と伝えた。",
+    "S&P 500は前日比+1.01%の6,699.38で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY2JiV2VjZnZWS2g4dGV2T3FFTzZmY05TY3FpQk9hYjZHNWR4cVFwMG40YjVPMG9rLWFLd1l3UmUwaFRlX2Z2MFBVMTMyajF5ellRV2tIRjg2cnBIeUZiWWpDcVV6ejd4Q29FTGJTV2JqWlh2NHVDLXBwdXlMeUJ1RFBJYVA2cTlEU2ozcGRvaGZhTFFKWlpRNUZtRmhGenRoXzRwTHJJOUpJNWpMZkRFbXVsektYeG9sM2Jn?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWxpS28tbXFhaThFTlNETVVKbzBVSUdHR2F2X2ZxUld4V2tlS0RBTDFsYXpZNTdqb3lWb2pEbWZyNVlLdnlEMlZLSl96ai1PRVVhZWNlY1pXRldRSllKU1ZIdmZNOXRIQmFVSGhhck1PMk4yN1N6ZFhoMVFBMlB1SGQwOE9uTS1hTXc1NnYwX3NXWFZGTUlQMjJ0Wl9YcWJrTV9lVHI3YnY3NTJEa1Vj?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkd5QXRXbGM0Z0drUXczamd4SHNqZ1ozcW9lQnJDdV9uVHlyMzNvUHVYaUdnNVBuTlN2RUxNNGJxR3JEeDlVUUltSmFtejBPcHJHVDlFQ1RyOGRuYllxeGhXWl8tVEQ5Qld0a25aUUlGR3FfOTE3VHlPbnpJR0lUYjFoNm9MR2lrZS1zLTF5cXhtOExETk9acmpHYmJzLS12ODdudXVHbU5YSWlWRUl0NkRubmppTEhpSWM4bWJsS1dkUXA3NERhUVd0OVZOR29mVEh3TzVnZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:09+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

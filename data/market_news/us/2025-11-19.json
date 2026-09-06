@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-19",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,642.16",
+      "change": "+0.38%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,564.23",
+      "change": "+0.59%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,138.77",
+      "change": "+0.10%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.13%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: Dow, S&P 500 and Nasdaq Rebound as Nvidia Earnings Beat and Fed Minutes Split the Fed – November 19, 2025」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq move higher with eyes on Nvidia earnings」と伝えた。",
+    "海外メディアは「Stock Market Live November 19: S&P 500 (SPY) Running with Nvidia Earnings Ahead」と伝えた。",
+    "S&P 500は前日比+0.38%の6,642.16で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX2l2blVpRHdPSHhwOE1IMkRfRTN1cnRHeGFDQXZHS1ZmcnhUbVVCV0dlR1NuNTVDci1BYUFmU3JSakhhRjZ3RUhvdndQM0dVcWoyTHg2ZDRQSFVKZm92M2pKbzd2TGR2UTdxXzJFVndVc200UjRnV2wydUpHTjlPWTcyZlVBMno3VU5zejVMeUJmMEZkeGtvS2NHcC1oc1pNcURVTXVFSmplV3c5aTJLclo0bUlMVHJzVVVaZEpnTjBnbGNta2lTbVRZeFptYS03S2tBUm9FSE5jTVE?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1BqSnVxZkU5cVFrcy1RUkhzQVRVM2UxWjFkanFYRHJpSjRTSHVUZTZiTllBdWRiUy1yVktXczdQZUpSYU05YUdHckFXSGpvN0xMd0RwbEdKQlF6WTNROUxCM0pJdjNTRTllZ0FTLWxENm5xSkpza0JJVnFwYnFOSlNHWnVkUTdfME0xQmtDSGFJaDloZ0RPa285Q3pRcFJrLVE5LVdR?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZFZETDJac3ljWHA4OHlJNmhsWWlidndTSU5uQ3lLRXVFakxEZURLREtxeFZLbjNTN2xKU3FpODJoM0NSVHkzWGpNYUczd2Y5YmpqVV96dE44YVlTLTl5dkRGRmNJZ0hDTnpuRTRMWTRCQmRZbklscVVVTm9teVQtWg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:14+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

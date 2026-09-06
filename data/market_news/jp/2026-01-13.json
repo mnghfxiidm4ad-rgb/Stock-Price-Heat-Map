@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-01-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,549.16",
+      "change": "+3.10%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "377.50",
+      "change": "+2.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.99",
+      "change": "-0.16"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "小売"
+  ],
+  "news_bullets": [
+    "日経平均株価続伸、高値更新 終値は1609円高の5万3549円。",
+    "【セミナー開催レポート】第2回東証改革徹底解剖シリーズセミナー ～IPO企業に変革を迫る東証グロース市場改革 - smd-am.co.jp。",
+    "TOPIX構成銘柄入りを目指して～東証スタンダード・グロースの候補銘柄【フィリップ証券】。",
+    "日経平均は前日比+3.10%の53,549.16円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZWUJzZDJEbVBMM1RpTW9fUzRsOU8xMWdmS0pwdTZfa2d0dUpiMjhycldTa0kybDZKbnYwV3F2eTJRZXJsbzZYQ2VjLWVOb1VwcXVpb2hyYzRrMG4tcXBrVEdmOHJXZVdjSlZHcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Mb3A2X3gxWG54bkJVOGlJSklWRDRQaEpvRnEybmFoUjNhQVBaUkdhNTQxSVB1Q2U4S20xRld6V2ZDcVZsZ0tpM3gzR09kUzR5ZGtYSlZEVmE4d081RHZtTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SmlKMXV2R1lXbHRlQU82Nl9MUXg0TXR4ZktBU3Z6WUEyWFVEU3JJUFVNTkhhMnZtdm1uTWlyOHdOZU1rbHRJYVZTRFlZNVltY1Z6VTJWZ19wZjdpZVJqVg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:37+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

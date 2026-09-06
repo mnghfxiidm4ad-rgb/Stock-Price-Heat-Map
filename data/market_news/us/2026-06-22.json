@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,472.79",
+      "change": "-0.37%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,166.60",
+      "change": "-1.32%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,712.71",
+      "change": "+0.29%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.51%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Adds 148, Nasdaq Falls 351, S&P 500 Drops 28」と伝えた。",
+    "海外メディアは「Stock market pulls back Monday with S&P 500 down and tech weakness weighing on gains」と伝えた。",
+    "海外メディアは「S&P 500 Gains As AI And Rate Hikes Take Center Stage For Investors」と伝えた。",
+    "S&P 500は前日比-0.37%の7,472.79で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckhLMjNSQjNCRzJ5SXhMTG1JNlRmbTZXdjA1T2d4d0ZDb0h6anZfeXd2NUx0cDdwdDIyUUVUazV2Q0RLSGtNLWJXaWJWazBuQnJIdW1EV185aWlpdGxTVHdCbDdyd2lETHFWWGpVMm5WNmxYVF96eVFOckc5X3paVHo2UEJ5WVQyOUpDaXlEdlM?oc=5",
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uSldDYWNfOGFTc1kyb0V0TUlSejdTS1BBUi05MVN6cFdXZGdSNWk2NlpuWWlxeE5IY3dnMDFmWldybEZ1TTlKazdhaEYxNTJtaWZ4ZnlyZGg3SzFFN2dueklZWkFheUVscFY4bTZn?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWHVCNXZYRTVfUmJLREYzcDQtVFMyRFVJTTduOWlsa2s2UXlhRFJYXzRMU2FLNXU4TVJMSGFwOHBlOXRKSHpOOGtCdTFtVWhuRmRPVUJicExqOXlTT3lpMnk1U29qNExuUm9OUVUwcDRxYUp2ZnNfQ2hNMUF0djhUaVc3a3ZZZmRTZXRITVpjbXRfMGM?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

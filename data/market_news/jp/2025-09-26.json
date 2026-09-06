@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "45,354.99",
+      "change": "-0.87%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "330.60",
+      "change": "-0.18%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "149.86",
+      "change": "+1.11"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "インタビュー：政策金利は27年度に1.5％到達か、10月利上げ「半々」＝桜井元日銀委員。",
+    "日経平均株価399円安 東京エレクトロン阻む「2万8000円の壁」。",
+    "都区部版・日銀基調的インフレ率の試算（2025/9）。",
+    "日経平均は前日比-0.87%の45,354.99円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1YtaHVVblRFZVRhQkQ5ZGJqekotUHV6aWY5Z1NkV2duT0xJRjNTdFFYVjdlZV9Cd1EyR21WRzF0U2x4bE15bURsd2hsQmt3Wnh4cVgxaG1SWFpNbEl5NmFkUmFZRHNobmhqeUlFdHYyTDNSMFJ2ZjYxTDBtNDdyc1VFclU0LXZv?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PcGQtVDBmYmtqbDZyTENsbEN4YWxtbzdUZGN0UXFUR25TaUFWYnNUOEVVQmFENEpzN0lvWmtVcVFLd1libFg2WjI5dVhZa1VzZENZZERNeHdEN0F3MGpzOXJmNjMyM0hoQmpQTg?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3MW5QNlh5akR0QWtZNUlTNjItb2NNc3o5dVhZWDA4X204Ulp4NlpQYXRXbUtvd0xYN2x4UnhIOFZmSy1xc25va3lTYTNPTXVnT2pPZGwzMml0dUU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

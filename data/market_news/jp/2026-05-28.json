@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,693.12",
+      "change": "-0.47%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "413.50",
+      "change": "-0.51%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.57",
+      "change": "+0.32"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で113円台後半｜豪州CPIは市場予想よりも低い(2026年5月28日)。",
+    "【2026年ドル円見通し】ドル円170円へ！止まらない円安・株高・インフレ｜朝倉慶が予想するマーケットの行方 2026年5月28日。",
+    "ドル円午前の為替予想、ドル/円、160円が視野 原油大幅安でも円買い限定的 2026/5/28。",
+    "日経平均は前日比-0.47%の64,693.12円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tajNMNkM4Mm45WkJHSnljZkpCRFhuaEU2dllvWXg1TXo3dkNaNWVRNm93cGtCOG9weUZaTGFjc2hMVjJjVlB6WXZnam1ndzBqTXZ2WmJDbnNFMW91S2tjNWZpcWIzQ1ZjelVJUmtsY0tpX3M?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55UkdKb0RQejFVVDd3LU1ZQ2hIalpDYjY2YzJBZVRwRUZUU1hFekVxSEpOM1R6clVWTDJTMWdYVkN0MTRGd192ckxSSzFDWXRsMFRMTjU5OWtWRkF6ZzNrMUV2MA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlc1hjdnlTTkNMdk1BR1Y4UEVaemFlYzkyeTU2Wk1uNFZVb0tLa0hZRWIxT0I3RG5wOXM5TTg3OVNOMDR5aWNYU2tJaE4tVXhjQnJhUndmMHF2SVBaUmR3Z19tTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:39+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

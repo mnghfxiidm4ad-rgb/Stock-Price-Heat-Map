@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "45,754.93",
+      "change": "+0.27%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "331.20",
+      "change": "+0.58%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "148.75",
+      "change": "+1.14"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "小売"
+  ],
+  "news_bullets": [
+    "ドル円、円安150円台再突入も 米国経済に強さ 自民党総裁選は円高要因？。",
+    "【市場概況】東京為替見通し＝ドル円はレンジブレーク、注目はNY時間の要人講演やEファイル公開に。",
+    "日経平均は反落で寄り付く、米株安を嫌気 半導体株まちまち。",
+    "日経平均は前日比+0.27%の45,754.93円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGpiQVNjWDBEQTZWNWhtV3NTSUpYSFdueTRBWUNUM1VhbS1aYzhOQmxzbWdqVExTV1dkRm9OTnJkTWNCTjZVR0JXZFpRUnBZbE4wMld6czhKbFBEamZzbENrMmxwMWlLMmR6bU83d2tSVUl6QUpmclpsYnNyY0pjbEQyUWpYUEtOUjRkRFh5aUFaUWF5eVQtUW9PTmdXdDN3VGVmZUhjUVJJZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42WkxscnVXc3hwRFZhQkV6QkFIanFJb1hDb21RRXJLME5pYURUQ25GeDlYZkJtSThsZjF6T2plaGViR3M4cmFiNUJrUkNPMmlxQzIyTzZBM3JMOVNOLXZGX0Z5bw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44SVZkeTBFUFUyMWI4cjAxeGd5eUNfdnF4U1Ywb0RPWWJEQ3VtZGxzQnhyZGxlTEdNRXNmdWNadWhyWm5uRnRyT0xQWEhTTTJJT1JGQWNtcVFtTTl4aUo4ckJZOFBfUDg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:46+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

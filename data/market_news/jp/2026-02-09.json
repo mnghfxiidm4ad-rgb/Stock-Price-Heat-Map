@@ -1,0 +1,39 @@
+{
+  "market": "JP",
+  "date": "2026-02-09",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,363.94",
+      "change": "+3.89%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "397.30",
+      "change": "+2.27%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.24",
+      "change": "+0.46"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "9日寄り付き直後の日経平均は初の5万6000円台に上昇。",
+    "日経平均は前日比+3.89%の56,363.94円で上昇して取引を終えた。",
+    "不動産、鉄鋼・非鉄セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzUHJzZ1dpZU5RUEhNMXo2WENJUU9XWldPM3lfTER2c3BBeW5teVlWbVBKd1d5MWpudlR4clNPOW9mV0VKYnFoNlExZV9UN21mTXpTeXlHTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

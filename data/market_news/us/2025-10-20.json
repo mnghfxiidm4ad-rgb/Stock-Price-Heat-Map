@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,735.13",
+      "change": "+1.07%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,990.54",
+      "change": "+1.37%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,706.58",
+      "change": "+1.12%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "3.99%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains and Losses Today: Apple, Supermicro Surge; Oracle Stock Extends Losses」と伝えた。",
+    "海外メディアは「Are “Magnificent 7” Companies Still Top Contributors to Earnings Growth for the S&P 500 for Q3?」と伝えた。",
+    "海外メディアは「Super Micro Is the S&P 500’s Biggest Gainer. The Stock Could Break Out」と伝えた。",
+    "S&P 500は前日比+1.07%の6,735.13で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNVV4blZha0xqNVRUR0k2YkhlYTJtakctSE9xWWttU25JY2hRR2lyV2x3Q1laWDZMeUl6T3VsWFUwZ051cHBWZ252RERBQ0ZCaWszaXhNWmRyR1RkbzBXd3ZQYlFEZjVEQi1qZlZtU1RHRFp0aGlsTWRDMXcxV3h5Q2ZzU2FEekU5R0owV2JwNV9scnFPVlVsenBqNFFSUXdVVjNwYjVzSGpDQlJjR1cxQV9tcVFzb2VmeTZ6M0U5RXg?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbU9sS05ESUY5TFozdTVnbWpmb3JqaGM4R1ZMX0JXZ1B2X2ZzSHN6U3B1ejkxS3lxRV9VNzMwU0M5dmw5TTJCTzQ3U0JwUzVHWEgxbkx0Um5WeFVHOHUwdU5sU1E5eWNaQTEtZTJhcEpmSHhTNXpOOHl5NUpUN0NiSzVzVlZ0WHBIbUF4ODBoN3NockZ2MVV4NEZTVHFqTU1qLVVzaDcxTFJaN1BWcUl1YUJPckxyQmxnd01N0gHLAUFVX3lxTFBWa1k2S1FGVjBuQTZtc0FnNnpXU21ZN1hnUE0zWnRWM1BkdDZxaGdMODBQMVVVUHpoNjRPRFZ0YU9fT0ZoWHFSck96Q0lVdmUxZ3p5cER2QncwQjNpelJ6YnJaWVBJenZ0UHZQcUVEWEZvUmZlSm11djJVQlNRam5WbWtSZE16WlRTNDc1R2picV9LekM0YWtBenJZY1JpVGUwWGo4blZsZXRjZUd0VFF3aENJeGNPQ0lHYU5TNXRuS2JVTzk5YnVod0VJ?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xRXFVTVJtb1ZWSXo4bW9icmVmV2t3anJ6X005ZUdxWkRyWHNselJsV2tJWi15UmNMamlaNUVzSVVCZUdwampUWlA4ekdoQWdLWHFZTGhyd3VDOHR6Zk5YN3IxOEdieWpMU2Q3bEctc09HSlQ4?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-11-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,850.92",
+      "change": "+0.06%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,406.46",
+      "change": "-0.26%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,254.82",
+      "change": "+0.68%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.07%",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "news_bullets": [
+    "S&P 500は前日比+0.06%の6,850.92で上昇して取引を終えた。",
+    "NASDAQは-0.26%、NYダウは+0.68%だった。",
+    "ヘルスケア、金融セクターが上昇率上位となった。",
+    "エネルギー、不動産セクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORzBOZXdLc3ItOGpGODNqbVFsSnVFTnByTUpzRHY2VFkza3ZxMmk1czJvRVdRLUVKUGREMTlVdlN1OTB3M0F0LTRiT2otMXgyMGlzLXpibHZtUVlqdUdFbVhkQlB5M1dkRmFkMHVNSDJHUEtUbEgzR0J6Yk9zV1E1cjNHaWZ0cWl1ZHYzQTM2cDdvWEc0NldPTkpxUnl1Q2tXY3M2cmJmODV5WDRmSkhpVlhZRmZ2NGIwbnlobDhERTN3bXlYTy1CYlZXYnNuelVMOERMZTl6ZGFaUldna3B0RHhDUdIB6AFBVV95cUxPUDVBdGdDb2hNRUNWNGN0Zkp5V3ZHLWtfT05vcXBQM0VQbm5Fc3JMdXJvdmhLZllrbzZCV2lIeWRvdFllN1JSSndkNnRnZmFDZmxsMFhjVy0zb2Q0MXFrUlVoNzE1VDNaMUlEUEt0Um94YW4yenR2VlFsaHpMTFo3S1BERG1PT25ua281eFNHVlhFMGEzMlJ4Tk0wMkNUdk44bWN4bWtNb09TZGVBRklJMHFKc2JZRkFIYzlOam1vTlpOUVdyV0R6Tmh2Z05STHNQTkFiZF9ScGt1SHh1VkNlcG9MUFQ4RGJH?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcFJIckdVNFdXbUdJRFdTRkxhbG42R21pZHd4UnYwUVFrUzR5OVliSkNkNEg1MTNaYXQyNE1xVWFPejgxaFFvZUM5U0VrYXFONGgyY1BjXzFCN2Y5OERoX1NVUkZlNkh3YUJJejhSSm9UT1NMSEtlRzR0RzBhM2hMQUVjZk0zeDlIdzJaN1RSN0Z6bVN2VHVoOU9Pb2l4aXRGZ29sd1doR1djR29sQmc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:23+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "41,938.89",
+      "change": "-0.88%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "316.80",
+      "change": "-1.12%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "148.55",
+      "change": "+1.46"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "銀行"
+  ],
+  "news_bullets": [
+    "中国半導体のカンブリコン、1カ月で株価2倍 国産AI期待。",
+    "次世代半導体パッケージのコンソーシアム「JOINT3」に参画。",
+    "次世代半導体パッケージのコンソーシアム27社で「JOINT3」設立。",
+    "日経平均は前日比-0.88%の41,938.89円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE41aFNQZDA0WHQyU1hRa2hZVC1WSDZYaHRGa19DWXFodDhGQ0RRU2RvRjZRRlprcXNuOE9jazF1dV9yVnVaOWtKanpNRl9tSktJamlpQWJUcnFiWEVRQTdGWXl3Q0x4dGpLRGtDQ1ZseGZWZXFQV2dxZGZTczZpZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xTEd6UEgyQXFTQkRwZ08zYWwtV2xYbXpEcWhjTHg3a1NBWGlQa2owaUtZN3RrVWItUnZTUF9NRURNcFlnVkFKS1ppNWZEQ09HbmYtdV91YzJkLWdYb2xpeHJYdC1lTWtPV2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JM0ZfcFptNkRQaVBkN3NkNHJmUW4zTmRSMHZyM1RQMDlLTDdsZlREY2N5NmFTMHNzXzNGUnlLbmpCa1k1SDNzVnBiRW9vY1liWlRTZzVXRENoa0lIRVJDTmxKS1VUZGJoMEE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:41+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

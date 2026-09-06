@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-01",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,513.12",
+      "change": "+0.38%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "394.60",
+      "change": "+0.13%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.98",
+      "change": "-3.21"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "建設・資材",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円高で156円台半ば｜口先介入後に政府・日銀が市場介入を実施(2026年5月1日)。",
+    "～日銀利上げ見送りによる円安を為替介入でカバー～。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で112円台後半｜口先介入と市場介入を受けて大幅な円高(2026年5月1日)。",
+    "日経平均は前日比+0.38%の59,513.12円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE11ZlRjWllQdjNWQ0h4c3ZsNmgtamZyeXlJd0pOSjNWd2FEaTE2dE01U0dHakRETU12OHpwUVlYTGkwLUpkUE40T3Q1SDZBZnhxRndMcnV4MC0tUTdpZmRxcEVXVlVkaFIyVktxVHhMaFpMREk?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XOWtOMGN2TFdGX24xU3ZGdlk5TVdsdnhVMXgzT0VKZmc0TzNwYWdnWWV5eFJyWjhrbDBDa3VxM1ZxVnBpdXNrWTkzTFUzOWN3NW5Wc0NHY2RiRUE?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sLUlYb3VkMDFkTXZPYXNZQ0thZHJGTVRDVUNWTERjSjlYUlhEdUVsUTJlUU9DZWhTbmNhUW8wRFlhbHpYZzJFcnZKVHhINm9GVG01R29NcnNHX0hKRkFwMkRNN2FhR2M1a21OU0pWcjlDUzQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:29+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

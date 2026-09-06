@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "72,366.34",
+      "change": "+4.61%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "425.90",
+      "change": "+1.43%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.76",
+      "change": "+0.16"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で111円台半ば｜豪州CPIは市場予想よりも低い(2026年6月25日)。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で161円台後半｜市場介入への警戒が続く中で円安が進む(2026年6月25日)。",
+    "【市場概況】東京為替見通し＝ドル円、日米財務相会談でのドル高・円安抑制の本気度を見極める展開。",
+    "日経平均は前日比+4.61%の72,366.34円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wV0hiRUdIYnhLMWpDN0NkTTU4eU9uYlZNNHdCY0xGcVZ0OEJhSnFiWk04SUgxRDByTnJDbmFRUDFGUVMwV1J0LWxMX1BvTFduVGdfd0RSSmczTmpCRlQtOFkxVVQwS2o5SU0zUjZwelViWEk?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwOVFXN1N6ZzNMT2dnNjNRd2lZTDJaSUwwbEVnVnZVU3NpNTZHcnlIT2pOQ1lPWHJRZVg0V0FiVGJFaHNsREIxMjZHcFNLS1JFSnhlVG9vNERZbEdmU2dLaWRsbHNXZXNlWC1FZDhjd0NlSGM?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2OXVpVGVhRG9EdnJyT1ZzRVNJR3lZNWV2cFpGa041WEE5T1NNSDlic3dnVDBtdGJZZnFMMzR0LUFFWGxyNE1LOFdpai16Z1RKOGhmb1dXUElHejctOXZDX1pwRQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:53+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

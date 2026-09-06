@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,117.26",
+      "change": "-1.63%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "365.50",
+      "change": "-0.79%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.73",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "台湾有事で円急落180円､植田日銀総裁が辞任? 26年大胆予想。",
+    "中立金利を葬り去りたい日銀の本音 次回利上げは７月。",
+    "日銀、全国の景気判断を維持 賃上げは「25年度並み」の声が相次ぐ。",
+    "日経平均は前日比-1.63%の51,117.26円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBqM2RvLXBGRVlKLWY4RnJQRnJyeGJ2MndaN1BuZlFpVmp5WWJRR0pIbFhLdmpHbjRGYU1fMEpidU9uMG4zR2gwZEU4SHNsdTZNMUdCWHN1alJ4NHI1cnQxSWJ4UDl0X3B6aUFpOWxkcVJFUUVsZE9tNmdXcWprUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yRjNoaW9YbmNrUVBlMWw5aHJhLVNvVVVUMmFKUmhCY3ZhMTRrS0J0dmlFbWZSMmlMdUdHOHJHSnVTejRZYlFLcmV4MjdBMk5tUUxtdHVNbW4xcWM?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jSlJ2MjM5T1NmbFBoUzNaWUJJZFY5ZG5YZU1QYWZwMU1FUURUSHhPRUNrVUNBeDB5dDF4SFdSUWNpSl9Bc3lnS0xLR0U1LVBoTkZyRlV5Ym1DRUtPYWcyT0t5bkhWbG8?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:35+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

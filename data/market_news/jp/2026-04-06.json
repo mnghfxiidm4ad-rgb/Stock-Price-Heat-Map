@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,413.68",
+      "change": "+0.55%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "386.80",
+      "change": "+0.05%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.78",
+      "change": "+0.29"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース )：先週末の豪ドル円は円高で109円台後半｜円高が緩やかに進む(2026年4月6日)。",
+    "ドル/円見通し(為替/FX ニュース )：先週末のドル円はほぼ変わらず159円台半ば｜米雇用統計は市場予想比で強い(2026年4月6日)。",
+    "ドル円相場の今週予想 米高金利と中東情勢の影響 #為替 #ドル円 - 外為どっとコム マネ育チャンネル。",
+    "日経平均は前日比+0.55%の53,413.68円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QWkJOZkhzZXc2eWZ2OUR2MWJmazlVQVBYSEtIQ3ppM1ZFUFRaN1BBaGtJWWpOd2pHVHZ2bWs4QnZxOFRLY21LWHFJcHBia2kxbGZJbVd1MTBoWmxUTENUMXd0Y1VFOHNNRFJCbnQwWlBXUFk?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkcnNYWGFMdGMxeXc4RklmRTNMRkRJOGVXSDYwY0Vad3Eydi1DNV9tU0R6a0RNQ0tWbzdJVXpfbGR2a01kYnluQnBJQl96WVoycmJOaWstdloyRjVVMnROUmRMSHl3ZUVoQ2VLY05pOC1jRE0?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XT0RyQkdrSlRtbUdVOUZiR08xSlRPNmNsaDRXWEI3aGxhdWNIRW1IRWpRalhGZzNOZ0czNUJSNmZZYnl3V3pNMFd5QUZnQ2IyOXpEWDU4Ulhfc2VOSkxnendMUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:16+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

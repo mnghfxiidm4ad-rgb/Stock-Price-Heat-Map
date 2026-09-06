@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-15",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "61,409.29",
+      "change": "-1.99%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "409.90",
+      "change": "-0.32%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.38",
+      "change": "+0.53"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "news_bullets": [
+    "日経平均終値1244円安、フジクラ失速 金利上昇で半導体の一角も下落。",
+    "15日午前の日経平均は続落､インフレ懸念による金利上昇重し。",
+    "（まとめ）日経平均は半導体関連銘柄への売りが重荷となり2.0％安61,409円で続落 キオクシア決算に注目。",
+    "日経平均は前日比-1.99%の61,409.29円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BVG5uUmo0aW1ZZlVQdDdjS29GYnk4M3RyaVVsN0FjR0NvMXIxdDZwazJ6SEQtOTREeTg0N3dBZExvZERUam9sUk1melNRZDl6YzhpWlhLNnp1X3NJY2x5bXQzNXpGa2M3UjNKSw?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wWGdDYzlPa2J6dzZxWlEwa25jR0pjaF84X3ZfdDVyNmdiWHJLTDVQQ05mR2JZb3pIWGd5ak1TTFNObEpqUWt3cVRxRzJiMWlMYkhyV3hORQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xNzV0NURjX2t3ZnRDMlRRN3hhendiVTYxaVVoQzdzb0p3OW1VZmJ4UjExMkdEY3NHWnJpQXpJTlMzN3hGVE5wTW1QeFBJclg4MXhFdtIBV0FVX3lxTE8wWnhXVHJnZkZRME9oYkstTHpTRWpFZUZNRFJTd3ZsRGg1anhVTjNfc2gzOG92TzRWN2JGUzVyNDkzODhzUDVYVnYydDRXWFlwVUMwLWxYVQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:33+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-11",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,941.47",
+      "change": "-0.00%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,066.47",
+      "change": "-0.16%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,121.40",
+      "change": "-0.13%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.17%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Dow Muted After Jobs Data. Alphabet, Microsoft Drag on Nasdaq」と伝えた。",
+    "海外メディアは「S&P 500, Dow Jones futures in green as markets await US jobs report, CPI data」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500 Futures Gain After Strong Jobs Report — Cloudflare, AST SpaceMobil」と伝えた。",
+    "S&P 500は前日比-0.00%の6,941.47でほぼ変わらず取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGM3Y0FDdnBnaDJXV1N4VDJiVXUzcFhROEUtQkNiX0Y5U2puUzFXQ3RmZDBEUklMMlFrdDh3VElFMEtiai1KbVVQR05rUWVZdnZVUGt6RjV6ckpJYkk2cUlCQ01GaW16d005eWg1Sk4yQnp0bWFCZ0VJVEhnVTBzb01pQU1KTmdHWVd3SVBpVU43dko5NXRQTzM2dXowUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTUpNSWRSQVFMMFYwSXI4Yko5UnVZY0RiZE1uaXQ4djRMM0V1bzdjdWlnQnJkMWtNSXZWaG1jVlBuWFNFNks0TklPU1lWYlFrUFhJWF9wRl9nWXBITzJTYjJsbFN1NTdhNUF1SEJtY2ZfUkNkdjVQWUQtY0dwM0doTVRmYjVvMUJpRW1IVUgtVHl6ZS1QRHZnZVdVTzg3X3ZkQVZrallyS0hfVmszT1ZVX1JTc1lSRFJ4ZzF6cVN6SVhfXzdrdGFGMHJDcDA?oc=5",
+    "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZEQzRU1FSW5Ga2pyMy04b2otRmxJdXBTUHo2VmJhaG9aUC10U3ZfSlBzSzlHbFBVWjZIeGxsbXVvTEhpRFJXUlZwdlBFdDJmMWVJeUZJVmVDLXlUdzFUX1E5bzlXVDhoWXNMVGNjT2lid2tzMUxxOU9UQXhuUmVWc0lCNnNiSzhBdHlsR1lTUUp6dkhMMU5hZVk1U25qa0pEVFF4bDM3bjlVTDJJcTVYc2dlaW5Zc2o3SHl4YkhwVDZsWm9wa0tPNzl0Q0g1aFd2blR1a0lqZ3BtbXhTajU3V1JUak8ydTlvQ002ZElBMGgzNWREbUNiSlRleXBEeWR3TmMxSjFHTFdBd2c4VVI4SnltVXhndw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:53+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

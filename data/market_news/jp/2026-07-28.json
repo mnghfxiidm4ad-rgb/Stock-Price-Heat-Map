@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,364.92",
+      "change": "-3.95%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "412.90",
+      "change": "-2.69%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "163.77",
+      "change": "+0.16"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "機械"
+  ],
+  "news_bullets": [
+    "東証前引け 日経平均は反落、2884円安 半導体関連が軒並み安。",
+    "【2026年ドル円見通し】ドル円165円到達は近い？FOMC・日銀会合で円安加速の可能性｜内田稔。",
+    "FX実践解説、円高材料は無視でドル円高値圏「日銀利上げ加速観測、GPIF観測は？」（2026年7月28日）。",
+    "日経平均は前日比-3.95%の62,364.92円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlay1SYm5PYUppdmxRU1dmNmRzcGtCcEtnamd3Y0N4ejh1bnJNcWFIWTJGdUd5WV9PNnUxMWtmS0IxY3pIcHVyaE9QS2ZPclg2bF91UWlsVElCWTNFQVU2cWIzaW9VZ0pmX2JpVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vM1Z4N0s3YUVuaFp5ZkliQnk2YjJrZzBFc0RqN2tjMlBObzBnR21kai01X0JZQVdGTU5jbGFTVXlPRVA4Wlo3SHVrbDdZREgyRHFxVFRqS1dMMFdCZC1zZzZTVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QV0pKSHF4amFFckQtM1JXYVFUbUFMYjFXWjV4S1hBOFpiZEp1OGVodW9ubWE5YVREWGpuY1RXd1RsRFl4bFJkTS1OY0ttSlV3c09lUlFXR3hnazBLZjdIOTRKOA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:10+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

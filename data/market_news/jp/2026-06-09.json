@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-09",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,416.63",
+      "change": "+2.17%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "413.20",
+      "change": "+1.08%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.17",
+      "change": "-0.15"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円高で160円台前半｜政府・日銀による市場介入への警戒感が強いか(2026年6月9日)。",
+    "東証急落、２５６３円安 米利上げ観測受け、ＡＩ・半導体関連の売り拡大 下げ幅５番目 中東情勢も重し。",
+    "【ドル円見通し総まとめ】160円突破で再び為替介入あるか？２人のプロが予想する円安継続シナリオとリスク。",
+    "日経平均は前日比+2.17%の65,416.63円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4czlWLTZ6SUFVOGJEOE5jZ3VWdUQzU1BOLV9rS3JxbGVnLWg4STBOYmNsRFJJS2NuRFQyN0Y0UmQxS25jZ0RYZWZuMGZfSU1yc3NEUlU1bEJ4czF0Yk9TQ29kZ0d3Mkg2cHdOTjFHclBIUXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QNmsxVHVNLThOUGNVTmVkblY0RURGYm1WX0wwWmFBUTlIQ1hlWmZUV0ktNTVJamZoYmpCWlktdExWTlU4dkJVT2s5R1VzQldsb1BMR2t2MDdITVVI?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCTG9iYmk3b2tsSkJHTVhOYW4wdndlc09tY09ZMFJ0aDdYaGVpdHpGaVFxYmlyVkE4N0g0V1AwLU01QkQ1MDJwYmplVWJEaFljWmhpRXRxZ0pId28wdDgzWERTdw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

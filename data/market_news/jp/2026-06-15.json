@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-15",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,317.50",
+      "change": "+4.99%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "424.50",
+      "change": "+2.98%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.96",
+      "change": "-0.18"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "建設・資材"
+  ],
+  "bottom_sectors": [
+    "食品",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "【ドル円見通し】米イラン戦闘終結でリスクオン、160円台回復のその先は？｜日銀・FOMC解説 FX分析 2026年6月15日。",
+    "今週のマーケット：米国・イラン和平合意で日経平均は一時6万9,000円台へ！AI株は強弱まちまち、日銀利上げで上がる株は？。",
+    "ドル円、１６０円台で底堅い値動き 明日は日銀結果発表＝ＮＹ為替序盤。",
+    "日経平均は前日比+4.99%の69,317.50円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KQldBckhSdU82ZFpjcEdTTlVxaWwxNmpJNDlkbDdpazA5V1pKWXlQRlc2UlVMcklzT1lpcG84RmhaUExRVExkdzdSS3RYZ081bjV3Y2pYeXJCdzlRN051QlM1Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BdG9IUWdOYzcwcFFPT3lXWmF0aEUyQTNEMG9GX0V5QUN3dG9nVkRHUmZJMW1OZERIX2RlSk0tQ2RwM1AyUEFGWS1NRW5DQXMtaUhIbUNuVVkxdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JcDI1dzJIQklFMUVuTUt1a282OEs4eUVGR3A2MDlHeEFVYzJxQnlxYkRnV1B4V1dMMHJQa28zX3A3cHZNcFZFUg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-11",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,728.20",
+      "change": "-0.32%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,445.45",
+      "change": "-0.60%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,791.85",
+      "change": "-0.34%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.68%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Wall Street Today: DJIA, S&P 500, Nasdaq Comp Fall as Oil Gains and SPCX, GOOGL, APP, AMZN Drop」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq, Dow Futures Mixed As CPI Countdown Begins: Why INTC, SLS, SPCX, RKLB, ASTS, RIOT, FRMI Stocks Are In Focus」と伝えた。",
+    "海外メディアは「The Dow Is Outperforming the S&P 500 and Nasdaq in 2026. 3 Unstoppable Dow Stocks to Buy in August」と伝えた。",
+    "S&P 500は前日比-0.32%の7,728.20で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOREd4bHNSX2tVTmV2b1doeVJTcE9jOUk1SFIxdnBVUE9jRndiM2lDMU9BaEpXVzNhckE3VGE2NUhtVEFqenZzNlR3b1JHZHY5eklmZFNFU05RdGtmR3MteG1nWDMweHRyMk5EWUpLNUxBeVRpR1hieGpST0RCRnFIYWNVTFJYbHBIVTVHb01WeDRYNjFvRVF2VXlHUUExUWt0Q0E?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdndPZDlmRndVM3hjWllseXBaS002ZkJ3VmpRYjlwbUd1dFh1OVlRTGJUb1lkampKRU5RMGZ2alpvMVZKbGE2dlNIb29scW9yYVpkOVFWYlJXSVNoWXVsZE43UVZ0R005dHhITUstRUwxWk5pekIxbEltcV9VcVlEdHJZQTNPb2syRmRZamU1akdGYjA?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWhBMTJwRVR5U1RsdlZsTEoySlF3Y01LbWlhcm5CeEpyTFlHWW5iVUVlOE9WdzRua0RUeTF5VU9jbXkwVk5yRUhOX1pKTGhNeE0wZzJRcDhrWHR1dUdZbjR6OUZTT3huU0JlQ1JpVi1CdHpJMl9VTkpubVJJS0ZDRjlCcWdQV3dqUTVQdzlKNHU3eXVGRW9DeDR1NA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:25+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

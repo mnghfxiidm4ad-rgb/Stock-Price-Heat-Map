@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-22",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,307.79",
+      "change": "-0.02%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "342.10",
+      "change": "+0.38%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "151.89",
+      "change": "+1.12"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "建設・資材"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "日経平均株価、午前の終値は２３８円安…半導体関連株の一角が売られ押し下げ。",
+    "相容れない日経平均株価5 万円と利上げ見送り 石橋を叩いて渡らない可能性。",
+    "日経平均株価、3日ぶり小反落 終値8円安の4万9307円。",
+    "日経平均は前日比-0.02%の49,307.79円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BamF1clloOURrQlhzWDFSUW95WU1UNUxIcmt4Ui14eDhjS2FNWEdrcnJ1ekRNNUV1cTJtSGhhYjhYRkJFN3lDR3pnTU50MXZBUkZqQ3lNdnRFbmtaU0ZKSlhoNzc?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yeHEwVkkxSnU1YmNXWjhiU3h5anZ1aFNHMzZWQ0NtM3AzdFlMOHRfa1NUTlNFTmJ4aDg0RE5JMUUzY0RGS2d6U3RUQTJHYzdsSVNSaDBKMkdweVU?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NR2xXdjVPam9UalAxUVlqZTh0ZVJhQ2ZVZHVyOXppSi1HT0xITk0wX0Z6QVdYaU9qMzI3N0E3MU5CdFZkR2Zzdmx1U1V0ZGNkUGR2UGQwMTk1M0EzcC1DdUZ6aHFMdmkzUy1fRQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:59+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

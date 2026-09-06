@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,856.43",
+      "change": "+0.50%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "426.70",
+      "change": "+0.47%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.14",
+      "change": "+0.24"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "【ドル円見通し総まとめ】2026年末のドル円はどうなる？日銀利上げでも円安が止まらない理由を2人のプロが徹底分析 2026年8月25日。",
+    "【FX】8/25 米国の「イラン制裁・対加関税・金利低下策」でドル円はどうなる？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "中国AI半導体エンフレームがIPOへ 1400億円調達。",
+    "日経平均は前日比+0.50%の65,856.43円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTMFM4bkRoalBsbTlrRkxkRFlJRUZ5bXRiaGNibTZyZm82dHpfS3d2MDlicV9fcEpza1Z1VGt2VkRydmVGMTdpR21zQ014QXJtNEF1ZUtxM29iNUtjcnluSkRWbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14cnVuV2Z2cjNuSDJpdEFESWNSQkhqeDFVdXdZc1VTb3VDUElwUzZSakQ5d2t4Y2tscDlJRzZIajVRV1ZDSnJzdlhiSDRVZHVPS3JQSVJ6bjdRRzlNUjk0OEZmaw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lZER1YjVJb0o0T2NMeE1jRFlHZFlzVmJoTm5YX2kwVVR1WHRFZWQ0V2EwT1hwUzY5RDU3NHVGaC1zYnU0N2FHUlhyNzRMaXREb1p6ZmM0RU5saXd3Y2tVWHk0LUlYY1M1SnU1cw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:25+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "67,460.73",
+      "change": "-2.54%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "431.00",
+      "change": "-1.12%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.34",
+      "change": "+0.12"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "機械"
+  ],
+  "news_bullets": [
+    "日経平均は6日ぶりに反落、金利上昇を嫌気 半導体株が下げ先導。",
+    "長期金利上昇、一時2.945% 財政懸念や日銀利上げ観測で。",
+    "午前の日経平均は大幅続落、米株安を嫌気 半導体株の下げ厳しい。",
+    "日経平均は前日比-2.54%の67,460.73円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUVBdUdBZ0c4M2VaMGU0eWFNYnhmcWtKemJxT2k2YW1uSVRMMWNIQVctcmdsbGVOU1FFQjR6UzJ2Ri1UV3hNQWNhWm5saHI0Z3g1Ul9GUkgzSS02cGI4Zm5OVnl5X28wc1dpeExrWHBGakd6MElmQ3pUeGROdURWcQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TSUNhdUxlTGRiRGVWbG9fNllNbW80Zl9Vdm9feUdXdmFnRTBFd2VreVh1ZG1yWGJfUkdCRkpsbE5SYnNBNGFodXFfU0FmbTRZcWlfdmp1Ni1mOXFUMklHZkdhLWlWNkgycldBaA?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVNpYkszbFFJMEY3ejkxTXRycWdFdkh0SlJBRE44dFh5M0VxSDNGQU9Nek8yTVlCazhINW5ET1lJWm85MXVCbTRmVHNjR3hLSkJ1bmotTk1xeG9Fc1U2aV9fNzVBMUJuVEV5ZmtXVFVuS2M2SEFQSWEteWtHV0ZOZA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:21+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

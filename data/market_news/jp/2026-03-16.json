@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,751.15",
+      "change": "-0.13%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "379.00",
+      "change": "-0.50%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.57",
+      "change": "+0.36"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "いざ！米ドル円160円の大台へ挑戦｜FOMC×日銀×原油高の方程式 2026/3/16 【FX分析 ドル円今後の見通し】。",
+    "【見通し】NY為替見通し＝ドル円、イラン情勢や原油価格動向に要警戒か。",
+    "ドル円午前の為替予想、160円乗せ間近 原油高と介入警戒で神経質な展開続く 2026/3/16。",
+    "日経平均は前日比-0.13%の53,751.15円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xc1V1X005eDBQVVFYcGJDcHlESUlYeUhQUVBUWmgtZ1p2VEVUSm5kS2t4aW55clBXVFhYNDJHdTY5bVlnb3RtVHRxdHpMeWRKZFlkUmhwdjBLSUVBSHF1X3NxZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOWC1Gamo5YWRIMmxlc3ZpbW9fdnJvRnoxSEJMbWZOSnNVNWlpLTBUN2txM3RYMlhTa1drREVVWDR4UGViS0VEY0hmWDZiNlRQOUhaTFB2ZmtnSDVOaWpaZUZHVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yVDdlcUs2YTlXdklicXNKZEktd28wemtueXdwRTdHXzNfVE5XQzJPUkdieWZjVi1pOWNickZuNlVmNnVsSEF3b2paR0VUTDZvaVZDcDBlTk5nYkN5SGxjRTNaUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:06+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

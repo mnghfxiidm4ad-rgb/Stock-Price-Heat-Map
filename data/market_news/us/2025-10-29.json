@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-29",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,890.59",
+      "change": "-0.00%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,958.47",
+      "change": "+0.55%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,632.00",
+      "change": "-0.16%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.06%",
+      "change": "+0.08"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains and Losses Today: Index Wavers as Fed Lowers Rates, Powell Warns December Cut Not Guaranteed」と伝えた。",
+    "海外メディアは「Dow, S&P 500 Slip on December Rate Cut Worries, Nvidia Boosts Nasdaq: Stock Market Today」と伝えた。",
+    "海外メディアは「Dow ends down, S&P 500 flat as Powell says December rate cut far from assured」と伝えた。",
+    "S&P 500は前日比-0.00%の6,890.59でほぼ変わらず取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDJmNUp2MUFHQjdocDJhT2drQ2JGQjNDNWs1NXJsNHI0QWwydTI3aHZQOGhGd01pNk4tRXl0dmFNeWhQUHpoSXIwQXozTVBWOWlLWno0YlloVEZ1cl9uZTVvX0JvcElFZnJqNjVoTkdlUU1maVQwMXpoNzBLSnU0ODhpbE5xWHFRS1BKZjAwTGtHeXpJUVl5aV9nb2FhcE5FeVFOOEZlS2pFQU5mckNyT0h4a2xaeG12OWNJ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTQwZkljVmY3QldwMVdnV19pSF9TeUphNGF3MUZ4NVdFaGNqa3R2UlVfc2l2TjBlSjNidTE2ODc2SE5XUUdLWEQzZm9Zc294a211UklMX1hJdE9nZ25HaWZITjBoN3ZnTDU5MnNFeU1na24tR096MHQ0Z0hPc1FnQjVvS3Nsc2hOYUlOa3BXbm1BR3pNN0dRVzg5X3NlekM2S0x1UWJISG5CX09nbUE2UXVzVjFzQlpiRldfYjFRdUF1RmJkdlh0MXUxdG8?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxORDFvaE92U3pERVJjS1hsU2VkcDJqTmdmUWdVb1hXb044WmZGRXRkZk9QOWRQeDZ6LWJybDNZZWlYZnp5d3QyaFhPY0FiX1VGVVp1UkdXRFIyRjZnaXJBTUtvRHBPOHF2aXEwX1d6cVJGOHVxOXd0ZEhPd0ZRbWNGalVYcklxbFl0V1Y2VkRHeUMxYlVkRWlKNFM1MVhLeXJrSHNFT0tZTGdYQklfcWJfUHR4dlhJaGc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:03+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

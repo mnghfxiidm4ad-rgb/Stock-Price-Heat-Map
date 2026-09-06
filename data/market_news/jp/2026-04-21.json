@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-21",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,349.17",
+      "change": "+0.89%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "399.50",
+      "change": "-0.27%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.84",
+      "change": "-0.32"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "機械"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で114円付近｜日銀の政策金利据え置き見通しに対して反応薄(2026年4月21日)。",
+    "日銀4月利上げ観測後退、6月も見送りなら中長期金利は一段高へ 野村證券・宍戸知暁 | NOMURA ウェルスタイル。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で158円台後半｜米・イラン協議の不透明さを受けて上窓を開ける(2026年4月21日)。",
+    "日経平均は前日比+0.89%の59,349.17円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXVHdMRWFNM3hReVhTcVNBUnR2R0dfSDhGUEFoWnN1QmVHZF9QenNRYmVGdDdPNVplWUxwdWpSdGhrVHhXZVRMcVo4MDRTUTZJNTR1VU5MTjBmT20ySkFld2M2VnZCVzYtOUZJQkRMX1Y2MVU?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcGtJa3dkblI5S3UxTC01dHlYT1NYQVcwNVJnQXhoZkJWZzNTYTkxN19HVjA1czBodzltZmxVVnR6SEI5RWJEZ3pXOHVYcXVSbDdkWThmV3Q3RGVxVUY4?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzYXI1bGpndmdHZkNaQ3BDUGlVaTd2UWJGZDA2Q2syQmIzMFZiaTFmMkJ2TGlfa3BHZGdjSmVpeDQ4YS1PdTlsSzhqMWN6aWtPWGZMaXVwVnVoTXVTLWpiak5KeVZfeWtURTNWWmNsSEc0azg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:24+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-21",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,445.72",
+      "change": "+0.17%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,293.10",
+      "change": "+0.09%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,285.66",
+      "change": "+0.55%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.59%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「U.S. Futures Point Lower as Oil and Bond Yields Recover: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Dow Climbs 276, Nasdaq Gains 23, S&P 500 Adds 13」と伝えた。",
+    "海外メディアは「Nvidia results, SpaceX IPO ambitions and Iran peace hopes keep markets on edge: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "S&P 500は前日比+0.17%の7,445.72で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JbEVVZXZWWXJBVHdrd2FtOTR4MXdSbVNSNzIzcEpVSWk4andwWGJ4X1BzUzNFRkZ0UGlPMm5hVkllT1hoN1JqVXZKMm5MRzFaNW9UYVRZbTJIQTRCUmVVS3ppOWVoaWJrQ1c2azRsc3MzRXFLLWJmb0dEa3FKTDQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxONFZZdnZQMzJKR3dLbEJNa0JMOHdyNjlOUnZCdEl3cVRFZjBTaU5zWktQdmdJV25tY3E5TEE3WFFUSk52Y3hmZ3FNZ0FIb19PZ2VpX095Q3lNeVJLd1ExaGR3NHBSQ1QwRldMRDNFaGpOZExUcDVrZENFVFhJTFVsdk00bnNtWWlQYWdhcGhMclc?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxORG4zQkFNODdQS2FEa1pSQWRQQTZXblFMbXpFOUplWW1FWnFwU29uclFUQkdxOTR6UVN3clEzODBRdS1DUDdsTGlFTDF3anIzRjlpNW9FS2x1V3pPWjZrZXJsNkRFZ3pZejI2cXc2U1RQY3JJSmN6VVJBS3pnd3NQVGdlNGhUa0YzT1dEbA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

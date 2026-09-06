@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-12-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,507.21",
+      "change": "+1.03%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "355.30",
+      "change": "+0.91%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.59",
+      "change": "+0.09"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "bottom_sectors": [
+    "運輸・物流",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "日銀、追加利上げ決定 次の緩和調整「企業金融」に焦点。",
+    "日経平均は前日比+1.03%の49,507.21円で上昇して取引を終えた。",
+    "鉄鋼・非鉄、商社・卸売セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wQzU1c1VoMnNSRzlFenR5X0lTbkd6dncwM3hXdjBPWFA4dnVGVzZURWlSS2IwaFRLRXpubi1DbnVPbkRDN0h1R25YYVFHOVcwWnNSYXln?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

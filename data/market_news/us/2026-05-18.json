@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,403.05",
+      "change": "-0.07%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,090.73",
+      "change": "-0.51%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,686.12",
+      "change": "+0.32%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.62%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq fall as chip stocks slide, Treasury yields climb」と伝えた。",
+    "海外メディアは「Stock Markets Scared Of Renewed Oil Pressure - Dow Jones, Nasdaq, S&P 500 Intraday Levels」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq open higher as chips rebound, yields retreat」と伝えた。",
+    "S&P 500は前日比-0.07%の7,403.05で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWVtbEtGYzFIYzdpZnNrMWdXQ1Q5a3N3cHZnT1BnQW1kMmF5Q214TlJSTUdrZEdVMHZaOTZjTTM2QzdaOUhJQ2NkX2hsekFlVzFnWFRUcVRrNXNtSkZGQkdKRmtRWUtnenhSQWRPYzRkZWdqbDBpbnB2OG5LSjFXTGRyeDZsZ0RBaENwUWVwZW1aRkl4VmVNbk9lZWZtd2NETjl2akZOMnZzYVktMUh4VmlPZW5sQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVVNNzZQdklyVjhkaWlwWXRJSG5iSzIxMjM3LTd4ZlVtNDBKV285NC1QcThRV1BIR0FpeWlaS0RfWlllMVdBU0FkcTdSZ0RDTm9NbGhocFU2MkRkczBWcU45VVAzQ2NOM2ZHa2lTWm9ZREQ4SzlKcXFROFJldVBnRUx5SlJYU1lEMlhSeE92QUxjTmd3YTdpblJ3cWRLVVJnOGNDVXlwcTNrT3k4RFpVX0czeVZSbTZ0VUR6NGh3?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjg3aEQtVUl2REZQMFEwNU9jay1fanN0OUdTTDlJYkRmTmFpVVFHQWduZmFfUWQzS1dLMFF6RFR0SWthM3haektoWlZka2lnVmRHT2tKODNkRUItd0hwRG91WVR4a01LSFJkYWxydHJoTlljQ0hYelp2N0RXdzhpNGFPV3l4SFlKMWlKOS1TX2pncUpNOVpPa0FKeVFRaU1XWGhLcllteUJyNlVSdWx2Qw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:42+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

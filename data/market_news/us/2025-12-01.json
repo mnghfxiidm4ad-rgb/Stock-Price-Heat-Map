@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-01",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,812.63",
+      "change": "-0.53%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,275.92",
+      "change": "-0.38%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,289.33",
+      "change": "-0.90%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.10%",
+      "change": "+0.08"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 weekly preview: Focus on Powell speech, inflation data」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Moderna Falls; Synopsys Stock Climbs on Nvidia Partnership」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Dip as Rate Cut Uncertainty Weighs」と伝えた。",
+    "S&P 500は前日比-0.53%の6,812.63で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDV4OXBOQWlEMkROVmxwUjE0d3hVbGpyY1NUVF9UQWZsUU5WanRaeVVBSU1IVXhqRHM3cHZRNGVKMTVodVZUOUlndzZWY19nQUtQOVFXMWhmMjVZRVg5TXdoaXlDUDcyd3VKOW1iMldENERSbjVYN3dXLTRqQ2VSVU5Cbk1VRFNlM3d3eVlrdWZ0UWd6bW5yd2pKMUJDc2NQQXBlVXBEQi1ReHhHal9LWXhaWl9pYlRJQ0M4OWdmY1pPNE9wMEpUWkNIZzlzZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnlBYzNJb3I2TXROX2pWVmxSQUZtOGhUOEF2dVFyME4ydkJZSFhYNGNnSjl3a25NRXo4YlBhVDRVRXVBZHVsbnFvb1pwTW9xb3BuaXJkM3BKc01BQlFTQ1R0OGdIdkE5VE1XNnRjMnlhb3lUTXlQVXd1NXdYYm50RUJOaFEtVVFZNVIzNE1LcDc4b3RpM20xT3Y1TWpMQURjUEllYWtqdnFod3plYVNyejNEUDhfc2NuRjkwOHFpRlZnVnpDMEFOTg?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JclRrUGtRTTVwRm11dDctVVlsUkduR2x5NElDM1kzaGp1UnE0WWJMblExaXVjMG9QWlBXT3Z0bUEwOVdwNU1MQzJqSHRubEliemxUcjVaRTNCNnV2c19xRjVKa3c3SVZIQzFUS0NGY0NYdm5UOURjMw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

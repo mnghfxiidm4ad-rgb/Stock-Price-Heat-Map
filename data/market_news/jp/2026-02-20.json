@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2026-02-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,825.70",
+      "change": "-1.12%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "400.10",
+      "change": "-1.11%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.16",
+      "change": "+0.47"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "半導体ひずみセンサー STREALモニタリングユニットNEシリーズ。",
+    "日経平均は前日比-1.12%の56,825.70円で下落して取引を終えた。",
+    "鉄鋼・非鉄、医薬品セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzVQN2hLR3h0S1luZ3hlUnNkN0ZUWGt0clhtamhHWVBZVUthRXRPNUVkenVQc2xkWGxkMjdDcllXbUFWQVB1X3lCanJDeVR0MWxXd25IbkZfZU1uODFsMDFUamlhSHhFRHZ2TEFwNkdXTElpRU9QWDN5S0kzSEtjeDRrQVl6ajQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

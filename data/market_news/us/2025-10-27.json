@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-10-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,875.16",
+      "change": "+1.23%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,637.46",
+      "change": "+1.86%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,544.59",
+      "change": "+0.71%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.00%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「This Dividend-Paying Dow Jones Growth Stock Will Crush the S&P 500 (Again) in 2026」と伝えた。",
+    "海外メディアは「Qualcomm 15% Surge Drives S&P 500, Nasdaq To All-Time Highs On AI Optimism」と伝えた。",
+    "海外メディアは「World - Equity Earnings Yield Minus 10-Year Government Bond Yield」と伝えた。",
+    "S&P 500は前日比+1.23%の6,875.16で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUUY5MmZjcklPelFiazV6NTRCbmFlU3MzbEhjNEFZRTBONzlfd1pydlZUTHdxNFlUS0xZOUpvdGpLdFdpdjNkbld2WjREM1BLdnhpQ1FEc29uV0hIa3hxOTlHT3ZGRTdqYkt0SVpqcWsyWmtWSG5QYTdRcVFuSUhBWWlCOG1LalRDUHlheW40cnRwWDJ5aThUbA?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGp2bTVjeHA1cV94Ny0tN1VKRXhZUU1rZ0h1bUJmdmV1Um1QbS1lYWI1TWFYZG5kQ0g2Ql9MSGtMaU9OS2QtM3pSdVpTQXNlTlgtOWV1dklaalpUTGdlSE8xSi1DeEc1VWN0RHBhQmlLU2o4eHRwN3Z0aDdIalJ0ZUVKeHBsQ3FWZ0tNak90VElEdnN5Y2NfMm5oOHJtRFQydVBfdUtuLVA4c2tjeDZBUjhLSDdhNFItY3VJLVd4c1dWeVNqbXd5OGE3Tmc?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOSHBfak8wV2xCczhBek91UnZjR0kxOUxOaWVhbElKbXdQYWpWb3pnOEoyVDVVRThxWFp3WnBVZVNQZFkzV0s4VlE5aG5JLXpWaUtZclBSMk9oM2MxYVRybGlaaHc0d1ZXWlczNi00UjM0Q0JLaXNyaUFjNjd1QUMtUXZ1eXNpaHdzODhnTzhkSE5VaFhrZGlCZ0NfTTZVdw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

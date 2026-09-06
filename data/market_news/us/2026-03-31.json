@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-31",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,528.52",
+      "change": "+2.91%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,590.63",
+      "change": "+3.83%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,341.51",
+      "change": "+2.49%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.31%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq Surge as Investors Weigh Fed Comments and Geopolitical Developments」と伝えた。",
+    "海外メディアは「US Stock Market Today S&P 500 Futures Rise On Fed Caution And Bond Jitters」と伝えた。",
+    "海外メディアは「TRADER’S EDGE (31 March 2026) The S&P 500 closed lower on Monday as rising oil prices weighed on market sentiment and heightened inflation concerns」と伝えた。",
+    "S&P 500は前日比+2.91%の6,528.52で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjdtcUh2MjhjdUFtdktQaUFfTk55c1FXSVp4YjdzRmkzRXlBd0JRNVItUTBrM2Qzd2lwYTA5U2NQbjBLSWtBM194ZTdlOEVCbHdTdzR6WFVJd1BBQ2M5elZGeVo1MjVzMkQ5WjlUU2hqOUsyM1JYX3gxblUxOHNSSms2RVU4WXVlSGd6b2tzLXFoNlVxMkhZQg?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOXI1TXhwOWhDNktuQVpjdkdqbDBYRjhKdFBFUG9henBIeG54cHR0OXB6dW5kWGpGZU9LRkVYNFBaWjltb09rQ1ZBSTVpeUFLX3RRYkc2bmVXcXRFZS1iRTdwT1lWa0M4azFjVEZ6LXlBMFJGLU9YN1loeUlacXVGSVhnX0tJRXlHMXNpZHJuRXVoZw?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdFlyUFZTenFmajBBS3QwMWhyVmlXZ01YdVA4VjlCRF9jdmdFYkY5MWRBenVrTl9mTEhtYUQzOEVFSDVoZFFZTkh1ZTlUOVM5a2U2MTBnU0ZUb3BIaUxab3lJVVBuX3FsSXJzQW1MRndVQ0d5MUd6NmlQVkEyYXFBa3A2aURweGNWRlBmT2J6cDRxNWh3QW9F?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

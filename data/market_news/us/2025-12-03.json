@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-03",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,849.72",
+      "change": "+0.30%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,454.09",
+      "change": "+0.17%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,882.90",
+      "change": "+0.86%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.06%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: S&P 500, Nasdaq 100, Dow Jones Futures Gain— Marvell Tech, CrowdStrike, Salesforce In」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Paramount and Netflix Slide; Microchip Technology Surges on Strong Guidance」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Edge Higher on Looming Fed Rate Cut」と伝えた。",
+    "S&P 500は前日比+0.30%の6,849.72で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMXc4ZW12eFJiYk5FalZ2MERRLXUyeWdjM3V0TlhuZUhyNmZaUU93c3UwWDdGVDd3VVQ0OEVwTlJVcWZyMVZ6RGhIc0RLVE1KVk5yUGNuTVBXb3NDV2FvOW03RkZJSEw3aHlrQ1pkMlZSSmhleEk2X2U0TTV3dS0xaWhQWWdEUkFjVXZiNXRwXzlDWXdyd0dCYzdJMDZ0MjBjcjhoaWR1dGFwTlJETjR1TERyeFVheVgzU0RYSDVHSVEtSmMyUTl3UHpZS19sdDBKcjRCVW95eHBTYlItYWYyRkc3cUhMUUFNdEpHWGhxM2dTSXp1b1dwQ1NBUTlTcHRweFJlaA?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZk9MdU9McmRjZmk1Y2lKMEJiRG0xS2JXMGRfa3pKckgwSkNBWVRPeko0OE9Uc1lkSkREWEFneFA2YUhsNDRIaTdfMkdVUjFkdEROZ1pPdXBqQk5kcTFQQUh3MVFRUHNJTlF4Mml3c21fclp4T1l0WTdOVkxrYktOZUo4TzBSUVZQN0p2ai1uVjdBMm5Gd0V2NUVobU5nUVBUdXNpckN5MWJQVEl5OXhjYmdXcUxwMDV6TC1aNlA2WksyMVBXVVVvU1BlU3hRUWxDZXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV2poUDVLdFp4dTVHVDhuTEhmeUFVNVBzYmdCMkY0WUNRckJwanVBbkE0M0ZPMGJOQUU3TXRqNU1CS0NPcmNYT3BGUmxKTXdlR2NfTVFVeGwxUjJDenNENkY1OGN6djFHTjNfbl80cjZVNGdxOHN5YmdLSlJjMGpFZXljNHl3S1pJakZiSE5MbjQtdThoX2cyUURkNzkzRWJMR3JOS0pTYjlhQ2gwY05fSTJDdTFQb1JZeGFUUE1ZOGpPZmlxRlRmNmVB0gHPAUFVX3lxTFBzUFRfNmdEUlkyV0RfSTVqNXlxVlJXQmJLRnNvOUtxWVBYa0xLRnZJcEZwc2Y3MmFkOWpqQ1c0QXhEOThiOG1fNWl0bHZoR0JiLTA5bHkxNVVHNkFsWnNfMkFEUUdoRkdfbnZiRkEzWmxweW52YWFLMkg5UDhhenUwcEhWUDYtdXZHX1NyRXU3X0J1bFVIbDhrME1UZm1xSDRjWFdHQjZrdjlXSE9mSVhvZEdPcmZYbFBWWkVaNHhKN1cweUZSSUl6Tm5yNHNCbw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:20+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

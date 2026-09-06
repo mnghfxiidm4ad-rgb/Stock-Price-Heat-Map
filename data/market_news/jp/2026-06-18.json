@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "71,053.49",
+      "change": "+1.65%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "432.30",
+      "change": "+1.60%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.60",
+      "change": "+0.18"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "小売"
+  ],
+  "news_bullets": [
+    "NYダウは反発で始まる、半導体関連に買い 原油安も支え。",
+    "【FX】6/18 FOMCは据え置きなのに なぜドル円上昇？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "ドル円午前の為替予想、ドル/円、米利上げ期待で161円台視野 円のアドバンテージ消滅も介入リスク上昇 2026/6/18。",
+    "日経平均は前日比+1.65%の71,053.49円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41T2FfVjNpOHZnUjNKSjdRRnpTalVRSFZQYXFBSmg5Q3FBWE4xRVRKeTZCOER0WTVZUDRCV3RnQVVJWS1tUUxyWGFxbUN5WDVsQXR3aG1vNm5DaERUOVNsQ0pOWXduYWZMRlBWUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tMWJOSTU3cVpTOWZrbzJwWUl2dHd3YWZYUm1BNEJLSi1qZFdTNjVDU2FXVVNFcGl5XzNYa04zNWF1Q3dZdW1yUngxby1tQ1AzWmlQVXEzVXI3UVZlaUIzYU40bw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yMXNBdHRFN0FrakZRc0x1VG92SUVPTXVzc2tJYVJadGRzU3l4RXFfT2tPdlBTTWV1cUJrXzNWV3dwbUdLOXR4SFlYaUJ5cE5WSkFwTHpDdUtQcjhwckU5WVFnSQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

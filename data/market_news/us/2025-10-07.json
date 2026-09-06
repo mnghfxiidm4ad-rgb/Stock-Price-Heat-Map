@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-07",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,714.59",
+      "change": "-0.38%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,788.36",
+      "change": "-0.67%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,602.98",
+      "change": "-0.20%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.13%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Dow, and Nasdaq slip after a week of gains as Oracle crashes 5% and Tesla falls on Model Y buzz —」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Turn Green—Trilogy Metals, AMD, Applovin In Fo」と伝えた。",
+    "海外メディアは「Hedging against market swings: How derivatives tracking the S&P 500 and Nasdaq-100 can help」と伝えた。",
+    "S&P 500は前日比-0.38%の6,714.59で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNSkZOakN3NVpWNGR4UzFGWEd2anlQTzc0U0syclJzVWJ5YnU1Mlp2eVl1T2tLXzE2ZjRId2tpV0oxd2xLVzFWSF9yYmxZQXhSSlhBU0d4RkxhS2RCdURzTm9jOU1qenRuOVJjT1FlR0I0bWtna0lLdDJ2WUJiZVU4Y2NTWkIzQUJ0Vi1LNHVkcXcxOWZjbGp0VnNGb1Q2UkZQU1FJVm9ydm5aVXFJNUNDU2xBLTlHRnZxU2JFZWZVMkdaNEtXM2VtckFWZDlGRWlCQUxXUlRvRzdibk85dFhZblVqMVhvd1FINWxXei1zOENLaVRoWHlZNklrSWtLdGkxemd6S1hEMG1TSDg5MDBBVWpqWkZfMlVvMHlKbXo2TzBvVkVyLUFyd1RwamVlU3hQbnB0dEpkNUEwRHB5Nkdoc1RzNjYxMENjNmhaMnE2cjhScGRJY2VwN1J5MnU5X1Z0WUZHdzZzUlJLcllaRVg5Y2s4TWlJb1lY0gH-AkFVX3lxTFBtYkhhU21UeS1RLWE4b3hBZzJvOGktOFpvZlhRSkxPeFNLODNGUXd4Qmt0azBpS2IyN0xoOFpwNGVGQ0lKakNtbzEwTzRxY09QQ2NJSW5TOEhMNzZiSk9KMjNYWG1zbW5YQmp1dzZ3X0t0THIzRHVrWjNoRzdvS2xITXhENnNFb0swcjh1VUNTb1VlTTZwZXZoWXoyTVpVUk83NDJNaE5LNU1WRkFQZVNudVF2NVFQRWluSm4yM0tmUXJ4QUNOUlhkNllmNFRvcENIVFR6STdaUmppQ0RDZHEwRDZvbjVBVGlfaXJXenlQWjVmZXNwRkc0bXdzbEpUUnRwN1IzRE9GMDFScmNBU0M5Y0hCTVpSYzJXR00yVFlCdE5BRVlmRWVWQ3lBbUQ2c1FzNFVZbWVmVnNIc1ozVEVyR2poRkcwQW9Rc3ZTS1NFWnBtanBVNGp1N2c3OEk0Q1NiUzZtOXY4U1NGcmVoalBqMmxuaC1vUVNXNF9kNWc?oc=5",
+    "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcWczWDVzNElSZVhCR2FKWlJCeUJKTWVIOW9mTWlLcTNKUGNjSTFuNVBoS1ZPcFFkTEQ2aGNUYldWNndnZ0lqdGFCX0syOXFURnctc2FmSFlOTzI3VTZ2WDF2Qml1SDVtTkk3MWpMbklLcXNGbjVncUZXMzVMN2JIN1JGdFdncjBNSHNPOTIwWldmWTF5dmZWRzNIbTN1RUJpNnBxWk41amljY3pjM0lNZk1oR3hlREs1UzlBWjF3RVpuSW1BUjFBRXQ5OEpLZkFicU9oUmlySTB3bzhmUEpKa2Z2SEZ1eVlpdTRwX01tb2dqTklPeGtUem9SMVQ5enJ2NnppMnlsMVR6SGxXNmg2OEU5VWRKdzhDVVNj?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcHJ5MS1YR0ptR1Yzeld4N1NvaDlXd3AxcklwMFhlRGtfQnVnNlA2RTNaS2xaUnpEM3J6RmcwYTM2by1aSFI4c0xPLW84REd4OXlQdWpnTlE0YW1NSl9ZdXdTWjlLekxNc19jUDRLUklXVVhXZm1IUVNLNlM4amRiMmpQMWJDdWZtSDdFZDRTcUNsOVI2UDhkOVk2WmRfZHlYd0tqbDJMTHlxSXlNRlc3ZHhUYXJoMnl4b1F0M09HTktSWWlHZWc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

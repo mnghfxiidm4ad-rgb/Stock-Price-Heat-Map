@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,941.97",
+      "change": "-1.21%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "401.20",
+      "change": "-1.59%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.82",
+      "change": "-0.45"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "【2026年最新ドル円相場予想】日米金融政策の行方とインフレ時代の外貨投資・日本株・ゴールド投資戦略｜佐々木融【FX/為替】2026年2月13日。",
+    "野村総研・木内登英さんが語る 衆院選後の円高は「政策修正への期待」 日銀利上げへの影響は？。",
+    "日経平均株価4日ぶり反落 終値は10円安の5万7639円。",
+    "日経平均は前日比-1.21%の56,941.97円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05UEFzYTZEQ01wc2tZWk1RXzhUV24tcXQ1YTlsVUU0T1pORERSX3g5SFo3WkxObHRHUTdFOG1vWTN4YTNQWWV2NlQtNVY3ZUZUQk5QOFEyZnJaRmtnQW1WVHZjQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOUExnSHEtbW9VMl9aNnhsUGRSRDFnM3ZUa3phQVJVaFFIMFQtUEdOQ3RSTDIwcnBSZlE4R0ZrYnY4U0p1WTZzd3BKMENELXAtRmZGMXFRaFNNSnBQY0Jn?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VRUVyem9xYlI1OUhDNUVzcHpzc0dfcnR0VmZscWNwSlRCRXFUV3JwcGs2SHZXU2JGM1piUW5RT0p1aU1BVEdza0c4WW5wRXJxbmZDajV5STJmbGoxbFpOc3BoV3l5NkU1bkNTcg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

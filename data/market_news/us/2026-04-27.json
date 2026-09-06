@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,173.91",
+      "change": "+0.12%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,887.10",
+      "change": "+0.20%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,167.79",
+      "change": "-0.13%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.34%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "金融",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners」と伝えた。",
+    "海外メディアは「S&P 500 Holding Pattern: Mag 7 Earnings Collide With Oil Surge and Fed Fears」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq, close slightly higher in cautious start to a heavy earnings week」と伝えた。",
+    "S&P 500は前日比+0.12%の7,173.91で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUwyMm44ZUQ2bkpGc1IzelF4QW10WVJFZ2JxdGM3bVRpbzd5WWhlNGl2a25Vd0Nkc004TFRsd2lkY0UtUTVqaS1tRXhYS2ZqaHE1dkItTTRnNzRPbG9SclNfeE9SZHdTcWZ2V2hJVnZiNFNLYktJSVVNb2MtbjF2VkZKUUlrODBPWnZrakw1UWRUaVdjWXpjZDBzVDhjM3NIUmx2T09nT21qUTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDJmOUpTTkpVLWpWSGcyanQ4dGZZWFVBcC1MdkxZdWNvTDBqc0lNMFNBbVJwQ0RFbDRxU3AwUGcyRWNZeU1LWjhwVUxKTlBPQl9hMHZ2bGlBVm9uMkY2RWczVV9YdkJmdlhoLUtHREdfa0FCMDFtbkR2VHB2MG5uRzBtaHd6NVZXVXRFQW5fTDdlWGI2ODhzcDZoTWFqUFFpOHFoSHVadEE3SlIyTWRmLXc2WVdDNGVod3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEs3OVpOYnhkaGZjal9qUlRkLWlyTFdYQUduUENEcFdwNDBZLVhSUWRBbnI1cUxPblpnaVk0NURRUFY1aVhlRno3VTBXWWU1ckM2VTFQd3RzQzczV3hiZVgwRVAzaXZjY1U4Yk9pRE1WZzRPOWRHam16M2RlQzVqTmlsRWQ2VEhuU1p1LUd6ZkNKeHh4R2lmUXBOa3ZXUGlHaHk0?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:30+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

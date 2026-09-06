@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-03",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,448.26",
+      "change": "+0.51%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,497.73",
+      "change": "+1.02%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,271.23",
+      "change": "-0.05%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.21%",
+      "change": "-0.07"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「HSBC raises S&P 500 year-end target on earnings strength, modest tariff impact」と伝えた。",
+    "海外メディアは「Choosing between S&P 500 market-cap and equal-weight ETFs: A strategic investor’s guide」と伝えた。",
+    "海外メディアは「Are the strong returns of the S&P 500 a reflection of the growth in the U.S. economy?」と伝えた。",
+    "S&P 500は前日比+0.51%の6,448.26で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSl9WZGFMck1ROTN5ZzRKcjQyRDdpaDJFdUx5aEtEeEpXb0R2OS1DSHpadWxoVzdiNHBtVjRfY0Z6QlJXTm4xaG5IWENBRHM2QlpKXzlDQURvY2tJUnlpZFgwR3JINHBDd3RpS3dPRmFiMWRGOGk2SkQ3S0ZSMExBZTYweU1hMFN1V3UwVC1LajAyMmN3ZU5rSTdscWVMS1pKMWxlZmxZYTBLVC1xNkItTWFLbUpzQUlyZGc?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOHhxX2tUTWVweFd5TGRKaVQ0clpveUk3dlRpTUtDOGxfRC1nZWgzTTJxdnJWLXVDSFhaT3hzdWhEdFpEVkZxM1o2VDJfRURCTGNiUXFIbkNOT0hoR3RtbloySW8xT2ZQM3ptX014RUh1Ml9wSmpFUVpCQWlzUWVqZWVZUXAzSGRnQmZzNXRBOHBPVkI1aElkTnYwYy1qYzlBd0tUX1lJMkRwSTdEQi1tMkdUb3RXNlhXdXBqSWZGZ2lOZnI5RFFmMTFCbmZuYlNDa1E?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbHNza1NEbS1TMUppYkcwdkVpVE9TUklBOHd2M1JoMVRZVkhIVzN6TXM2X3U1NjhMeEVGS2hfUnF0WmtWcEVtdkY0V2JubUFPb0puWm5zUHRqLUg1R1JiczNyWEVOVjJPTFBQeTY2ckx3aGNQYUdpTFV4cHRoTmVzdjBLX0d4ejZNSGdXU1NsQkRpUXRMUjJqX1lTTTBwUE5CM3ZQaU1BX2ppa0E0UjBJdGNidUpublY2NHVkWUFlb0Y?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:35+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

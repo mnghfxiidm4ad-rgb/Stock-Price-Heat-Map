@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,165.08",
+      "change": "+0.80%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,836.60",
+      "change": "+1.63%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,230.71",
+      "change": "-0.16%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.31%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 close at all time highs on Intel and Nvidia gains, but Dow drops」と伝えた。",
+    "海外メディアは「Markets Waver as Oil Holds Above $100 and Intel Surges: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「Meet the Under-the-Radar Growth Stock Crushing the S&P 500, the Nasdaq-100, and the Dow Jones in 2026」と伝えた。",
+    "S&P 500は前日比+0.80%の7,165.08で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ0JnQWtUd1lpMnVRUWUzNnhzdUI1LW5QM0ZpdkhuZUtjTjBPaGtSS2JBZzhBNnFFYmtwZW5iaHZuQXYwakIzWXBMd3J3T3NGTHFUVGo2dHNEcjl4ZEJzN3dUcXdfNlZpSjR6VFJTWnJsdWZhdGNRbHRrbEJFTlBLNDVpa0hSZ1ZYQjdFZmNIUm4wN1YtSGZyQjZGcGkyUWFqU2FpS2loQ3hFd0RudkFIYk5ZUDdLazFTaUdOSVhlRk5xdGZqM0hfU2FzUHQwVU93amZKeHpxVHlSdERWNWFFY2h2Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0VoWUZCeTd0MW1wLW9sd1YzMkJTd3hjWW5OcTR2akZ0WXhiX2VmMVpYYXRWYmNLUHBIOHZMWGE4Y3dZX3FIQTdHc3dlYk0wY0hWNGsxRGg4WVQzamw0VHEtajdlZHRlRGo3amIxNHdxMDVCOWN3dHRIU01jcGxkSmM3ZVI?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0E4T1p5SmNnU0pmSzBhbDgyQUZkc182dTJvRTJzV3cxOWpDbF9QOFp3VjNVeVgxZXVJTm5xeHN4bm1uOXVMTDJVS3hzNm13Vl9wMTBJX085Um11ZGtxMjRRVWhkb3pXWlN6MG51VlRBOXJZMFBHX1o3Ync4Uk90X2R1dDJhWUVmaTViNTNaa19BNGtxeGtr?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:30+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

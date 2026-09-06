@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,870.40",
+      "change": "+0.19%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,578.13",
+      "change": "+0.31%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,954.99",
+      "change": "+0.22%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: S&P 500 and Nasdaq Gain For Fourth Straight Day Ahead of Highly-Anticipated Fed Policy Meeting」と伝えた。",
+    "海外メディアは「Tech Weekly: S&P 500 Closes Near Record Ahead of Fed Interest Rate Decision」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Rise Ahead Of Fed Decision This Week: Why NFLX, CFLT, BA, LLY, IMMX Are On Traders' Radar」と伝えた。",
+    "S&P 500は前日比+0.19%の6,870.40で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVNtYTE0dkQzNVo5cDNCTEJYSDNTVzZXYklYQnpwQzlZTUVZWjJRVktXMGZaTlRSaklTYnpTa1RBS2J0VGhTNUlZd3lxOXpmY2Z5T1NEcVZDc184MEZaN0Fwdl9nUFBHX2wxTUtEOUpVMzBzcmdoRE5yZ0pfR2hMOFZrTGVPWHA4QXF5SnF2VmRIcEVDMVpzcXNBLWR5dGZuMThEYWN4RmRxRnVIVnkyemdlRkpackpYeG5SeHJJdw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RekhwMUpBaElDaWRhc21nYzdSb0x6YkY3a0h1RjVWQWV0V3Z4bWF1S2JOMW0yU2QyTWVMT0p0M2k0U0ZDd1FiX1dIZkVjTGtqcklmSnJubGUyeG5TdVJYMXhZdW9oWHAzNHFv?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1M4X2swSElzNnN2ZV9VYmViRWJoakFpSU1zRXRLSE9oRGxiNHRqQjl0X0ZZWlJzWWZ2UU5ibHNTd2hqaFZMSEVTQmY3WFZPZ0d0UXJKQjJoaTRma0Z0ejhZYmhONTJKZlpYRU5neWZGX2pXQ1V2TlloYS14bm9HeDRjQjVGdW4tdTZuN3prOG9Pb0F4OUtPbTR2aGtKU21zZTRGVjVnWWU2QlI5cUNOam9naW5UdnRuN3JpOUtBTFduZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:22+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

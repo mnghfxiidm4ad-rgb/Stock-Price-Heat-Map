@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-30",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,939.03",
+      "change": "-0.43%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,461.82",
+      "change": "-0.94%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,892.47",
+      "change": "-0.36%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.24%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「US stocks: S&P 500, Nasdaq close down as Big Tech’s soaring AI budgets trigger flight」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq down over Big Tech's AI spending」と伝えた。",
+    "海外メディアは「US stocks fall, as investors fret over Trump's Fed nominee, earnings, inflation」と伝えた。",
+    "S&P 500は前日比-0.43%の6,939.03で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZlZmaXplWUJxV051SE96cmVPR011MzE4dy1uc3c2NzhKc1ZpZnBJeDZZZGhsWEZULVdkWjBZWk1weWppUlppVk9CclNSOUdCLXlfM1dDb2FOR1djUE9Bd2lEallrQ1dXaEVQMUF0QkN2dm84dVotek5kZHFUVlpLZEYzMUhhZmp3ZGJ6WXZmQXoyZGFMam50aS1PN1NxZVlPZ2hGaERlSFJzYS1YZ0s3UGlDLXMtYVk1OG9hU19jRTFFWFJLVUZUbnY3cGhIUWtwYWpVWG54LW00WTZpdXNMNnV1MW15V1dDbjg3cA?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9adGtEYUpvOGVacWY5UHQzdUZYWTk5YnI4OXJzbmVFb09hc1U3ejB4aU1SaEFxbEljUUlGa3JMSklHbmtuM3dGVFNPRXJGYks3SkhsMzVKcWNySmF0WWs1VTVmQ3dYTkNoVTJ6b1lZTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPODhTQXZLaDFfR0VKamFNM3k5UHNTRV9HWHoyVjBnWnluUjJzVWZ3T3E5MjFnOGFsTTM3bDBwMUREX2Y2bFVpWUI0bXNfS2VGQmNkXy1uSmEtamtqM2ViQlI1cDBRM1JjM3A4ZC1PMHdHZ0cwOWVvQW54dE9RZF9YTFZkc2IyUFFPaVp2UEdWQmdqbXpOcFlWV1pHZk1mdUx2NHY3bzh3?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

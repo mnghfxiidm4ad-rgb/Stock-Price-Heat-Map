@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,404.50",
+      "change": "+0.13%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "423.10",
+      "change": "-0.33%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.23",
+      "change": "+0.27"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "ドル円午前の為替予想、ドル/円、ドル軟調でも下値堅い 日銀利上げは円高材料にあらずとの見方 2026/6/16。",
+    "日銀、政策金利1％に利上げ インフレ警戒 31年ぶり高水準。",
+    "日経平均株価、一時初の7万円台に 日銀利上げ発表後に上げ幅拡大。",
+    "日経平均は前日比+0.13%の69,404.50円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNU09ablF3MVM3UGFaLUJQb00yZzJISEdVNnM0OTdYdE5lVTdPVjVqcExETm1vaDcxWXNGMkhpaHBUcVJqLXAxemRsRnFIRzRKZ2U4MEJDN1BNOV9oMGtUaWMzVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lekVUbEcwQzN5dUVzd2c0aXd0cVA4N3dGQlpCRzUxTFNwTkFmQUVIN2hubEk2cV9Kc1lMZ2VZTWhaNEhaZmV0d1cxcXVtN3BPT3JFc3ZpaVp4QnVKRmt5dGd2U0luN21y?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OTHd0eXlBUFB0NGFDZmJrSTViazM5Si1fNEFCMlltQlRKdGF0RzFOdHliOF9DLTVrRkFXblppbEFhdUMyaDlORWItcUlSbXp0Q0FXWA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

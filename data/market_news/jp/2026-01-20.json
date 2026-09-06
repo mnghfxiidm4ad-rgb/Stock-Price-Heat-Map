@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2026-01-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "52,991.10",
+      "change": "-1.11%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "380.40",
+      "change": "-0.94%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.18",
+      "change": "+0.64"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "建設・資材",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "ニッセイ／FOLIO ねらってそなえる日経225（NISA成長投資枠）。",
+    "日経平均は前日比-1.11%の52,991.10円で下落して取引を終えた。",
+    "小売、食品セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11cGo0SWpJX1BzSWJCYTRLc3ZsT0pQNHFON2U5blhZWENHSjdaUUFoT3pYX050bm5UWWp2azNiYWhPNldwZENFX3pHSHJTNWkxNXdVYjFjSzBndWMzZmYweHlDTW5VbW8?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:40+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

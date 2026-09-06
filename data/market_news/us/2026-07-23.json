@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,408.30",
+      "change": "-1.21%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,137.69",
+      "change": "-2.15%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,711.65",
+      "change": "-0.97%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.70%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Dow, Nasdaq End Lower Over Capex Concerns, Surging Oil — CBRS, AMD, GOOGL, TSLA, MSTR In Focus」と伝えた。",
+    "海外メディアは「Wall Street set for lower open as Alphabet and Tesla disappoint while oil prices climb: Dow Jones, S&P, Nasdaq, Futures」と伝えた。",
+    "海外メディアは「Wall Street Today: DJIA, S&P 500, Nasdaq Comp Tank as GOOGL and TSLA Tumble Following Earnings」と伝えた。",
+    "S&P 500は前日比-1.21%の7,408.30で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUWNlcmtSZ044VElncldPU21GVWo1bkpnWmlsNEdJSVZzcFc1ZzdUMHh1X3A3N0FGRHZZVnl1cHdTb0JkMWxNWmh2VTgycmJHc0hYUlhJSFBIbFZMLVhEOUN0QWZpYkNodklPWjhUSkc4X2NRSGhhelhEdTZ3SElBdERVZ1l3b3BfUU9pbU82MEFzckVqT3BveUgzNlBUNkZWZWYwcUVSM3J4YTlESDF3OHAzXzVQYU96TFRtM2JfNWdKTWZELWlB?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxORVhaSVIzQmxHandJVDJsell0anVtNHBRbk50cndvY2IwenVMUE9tY3N5TGs3LU11Qy1RQ2ZwVVMweTVUaHAtZWF1c3hkZTlKd2hvaUh1eUgtRWMtRmtId0FUS01paF8zMGh5M2FvMGVySElpUmtFdGpVQTdTajhBajlRMEJ5aExQcXVjX2VzbGl3Ukk3eXc?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGMwS3hIbzRiaURIQ2JUNFl1NUoxYjRVbnptYVpqSnlMdnd4ZHdOQmJVaFNXUWNnVkZZQjNCajRLdjI2cktYUm5idTg3a0pjRlQ5QnVlY05pVC01WUwtcXBlSlBoaGdZN1duZnV3UTRqMEZ2OGU0UklCYm5GZ0Y5OWlIc0xqNzNBZGpKQUV4dUJDWEY2cGpMbUpSUnVUdXRKZ0pB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:15+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

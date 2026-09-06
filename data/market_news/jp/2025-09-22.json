@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-22",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "45,493.66",
+      "change": "+0.99%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "328.60",
+      "change": "+0.61%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "148.10",
+      "change": "+0.15"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "長期金利が17年ぶりの水準まで上昇 日銀の利上げ観測で国債が売られる。",
+    "ドル円、豪ドル、メキシコペソ、トルコリラのテクニカル分析見通し 2025/09/22〜09/26 日米金融政策の方向性を見極める中でUSD/JPYは神経質な展開、中国期待でAUD/JPYは底堅く、利下げに転じたTRY/JPYは軟調、インフレ懸念後退のMXN/JPYは底堅い展開か。",
+    "米国マイクロン決算・PCE、国内は自民党総裁選告示・東京CPI/日経平均最高値【今日の注目株＆日本株市場見通し】「デイリーZAi」9月22日号。",
+    "日経平均は前日比+0.99%の45,493.66円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BcXpCZkRKUTdkcUljQzQtLTR5OTRQYXNWYURXYXR0dFZCelRsY2pyelJEdlZwM19lZENGVFN2Q3FzZ3lwQjl3cVlkbDVEUjl4bFhBR01BOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4telBhSkIxZ1d6Q2FDODBWc25VXzBNLTg5WHRJTHNrYTZRcDhsdnhqVUxqTlg1MHR4Qzg5U3F4OURTOFhsSVFrUkpkdWREblVOeEROZExaeU1QdzBXU2lubGJtYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAySGpOMTlMeXV5amsxYzd0TUMyaXRWY0w5d0czZDZ0aHJxendEYUlGSkV5bjRHdmNqRVhNNjQ2eEFUT3ZSWlV2Nk9lNjRCdGo5LXNj?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

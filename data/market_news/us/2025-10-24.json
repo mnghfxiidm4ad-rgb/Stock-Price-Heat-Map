@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,791.69",
+      "change": "+0.79%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,204.87",
+      "change": "+1.15%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,207.12",
+      "change": "+1.01%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.00%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market today: Dow, Nasdaq, S&P 500 open higher as US inflation data fuels Fed rate cut bets — Details here」と伝えた。",
+    "海外メディアは「Tame Inflation Report, Tech Earnings Put 7000 Point S&P 500 in Sight」と伝えた。",
+    "海外メディアは「Stock Market Outlook: S&P 500 looks set for all-time high with CPI inflation due」と伝えた。",
+    "S&P 500は前日比+0.79%の6,791.69で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcENjaUU1Wk5WNVpmeEwzNVYwUS1yMGc2VVRPTXpyU2tOOVZRZ1hRSExPalRpUUxrLXAyNjZLSUJTWkRYUTFpdUYzbHN1T2txSERHM2JvWlo0Tk9Kc0NuWUtmazAtbTlFMVBSSE1wMENscTh2MW84UTRid01NWWZyYUZGOUFURVY4RjQzam11YWFuX1NSN0tySlBDOXR3UmdNbUQ5bHpBNFNKR2FjY0JPWU9LQWlHOUY1MXNISEVnaHBIcHRvZUJjWFJnc2dsd3JwcXhOclRBd21XY3Jydlpmb1A1YUNpcE9CMkF0NHhYUU1tdk43Zy13TGdpRzY4eXNmZHZIbUpZd0NGeXh40gGSAkFVX3lxTFBkZGRBMVZyRllWNW5UempuaDU4RU5GX3RPQURlNkVFSkVUZzZPTzU3NXpWMVpteGFPWk0tWldIZzJQQl9rX214WTRpWnp5bkpCd1Fvemo5dmo1OXZyUnJZTEFadU9KQ1I5Zkw1NmM2bms4WWxTbkwwWml0am1heTVtbF9LQXJaMlVQbWhteWk5UFJvcEJCSVlabmpCSjJLVmxnZm02MDFLR2tFNFBkS29WX0NkeGt3WWlaek0wdFU1OEhvRFdrVV9iV2NROG9tXzZEeE9GaFhWWmdOQkNXZjZsYUNvd2pGejBxVG9jYU5xQmFfNVk3LVRzb281V1k5NEdpTXp3eVFMT1c1Y0I5aDJOTkE?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE54dEZBRE1yUlN6SGpkX2R5WXowOE9UT1VTdVlxaWpnS3hvdHFzVE4xZ25SdVQwbXR0d2NzS3dTMnltOGJpQzRac1lucmFCcEwzcG8yclpHRU1YUUxDU203NDN4Z1pVZnRodGZzMUQ4a1NTTjBaUUZSN21EMm1Jam8?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFkyMjVwdUpoUHZWdUt0aUZGN2NKUVVaWFNzaFdMbVV2eUVZS3NONzAzWkZvS04zLW4wcW5wdGpfWTJxa3E4aF9vVTNlM3ZDelRaNUpfM09POFh5SmhEY0xrS3B1blRnN1kzX1I2U2NHT1pPS1J1MEMwZVJNckVUQ3E2VWhSd3RpdjI1ZUtmZFhxREgtM3V6M0VkRjJhNnYxQVZVdGpXZlk0NWpUbWIwa25NOHZIS0E?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:00+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

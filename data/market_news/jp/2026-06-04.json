@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "67,470.69",
+      "change": "-1.36%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "418.60",
+      "change": "-1.23%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.94",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "建設・資材",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で160円台前半｜高市首相の口先介入で円高の場面も(2026年6月4日)。",
+    "ドル円、円高急進の見通しは？ 投機筋は円売り 日銀は利上げへ布石。",
+    "日銀、今月軸に利上げ検討 政策金利１％へ、景気見極め最終判断―植田総裁「是非しっかりと議論」。",
+    "日経平均は前日比-1.36%の67,470.69円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNdHdNX0xOcDZTQkN5RW9EZlY1SlR6Ul9CcEl3eFRqcUNxMTJDbVhPbEZ1YU9TU1FtX2I4ME4xRUlEUEk4cUJhdFYwUUE0TDVsZnNvTVZKWGtwMUpUeXhXcFNZZ2plRDZPOVVvaHVpUWloazA?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONVZsREEtYTEzOGF5c2FvMmkyYW5Kd3V5UnhLMnJwOFF2ak5SZXZGVEJZdWU2aDRDTGZ2ckNUTkdtWjlINWRONVIwb2hrQ1o5UU5hTTFTTmZPU2Zaa19qcmxKYS1ydEJUSkNWMV9hWE9fU19hZ3pycEdvZjJ6aHp3d1FzQTZxMmNqOHcxWmt3bWpQZTB2VnhpMkpWMzQ3S2tLVEFiMmJhaFM5a3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BdWItdkNwTzBOaXVrRmxsWXFSZTVmelRLNjZTZzJZU2NiR3lqcU1salRQMEhFNUhtYVVadk90LW5GbzYyMi1pZUl2NFFOZGd4VlN4UDI1NzBmdGlMVW9WSFRuYw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:43+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

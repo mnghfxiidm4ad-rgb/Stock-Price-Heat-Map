@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "45,303.43",
+      "change": "+1.15%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "328.60",
+      "change": "+0.55%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "146.89",
+      "change": "+0.48"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "ドル円午前の為替予想、FOMCはリスク管理のための利下げ 注目は日銀に移る 2025/9/18。",
+    "【ドル円年末160円予想】日米関税合意でドル高加速、佐々木融氏が警鐘を鳴らす円安・インフレ時代の資産防衛策 2025年9月18日。",
+    "日経平均株価4万5303円 半導体株「一極集中」買い、米利下げで加速。",
+    "日経平均は前日比+1.15%の45,303.43円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50SHZnZ092NHJkYW1lNWlQTHJnbHlKQzRUM2NxR0ZWYzVvTHRoRjh6eHJPNzV2TXRtbDFPZEE1S05hZVd0ZWczMVdIcVpNVUNJaHlGbjdZei01TWdwUHlKQVQ3TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kNFVPUDJ4aGdjVVUxR1BpeTFCSW9uSHBZUWpvbXNtUDNybjVBb05KaWpJWlExSndZSjN3dXYtMmFxZzhHWlF5X2FFeUNiVklqMFJiWWo3T196NURIcEE1elFKZw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SVHp2SUZWVGJMZUhVWlRNVW9EMjBFQzlIbEktYkNiWnR5NnZjbkJaeG5mUHBzZm83MEE5UW02UjhOSXlsRXUzX2tBUkFITHJjU0plS193b0ZIZmhkaTBXZjdNS1RxaGl2U01pYg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -168,8 +168,8 @@ function draw() {
   if (!state.rows.length) {
     drawEmpty(
       state.market === "日本株"
-        ? "日本株の日足がありません。C:\\data\\日本株\\start.bat で取得してください"
-        : "米株の日足がありません。C:\\data\\日本株\\start_us.bat で取得してください"
+        ? "日本株の日足がありません。fetch_history.bat で過去分を取得してください"
+        : "米株の日足がありません。fetch_history.bat で過去分を取得してください"
     );
     return;
   }
@@ -375,10 +375,37 @@ function syncControls() {
   $("d-cal").disabled = !ready;
   $("d-latest").disabled = !ready;
   $("date-hint").textContent = ready
-    ? "カレンダーか ◀▶ で日付を変更できます"
+    ? "カレンダーか ◀▶ で直近1年の営業日を切り替えられます"
     : state.useApi
       ? "最新日を表示中。履歴の準備ができれば日付を変えられます"
-      : "公開サイトは最新の終値です。東証17時以降・米株16:00 ET引け後に更新";
+      : "日付一覧を読み込んでいます…";
+}
+
+function expandQuotes(data) {
+  if (!data || !Array.isArray(data.quotes) || !data.quotes.length) return data;
+  if (!Array.isArray(data.quotes[0])) return data;
+  const cols = Array.isArray(data.cols) && data.cols.length
+    ? data.cols
+    : ["ticker", "name", "sector", "price", "change_pct", "volume", "vol_ratio", "turnover"];
+  const asof = data.asof || "";
+  data.quotes = data.quotes.map((row) => {
+    const rec = {};
+    cols.forEach((key, i) => {
+      rec[key] = row[i];
+    });
+    rec.asof = rec.asof || asof;
+    rec.prev = rec.prev || 0;
+    rec.vol_avg = rec.vol_avg || 0;
+    rec.shares = rec.shares || 0;
+    rec.market_cap = rec.market_cap || 0;
+    rec.change_pct = Number(rec.change_pct) || 0;
+    rec.price = Number(rec.price) || 0;
+    rec.volume = Number(rec.volume) || 0;
+    rec.vol_ratio = Number(rec.vol_ratio) || 1;
+    rec.turnover = Number(rec.turnover) || 0;
+    return rec;
+  });
+  return data;
 }
 
 function fillSectors(sectors) {
@@ -407,6 +434,31 @@ async function tryApiQuotes(asof) {
   }
 }
 
+async function loadStaticQuotes(asof) {
+  if (!state.days.length) await loadQuoteDays();
+  const wanted = asof ? snapDate(asof) : (state.days.length ? state.days[state.days.length - 1] : "");
+  if (wanted) {
+    const dayRes = await fetch(`data/quotes/${newsCode()}/${wanted}.json?t=${Date.now()}`);
+    if (dayRes.ok) {
+      const dayData = expandQuotes(await dayRes.json());
+      dayData.days = state.days;
+      dayData.history_ready = state.days.length > 0;
+      if (!dayData.asof) dayData.asof = wanted;
+      return dayData;
+    }
+  }
+  const file = state.market === "日本株" ? "data/jp.json" : "data/us.json";
+  const res = await fetch(file + "?t=" + Date.now());
+  if (!res.ok) throw new Error("data file " + res.status);
+  const data = expandQuotes(await res.json());
+  if (!state.days.length) await loadQuoteDays();
+  if (state.days.length) {
+    data.days = state.days;
+    data.history_ready = true;
+  }
+  return data;
+}
+
 async function loadQuotes(asof) {
   setBusy(true, "読み込み中…");
   $("status").textContent = "データを読み込んでいます…";
@@ -414,27 +466,31 @@ async function loadQuotes(asof) {
     let data = await tryApiQuotes(asof);
     state.useApi = Boolean(data && data.ok && Array.isArray(data.quotes) && data.quotes.length);
     if (!state.useApi) {
-      const file = state.market === "日本株" ? "data/jp.json" : "data/us.json";
-      const res = await fetch(file + "?t=" + Date.now());
-      if (!res.ok) throw new Error("data file " + res.status);
-      data = await res.json();
+      data = await loadStaticQuotes(asof);
+    } else {
+      data = expandQuotes(data);
     }
     state.rows = data.quotes || [];
     state.asof = data.asof || "";
-    state.historyReady = Boolean(data.history_ready);
-    state.latestDay = (data.status && data.status.max_day) || state.asof;
+    if (Array.isArray(data.days) && data.days.length) {
+      state.days = data.days;
+      state.historyReady = true;
+    } else if (!state.days.length) {
+      state.historyReady = Boolean(data.history_ready);
+    }
+    state.latestDay = (data.status && data.status.max_day) || (state.days.length ? state.days[state.days.length - 1] : state.asof);
     $("date").value = state.asof;
-    fillSectors(data.sectors || []);
+    fillSectors(data.sectors || [...new Set(state.rows.map((r) => r.sector || "その他"))].sort());
     syncControls();
     setBusy(false);
-    if (!data.ok) {
+    if (!data.ok && !state.rows.length) {
       $("status").textContent = data.message || "データがありません";
       draw();
       loadNews(state.asof);
       return;
     }
-    const extra = state.historyReady
-      ? ""
+    const extra = state.historyReady && state.days.length
+      ? `　${state.days.length.toLocaleString("ja-JP")}営業日`
       : state.useApi
         ? "　過去日付を準備中…"
         : data.updated_at
@@ -443,11 +499,32 @@ async function loadQuotes(asof) {
     $("status").textContent = `${state.market}  ${state.rows.length.toLocaleString("ja-JP")}銘柄　${state.asof}${extra}`;
     draw();
     loadNews(state.asof);
-    if (state.useApi && !state.historyReady) pollMeta();
-    else if (state.useApi && !state.days.length) loadMeta();
+    if (state.useApi) {
+      if (!state.days.length) loadMeta();
+      pollMeta();
+    } else if (!state.days.length) {
+      loadQuoteDays();
+    }
   } catch (err) {
     setBusy(false);
     $("status").textContent = "読み込みに失敗しました: " + err;
+  }
+}
+
+async function loadQuoteDays() {
+  try {
+    const res = await fetch("data/quotes/" + newsCode() + "/index.json?t=" + Date.now());
+    if (!res.ok) return null;
+    const data = await res.json();
+    if (Array.isArray(data.days) && data.days.length) {
+      state.days = data.days;
+      state.historyReady = true;
+      state.latestDay = data.days[data.days.length - 1] || state.latestDay;
+      syncControls();
+    }
+    return data;
+  } catch {
+    return null;
   }
 }
 
@@ -475,11 +552,20 @@ function pollMeta() {
   clearTimeout(pollTimer);
   pollTimer = setTimeout(async () => {
     const data = await loadMeta();
-    if (data && data.history_ready) {
-      $("status").textContent = `${state.market}  ${state.rows.length.toLocaleString("ja-JP")}銘柄　${state.asof}`;
+    if (!data) return;
+    if (Array.isArray(data.days) && data.days.length) {
+      state.days = data.days;
+      state.historyReady = true;
+      state.latestDay = data.max_day || state.latestDay;
+      syncControls();
+    }
+    if (data.history_loading) {
+      pollMeta();
       return;
     }
-    if (data && data.history_loading) pollMeta();
+    if (data.history_ready && state.days.length) {
+      $("status").textContent = `${state.market}  ${state.rows.length.toLocaleString("ja-JP")}銘柄　${state.asof}　${state.days.length.toLocaleString("ja-JP")}営業日`;
+    }
   }, 1200);
 }
 
@@ -528,7 +614,14 @@ function openCalendar() {
   state.calYear = parts[0];
   state.calMonth = parts[1];
   renderCalendar();
-  $("cal").hidden = false;
+  const cal = $("cal");
+  cal.hidden = false;
+  const btn = $("d-cal").getBoundingClientRect();
+  const width = cal.offsetWidth || 280;
+  let left = btn.left;
+  if (left + width > window.innerWidth - 12) left = window.innerWidth - width - 12;
+  cal.style.top = btn.bottom + 8 + "px";
+  cal.style.left = Math.max(12, left) + "px";
 }
 
 function closeCalendar() {
@@ -597,7 +690,8 @@ $("d-next").onclick = () => shiftDate(1);
 $("d-latest").onclick = () => {
   if (state.latestDay) loadQuotes(state.latestDay);
 };
-$("d-cal").onclick = () => {
+$("d-cal").onclick = (e) => {
+  e.stopPropagation();
   if ($("cal").hidden) openCalendar();
   else closeCalendar();
 };
@@ -642,8 +736,11 @@ $("reload").onclick = async () => {
   }
   await loadQuotes();
 };
+$("cal").addEventListener("click", (e) => e.stopPropagation());
 document.addEventListener("click", (e) => {
-  if (!$("cal").hidden && !e.target.closest("#cal") && !e.target.closest("#d-cal")) closeCalendar();
+  if ($("cal").hidden) return;
+  if (e.target.closest("#cal") || e.target.closest("#d-cal")) return;
+  closeCalendar();
 });
 document.addEventListener("keydown", (e) => {
   if (e.target.matches("input, select, textarea")) return;
@@ -684,6 +781,9 @@ document.querySelectorAll("th[data-sort]").forEach((th) => {
 });
 
 window.addEventListener("resize", () => draw());
+if (window.ResizeObserver) {
+  new ResizeObserver(() => draw()).observe($("map-wrap"));
+}
 loadQuotes();
 
 function newsCode() {
@@ -723,6 +823,7 @@ function renderNews(data) {
   if (!ok && !hasBody) {
     empty.hidden = false;
   }
+  requestAnimationFrame(() => draw());
 }
 
 async function loadNews(asof) {

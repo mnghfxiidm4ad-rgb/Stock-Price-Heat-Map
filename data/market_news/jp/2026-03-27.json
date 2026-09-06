@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,373.07",
+      "change": "-0.43%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "382.70",
+      "change": "+0.03%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.70",
+      "change": "+0.32"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "不動産"
+  ],
+  "news_bullets": [
+    "日経平均株価終値230円安 「パワー半導体再編」かき消す中東不安。",
+    "27日の日経平均は続落､TOPIXは配当狙いの買い入り上昇。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で110円付近｜夜以降に円高が進んで4営業日続落(2026年3月27日)。",
+    "日経平均は前日比-0.43%の53,373.07円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KS2cyWDlydFhvWUlWbDdNMDlMZC1tS3lnQXlNcXZSSXBtaWl4a2plNGJkTFMtM24tSzR4a1ZYbEdUQVVGOEVYc2pXSmwxbXJCbE9MdTZzLUJCR3JFS1pxVDZHX1ctQ0dnSE4xZQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kcU5xWGR3d2pqUFluYnpzNVNGYmdjbUdLU2Eya1BlaWgyVlNsaHd6a3VuYVdWVlVfU2hsTnNBeEttc2FQZ3JiZWQ5QVdOMFhLWUNvSnV5OA?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE83VHI4ZFYzTks4dG9WTmRLNDFYS3hrV3hYR25sTG01Q2JIWmJpY3pHOElMZzRVc1BlZTc0NTR5WUxoQVZVbzJobEtWalhZRmU5czE1V0tGR3dDSXg3S1oxeU5BR01QTGlOOENjdDVkY2d2WVk?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:12+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

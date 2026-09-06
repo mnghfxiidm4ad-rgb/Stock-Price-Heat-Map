@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-03",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,715.79",
+      "change": "+0.01%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,780.51",
+      "change": "-0.28%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,758.28",
+      "change": "+0.51%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.12%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500 manage record closing highs; Nasdaq falls in volatile session」と伝えた。",
+    "海外メディアは「The S&P 500, Dow & Nasdaq Since 2000 Highs as of September 2025」と伝えた。",
+    "海外メディアは「XDTE: S&P 500 Based ETF Uses A Synthetic Covered Call Strategy To Generate Income」と伝えた。",
+    "S&P 500は前日比+0.01%の6,715.79で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVR6blk2aTJTRXdramVCRzNJb0FCWGgxbHpvUFd5VWVudWlMZkFYbng3ZFFnMHNkZktmcG96b0pqQnlZTjNPbGF4ZkJqMTV4dEctQlVlem1KcjBBbGNPakJFTHR4Tm9pTkhsLTYyeThRQ3J2MTNzMHNDZ3o5OEtBS1NIdHNjRHFSVzVIUmFhSjRsc1hzWk80N2xQbDFZR3lUeUdjNg?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjBhRTluSWRuNkhUM2JpX20yN3pWWUc2enByM0JsNWJuQjllZ3ZkcEk2RFppSWktN1Z5enc0UXRjX1BUMWNxZ25jd0xRVUtqc2FmSUxuelE2bGlfWGZUTmE0SVJIYTBLb2gyMlZUbm1JcndIMjVNVmwwSWJ6SmZlLUJaVV9CaU0xSXdhcA?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQUlrakxzSFhYM1Z0VFZSUTI4M3Jhd2F1WUM1eV9ZTkd3ZF90am1oSjJxejlyTDhUX0xHa3BnZnhwMms5RC1MMHpUdVVJNjVXOEJNRlAzeDNGM29VQUM1UVBaV0kyQS1HN0pXYzRQQnRNSmVJd1Y4ejA4VzJvTWR2Q3hGOGhaM21TZVRFYTBNdExrdWJSdFBrR3puY0VHR1Nvc2dmR19NRklUZU92RE12YkVOM19VUUIt?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

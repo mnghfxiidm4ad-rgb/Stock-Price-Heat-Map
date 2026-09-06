@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "57,877.39",
+      "change": "+2.43%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "398.20",
+      "change": "+0.86%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.21",
+      "change": "-0.47"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "「2次的なインフレ」も警戒 利上げ判断、ジレンマ抱える日銀。",
+    "日本市場、米イラン協議期待で株高・円高－日銀4月利上げ観測は後退。",
+    "日経平均反発、終値1374円高の5万7877円 インフレ懸念一服。",
+    "日経平均は前日比+2.43%の57,877.39円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnN1RNNHpCOGVJNHVKUHRLbDd0NXJNbGhBWENxbndxTFVmUFR6cnZZeUZaaFdydHllMUpDRHB2bC0tMFA0MXRuS1B5OXNra2h0ZGJURnE2MmpSLVpNa2VMZ25oWTVUNTgw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKYXZHOV9kbzhsMXEtMXl6WGpVMXVZLXUxM0tWb3N0b3BsdzFXRld0RWdzNXZiZElicm1ZVkhtenhpOXdjbEg3MG5LZUxLM2VZLVBwNlI2WnQ5T0hwejc0Y2s3WVV5Wk15bWNXeHpQTWRPamVRWElr?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xalBhNk8tYnZnY3RacWhUTmFndXJHRkdLRW1XeW5pZlVvdnNzN2dybkZCVTNrT0FYSXJnSnA2RmVoOVRSd0N4dDJmTTlhVl9kUER0WHM2OUFHZlJhOUYySG1GM2dnUzA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:20+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

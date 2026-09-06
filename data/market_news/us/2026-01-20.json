@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-01-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,796.86",
+      "change": "-2.06%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,954.32",
+      "change": "-2.39%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,488.59",
+      "change": "-1.76%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.30%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, S&P 500, Nasdaq drop as Trump's tariff threat, Greenland standoff weigh on investor sentiment — Details here」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Plunge As Trump Escalates Tariff Threats— Alibaba」と伝えた。",
+    "海外メディアは「DECLINE OF THE DOW JONES AND S&P 500 AS THE DOLLAR WEAKENS AMID GREENLAND THREATS AND TARIFF FEARS」と伝えた。",
+    "S&P 500は前日比-2.06%の6,796.86で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRmtSdFdDWlFmSmRPRDV2aUt3d3VpYjQ2ODF3ck8tWkR4NUFOcVlhd2VIREExMEVUTnR0VmpZd0NhNGR1OWxNZ3drTThWaW82MFc3dDlzVXJNNWJkclpQY1RxS2RSQjltQXRYWThlVnlIZXFYX0ctTjF6OUFMYzBPZks0QmNRNlNVLVhUWmo5eTF2SmUzb3BQWGJaMzFUY0o3MXpnSTFlT3JBV182MlpjWmhlMDFCbkduSWVhS1BqbnQxckEtX1BzT2h2TUxpQjFQTFpOSndUYlpWUGQtaFJNcXVmSnNpWHlvUnZpTl90N1RFazZwWjFObHdiZXlWRGxFRlBWNF9jemFISHJmMmFseNIBlgJBVV95cUxQSC12a2F2TjdJaEw5ZGtqWTBRUlhveGpmVGdzRVVKZTBmbkM2dVFGSThERGh3TXBfMi1vRjBtWTVEYnpyaEF0SzdIOUF0QnM5VzBQdkdEZGlnTFQxbl9YZmNNaWZWNnQySWxfRkVpcEVFUEgtWWFkeG5ocTY2OUlJZ1o0N2x6MHdPcXh0ZXp4YXdZaUxkVWtrWjQ2M0FUaGR5eFBLaHB6UDBTNHc3WnNQMlIzTTk4R2xncEpCclMxV3paakpsNFN2SjB0X1o4Q1pzc1VfYkdFUlY2bVVrdGw2WFJaeUQ4MDBDSUxRYXJwdUpGWVh5OTNSZmNHRjY4VXJTd2F2RGRxVHZ0ZFpfTXJYdGVDZ1UwZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS21wS2lRX0dGcVlxSm9PcGczU0RYanZ5eFNBQVlLdTh2Uk9VVm81NTEySDNYUUtNcTczdlRvNmJROVplX08zaE9wbjVrRG9zNnJZbWkzZXVtRkxPc1ItMnFyaVhLZ1M5NEtkcHdZVmN1d081X09ib2wzSEw3bXI4RjA0dVZfMklrVTdCRWdNMnJ4VFBJSmQ5ZjNPeFlQMFVDTkg2N3NGYmdleWFva3EyMDNkbmxyS2tRWmVaVzVCZTZSWW1wRzA2VWFfMHBKcW5jOFNkX252dUhFa19pb1pGdWpfLXRsYnNkUnZ4b1BCLUwxTFFFWHdNbmNVTTZYNjJ4ZVNfbzlIM1Noa0U?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYTFWWlVNVVVKS3RXNWRLLVc4LTlUYUVicHZXWFRTTmtMbV9zS3lSdUtKaE8wdk9VZUV5YmdkUHlFQ3ZaendzVmtrVy0zVVVjandUMHdWVkpuWnA2LWt6STRlSmNqZ3B1ZVBTUjhwWDh6MmpEZjlINS1EODBTWXM5VGJlR3VoVE1IVzU0SXZyTUdSZFJVUDdFbGg4YnJlb0N4enlDNTA4N2hoNGN3RXlIWFVpdmMxVDNqZWExd1pydDEzWWMxM2llNA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:42+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

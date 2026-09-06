@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,556.37",
+      "change": "-0.37%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,761.89",
+      "change": "-0.84%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,124.06",
+      "change": "-0.18%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.39%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today S&P 500 Futures Ease As Growth Signals Cool And Yields Rise」と伝えた。",
+    "海外メディアは「1 S&P 500 Stock to Own for Decades and 2 We Question」と伝えた。",
+    "海外メディアは「1 S&P 500 Stock to Target This Week and 2 We Ignore」と伝えた。",
+    "S&P 500は前日比-0.37%の6,556.37で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmM1QUdjakhSUFVQeXV6dWk3SW84cmpvNzdDOC11YXZjNm9rOTF4OGtGazNLYUpKaVJla19nazlOZkVoaWt2QWNQX0E1bWxmT3BsMm1oS0NKVWpQb2MzQ1hXNFptcUFiZFlHREJvYnlTbHJKUnFxLUIxN2JIOXlrUVBtSllhYlptMzNPTmRYSi1QZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMVRZdEs5Z056UWlkZzBJU3VKeERiall3MUd5WElhS1BDWkhpbDNsZWwzcTUxa08wTGFpdDNQS3RTeTM3WlhRQVoyUDBOZ2lMNnpwZ3VZdVpiQV9aWWg5cG50SXpjb0tSeEw1REZDZmlwXzV1cURSQktVVHRWNDAyWjNzMDdhV01aa3c?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjJUd2VTT1J6bjFlZUxLdUN0T2tsSm5kS3FoYU9MU3k5QVNQVmh4WVFoZy1TRW5BMkYzaUVZd21Va0xjUFdsNWd6eTFhNUM1MlBGa2lzSUJjWXdnV1lEcGJ2OWVSRXVZWmN1RWlLYXhVU29PT0FwYzd6VTdUZHB1SWJPcTI2dTVPN1lQd3Jn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

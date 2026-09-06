@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,819.05",
+      "change": "-2.11%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "426.50",
+      "change": "-1.23%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.36",
+      "change": "+0.28"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "日経平均株価3日続落 半導体関連株の調整が続く背景 野村證券・岡崎康平。",
+    "日経平均株価、3日続落 終値1437円安の6万6819円。",
+    "日経平均は3日続落、6万7000円割れ ＡＩ・半導体株の調整継続。",
+    "日経平均は前日比-2.11%の66,819.05円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96cnVsX1RTSnN6ZUdqbWFyWnRWemV6RUx1M2RMakhaZmp5b2FtNTBDbUlONmhYTHM0WS02YlRQQTE5Ui1IRzNzOFFzU256eFZBd0VFNkN1Q2hvQ0YxWG9R?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mVmxfZzhJM1JqUDViaHZtSWNLZWhrVHpTSnNKdVV4LUstWmlWUlRGUl8tUVZ0MGdYSmZLazhmUFpFaXI3RnhhRFN6dzAxTDhBUzIxcGJaeGFXWENHYkFrZWFrUXZNLVhmZ21jQg?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVG9uUEdvZG9fYW5oaGZhaGY4Y1F2MGtOZWd4WEQ3V1NhYkNkeWNzcDc1cnNVWGRTQUxWTE5HV3hDMTg3b1VYUi02eHMzSTZuWXhPSWhNMDJ6TXE3OHM0dEQxZjZMUlZQR1l5NTctUkpWcURuUmJCS29lSlNhSjhRdA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:59+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

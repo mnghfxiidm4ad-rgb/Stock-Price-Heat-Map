@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-11-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,281.83",
+      "change": "+0.43%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "354.90",
+      "change": "+0.77%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.71",
+      "change": "+0.64"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "FRBと日銀の金融政策がはらむ“AIブーム”リスク、米経済と雇用が乖離する「ジョブレス・リカバリー」の現実味。",
+    "半導体株主導で米国株が急落 日経平均株価は過熱感一服で軟着陸に成功か 野村證券ストラテジストが解説。",
+    "中国・百度、ＡＩ向け半導体やスーパーノード製品発表。",
+    "日経平均は前日比+0.43%の51,281.83円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NeS1kc3JJdUlzdUtGNjVvbzBlVXVTS1QwQ1FUTVZ5N2hUa0cyX25lZVo4al96bTNOTjdLUVVqNVRCeEZ1cXA4R20wa2fSAU9BVV95cUxQaUpCaV83cWVZcWoxVDMzTHpZbE5YUHdNT3pvMlNtSWw2eWRFOUVzNVN1TWx6VWE2US04NlhGd2M4Z1E4bnI2aEVkQjdNM3hB?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sNnRfMHRmNFpxLTlrNXF0TXQybVdYc2t2SVo3NjFyOXM2UmVmUWowMFJlcm9uY0lpTVIwVnEtT2NCVUg3NWZPNHF4cC0wVjFDYXNHdHdkOE5UM3doVFMw?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWnFFcWJ1WklWOVd3U2xSdFNJQUROajhQYTV3NFhMMGpXeEJQelFDdnpfVkNGdGtXUG1fckV0blFOaTNBV28yeU9iUGdvZ1gxSjVub09IbjYwZjJEbHoxMlhYYkxybTRvZ1hQelRhSHo0NWR0Z3dmLVJpY05GOE0wQW84Vzkwck10YU1lUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:09+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

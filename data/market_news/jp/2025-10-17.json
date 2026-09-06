@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "47,582.15",
+      "change": "-1.44%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "332.40",
+      "change": "-0.92%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "150.12",
+      "change": "-0.85"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "金融（除く銀行）",
+    "銀行"
+  ],
+  "news_bullets": [
+    "【元日銀理事が警告】新政権で日本経済はどうなる？｜年内利上げあるか！？/円安加速リスク/門間一夫氏が解説 2025年10月17日 ＃ドル円相場見通し。",
+    "植田日銀総裁「依然下方リスク」 米関税影響―Ｇ２０：時事ドットコム。",
+    "欧米の半導体株高波及 日経平均605円高 「高市トレード」再開。",
+    "日経平均は前日比-1.44%の47,582.15円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VT3AxUThtVklOWTQ2S0dvdDR1bVNqek0wU3dFR3AwZ29STC01TWZmNXljQXJTeVQydnRPdm5vaVRIVmZnLXlNOXcxelNMV1dZbFEzMDJQbnBSS1VTWHRKQklmUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1bHVaaGNSTllVYzFCQVFtVWQxSW94OXpDVHZUZXFQaWpsYzJxT29PX2paUHdXMnl5a0xKaUJLcmg2TjFaLXg2d3BQNlRwMGJsNGdGd1Y2R2YxekZpVkhwSXk0NA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OYVFlNXM0VndjbW9EODQzbms2WWg3dVkzMU0zQWRPMEtuOEtRSW1GSWthUTM2V0g0T1ljN0pFM3Nzb1FNMTc4TWVmQVpUR01GX2tsRzdpdVhLNmJEVDBHemtna1VnbE5hcjF2Mw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

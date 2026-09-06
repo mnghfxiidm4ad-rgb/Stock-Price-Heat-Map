@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,279.05",
+      "change": "-3.06%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "395.90",
+      "change": "-3.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.26",
+      "change": "+0.62"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "【ドル円見通し総まとめ】構造的な円安は続く｜ストラテジスト・佐々木融氏が語る2026年末165円シナリオと日米金融政策の行方 2026年3月4日。",
+    "日経平均株価3日続落 終値は2033円安の5万4245円。",
+    "日銀審議委員人事を受け、高市政権の円安許容への思惑再燃か 野村證券・後藤祐二朗。",
+    "日経平均は前日比-3.06%の56,279.05円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZYW5BOV90M0ZVTVdPTV9PSV8zeXlZZktJUVdiM3o5SVlOM1Mzejk0TWJ2aGVlRU82YVZvbEZBN2JzLWR1UzVqM3Y0YllfQUg1VGhkd0RpR1FrSGdkZnJRVmt6WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aZnBNMTlRSW9lVURCd1lVWEtXdldZWFJHTksyMVZYaTdmcERGOGo3Z0dTdDRadXRtdnZ6U3B3OEpSQnNTS1JtMG0xUnZhMWFIeUx2ckd1Q05FczRWd0phMUZ0VVpEbE03TGRIdA?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuMGt4WGdBNWFxNE1CcllzeldTRHplQ19rZWFRdThVLVBIV2RGbGR2NHZPSjJCMWhoMG5HM2FJTV9HMnp4NDc5c3oyUHM4a05Dd3B0MDNQTHFhZnV5aHBB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:00+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

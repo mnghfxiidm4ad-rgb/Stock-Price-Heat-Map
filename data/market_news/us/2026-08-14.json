@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,785.76",
+      "change": "-0.17%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,729.16",
+      "change": "-0.28%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,732.41",
+      "change": "-0.20%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.70%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Logs Third Consecutive Weekly Gain」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Edge Higher As Inflation Watch Intensifies」と伝えた。",
+    "海外メディアは「Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion」と伝えた。",
+    "S&P 500は前日比-0.17%の7,785.76で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWJtRFljLWg0dlozUlNBaDlRaWFMZUFvRzJFeVowWFdzSG56R3luMFZTbU9pMzljTE54V0hKdGctUGcwZjl3cnBuRDJBZVZSSE85VVNTbVFPYVI4UnhURUhZUXVPVnVQRFc3MkVPcWFWOFlPT1lhWlZIeE9sVV9uU1pjcXBOMUsyd2tHNjJGTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZGRkX2lpSTNRbFVOdVBhY3NDT011MWluMW8yN3ExN3l0VExSVFYzd212alRzMENhNUF4bk9FQktKdExXUlZVT1d1cWJVdHJqS3RRSkpfZW14dzN4VGFBaVhTVkFqUU5qYk1NdVlLSmxkOVVEcS1NNEw2NURGbzFKYjB2ME5kVE8zOF94dHo5TzZVZw?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYnJNYUxJeldxNTQ5MFFxaVJrUUMxZmdWWmVGU1czWERoMjZpMm5mMElJekpFaUNCUzFWVFdZbi13NTVUeDB0eWhWcE5mREMxM0REblpGQ2cwWWN5Rm1QSmwzSlJtbGJFNTh6OVFTWQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

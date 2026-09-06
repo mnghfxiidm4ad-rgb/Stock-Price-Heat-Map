@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,800.26",
+      "change": "-0.24%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,111.46",
+      "change": "+0.23%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,114.26",
+      "change": "-0.62%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500 Eye 3rd-Straight Loss as Nasdaq Breaches 23K」と伝えた。",
+    "海外メディアは「US stock market crashes today: Dow, S&P 500, Nasdaq sink deeper into red territory as unemployment hits 4-」と伝えた。",
+    "海外メディアは「Stock market today: S&P 500 closes lower as Oracle, Nvidia lead wobble in AI trade」と伝えた。",
+    "S&P 500は前日比-0.24%の6,800.26で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFZSVEhFQlNBVERNLXlqMmp3V29aV2NDc2JkeFFremRpMEowTXgyR29IWC1udjB2RHVNSVJfdHRLei1lUlFQLVA3REdCTHlpUDA0LW5EdDRCOEoxWmZJTG5JNVhvamtMRnROUzVicnBveHNZOHFERk54QVlBVzc5VG55RmxfUE50aUpvRlNDekhka2UxV0Q3Vi10R2dNX1dCSWpZR1JkWldYblIxczVqUThPNXR0QnlT?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQlJwcTdfbXpKWEZvbDFITGFJSEh4Qjd2R2FDeGZHTVJQQm1PdkpQMkxhcjlqWWlTeVVnei02RndBOHl6Ui12SzdUSzRHSVZHRW1LTW9HQzVmNnI4N09RSC1lREFWajBWV0dxN18wdFNUZWZpT3lsUG9sUlowcmJldm1qdkFQZnNuVHR0MjhaSWdVb2FSSGFDNFF4dFBELWF2a0VVMzBDTGRNZVp3cG5HcEJoYjlvVmlJYlZYWnhPeENLekROaC0xR1JveEZ5WVlidDlKclRQQTB6QUo3bVpsMHZnUGhJXzhia1k1NjQ0S0k3NWNRWHlXVFUxWE4zVUY5TGo2SFh5ckZFclpTWWVIR0VfbzNTZnZ2UHNlWUtHRGcweGt4d3pIVUZWU0twRGloZ0RGLXpwd0VBME9zMTVfYmh1Q2FJM0wtdWh0R3o4VUhMZkRab1VFcHNxblMzUdIB4wJBVV95cUxOWk5XYXhkNldXMnBGQlM4QWtDNzZzclZnUHNraDhjOFFidmZZU3RyQlRHVTg5OHM4TFZNSDJ5RGlCbTctRVBTa1FQUTdHMlFzTWV3dDNCQUx1WlVyVXFTSS1peU1iVDZHd2NrYmFSS2ExMFF2N2FTa2dGNU9wOE12bFJ3S1hoNW55U2pQLUdXWDZZZVh0amR0LUJwcHBxaGx3a2szakpCUUhTSURVQ05tVFhtRTM4dW5qLVA3N1Z5ZjFacXY3dld3blRYa2NMMFdzVTd2VUlxSzFMTk94ekVXbUpCUF94b0kycGppU3U0MlFNVWozVl9DQUFGM2RhTkZRRVBzcUxGRnhuSjV3MWxSRWlEeDhEYmpGQVRlbV96S2NqdmRzTkI2Y2xqZm1JamQzUWFwQUR3NjhkOXhIVEJ1QTRkbDJFdDYxaVdTQkpLaU9ZWS1nWTZ5ellUSVhGa0xZZW9R?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXAzaE44M0FTV2dydXlidlpULTRKaEF4Sk9WZ1FSSnliU1MwR2tnYmF0MHozcl9Pdm4wLUNsRWxlVnQzeTk3UV8za0J5LW5JM1RKbkJMVHJIUVFXWjh6YUtpcXR5bjhPamJtQ0lyeE5xTDU5aDU4T3FFcEJja0tVUkcycXBOX0lLNEFsdkRHeUVELUcza3FSNWtmbXJZMmttNVpndmNtUS1ueDhsYi1VVEVGZ1hBOVlWb00xUDhaaXJSUHNLR1NtWkJR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:27+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

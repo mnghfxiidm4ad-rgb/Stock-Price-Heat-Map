@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-11-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "48,702.98",
+      "change": "-3.22%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "341.10",
+      "change": "-2.74%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.27",
+      "change": "+0.69"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "GX 日経平均株主還元40-日本株式【465A】：株価チャート。",
+    "日経平均は前日比-3.22%の48,702.98円で下落して取引を終えた。",
+    "小売、運輸・物流セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00NFZYOTJwOXE0dGIwTlMxaF9lc3VBV1dfMkpsaFlmT0RJSmlid1E5Q0swa1prTXBZSzllYnotZ0NDSDN3SnUwX0EteU5xQThQRlIzRDBhbjZKZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

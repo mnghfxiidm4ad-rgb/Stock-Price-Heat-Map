@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-05-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,804.41",
+      "change": "-1.23%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "402.20",
+      "change": "-1.49%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.04",
+      "change": "+0.17"
+    }
+  },
+  "top_sectors": [
+    "小売"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "建設・資材"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で113円付近｜RBAは基調インフレ率の高止まりを予測(2026年5月20日)。",
+    "米財務長官、日銀総裁と面談 円安けん制、利上げ路線を実質支持。",
+    "日銀「6月利上げ」実現のバロメーターは原油調達不安の“深刻度”、サプライチェーン混乱リスクは軽減されるのか。",
+    "日経平均は前日比-1.23%の59,804.41円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9USjBqMllQR2RTLVRfREUzYTQyMy1Kd0JXeW5XeUI0cWVEWEVFY3Q1Tmo2RGtSOUdXRndHQkZFTDlHTXhiR0N6X1JOY2plU2NGNnpqR3BjUGlmSVlXdl9kWVppVDVSdDYwbWVfYThxb3BxZG8?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2UHRtZHYtaW03djZxekQySXV0dDN2eFJMUHhuc3NuSnVOaFFpUEVEMndveG5hVlVudy1ycThEQjNBbnQxVmNycWhkMDlkQTZkUWhEOFBGbnh0UmZtc3RzdFZ2dnlCdWx3?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jT3E3S25Nc20yYXZyZmlkSWd5MzJLWjloXzNZUDl0M1dQUHN5M1dCaVlnSEpReUlJQkk2NWl4clQyMFN2WVczMU1PelfSAU9BVV95cUxQVVZuRGVZRmxUT2dyeUVJOEYyNEpkNGdCQllYRExBUHlPVkk5Q0dINWhXR2hlaldCdGtTS3dMMGVkTEhkTFNjZUxDVDh5Y2hF?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:35+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

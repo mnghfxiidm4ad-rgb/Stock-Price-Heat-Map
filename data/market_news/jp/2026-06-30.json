@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "70,062.32",
+      "change": "+0.86%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "423.60",
+      "change": "+0.45%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.92",
+      "change": "+0.14"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "小売"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で161円台後半｜円安が徐々に進むも162円に届かず(2026年6月30日)。",
+    "【FX】6/30 ドル円162円突破！ 円安の要因は？？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均は「70,062.32円」と7万円台回復…好決算＆増配発表でストップ高となった〈半導体銘柄〉の正体【6月30日の国内株式市場概況】（THE GOLD ONLINE（ゴールドオンライン））。",
+    "日経平均は前日比+0.86%の70,062.32円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQZzBKS1dJOEdDOXZSQ1AwN2t6dlY1cXc2dHRrRTMwSXc0S0Vqc2Fyd05md0h3eDktNDFWZS0xQnRxRjF0WGpPb3l1X29lX3M2ZVJSN0RTcXRoR3QtNFg4enZpT1FLNmI2ZUdlNm9CVmFvNnM?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtYkU4Ty1hVFJvYVBEUG9VdmJRRnNEcjRQTXBheXdDS05TSk1PWHpHcFBrYUtPMHl3R2FCMFJvYkZRWE4tOUd0T0pLaTc5aFpRYi1IMEkyWXI4bFZ1SlpwZ0dtbw?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EVk45N0plTHROSkZhYXBESkxSYmhLY0JDYjVRQW1ZVF9OVHFnLXNPUFdxMDk4U1NKcEREWk4xTjVpd0xpZThsd3pXTGc0NFFqdmNCUFJhamt1M3F5YlBIQVdpQzhtRmxSdURib19rXzR0WDVkZXRyOWl5UXZDbE0?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:55+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

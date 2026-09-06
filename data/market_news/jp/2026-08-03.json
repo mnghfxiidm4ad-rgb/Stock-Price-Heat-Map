@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,754.90",
+      "change": "-0.94%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "411.80",
+      "change": "-1.29%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.58",
+      "change": "-2.60"
+    }
+  },
+  "top_sectors": [
+    "機械",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "日銀、AI需要・円安「物価に粘着的な上昇圧力」 原油下落局面でも。",
+    "７月金融政策決定会合と為替介入について ドル円163 円に壁が完成。",
+    "債券15時 長期金利、一時2.830%に上昇 5年金利は2.090%で過去最高。",
+    "日経平均は前日比-0.94%の63,754.90円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWkRTVzBlYUxrWEduQXdmVF96THJUWGtfVXY4anB1b2l2blVVSUhYenhtOExYQ2RoU3ZOcnNNbkU3bnN4Y2N3ZDlhXzJ3NVREV0xKRW9MT05WSVYxMjRpS1dOdU1aYUViWE44cw?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91cm53cGtEa3JjVWFnZkExODluZmQ5dVFUUGZOOTE4M1BtcVhiZV9GWHB3a0huR3c4YVFNRHNkUzlPY2hXSXljY1pFX2NMYllNX05JLWlyczJOaGM?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XZDJiekN2RDY1UnM4RzYxbk1ySEJJd0tKYVpjS29aYXNhWXBqMU9hWFRnb1YydHFSc0RHNlpzaW9yNDBRZ19XNUJNSmZFSF9lTFFsNFY0bEZfdmtLV0FoMHpCVVFvbmZ0cl9Feg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

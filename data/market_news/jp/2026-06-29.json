@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-29",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,468.11",
+      "change": "+0.15%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "421.70",
+      "change": "+0.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.79",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "機械",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "news_bullets": [
+    "【ドル/円、今夜の見通し】ドル/円、162円の壁と介入警戒｜NY市場では米株・債券次第の展開＿2026/6/29。",
+    "日経平均株価、反発 終値は107円高の6万9468円。",
+    "【ドル円見通し】1ドル162円、いつ超える？米雇用統計が引き金 FX分析 2026年6月29日。",
+    "日経平均は前日比+0.15%の69,468.11円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lbEJfeUxMLTVheFJuc2p2WHkwYi04ZUtzMERuNnpWaEtHSzlCRlpPYWIwSTBjVVVwZ1FRZUh0enFKSGJHdjYtaFJ4UldyLXlQY18yLXZDRXpfVEc0M0FjZWZWUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lVHJBZ0xndWVzZUVlY21nVG5hU2FxSEFBNDJyZDBtWUdHMjIzbHgtbC11TUhYUjBQZ0NOYUJ4bkgwVkNobEVqLVNKRjl3MWs0bXh1cTJGSnE4LTJrWjA1WlFKSXR4Yl9aOXpHbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9feTdySmhBQngtQVRGNDRZTERoM2xGT0o2TkVyNVNJN0MyZ2pCdW5MQVVqcTVqelBmb3NmZ1VKVWRWUWVBWHlNa0hxNG91Rm9wSXh5cGxydkNiTUl4a3Jabl8wTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:55+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

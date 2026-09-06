@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-31",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,686.14",
+      "change": "-0.33%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,370.89",
+      "change": "-0.12%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,185.90",
+      "change": "-0.70%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.76%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「The S&P 500 Failed to Beat Inflation Only 4 Times in 20 Years. Here's the Pattern」と伝えた。",
+    "海外メディアは「S&P 500 earnings surge 53% as corporate profits boom」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500, Dow, Nasdaq Slip Into Red As US, Iran Renew Hormuz Tensions」と伝えた。",
+    "S&P 500は前日比-0.33%の7,686.14で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWhIRFdranlxNUNxVUpkNnNmcVJZcHVKWUlVODU2UXItM0xsNVFrb2RBRG9GUFZsMWxsSk9UU28yQVdGS093TnI5ZjNadUxyd2dZc0lMb2N6ekI4X1BNRUc4TmFjcDh3XzhZdGRpRnpIcnYzMW1LOFRnV00yTWVBNVpkcWg0a09mTG1Ca3hQZ0xWcWZvMU84?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hUVdtX2F2bjRfX19wWW1EQ3ZDdEFVdzd0MnVaMXFLWTBMUWRNeFRGLTUtQlBUdmxtTzhUWmFhTXlQdi1raldPR09JVFI5a1VtUDRrVTZocGpJeHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZW9SQlhzUHlWa0pyTXpoelAwa0N3bXZzcjVITl9fSWxNdzNZamJ6bEFETTFXV2I2UGVyX0J6Vzk5NEFuZHR4ZHNPWHdmVjZYWFIwdnJOaUJyOUZzTkpZX05zQXA2SjdjY3FyT3gyUUl6TThHd2lSLXNBS2hqZHhUSVdjQWMtTUxvdjdaRG5UdzM3REhvT0VfS0JUdzQ2ak5XSV9zdnF5TGpZSV9tT2Q1X0tPQ0dzMm41V28wSnlwUG9EOEduREJSM0dUVdIB0wFBVV95cUxOYTkzYkJqSVp0MHJnWFd6cmdXOWk3MFIxZXN2VXc5VFNtcnZXUlY5cUNBSS1aWkhPYm0tQlFKNlQ0TXNwVmJUTm1oRldGVHdvaTVaVW1SM19qS1VPazZOa0h6T180YTEwR2lXUkN3RWMwYm9ZMElOMG0wREFQeG5Fc1EwbnpOVEV6X244QmxKbTBYWnYwT25CZzBReGd2Zktqa2RoQnNGRmRoQzZtM01zcWhNMzlrVmd0Qy15eVk2SkxQQl9FZHQ2SUFOZWhjbkxIak5V?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:37+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

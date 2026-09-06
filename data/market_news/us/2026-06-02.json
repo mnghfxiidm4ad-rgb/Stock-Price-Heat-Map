@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,609.78",
+      "change": "+0.13%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,093.90",
+      "change": "+0.03%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,307.79",
+      "change": "+0.45%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.45%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq, Dow Rise To Record Highs As Strong Tech Gains Outpower US-Iran War Uncertainty — MSFT, UBER, MRVL, HPE, MSTR Stocks In Focus」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Slip After Record Rally As US-Iran War Confusion Eclipses AI Gains: TSLA, BB, META, HPE, NVDA Stocks In Focus」と伝えた。",
+    "海外メディアは「AI is carrying the S&P 500 rally: Chart of the Day」と伝えた。",
+    "S&P 500は前日比+0.13%の7,609.78で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXU0RzMyRmZrcHlUWThEelVRbTMyQVpfX2tBOUJqc1daNWhhckcyMWJ6T0FFcnVCeHBEc3dkaWNobXkwZy1NS0NPY0h5QWl0N29rUjhhYUR3bVVROHlWVjAxTFZETTNWcEtjdDZsMWZzOVlSdzUwcmhvZFJxOVhSRHdrVVZkN2JxcjYxNnBvcw?oc=5",
+    "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYUJnUmNuM3E5ZHVqb2Y0MU1selhHc05sZmtFMjY2UHNNZFBORkdnb1hFUHJHc0pXamFaaXhZZ1l1V3ZoY2E2a1Z6aUdGVmd3eW9KMWJvdWhkVU1ER2R4Mm1EQjM1dU90N29SY1FKazNsZFFsU2R4OHVrWnZESmJyck1xM0VmbkRJRERiX21DLVhvTFY3aVNEU2lfbENIdjBoWlFRa1E5eGFhM01NOW52NzQzNDVHRXMtVUtFdUNuQWJ3eWI1ZWdfTmJHbHBYTUl1NHhLVTU3bjl4NHY2RHdHb0UyUWFCUFBxWEtSSFRSNWgwZ1RBbDZVX3FyU2N6N0VseFJGb0RaOG9MaklUeU5qNlNBZzhWQ3NpV2pFWA?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUWZIOVc0S003TUttNEJ0WlpScTdJZVdLaUVWOUdQSTRRMXlzV1JWcTJBbkJGeUZzRzVHcF8zQjhMb2lLdkt6Si16dzlwZ3NmRGc2MHNrVm5QdVBHcnJMeDBMOHF1Uy1DOFN4d2cteENxZkpVWHlRQ2V4YzA4RDBZYnJrMGJlbTFFSTBhNGh5OW95RktPTnF2RThyZ3Zaenp5cU51em5KZ1E?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:49+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

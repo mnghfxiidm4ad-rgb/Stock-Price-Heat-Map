@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-10-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,629.07",
+      "change": "-0.63%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,562.54",
+      "change": "-0.47%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,952.24",
+      "change": "-0.65%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "3.98%",
+      "change": "-0.07"
+    }
+  },
+  "top_sectors": [
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Continue to Look Bullish」と伝えた。",
+    "海外メディアは「S&P 500 forecast: Stocks gain ground」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Regional Banks Slump on Worries About Bad Loans; Data Storage Stocks Surge」と伝えた。",
+    "S&P 500は前日比-0.63%の6,629.07で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWlRUMHVGeHcyallWRTJhdDdFenVYeEdJSDhYYkZkbC1TYmN2aWw3cDdUNkhrc3dHUHNhRzl3ZXQ0V29RcUpONWt1cW0wS0U3Qnl1ckdhVnVYODdJWWNDT21Ja2ROaWRlN3ZnOGhGUFhJM0xCMDVjSWNzS0RIQXdLT2JZZFgxY0pfMUJqLXhoSnlYX21kbVVhYUswYnR3Vzc0QWVSSTBjaUNUWU1TYms4M1lNUU51bGZMNmtqSG1ZYVMzSGZfX2tVaDB6aFU?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMW1mM21nSTBGRktnZXRYblJ6NllVZTRPWU84WTRHdk1sc0I0b3hUSnhhQVZwQU9CV0F4Skp4RE40cVhmcHd2UDNoS1o0eDBDNm1lQ0Z5MHpfY3lXbU4wYTZianNvMWMwMHhFQVFQNTRHTVU2dE9MVUsxT0JFRjVlMEtaWlJoUdIBkgFBVV95cUxOalhOZVlxWV90RThab3Jfb3JiZnhnd2FpVFVOb01VUTVtSWpjRjUzMlB0SW5QV1JtZUg5cXRGVzdONkN5RUFTcFpKX09GeUVqYklLMVBvR1hGTWJIN1UzeS1QTmh6djhVYVhEdjAtMF9WU1VYZVBGcFNVTnVaOTBTeENRdzlDcTRSMmRUZEdpd0tjUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcHN4Q1FiUDZwbE9uZ1l6eEh6LVZILVgwblhvQUhCZnItamNlSUdxMEFRRDZONFRVY3dvbzkwSEdpMDNua0tiM19GbkMtR3hfbk5QWVh5bUVoWXpFazdZYWhzM2hTU2dJUWttZjRUZENvRV9vcTlmVlgtbDA4cldfODlsWkI2VnNUZGxfb0x0ZTRpUVd3aU14dzh6Zlhlc0J4RWJVRnZFQmxMZ20tLWh3LUR5M2R1ZDF0Y195MktqTGxUb2RFejVDbk9LMjAwWEVHTWl5TUdrbkF5WktpcV9r?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

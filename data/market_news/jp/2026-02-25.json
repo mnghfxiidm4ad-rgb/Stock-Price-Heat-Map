@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,583.12",
+      "change": "+2.20%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "404.50",
+      "change": "+0.85%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.88",
+      "change": "+1.25"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "日経平均、終値5万8583円で最高値 日銀人事案で利上げ観測後退。",
+    "高市首相、追加利上げに難色示す 日銀・植田総裁との会談で。",
+    "【市場概況】東京為替見通し＝ドル円、高田日銀審議委員の講演や本邦通貨当局の出方に要注目か。",
+    "日経平均は前日比+2.20%の58,583.12円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mRHo1Vm5tRGRoVXl3RWYwR1dMMmhVQWltTjNKZG8yRHU2M005RzVnX0RTX2prejY0ckdFUk5yUXpGc3JhZnk4dHplYTBSX0FWM1B6NzQtbEtZRm9fZ2FLVkJiZ09Tck0?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DcUFHMkRyaG83NEU1MUdkTTJER2VXYm1sRGVJcW94TGk4SnhQMVN4YnB6V1QwWWlheWpOQWUyRThFNTZ1MTVBWGxzM0thdFhZcjJGVzkyMlh4bTZEWFBmN0RoYUFpU25F?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54QS1KeVdGaGJFT2NkYXZYQnRlVG55cVFlY3gzRkRpSFJHbV9hX2EyM25DSkp0NENHTFpVdVJRWE1DYlk4ckVvazNoeTBhbl95TGszcTl4ZHBaOXdNazJkRkZNOA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:57+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

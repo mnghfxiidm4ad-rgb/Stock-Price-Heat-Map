@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-03",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,553.68",
+      "change": "-0.74%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,853.98",
+      "change": "-0.89%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,687.07",
+      "change": "-1.21%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.49%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Investors Weigh AI-Fueled Market Strength Against Middle East Uncertainty: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「Stock market returns for 2026: How are the S&P 500, Nasdaq and Dow performing so far?」と伝えた。",
+    "海外メディアは「Dow Drops 621, Nasdaq Sinks 240, S&P 500 Loses 56」と伝えた。",
+    "S&P 500は前日比-0.74%の7,553.68で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUR5SlU4Qk8tTmdBOEhkTTdORTNyc1RGLXVuZHNRMFUyZXMyN3lsSlRIRmwweDRSUGF2WFBLa2VrcHJsdWIxUHl6QXdlbmw5MjRPczYzUDc4QlJqZHJLak5BVUpMNWJaSTF5QkItZUtUMHZuVkl5UWJFbEZqa3B2cnM3Q3dPenk2?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeWRtd0pvM3pzSTNtZVo4UWVZbk5mYWIzRTBPaTljUlU0ekhSSUJLR1gtZENUSmxRWURrREpQSXNZekFmMjRMV3JHc21nTjhlcDVYT0lWQVhubVZEWnd2ekM1QjlCN3h3NlJJMnlfVkVyMTdtcnV2MDJaUXVIWVR1bjN1RGljd3NGdmlRd1hKdWhvUU8yWEk5VGJXSnJONF9ZcVdGWg?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGJWckwyejJSZHlMM2c1MS04MW84LW1Ea2sybkdSWjZ6NWZlS2wxSnlxQXlTN1VBMzNEZ1ozaVhRbGZERTg4Y2JGelhQMmxYQXItZjBIczdFYmk0QW1fbHBfTG9HMmRVV2Vmb3IycVpHWEJSdl9PSVQzMGtSTF8wanU1SVh6MGU0dXNQLWg2VGpfZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:49+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

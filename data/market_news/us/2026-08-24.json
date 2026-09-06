@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,652.86",
+      "change": "-0.28%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,980.19",
+      "change": "-0.76%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,417.16",
+      "change": "+0.26%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.70%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus」と伝えた。",
+    "海外メディアは「U.S. Stocks Set for Cautious Open Ahead of Nvidia Earnings and Jackson Hole: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「Tech drags S&P 500, Nasdaq lower as Iran tensions, Nvidia earnings loom」と伝えた。",
+    "S&P 500は前日比-0.28%の7,652.86で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3Z4T183YjMtQVgtT0hVTVlOTzJYVTFPN2c2RUxpX1VoQTdoLXJucUd0V0ZLN0VCaXFFRWRtanNwSjhFY2ZXdXZsZ3pCNjJqczNsNEozaEtSUXllcUFZdFhDd2Z3ZmxpczlwbVdsck5XTE1NVW9uaUs4NTY0d0VhQkdVUjNfc1haQVJ2cVZlN1o?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUWRVT05GRHJPYWdzVXFoR3oxSWxDcVhuNWlwR2xNMXhIcVJkVEdJQVdteFpEQm05amkwZm1VZGxaMVBvaHNvb1R0bHFGZEpGa0R4ak9IeWFKWmh3SzRDU2d6bzVhWmttczhRa05fUlI0MkQ0V1hidXQzc2gyb2dhcEFIZ1BPbTExcDhUNHZTRTlsMDkzZWc?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQYkYwZFRTb3dzY2dtQU5RVHZaWjAtSjhMN0VWVEdPWUZscklmSE9oS09teG9yV2pEZEtXcmJROHB0ZDZUUnlzVDNOVkJyUzE5elgzZEV0Q3R2S2I5OFpVZUVkUFZ6d080bm9TbThLWjB0SHNlZGNBWk9NRVVPbmRSZlVmUmlyOF9iYWRxVktDWUpTdXAtaEhnYTQ1ZW1Ydw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:33+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

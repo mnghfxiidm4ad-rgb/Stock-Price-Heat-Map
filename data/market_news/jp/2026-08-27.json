@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,131.98",
+      "change": "-0.20%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "429.40",
+      "change": "+0.28%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.26",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "日銀利上げ「9月含め毎回会合で検討」 氷見野副総裁、予告は回避。",
+    "日経平均は3日ぶり反落、エヌビディア好決算でもＡＩ株まちまち。",
+    "日銀元審議委員の木内氏、9月利上げを予想－従来の12月から前倒し（Bloomberg）。",
+    "日経平均は前日比-0.20%の66,131.98円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkUy1aT3ZqYTN5MEZGTVNJaUExcjh4RFpGQ09PY1hLT3RlQldSbU5xclhNTEY0Z0VZbFNoOG5vM2p2X3ZmUlEteWJuN3VsQ2dwdUFCUkl5NWl1ZnpUUXk2NVd6eXNVSm9vUWc1NA?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcy1GU1RrZ3hrNF9jZWNEc2J1N1RMYmVBc0h5Z2ZkWXpVSW9rZloyS3FrQTRkTVRtX3lnUk5SeUp6XzFZUkxEZUZPYmRhbDNHMFVkY1VDWUh0bU5LSVE4T0VqcXJmc0hSX0ROcGRGVW16WTNidHgwbVRvX3lFWmhDNw?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMDVGNEVWaDNEVV9SSVMtemdfUzNaamxtNjhjUUYtVmROUXVheTlWb0xId051RmRPQkpFMWI2bC1ydU43V0JELVY3VmcwTjBIajhfMUF1WFd0Rk02NnBBekZ2cGFkZ2NORU5uRjczMTVDejVxdW5ZWXdVUXlWRTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:26+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

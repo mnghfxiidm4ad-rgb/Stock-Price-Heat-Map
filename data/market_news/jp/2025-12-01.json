@@ -1,0 +1,39 @@
+{
+  "market": "JP",
+  "date": "2025-12-01",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,303.28",
+      "change": "-1.89%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "350.10",
+      "change": "-1.16%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.93",
+      "change": "-0.36"
+    }
+  },
+  "top_sectors": [
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "不動産"
+  ],
+  "news_bullets": [
+    "東京証券取引所 - 東証、午前終値は4万9407円 反落、上昇材料乏しく売り優勢 - 写真・画像(1/1)。",
+    "日経平均は前日比-1.89%の49,303.28円で下落して取引を終えた。",
+    "銀行セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmQUZFMEc3VnhmWWNEWTZzUXptREVjVlFHalFLdEd3QlNmUlhLcFcxWk9ZWkllQU9lSm1UTXVtMkFkbU1hMExnSEJpd0FYY0hLOGRwYUxB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

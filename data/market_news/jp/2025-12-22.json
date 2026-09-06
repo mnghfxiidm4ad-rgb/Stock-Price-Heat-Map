@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-22",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,402.39",
+      "change": "+1.81%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "357.20",
+      "change": "+0.53%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.68",
+      "change": "+2.09"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "運輸・物流",
+    "食品"
+  ],
+  "news_bullets": [
+    "今日のFX予想： 日銀利上げで円安加速！ 2025/12/22 #外為ドキッ。",
+    "日銀利上げ後も止まらぬ円安、財政拡大が更なる円安加速か？。",
+    "アングル：日銀利上げでも円安、残る「介入カード」 効果には疑問も。",
+    "日経平均は前日比+1.81%の50,402.39円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLSnRkSHdPejZlaEsxX0V0blZaQ0ZXT3VZNENuNURiYXhZMk9uaHJhM2o5SlpfUUp4OUItVk4xc1ljcWxBZ1dwWmNvUGZkdzRta1l6azJvLU84UW1LcVVydVR2Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNUDI0Y0gtUUlFQ2hPeTRzNFNWaTdFS2p0QnhwdzV3QlAycmsxV00zeUJPbHB3ZkdKWnJlNHd2a3B4OWk3OG1CWDU2eEthendGZVJsWEk5RWRWSFU2RmIwTzk1WDVybGNpX3N6VlU5ZnpVSkRtUWxWVWo5SzNITVlJSW5LeXBWUXVUdERaVEQyblhLVU1aNDJ0RGVEXzVmUTdITkRwV0pvbEZjWDVzWDg1WkRnNWsxSW94c0labDhvMkZUSWUza3RWQUlUU21pdV8xY19sSkV6cUdiNndkdFBRdVVxWEYtMkZzRnVyMTl3VGl0cGFGTDU1RGJ5d3R3cWEwc1N6N2ROMkk2T3N1dW1kQzdhS0NkeXRmdndIQzVnSmJjOU03MjhhX2xwb1U4dzNSeDlBSVVVczluTUg3am90ZHVpY2x6WjRsVlRvX2tVSVBIbVJZdTNxSzRuNDZRbm9mRVA0dUcyZXRIOUV1amc4MWk2V04yb243Yklv?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ia2NhVGlwelJ3MXhqblc3VEltcVZIMjQzTllUcFF2SXJqNXBpbGU0dnA2SF9raklvOVdpa1QxWDJuVEtudmhsQVEzNmhEMHlCdmIwYzlFcGRld2hfMXRPYmh0ZnVIZXhGenJsZGh4Z3EzUE5zU1lkQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

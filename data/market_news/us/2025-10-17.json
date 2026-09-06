@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,664.01",
+      "change": "+0.53%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,679.97",
+      "change": "+0.52%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,190.61",
+      "change": "+0.52%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.01%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq 100, S&P 500, Dow Jones Outlook: Has The Dead Cat Bounced?」と伝えた。",
+    "海外メディアは「Stock Market Today: S&P 500, Nasdaq, Dow Jones Futures Dragged By Financial Stocks—American Express, CSX」と伝えた。",
+    "海外メディアは「S&P 500 Earnings Season Update: October 17, 2025」と伝えた。",
+    "S&P 500は前日比+0.53%の6,664.01で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcDNaNVB2bjU2OFhEZlNkNzZiUWlTd0ltX2VpV3ZjNHlLbWN0U1VMUHF3N2RucGVKYV9iU0JxRnd6UFg1dUZqeFdfQzRBTmhOUGUzWkRHaVdRSF9Oc0NKUUItUHQxQkxZOWxmLUtFOHcyenZJYnB1V29WejNaZ1lKVkZJcjZUUTByNjg1eVRBMllqdjVqanJXSGsydDRrdmZieXlYSWRQd27SAbQBQVVfeXFMUEpzNTdkMlBzbjI4SG9yMVBTXy1EcjAyQTBNaXhJaFNiYkZ2cmZCUlpHQmVadlN4MFlUQUlSc1BJTEFhNDA0MmFHajl2ZVU2N210d1YxTEVfckpXd0Q3c0tpVVNrSjEyc2p5SVZTeDdyelluNFA5eVBmRVluSWsxV0hmb0VESllqTWJzREtHMk9hT0xadUlEVUNQRmdEOXdIai11YkdwRHRSdk1Qb1dPWWFTWldE?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWnZoTGNqYmpURFhqTzg1NTBlNm13YTJzUGg3aHMzZFF1V2NfOF9GNmtQT1Zhd21xZFNnMndfcG11b0UzNXlPQ3E3N0tTRU9wSDF3MGowWFFBTHhjYm9mQ2lPTEQ5bDVNUHNIVmhnbXlhLUVabldMLUVtVE9MbHRlaDlkUHF0ZU9XMldXV08xa0lFLVozMldrZFlibF9OVGFudDRPM3hjVmRrQzFtMWlWcUJpYXJsYXNDUHVReUZ4Wm02VUdFX0JfekhRR2VFbjBiTF9wazQ0bFByalZJenJ1RzRNcENzcnM3QjNvbllIcXY4UEJtYktiRHNabHRHSk5NdHNyTFphekg?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kRHhLaGx3Z0R6aE9xOVh5a3p0ZWhmQlFrRHlzVzU1MDFIZ3B1TUc4MXY2bnA3bzlHQ3dPSUkySjZpbHI2Q0RPUzNDc2NDd2NEaXY1RGhwa2pOcWFWZnpSLVRnSUdWSmF6a1FMN3hudDl5OWdFakxLZ3VZeFFaZ9IBjgFBVV95cUxNUng5YmVuQTdvWDN6cWpRSG9QbzFKdlpDWWc2Mk1vUkRmdmtRaVR2b3dZMDc4S000OUF1akVrbVlYbGY0TWdDZUROU25zTzdqZW1rU3pCWDdSbHdDckp2Tmh5TVRJOXc3Qmh5czFUSExQdG9aX1FPRGhVUmdmbFgzWEpObUgxQVZndEg5WlRB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:57+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,6 +1,6 @@
 ﻿@echo off
 chcp 65001 >nul
-title Stock Heatmap
+title StockChronicle.app
 cd /d "%~dp0"
 
 if exist ".venv\Scripts\python.exe" (

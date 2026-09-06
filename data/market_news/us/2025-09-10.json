@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,532.04",
+      "change": "+0.30%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,886.06",
+      "change": "+0.03%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,490.92",
+      "change": "-0.48%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.03%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Strong corporate earnings and renewed enthusiasm for AI have prompted Wall Street to raise its target price for the S&P 500」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq notch record-high closes as Oracle soars on AI optimism」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Reach New Record Highs Following Encouraging Inflation Data」と伝えた。",
+    "S&P 500は前日比+0.30%の6,532.04で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUpmRlNBWVdTTW1xYjBhclQ0RXlRMVA1N2FTTGtEQWFSeDdqZWR2czExYVFSaXNXM1puY3FWOGZraVVXd2VBQTlLV0tiQkNnc3F6enpzWnY4bTdubVVQcmdTQWk5TEkwUmtIM2RpazVRWnd3Mk9US2JQUExtb0J3VEJxLVBKMDJZS21wNTFzZ2cwUnFFaHZQUG9PTEEtbEdqYThjbU9XM2NGZktiZE9B?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVFRc3VEWlhGdC03Smd5cXV4YkVBMWJjblZFRmxRaFJCZHU0OEJtYU1iUFl1dmIzNG9rVVVLdUNhbjJXTDY4ZEs2S0tUbXMzT0xidGhKMVR3SVo4R2FYejdiQ3NJczE3RUFpd1BWcFRXMFJTeGFvejFjMHhNc0J6akkzVnAzXzlRcTU0MjBYcmxHaW1lU2Y4N1JoN0ZaVC13Z1Jsb2NxejBJdjlr?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnJoejJkZVFVcEl2WWpNcFFNU1lkVVJSQjVscVBFNnVBVlhWbm0wMjBWeHJiekVfeWNtanJWQ0ZOb2lXc0JxOEs2MjJfYmQ2c0NTX25kdHRib25zcXpJRnRQbjlFb0JDVGhkRXpqcHpKbnJpUmI5SnB0R0Nzc0lYeUgwd2lDTXFNd01LN1NPUm15RnhXOFVWYk9idFR6eUxZQmVyb3B3a2VNa3dqYU9jOA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:38+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,748.50",
+      "change": "+0.26%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,588.49",
+      "change": "+0.54%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,770.27",
+      "change": "-0.04%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.68%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, Nasdaq, S&P 500 Futures: How Markets Are Trading After July CPI As More Inflation Data Looms」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq open higher after inflation data, earnings boost」と伝えた。",
+    "海外メディアは「How Nasdaq, S&P 500, Dow Futures Are Trading Ahead Of July Inflation Data Release」と伝えた。",
+    "S&P 500は前日比+0.26%の7,748.50で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlloWVUzVzN1RTY2N0xrZ3pxRVRVWVNWSjVBTzBhczU0YmJVZVJMZXBjd0YzSHpGRGpLQkVISlFGN01keHVncGJmY2ZKcjExSU1nYVZTMjJ5VnVtdFB5V2tPc0FKaUZObGxxWDg2VmN3SUFaWloxOWpBWTJ4TTZReVM1MlhJTFFpWk1lMU9LYjcxWk0?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSGtZZHpyd1FkaEFpNURhSmlLODFTalM1U3MtMlBNZEVaVkRybzBfVEw4NDd3MVpVSzBMT3I1NjViSXZadDhHY0RJd293MTdlXzZBR2lxSm1fclFoRE9adEZfaGlnRGxvWDdUX0NpSjhvaTl1NlhZaXIwSmF0b0x0VEJxNGRkSFp0Z2JtcFA3OEFsNTg?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZ09NY013WVpmQWVzeE1Ld3Fxb3BsbTduNGtKU3NrXzlMOTVDdlRFWlVCTWtSWmlfaVdNLVNaRnBDQlV0WWNjREg1YndpbmhYMGFlTWhtTU85YzRsd3k3OXUyTlBzNUd0NkxMa2R6RjNWTDBUZHVwdW1WeU1YTmh2VmxlODBEY2xMSlExWWFmR0R0ZUx6dDktVmZNS1FyTXFQbUFNeVFEQWxOejZFa1ZTbG1wQlJxRFV4OV94SmpxNlRmcmwtUk5zRzlVektpZ3VuclMwRkRvSWc3TUd5T01UYg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:26+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

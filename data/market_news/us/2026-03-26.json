@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-26",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,477.16",
+      "change": "-1.74%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,408.08",
+      "change": "-2.38%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,960.11",
+      "change": "-1.01%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.42%",
+      "change": "+0.09"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: Dow Jones, S&P 500 and Nasdaq Slide as Oil Tops $105 and Fed Cut Hopes Fade」と伝えた。",
+    "海外メディアは「Oil Prices Jump As Iran Levies Strait Of Hormuz Toll; S&P 500 Falls As LNG Stocks Rise」と伝えた。",
+    "海外メディアは「Dow Drops 200 Points, Nasdaq and S&P 500 Falls 1% as Middle East Ceasefire Hopes Fade」と伝えた。",
+    "S&P 500は前日比-1.74%の6,477.16で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3RHcU1ScHdKUm5vR0JKbDAzYnNaSkM3VmdDam94Z3VIcEJtNEhwa1ZzVDBEeG5iZ2lTaEJ0NDUxeDVDLTI4ZFRPb2NEVE1GTU5UcXA2LUt0RlNiODBzZVgwMWpDdGVfT3FnSHE3Y08tUUdtRDVDeFIxMUtnWEJWeHJ3ekJRZTRDQmpCVlBaaG1MazJQWWFsMDVoSUJMR00ya3FPcnE4cXVfblJNZWlmRkhkSGRMdw?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFVsTVFKQjNMcm5oMENWdGNhTE5JbTJwdWRodWlBRlJyT2ZhRVFzT2ktUnJ0eWtrUkZXZThZVkNnTklGbzVSdFNtdkcycnlmMk1oOUdQcFBydUVucFkwaTR0UGsxN2k5ZU5jV0xreVQtQnJGelc5Z3c3UkdjN2xTbElkWm43WDVZYWUtUA?oc=5",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaXZoeXhGT2FNQ3AyRHpveERqZ3NDRTBxelNBbi1peTNhQUdFY28zcjVsZjBKOEtKbWh6bkJpYWhFbDk0RVhPMDdldURqTlQ1LS1aVlhXQkJqTm9nZkVpVnRkdUYxMmpLaUV1OFlmOTQ3dVFldTJoR1RDQkxtZ2hMMk8yaGR3eXRaSGtBcWNuX05Ja3pzQVhCRm93UlJKU3VLVlZnRW5TSUQ4ZmZMc0ViY3ZUamg3OEc3U1ZQbE55OXQ3OVZseV9WQ1hXYzk3aGRyTlg5elIzYzZvTDA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:15+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

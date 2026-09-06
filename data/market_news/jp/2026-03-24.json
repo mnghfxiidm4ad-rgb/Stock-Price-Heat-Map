@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "52,252.28",
+      "change": "+1.43%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "374.30",
+      "change": "+2.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.48",
+      "change": "-0.75"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "商社・卸売"
+  ],
+  "bottom_sectors": [
+    "運輸・物流",
+    "機械"
+  ],
+  "news_bullets": [
+    "日米株価急伸、日経平均は1100円超高 NYダウ600ドル超高 [米・イスラエルのイラン攻撃 イラン情勢]。",
+    "日経平均株価が急反発、一時1100円超高 原油安・米株高が波及。",
+    "【ドル円見通し総まとめ】円安の主因は「実質金利マイナス」｜佐々木融・朝倉慶が語る2026年相場展望 2026/3/24。",
+    "日経平均は前日比+1.43%の52,252.28円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xLWtwWkd6VEZIWGNoWjlLcUROZVJfTm54NFhNZEN0aTdrbzh5ZC1zbkVrSmxpOEV2dHUtVUhsN3h6T05XWVhmZmxuTnYtTkVZSVFDejlHd2ZXWEdPT3hIRmsyRjlObkE?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nS0E4NmlzbGVoNUk4bWVHT0dvYTZXZVZWQTVEOHVXVGxPQ056cjJleVhhVjRQcDNacXZqZ25Xc1RVWlRpQjdJUjB4ak1TbjFyaUNWdHZpY21randNcl9jUS1wdVFVb05LNWhabg?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1bFhWQUZiM1NfaHlNa1czUWFib0x4U2RaMjFjRV83dkRGN1NPUkRzU0EtM0VYbFA2LVFaSVhtNmpuN1ZpSmVyMFpSc25NejhiQm8tbTZaZ2NrZUxvNFd3dVhWMA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:10+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,967.38",
+      "change": "+1.18%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,639.08",
+      "change": "+1.96%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,535.99",
+      "change": "+0.66%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.26%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Gains 318, Nasdaq Climbs 455, S&P 500 Rises 81」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq 100 Rally as Tech Gains Outweigh Energy Pullback」と伝えた。",
+    "海外メディアは「\"The market has declared victory!\" S&P rebounds by 10%, Nasdaq scores ten consecutive gains: US stocks \"no longer concerned\" about Hormuz, investors engage in \"panic buying.\"」と伝えた。",
+    "S&P 500は前日比+1.18%の6,967.38で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTlpHb1lIOGFaRVVBOTNXUVNOWVNpYkdPMXpGOWZMRnVvdUlTMjMyTURnb1duVUVrbEZ2VVVKY1dGcnhZMkRCVF9QRDhwNkh5UnNHT1FDWDByWDB0Z1Fhd1FVdnNyMlFIRG1nZ3hUVk44S2s5M0t4V1lIelM4cUJmWjNKZ2J6cmJVRWpsUy13U1UwT28?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUEFEOENaY21HelpfdDV1TGlReE9oQ3ZkRHVacUE5WThZTmgyUl9MdkxfUmc1dHVvdS1vZDZ6RkVod185Yjc4N1psT0VIRGU1Ym1xQTRUZzdtZmxmbUhqQnR0Z2J0UjBEbVNMNjFNanRwUXNRVHZtekxVaHVKY1pKLVluc04tUEJBZEJDLXI0cnZJcV9S?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUV9PRVFWTmZkZDNKWlJma0tvTzdxaENxRTFBblhNVmYxVnRxUWNyak5uY3dFblRVS1pYRGQwaHhxdnpTLXhnSjdrR0xmSXpYWjdNdWYxdzNzWXlQSUpteHZ0aTZHanVlWFJqVkhoSWkyNHdZR1d0WS1UYjliSldZZlR0Z05fN2J1dktzNzkxX2pha2Y0T1Zn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:24+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

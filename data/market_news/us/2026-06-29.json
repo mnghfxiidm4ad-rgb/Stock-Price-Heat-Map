@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-29",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,440.43",
+      "change": "+1.18%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,820.14",
+      "change": "+2.07%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,182.74",
+      "change": "+0.59%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.37%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Earnings: These Expected EPS Growth Rates For Forward Quarters Seem Unsustainable」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Slip As Sticky Inflation Keeps Fed Cautious」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq post best quarter since 2020, Dow notches best H1 in five years」と伝えた。",
+    "S&P 500は前日比+1.18%の7,440.43で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFZUbXZHdE9YblZIV1h0eWNqWC1jVnRrY0FvWjd2aHFtVHh2Ul9XbkRCRzZwMTZpRXZvd3JHUmlOWFFOWnpOMjNfUGhNdDdfR3pJMkFQbXlEZ1drM1NhZlY2ZTE0NDhjY1U2N2xJWHhSbzlBc1NLbFlnOGVoNklzeHNBcExzZVFPaWs4Si1tNU9nVjdsdzJXUDlqTjBXdGxsUFJkRGhCZFIzS2ZPZEgwby04N2VkbWtuSUswRWxR?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRno1N2ZKRXMwVllhOWNfX3ZzT0tVUUltTzBWdlplVnVxYW5HOU4zYjlrRFE3LVhUekJya2dQYmEyLU13ajc4M0s5cFBjdkNNS0hfTlluVUQ1VHRCNmdoclpwdU5tSEViNnBoNnBqT2FkVmp5VXNsbDNWbUVOcVNIbGlXR3c2dEg3akFyRWg3MEV6dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX05iLXZQb2R5UkkwM0RqaUN4Vk0yQVFzY1FKTmVLV1R0NDNDbFA1T01rYmNEUVpodDAtSDcwRFBWejhzaU1BQW9TVG5Bb3ZLSkJEZmRjZDllbFozNnVQNTRIM05PYmlyNWlUVEtnRmNMeWNwV0dSTFVUWEp2NXU2RWNiM0QyUXVyOWVBcXpxakdsSkVyd1o0dlBhMGpmdGprcE1tbkJaTWZWREJ0enNTZW14MXlqQzZVVkE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:02+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,502.77",
+      "change": "-0.74%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "394.80",
+      "change": "-0.43%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.68",
+      "change": "+0.57"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "商社・卸売",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "東証大引け 日経平均は反落 421円安 中東混迷や原油高が重荷。",
+    "植田日銀総裁､中東注視し見通しやリスクを点検－4月利上げ予想は後退。",
+    "ドル円午前の為替予想、米国がホルムズ海峡封鎖で原油急騰 160円を巡る攻防へ 2026/4/13。",
+    "日経平均は前日比-0.74%の56,502.77円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxMzdIQU5oRjZtU0xBM2g0WG5GNkQ2STY4YVljR2hLV0w3MnlrSzZuQ2dOdWpyakpBbWVSUmk4UnRnMnpnWElSaldUZW1aYzNpcV9lczVqaEZaMDFOQ2dWWnI4aUZaX0hoWWQ3Tw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xVUlwMG9YcjVuLW9DU3RLallPM1JEMEVzRFpLYVAyZ21lRkNGRE9XdGVINTQ3Zk5lTVU0cjk2Z1pDRGp3ZVBzWVVLVjByTTJ4ZGpqMURtUXZEdzVWc2NqcjB4Ty1BZEJIVjZRaXZEbzZFQTVpNnN3?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZSDhEZm9PWDcyRHpGRTJZaU9vY25fVW5JNVVvcDBtdko3NnFvVHpSN3lQZU8wMDBBZEdZU3NteXJqU0VMeG9PREFWbUtBeDRMNlpicElaWThTWV9RQnRnU3Ytaw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

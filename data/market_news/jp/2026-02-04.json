@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "54,293.36",
+      "change": "-0.78%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "383.80",
+      "change": "+0.18%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.80",
+      "change": "+0.36"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "円安が突き動かす日銀 利上げのテンポは意外と速い？。",
+    "インタビュー：日銀は積極的な利上げ必要、為替介入の効果も持続＝中尾元財務官。",
+    "日経平均株価続落、終値は475円安の5万3818円。",
+    "日経平均は前日比-0.78%の54,293.36円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tQXhOX1dTTy1ZZ20tV0hVc3BRMnpwSnFxamd2NkZlSHl5V3hzbGhGeXdLaFUtdDBhN1Y1UkhfUDhXT1pYdVlHeXBDeDBzcE0xQ1c5WC1oRW04MG8yLTlWWWZXeHM1YVZ5WktjMmhoSkFjQVNWbUhUX0VrcDM1X0k?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE53X1BsYzJZRVdydDZGUHVwaG03VGlOdDRBYjF5N1hkR0J0cmxEeFY3ZzZlSEY2TnlNbUJWRHl1SGtiZHNDLVVnU0JyN0VEUHJNM0ZyblRNd0ozMDc2U1N2dEkxWm80NHJuWnJJeFU4SGE2LXR4WmRGNw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BSm9sTnVpOWNiSlktbTVRYncySkcwYTlNRGtLRzZlNkp1YzdmLTlid0J2VHFwNHV2WXJTaVBfMjhFUVlFTDZRd1ZKLUtfNlVhbWVrWXNRamIwdVk0NUJiNzNaS3NrcWJka3oyTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

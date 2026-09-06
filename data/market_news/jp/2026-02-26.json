@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,753.39",
+      "change": "+0.29%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "407.80",
+      "change": "+0.82%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.20",
+      "change": "+0.32"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "食品"
+  ],
+  "news_bullets": [
+    "日経平均、終値5万8583円で最高値 日銀人事案で利上げ観測後退。",
+    "【市場概況】東京為替見通し＝ドル円、高田日銀審議委員の講演や本邦通貨当局の出方に要注目か。",
+    "日経平均株価は大幅続伸し最高値、終値1262円高の5万8583円。",
+    "日経平均は前日比+0.29%の58,753.39円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mRHo1Vm5tRGRoVXl3RWYwR1dMMmhVQWltTjNKZG8yRHU2M005RzVnX0RTX2prejY0ckdFUk5yUXpGc3JhZnk4dHplYTBSX0FWM1B6NzQtbEtZRm9fZ2FLVkJiZ09Tck0?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54QS1KeVdGaGJFT2NkYXZYQnRlVG55cVFlY3gzRkRpSFJHbV9hX2EyM25DSkp0NENHTFpVdVJRWE1DYlk4ckVvazNoeTBhbl95TGszcTl4ZHBaOXdNazJkRkZNOA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ydFExWmFXNm5yeURlaWl6YlkxNnFmTEhaUi1ncm5PZlBzdjRibkF2MjBHaFlIS1d6WGU4ZDZSNlF3Y0R4RFhKWVE5VERRenZqeE16LWZheEhad3NnaEhXZ3FhMlZJTFJZUXd5aQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

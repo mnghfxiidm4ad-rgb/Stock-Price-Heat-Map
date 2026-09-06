@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,850.27",
+      "change": "+0.16%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "413.10",
+      "change": "+1.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.86",
+      "change": "-0.34"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "不動産"
+  ],
+  "news_bullets": [
+    "東証前引け 日経平均は反落、半導体関連が軒並み安 TOPIXは最高値上回る。",
+    "【市場概況】東京為替見通し＝ドル円、高田日銀審議委員の講演や本邦通貨当局の出方に要注目か。",
+    "日経平均株価4日続伸、最高値 終値は96円高の5万8850円。",
+    "日経平均は前日比+0.16%の58,850.27円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wUXBCbU9UXzExOVVOVU5tUTNaeFNrNmZjNDNiYktHWUNoYkFWZUdtZ1FMS0hWSzFMY1FlV0h0TC1SY18tZUZlY2tBSk1GSUdLTmc3WUdmOEh1VWhqcnlxVWI1Wm5zRkVrWlhuQw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54QS1KeVdGaGJFT2NkYXZYQnRlVG55cVFlY3gzRkRpSFJHbV9hX2EyM25DSkp0NENHTFpVdVJRWE1DYlk4ckVvazNoeTBhbl95TGszcTl4ZHBaOXdNazJkRkZNOA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xNUJKcmZ6U1paV0tTQ1B6SkMzWk1ZdUZacUs3cmU4RUFKM1ZFZlRSZlFsamxpRkFHcU9QQXo4OHRFSUladEtqSUlZWktMVVhBTVVXbTdqRjAtdFctbjJuekZDMkQ1bjB6Zkp3NA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

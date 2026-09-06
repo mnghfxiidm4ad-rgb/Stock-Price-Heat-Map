@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,615.28",
+      "change": "+0.47%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,348.75",
+      "change": "+0.94%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "45,883.45",
+      "change": "+0.11%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.03%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: S&P 500, Nasdaq set records as market awaits Fed decision」と伝えた。",
+    "海外メディアは「U.S. Indices Surge With Nasdaq And S&P 500 Leading Before The FOMC Rate Decision」と伝えた。",
+    "海外メディアは「The S&P 500 could face its biggest drop since April this week following an expected Fed rate cut」と伝えた。",
+    "S&P 500は前日比+0.47%の6,615.28で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMjAzaVpiVEpNcDhtQUJxZWU1LUZiWmZPMDFwMWJwenVWbFV4Z0wtMXdDQlZxSDBGVkJqX05Zb1JHck1RZXZGUFRRSmZ0QXRWaTVnNUN5N0VJdG9wVDBtY2d6T0Z1YmJNQU51M0ZZb3FMTGVudXZpbE5tQjRZc2lqZEY2WXJ4NUZ0?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM1Y0QVpsc1hSWVljRmZ3QzFLeWlBMGFROXFjYjJoUExsb2Y2OEVxekQ0RGVjR21yZXgyZDJocnBOZFJmLWtBbHlQVnFPdnBUUUJtbXlaX1J4ZERQbVNyenJIaEFfOTdzVFd2WFNiS01JZ3o2VnBjQnpTQjF4Vk9yNDYxMS1hY29VVzBkNzJ0LXdmUjVaM1JQWmNERzR1Ui0wWXZTYkltNTQ4a0xVSS1GRw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUFBNNlFEQndaVFctNFEtVThRb0ZoT3Z5SmVpcElEMWM4SE45QWdnRnpqR0xOcHpwMF96eHFmNEc4Tnl3dmdLc1dPSlVMLU5kdmUtVFVYZmlaLTJhMFpkQUFNNzNEbEx5SjRPS3U2dmxNOUE3RDlaRk5UeE83MXVrNjhaNXE1OUt5RnJlVDJOZ3hpZGl0djFRVW9jTHRta2lON2NyRWxReW9MNjFwQkhSWkM0RkJoTlRJdGhEVTR4RDZmTnQtNUs2a0pNMGZYeUFHal81N1dn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:40+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

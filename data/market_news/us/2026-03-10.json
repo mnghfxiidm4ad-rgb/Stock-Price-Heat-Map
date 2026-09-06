@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,781.48",
+      "change": "-0.21%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,697.10",
+      "change": "+0.01%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,706.51",
+      "change": "-0.07%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 and Nasdaq 100: US Indices Rise Today as Oil Drop Lifts Tech Stocks」と伝えた。",
+    "海外メディアは「NASDAQ Index, Dow Jones 30 and S&P 500 Forecast – US Indices Continue to Grind」と伝えた。",
+    "海外メディアは「This Nasdaq-100 ETF Is Outperforming an S&P 500 One. Is It the Better Bet Right Now?」と伝えた。",
+    "S&P 500は前日比-0.21%の6,781.48で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGRBRDRCSXBtVTA5MXB2UGR6U08wT2RGMDA5Ylp2cWlJQ3NuWEp5ZjdUc3FjNmtFaHBlNmlFU2hzZ29xdUZhOV9OaERNVTZ0NGFtZkVJTDI2YlU2WlRxWWllNkF6TUx6dy1jN25qelJza1Q3MXRyckJQYVB2c2tDeWUxVkZ0Q0prQzJYVGQ2X29paE9UQmtWbUltWGgtVFExZ1pkY1l4U29PSGNCenFIOUxwVzl5cXNrdVpBNjNTNVhZUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlBPd3FRMUVrX0hJUDJUSGJXWkJGYUswcTJmUjBIRmZWcVhOMEZ3SUppUFpPR0RGb2ZJN25WMWtMNmZPcWF5RWtFS0FXdEZlbTJTX3pXRy14ZlFpZzN3VGdSS0RKNlRzejN6QTBxNWwwZmdtZjlaOFFJb05yaW1NSERsMXZPV05LVGJqSzFVSFZpMjltYXlHUHJaU182RXdUWXdrV0R5NExjSW9zTENDdEl0bVkzMy1OaGljbG9BY0M2QVk?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmQyZHNYQTVoMDFCNWZfNG9qZWRRX1RLWlRoVEtZWVQzV0hKTktZY1RITzRGZVhRRHJEV2FqZDNXSDZRNmxxbnJSMFBFc05zaDZtWHRYbkt0dFJ2dUdUUVVIUGRDaGlHcjl6enVVM19KSGVIYzgzSGRDSU1TbnJrNFBpM3htVmtUUXlUU3VFb0daZzNJMzRTQw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:06+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

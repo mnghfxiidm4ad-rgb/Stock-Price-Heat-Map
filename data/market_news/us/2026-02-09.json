@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,964.82",
+      "change": "+0.47%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,238.67",
+      "change": "+0.90%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,135.87",
+      "change": "+0.04%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.20%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 weekly preview: Jobs, CPI data pile onto Q4 earnings」と伝えた。",
+    "海外メディアは「Dow Adds 20, Nasdaq Gains 207, S&P 500 Rises 33」と伝えた。",
+    "海外メディアは「NASDAQ 100 Index, Dow Jones 30 and S&P 500 Forecast – Divergence Through Earnings Season」と伝えた。",
+    "S&P 500は前日比+0.47%の6,964.82で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUDN0MWRfNmNjckZBUnlxd0FST2hFY1pWZElzeGJISVdWMXBHeVRnRk9fNml6TUdTUk1oZWw2c0xSUGJ4WEpMVVFFNDAwc0lmSldibENXalBkMkN3ZXh5anc0WFVwTVplcU0tY1JsaVdWYUZrWG1NUkVGT2xvNW83LW1GR0FKR3lucFEzT1NYV2hXclJ6WUNIQ3BuaGtFelNROEkwZ0JNODJkS3ZfQkhWdVhIbWNaaVlNMXRlMjUwZ0d1TjhXVG5qaFlHTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUhkRGlNVlJIdnFIMjJSSnBneVBoRjNDaW80YWh0Q2NJMUc4azBESDNkeWdQbWdWRnlMRVNhQmpMV0plc0I2TDNaQk9mZ3JOaThMR19GUkdIQ1RhNjlOZTFoZkVaemtCb3ZNLVJ4TmZveWZQNXdqa1JqUjZQUU5HOFZYeE5DNVhrak1QVlRFOA?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3FXTVh0VlowOWZhT1NBZ1FQekNhSVZiWmhfVzBoaTlramViNkpTaWxrMXgxYjBfMGsyX2x4ZXJndTFqTDJncng2cXZTRExPLXdYLUVISFRSWG9KMzZ6S01ZVzVDTkpJUHo2UE5fSTJHZEdTOWtmRWRWMGpnd0pRZEJYcWRzSTRaeDBYdmkwTi1aSGswXzVLa0dJQ2VYRm1BQm56N012X0pMX1JkMV9SVHFpV1AyUld3NVRwUTZIZkZ3UzhpSzVMLVZUeTA3R0VL?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

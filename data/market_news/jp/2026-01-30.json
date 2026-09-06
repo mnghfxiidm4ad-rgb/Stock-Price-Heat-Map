@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,322.85",
+      "change": "-0.10%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "374.40",
+      "change": "+0.67%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.16",
+      "change": "+0.07"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "建設・資材"
+  ],
+  "news_bullets": [
+    "【2026年最新ドル円相場予想】総選挙迫る！円高ではなくドル安？金利高の持続性とドル円の行方／内田稔氏が読み解くインフレ相場（前編）【FX/為替】 2026年1月31日。",
+    "政府・日銀、為替介入せず 円高急進、日米協調レートチェックか。",
+    "インタビュー：財政懸念で円高継続の可能性少ない、日銀の姿勢も円安要因＝渡辺元財務官。",
+    "日経平均は前日比-0.10%の53,322.85円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDZHRhWXFPRWN6YXNGUVB2SVB6aFhFZi1ObDdiRWlDRHJWcEE4ajF2OG11MmVYMl84QnJmWl9ZYXJvQUNSdmFvdnk0LTZTbUJGblhXN195RlozMTZLWDRvNW1oSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpbnVRbWZxUENIVWVGU0RVSENYbGdOeGlzNnJWZS1rMUVQNi1IenRKRkxnNi1XdVFRZDNqSkE1eWtPclhYU2lFbXNzNDF6WGFTSWNZRE5lcTBVcUNv?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckJ3aFIyaVJxSnRtdTUyR1N1RnI4V09lYTdLM3V3dzZFbDlXdkNDRWtxVWNXQzN0VUhtdlVySldCMUpINDdWdkd1emNRM3hLaFBsR1lialpRbFBpYVJrZ0szQW1RMVJqS2tLYWlhT2NlS2dwNTNYRVYxTWRYUGxoMw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:46+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

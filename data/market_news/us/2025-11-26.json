@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-11-26",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,812.61",
+      "change": "+0.69%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,214.69",
+      "change": "+0.82%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,427.12",
+      "change": "+0.67%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.00%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "公益事業",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow Gains 1.4%, S&P 500 Rises 0.9%, Nasdaq Moves higher 0.7%」と伝えた。",
+    "海外メディアは「US stock futures rising today: 5 reasons why Dow, S&P 500 and Nasdaq are gaining — here’s top pre-market m」と伝えた。",
+    "海外メディアは「JPMorgan sees S&P 500 reaching 7,500 in 2026 — or surging past 8,000 if the Fed keeps cutting rates」と伝えた。",
+    "S&P 500は前日比+0.69%の6,812.61で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd2FYbi00SU5lSFk3TlFHTEtoaExMd2JVMTNjRXdXZG5RQmVWSkczZm0zckJtTnU3UHUxbl9wU1oyUi1xZUlaLThZcG0zeVFVajNXM2NIeTA4OWRrYWpEazgzbFg3TV9MTjFsQzVyT25mRnZQVVd4MktkU3J6NTlJdlNUT3ZQNTlRWm5kb1dyZXFNQlF0TS14eXVhWFZJZFc4YVlRQ2xPVU03aE9PQXBDc29VWjNHVm1U?oc=5",
+    "https://news.google.com/rss/articles/CBMijgJBVV95cUxNTDVzYllfM1lBdEJBNHdudUZOdU56TVVPY3NDWmMwZDlBOWtYd0hZcG56YWlDVHNraHVXaENhTFg5a2NrN0dWQW4xTGUzQi1uOXd3YjcwMG9HN1phMEQzZ1p0MmptVmxsSFFHa0lyU3JxTldzTjVRbnEzVWVLS1NYUTVvaWdRc0ZlM1dpSVAwRUNrSEdnOU5BdGJvQWxmNm1XTF8xTTZybmNFR2cwUVFzNzNTbExDZlM3VGJhcXVGckd1bXlRNTRsQ1FUV1l5bGxwX09HSUNYcC1IVTIyU2ZFMWRLa0VwVlhMYnBaWHVwemlYRktiZEJmcmJCWUZJd01KczJHdU8tei1GMEM0b1HSAZMCQVVfeXFMTnI4d1B5eWhsLWxUTGZWQ21WUm1xQm9OVWtZdHB0M0pLY2x1MkQtWUNoWkktZTA4elF1QkNwTUVKRXoycnJBb3JBVFotWVJENVhCa2xRb3I3SjF0ZzNXcVhpM1BfTElQQ1MtM0ttR1NBR1I5X2NaNGdPOUJuY0xYZE1DTXZITE9NcGlDN3NoSEo2WXVqUmlnUDNyS2JIOVMtTzBVYVR5SFBhV0RCOGRwbHEyT1BDeEczSVNmanUyUzI4eHFna0NLSlE3T3R0U2dfSGVVUWhoZ2ppbFFwMUZCNzU2bHl0TjJiYV9vNkpKdzdlN3EzeUFCaVJQbHdienR2NnBjSTlhNTJSLVBxcDFPSncwTE0?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYkpacW9ERy1DV1Zvb2t2N1R0OUJIaVlsNThkdVkwX3EtaVR4X3RsR3EzTFo5NXpZdG94M3k1b3U2SWI1cG93S0J4RXJxeVFnbVhjTWFpTUp3U3Q5YkFMMm5LQVFvUjRIZmdFRnk2YTI5RTJuT1Q0TVBUVHhwYVUzOTM5RkdNMFZLZVcxVG9YYUJuMlE5d2xCX2poMlZwWkNwME52Vk9HYmhrLW9zZkdmRDhvUGFvY1F3NDkySEdDRjZTV2c0Q0lJQmxhRWlhWkVseUtrMmN5bkI?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

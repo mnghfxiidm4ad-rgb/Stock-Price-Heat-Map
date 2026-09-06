@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-19",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,834.50",
+      "change": "+0.88%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,307.62",
+      "change": "+1.31%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,134.89",
+      "change": "+0.38%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Rise amid Global Rate Hikes, Cooling Inflation」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Trade Higher Ahead Of Core PCE: Why NKE, WYFI, LUNR, TLRY Are On Traders' Radar Today」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow, S&P 500 Jump After Cooler Inflation」と伝えた。",
+    "S&P 500は前日比+0.88%の6,834.50で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aR1Z3Q3AzMTJ4aEpuR3JLNjZyN0pMNUpkTjk5VS1EVks0MkdtWm0yZzBiZzlzQXZiR09qellKTlJ4UDFzRTZ2WkNaaFpET3QzbkJ5UFEyX2dQR2xNZVRlLXNKVWk0MzdNaTV5QlQwQ3BtcGZYbHEyOQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR0J6cUx3Q3c5NENoSzJheEt0cUpsNkU1Q1VCZl8xaV9mbG9maElZZ00tZUtBZjRzaHU5c3czbkMwT0Y3bUJjVFB2QURIOHA4aGdUVS11d2Z1dngtcE92Ny1PRExINUYxeHkxajFoa3g0QmVRb2RQTE5MWl9BLXpDREdHckl3RWtjUkl5bEFFQk83LWxyNEZJWXdZZ0Y3alJnNmMwVWt3R1hXc0c1NkhzZEdXbUVxTlk?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV25IQXVQT1dVX0FjSldqN3NpT1EtOTF0R2NralNjY25HV3d1dkFFdXc2eFBMYm9oeXlfVnZkbkRLMUxsT2JjaXFTS0dXc2ZScy1pNTZMaFFhZmVzdlhYNmpBMGkzMEp4N2tnRk04Vk1DMUJvdFhaN3FsSXJpSHU2VGlwVWprdnlxejhjZjh5a3lIelQ1ekJiM0VfQTFKZlFTVjRn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:29+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

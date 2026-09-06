@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-28",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,428.78",
+      "change": "+0.21%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,876.91",
+      "change": "-0.22%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,747.32",
+      "change": "+1.03%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.60%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Futures Slip As Korea Chip Shock Dents AI Memory Heavyweights Ahead Of Fed Decision: Why NVDA, SNDK, MU, APLD, SPCX, SLS, CAPR Are In Focus」と伝えた。",
+    "海外メディアは「S&P 500 ends higher as investors await tech earnings」と伝えた。",
+    "海外メディアは「S&P 500 Futures Muted as Semiconductors Drop, Earnings Roll In」と伝えた。",
+    "S&P 500は前日比+0.21%の7,428.78で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVVVual9UZEZKbG9EU29DaDJrNk90VXpVMUx1MFVXbVhSXzNnWndYRW82YW9makl1YUlXdHdfQXVIUEVSM2Y4T3NMVFZjNlIyLUhIbFRrOC16SEtXNml3LVpETjlZa3BneXR3QjRTWW9vOXloa3kwa0FXM0QyNWQ4dFhOdGEteFE5eEpVeXR6N1pKelhPSjBTNi12X3BmWVV6dHRib3pId2xadHJYX1l2dm1oQ3NkZ2k0LXF1OEpjM1NSSUZUWm5yTXltd1Fmb3U4VnZDQnBleThRMkdPaGJnTVMzbFR6TDJINzRkcHBBUDd2bkJyOGxrUHJfNkJmQmpSUVRJbQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkhJQS14Y3d3QkMxeG5XZmR3cldUel9CSk9pdDZrSDFkc0gydEgxSXQ1d0xzTi1OR29xVWEwUjJtV1k4V1p3WlZJeUZCbnB2MzJOYjBHRExWTmVobWlibGFqajlUcWx5emx2M01vYmNwcHlDM2FvYjRwU3o2M0szNVpyM3JwakJyRkZReUMyVk5GUklTWWczOXdFSUcwNkh1clFNVWJn?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFVJZklQV3RvaHBSSnltMTdsTERJSWlvRWpiQzZYYno5cmdoM0pQc3ladllQSjNmN3o4VHBWZ0JkSnVRbXFuTmkzYkMzWnl0Z0RvbHBhSi1mQ0trU3lzVVRnV0MtU3REdFdueG5oMzFLbERsMXJ3NzFBU2F1S3RHd2xYTzJmcGlidmxTc3dVekN6VFk3dllQSnhuMzlhTjZsUjQyY3ZvNi1wQlZvdlBsc1lR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:18+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

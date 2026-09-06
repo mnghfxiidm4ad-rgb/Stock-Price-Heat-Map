@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-23",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,788.38",
+      "change": "-3.55%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "422.80",
+      "change": "-2.69%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.57",
+      "change": "+0.14"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で113円台前半｜方向感が乏しくレンジ相場が継続(2026年6月23日)。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で161円台半ば｜日米財務相がオンライン会談を実施したとの報道(2026年6月23日)。",
+    "円ショートは再び危険水域へ、ドル円161円台で警戒すべき円の買い戻し圧力、それでも持続的な円高が見込めない理由 【唐鎌大輔の為替から見る日本】2024年夏とは異なる巻き戻し環境、ショートカバーでも主戦場は155−160円か。",
+    "日経平均は前日比-3.55%の69,788.38円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE03a1NUVEpTYlhBNHBZV3ZfRjhZSFAwV0NEVF92aURaNHU5dmNhU0lRVnpybnp6TGpRVGtjR0oybkRqWVp4czhicEFIaDZLTG9VaGRZNVRMRURkaWNUSG9ZdGtPeGJiRjd4NWkyaVpvYXh6X3c?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TaFVEWEkyTjZiVDhITk5MRnZmNVpCWm1xbFE1Y1RyX0ZqWmFUSjZ0UVIzRFc5ZWJyekwxQktSV3NaRTREdkZYcl9TQnd4MTNGUlNHdWYzXzhrYUpXVF9IdjdQT19HUmEzdHZ2SXkyTHk4bHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwa0NLSXBud0ZFakdOMW03WmpPNjlFMi1ETXZYcW1GR0VMT0Y0ZzZBQWF0dzk3azNHMGN5c3NBWXJXVk1YQ3BPeEZ1ejRQblE5ZHNwcDFR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

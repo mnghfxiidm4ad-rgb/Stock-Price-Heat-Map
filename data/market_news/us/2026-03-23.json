@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,581.00",
+      "change": "+1.15%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,946.76",
+      "change": "+1.38%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,208.47",
+      "change": "+1.38%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.33%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「The S&P 500, Dow Jones Industrial Average, and Nasdaq Composite all just fell below this important trapdoor」と伝えた。",
+    "海外メディアは「Dow Jumps 631, Nasdaq Climbs 300, S&P 500 Adds 75」と伝えた。",
+    "海外メディアは「Today's Market: Dow Jumps 1,000 Points, S&P 500 and Nasdaq Rise 2% After Trump Pause on 」と伝えた。",
+    "S&P 500は前日比+1.15%の6,581.00で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZlBkcGhlNjRPbFNBQXp6bzQzU21BX1hNcVBZLUFaNzBNS01hWTZhYzhIV0I3SW1tNGFPdWlhRlhnQm5nSDI4eWZ1ZlBia1RTay1RMXIxTkZnYmNYajUtSnVyeF9HREtjRkJxNy1QUUpzTEFDWGVadUtDSU5ELW5WanNZemR6WmVES3ZhaWVfNDgwdkV2Q2phcjlEZTc1cHhuV3JLeUZUNmRXUVlXXzA4bW1fYjB6a0MtWmFCcmJUVV91Z1VUbmtuQjdCTUZXOVhRNkZGV1NjTzlaa3IyaExIcE40SFg?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU3hvQTE3RTFEOEVGSFlWbkhnRjU1UWg1eklFT2JxZS1mRTlpU0xkUExNUUVJMkpFdzFKM0M2OXVZMmY5aDlRSnEwZkhtLUdldk9tTXU4d3h6V1BsZ01lQ3RBN2c4anhfS0h2RThBSU93bWZHN3JINEJ6djNrOEtTVUJuQXdYT1dnMXMxd2pPUVZIZw?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ1k3YUxmZ0Z2alVrTHgxNkdHU1BMM0p0MlRteXQxdmxUdGh2UkFLa3pQRFREYlM2bW5GdU5jSmIzLXVYWTE2cm4yU093NTNGbHB0MkVEdjZrdVNHdVJ3NEU3OFlQbmF6clU5bGVySVRWemZpT1JuLU1rOFRINVVpdzZpa1hNSHlNZ2hLQjNXbU82Um9oU1Z0M3JhQlFaUkxScmlqVlNjcmFoWVBwR1pyUHBVcjc1cTllOTZrR1FyU041S281TG5XNjl5NU50OG9waWFBbm8yYlNUNkRx?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

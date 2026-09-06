@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-29",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,135.95",
+      "change": "-0.04%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,673.24",
+      "change": "+0.04%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,861.81",
+      "change": "-0.57%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.42%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500 slip as Fed holds rates, eyes turn to mega-cap earnings」と伝えた。",
+    "海外メディアは「April FOMC US Index Levels for Dow Jones, Nasdaq and S&P 500」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Hold Steady Before Fed Decision, Big Tech Faces AI Monetization Test: Why MSFT, AMZN, HOOD, STX, NIO Are In Focus」と伝えた。",
+    "S&P 500は前日比-0.04%の7,135.95で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeDNIYktJV3JjV1MzdnB5RHFweWN1cEF1VVNEZ2FZVnhWTl8xcTVQN3NqV0x5dVlUUVM4QWYxLVdXREJVTURXRElCdkg0aHNKTEZBUmVjWlM3bzQ4UWFOd0xfcm0xYmFudWZCX0VWN1VxNzVEMHZldUVtcjJFTjc0VVpmS0dDYnVCWVZNQ2ZvU0ktU0haaWlHTktkdTFJdjdaT192anRfQXRJMDB6YzcxcmUxeXF0SmNZaV9XZXpUUjZpUFE5UmJHTVFJYk9RSUY1T3NYOWI3bw?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVktBYTJDWkgtb2JQb09KNzE0SFlrdkNoQkdCWS0teGo4NUo1eXZXUFBvNm84LXVNN2FkLXZPcExRLTJTajdrSDRaMmZ3QkxKMVJ5OExGV0ZUbmVKRjhMZmh3OE5aaWF0VjNKS0xibnF0RE1Vb0NNMU56LTN5Yk5DQlBzV1haNG8?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWVBGQ1dLaU9nX3E2cVFpWl9IRk5kUGdkMEZqLXZZUVFDSlE2dWNuZXlZdHNLWWVBOTVBMjdyQXM3aU9tNWRVYlNlUmhaa2pOUml6YVJERGtsNE5kMUNaRjZuTm5WSmVBVzVKSlhLRHowVjBwaFctcnFoSDhsMTJvTWlGVEhURG9ueUR3UHgyS05sblBDN1RsdkFucnBwM29TTm43WEJjSjFCNk4tZW5oM1lLOVdqVEdSTS1UdEpQOHVIMTdZVTJQbVRFT2N1LXRI?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:32+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

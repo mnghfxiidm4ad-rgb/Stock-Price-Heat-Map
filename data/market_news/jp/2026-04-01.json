@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-01",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,739.68",
+      "change": "+5.24%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "389.20",
+      "change": "+947.93%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.58",
+      "change": "-1.26"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "運輸・物流",
+    "食品"
+  ],
+  "news_bullets": [
+    "NY円、158円台後半 日銀の為替介入警戒で円買い優勢。",
+    "ドル円午前の為替予想、イラン戦争早期終結期待も円安要因残る 2026/4/1。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円高で158円台後半｜トランプ米大統領は軍事衝突の終結に前向きか(2026年4月1日)。",
+    "日経平均は前日比+5.24%の53,739.68円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LaXVJZ2hYbmk5ZDAxYjdkZlJqcTVNdUZoV2RUbHZzZUhJM2g2dlA4WWNMa2kxNGRMU1NtSkVKMVZNcEFfSFNFY0FPem5od1E1V2RvYThLYk0tWnBOZDE2RGhPSERvQllu?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54amdGR296VllzZlZNZXJzYmNDeTN3UXdweUpYQ1NFVjY3Tlc1cHBjUlJRYnJ6NHAydklIajZEejc1bkM2WmUtcFpPeDlDV3FjTkM4bTU0c1hDTl9qTndydTBlZw?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JQjAtU2FnbzluZjUxUUJxM0ZzR2NxQWZUSl9xR3dNVFlIaVYwN1VHaVNNamx5eTQ4ekxSbFRLeWV0MGQzYzloZkNyXzU4YUQyUWF3dTYyc0pzcDFXMTAtUlJUbzFGV29tSG5TZk11d3NONzA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:14+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

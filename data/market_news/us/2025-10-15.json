@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,671.06",
+      "change": "+0.40%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,670.08",
+      "change": "+0.66%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,253.31",
+      "change": "-0.04%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.05%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「US stock market today rallies strong: Dow jumps 351 points, S&P gains 1%, and Nasdaq rises 1.2% as bank ea」と伝えた。",
+    "海外メディアは「AI Risk Disclosures in the S&P 500: Reputation, Cybersecurity, and Regulation - The Harvard Law School Forum on Corporate Governance」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Bunge Stock Soars as Trump Eyes China Cooking Oil Ban; Progressive Plunges」と伝えた。",
+    "S&P 500は前日比+0.40%の6,671.06で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMioANBVV95cUxPM1JqanlaLTBxRENic2lHaFd3THNNMjlBWGtzREppdjFzamNtN2xvMnMwaXA1SHR2c3Y2eVRfT0t2QmdoMTl1TURacmJfVmc2Sjd6YkRZTjh6TGo5Ni04UkVmenFWdFdfaF9wZlFfZUduUVR0OTVqOHB2OHFTbnYxZEU5TUVyZzg3S1RqZ3NHZzlvYldhRWFXVkdhd0ZQQk0ydmswTHBZODdtZ3IyX2NGcUYyMHZlN1FTbi1RT1ZYYmZsUGw1aWNxZE5lZ3RNY3cwRlFYenluSm1wNWxubE9aZU9VeTVvZGRqYkM4dy1zZkp5c19CX01QOUlMTzlubjFOeldmNjZha0sxcDJqX2FBWWNvbTVBenpmdU82Nzc2ZnBybnVwVzZPb1NoWEJVRWNiWkhOM1JRbU9QVEs1aktTM1MtMzNEbnJRQ0EtbzRKSm5fV2JNbjVOYWItWmxaNlN3d2ZkUFdSM0twUHBGMGJlUjQ4YXc3d1d3TFBIbVlmVmFrbktnMjVVcmdYLUJvc1R0VUVEOVhhUnY0a1RhYU82RtIBpgNBVV95cUxNZ0U2ZnZXWXNKNllJMHRVZWNidURIdWxFZzNzaERrM0pTc2FWSHlZWEZVNmlvT2FMcGY0QWVTdEYxNTJYRnE4Z2U5UHlPbUxVbk1welFOdTdCdG81eVJDSzdOMkNqU2c0VDdjUk9DQURhRVRWQjNnZzA5RG5Gb3JuQncxZmpONVJmQmZCQU55eXc3MXFYUlcxR1QzZGVYeHR3Yk1pZUJMazNabDdELVhWN04tb1VTMmJDMUpoSmYyMW80RjBGY2JqZTlzZFR2VEVEY2JJXzVUUzM3anhUQUVmZ1I4bVQyT3BXQy1nRHNfeGNabjN3bTFseGlaLTFlU2gzaC1xd1RXRzdBYzJBaWY5TW9ra01idDI4bW1WaFVMUTlOSF94MFFWQ1pFY1JwcENIQy11SE1PcnhnUjFMb2JNZmpDeXNpZXFGcVJmTFRNTDJkcnlObzlZX3d4d3JtVmVrYUQ3eGVkZEVIOVVjZk9yUm5Ld2NOWkh1SEI5R0pvLXlfWWtSdS1IdzBacTBVNzQwTVgxZk1sVzFjbVlLMjJJWmZvWnpnUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2wwVHdZSmpaVzhpV3NGZVptTFdLY1JPWm1CQnZJcTdVQkU4eEJaQlhJczlIb01ENEpHTC16ZVlXenllTUhPdGlldVZzMXJuQ2p3ZHdZRUl2SHRQNzJORTZhM1NYYVQ3VE04TUF4ZGllNXR6TDZjcTMtNjJZajZJVE9UdUxLZFlLVEw1bGFYUHBPTkFqUEFOYWZhVFRMaXJ1YVZWQjE0TUh0cGNGYndzWnlrUHB5dW54?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcnlWMTRyQ3c4c0dVaU0xR29PaU41TDZqYlZJTmxUXzBJR1JleGxVbDNEWXIteE9qenRqSlJKLXRTa2k3RGpzVGxxNU5vekI0U3JlT2ZjM3MyV0xEUEs1Ulp3cjRYUTZGeGtCRVU5MTNzdmhmdzJHbWJXemNxV0tyVW41NnVERXh1Tk9FbHZVaGZJT2xVOTFjZ3VmdlRobG5JTG42Y01EQ3JQbXBZU3pjYnc5WWR2b1A5QkFZS3l2ZFJFNFBmeG50Tlc3S1hPRGlFcUV6ZU0ybWxsOE5DOHBR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

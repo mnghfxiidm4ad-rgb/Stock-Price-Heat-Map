@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-10-01",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "44,550.85",
+      "change": "-0.85%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "324.50",
+      "change": "-1.16%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "148.00",
+      "change": "-0.60"
+    }
+  },
+  "top_sectors": [
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "日経平均株価381円安 日銀短観に潜む不安材料。",
+    "トランプ圧力による「FRBの独立性喪失」は世界市場の大波乱に、通貨不安＆インフレに直結する“トルコの轍”と日銀への示唆。",
+    "日経平均株価4日続落 終値は381円安の4万4550円。",
+    "日経平均は前日比-0.85%の44,550.85円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZaXo5czhnWWN3OXk1UzVhVktHZmw3R1ZvbVpIRmRoQjFsZWlIMkNMSFVIVUlJQ0ltRFRubUNlUzJYT09IQjRpNFc5WTBETmpaeC0wQWZCTS1pX2FtS3g2TG9BcEV4Mk1oc0c0eQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fMS14WnI2WDgyT1pNRVdTTVF2ejUwOEd0Zm02dVhJRGc0UmNFa1NiWTlnaFFHd1B5NlFJOU8wbWFXRHlPU0NLaUtVQU_SAU9BVV95cUxOdFVCaTNfdWNQMmNqc0o5Q0NnX053ZENuaWxtelllNUJGUDBHWnBvM0d5MHBwQXdFNWlBMTdGR2thRmtKRk9hZE5ycWw1dUpr?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NYXZFMjJFUzFFeUhFNmFoVVRaVjNDM0dNb3htRXhMU1lfRzF6UnlhVUF2WkpfMEJGSXlVLW1uTTFQNzBqNE1GSjVVajk1anptR3JpMFBudm8zVTdGSC1NUlh1V0k5M0g5aGVFMA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:49+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

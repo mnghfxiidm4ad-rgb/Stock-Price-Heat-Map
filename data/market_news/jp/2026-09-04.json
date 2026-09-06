@@ -14,29 +14,30 @@
     },
     "sub": {
       "name": "ドル/円 (USD/JPY)",
-      "value": "156.20",
-      "change": "-2.73"
+      "value": "156.22",
+      "change": "-2.70"
     }
   },
   "top_sectors": [
-    "情報通信・サービスその他",
-    "小売"
+    "証券、商品先物取引業",
+    "電気機器"
   ],
   "bottom_sectors": [
-    "エネルギー資源",
-    "電気・ガス"
+    "鉱業",
+    "電気・ガス業"
   ],
   "news_bullets": [
-    "日経平均は前日比+1.26%の65,020.94円で上昇して取引を終えた。",
-    "TOPIX（ETF）は前日比+0.07%の427.50だった。",
-    "情報通信・サービスその他、小売セクターが上昇率上位となった。",
-    "エネルギー資源、電気・ガスセクターは軟調だった。"
+    "日経平均株価1,889円安 長期金利3％台到達も、「金利のある世界」への移行では整合的とみる 野村證券・岡崎康平。",
+    "円買いに勢い、加速する日銀の利上げ予想 155円超えなら一段の円高も。",
+    "日経平均終値806円高 息吹き返したモメンタム株、金利高一服で安堵。",
+    "日経平均は前日比+1.26%の65,020.94円で上昇して取引を終えた。"
   ],
   "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Z1BwUEx3R2RIN3NDbUloYjQwYjdJV0tvbVZXNEpuUHI4dEktODlHNHhnYng0aUZBOUNibGQ3S3QtUENUUGRoTGtTNnNISHo0SmR6UUw4YUtoUDlkS0Jn?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JR1hHWVQtaXY1SlFMZkp2M3J2R3pITE9qeXdTVFl4N01NcC15ZzZLMGc3YlBvLWJ4bURTaEZ0SGs0UEFtMVZqbFZXTXZzNDgwZmxSS0lIUllaNWs2VjY4V2gyZTcwN1oxNXhnRw?oc=5",
     "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OMnhlY3dSQlpTNk9lQUhQWHk4dERpbDhLTndCOGRqV3lZQTZtS2RQLWhrZ3pTY1FJblFDWUtacklfQ3lpVjJnXzV5b2c4NU52U1ZFY1VXVXdkRU5idnhveGpCbTl0VzFxcERCYQ?oc=5"
   ],
-  "generated_at": "2026-09-04T11:54:56+00:00",
-  "mode": "daily",
+  "generated_at": "2026-09-06T09:28:32+09:00",
+  "mode": "backfill",
   "trading_day": true
 }

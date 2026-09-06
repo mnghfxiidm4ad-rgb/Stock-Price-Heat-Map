@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-28",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,978.03",
+      "change": "-0.01%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,857.45",
+      "change": "+0.17%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,015.60",
+      "change": "+0.02%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.25%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 reaches 7,000, Fed Rate Decision coming up! – Dow Jones and US Stocks FOMC Technical Levels」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Strong and Waiting for Fed」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Climb Ahead Of Apple Earnings: Why META, TSLA, MP, CRML, SER Are On Traders' Radar Today」と伝えた。",
+    "S&P 500は前日比-0.01%の6,978.03で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnNwSzVEaUp1azhqVzhTQkwwRkphZlViYUExclFoVC05VGJYTERSX2J0WFh1SDhSbkVzVnVzbDRHanNScWFpMDRyVWRNMzlRTDhTZGczTnYtakR0bFJtS01jNVBmSmNXZV90MHBMRF8wS1NtcFVfaHAybmpZXzZHSkEtVFhZVWNOWDQxNHNqdzQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNLU5MMlhCc0w5eUZ5SFgzOVZLRjhZNmZ0emM5YjFxM2xsTEVmMzFoNXVpM2hTeHJPRVc4cVBOb2pabzd0MnJjZWYtWUxRU3hycmZOR1ViUl9rWlZQbVRHenF3NURkYV9xN0VrRWNKRzM4U3lFRUpTRnFZd2ZOd0F4VWhoX01uQ2xOZ1VleXMySmE4cmhidGxpNEhKdHU1clp2TUZ6TnhBM2NMbDVfWEVsYnZxWWhLa0xkdzNpWlAxZHAyaDg4cFpsT3REMzM?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSFM4NVlEbkJmcXlNbmZfOFQzM05zQjFEX2ZIRzF2dmZYQ0U0ZWxBTEZXVWFsVlVuaU1oOTJpeTZRRFF6RmQ2cjdBVXBpeDl6bWRJNk5ITmJocXc2QXBPcVVZVk42MjVGMXBodkRzUFRsT1QxOXRtVDZiR1A5eUNqT3l1a0FuZnZ0RXc4bjVzc3k3aE0zUjdrMV9xN0txWk9UQlFkLWVkaFZ1ZzFHak1fZmpwTVRyd2JWUXRNekkxS0xocHhsY1dxbg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:46+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

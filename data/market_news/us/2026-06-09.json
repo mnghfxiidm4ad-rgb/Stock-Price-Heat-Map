@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,386.65",
+      "change": "-0.26%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,678.82",
+      "change": "-0.97%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,872.11",
+      "change": "+0.17%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.53%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq fall as tech selling resumes, Trump vows to react to downed US helicopter」と伝えた。",
+    "海外メディアは「Dow Jones ETFs: Better Than S&P 500 & Nasdaq Now?」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Edge Higher On Firm Jobs Data And Yields」と伝えた。",
+    "S&P 500は前日比-0.26%の7,386.65で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEZ1N0RUaEQ0X1VUR2oxdmZvNnNwN0lhZF9FdDRtUTZ6dzlReDNuS3RfMUIxYUpZeVNjRWtzbFltejhMSDVqNE16UTNKaFpvVkk4VF9ySnRrRnF5S1ZJV3RqWWJnZEJNMTFISGdzQ3RWUEVyeW5oU3RnUjIyQzJnRUMxNmNqcFVDV1E?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSlYwNm5FN0d1dF94WjJvU1B0Q2tFUlkyQXhjajhOa1QtbnlRQW9jZ251VDliVWZYTGlyYVlLbWE1bDF3M2pTNVFzM3dOYTJScktrVnlEWUNDNnhFOU9iMVNpSnFkdmNiSlFZTy1PZllzSzMtb0c5WTl5NmxaZDlkUC1wQ1poZEhnaVc0YUIxc3puZw?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVlvTm9VVklxWk0yWlhiZFlrV24teFNuX2hQTjlKaEVuQmdTMmdEMmNEeXBZSHljN1N6SWZ1X0sxaDFCYW0zV05DQlNqSVNvOHVTX2lnV1BvSVdTcElPWTlvaHplN3BUdU84VTJjOGlTY0RvT1k2dDhpUTRtTzNMWDNCSnBBM2R1aU9QeDBjY0tLZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

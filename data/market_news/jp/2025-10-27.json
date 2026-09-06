@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,512.32",
+      "change": "+2.46%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "348.50",
+      "change": "+1.75%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.06",
+      "change": "+0.46"
+    }
+  },
+  "top_sectors": [
+    "機械",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "ドル円 今週の予想「日経平均は史上初の5万円台！円安継続か？」FXチャート・ファンダメンタルズ分析 2025/10/27。",
+    "米国株SP500、日経平均、ゴールド(金)、原油のCFDのテクニカル分析見通し 2025/10/27〜10/31 日米金融政策を前に日経平均とSP500は様子見ムード、金利上昇で金は下落、需要期待と供給懸念でWTI原油は上昇か。",
+    "日経平均株価が大幅続伸 終値1212円高の5万512円。",
+    "日経平均は前日比+2.46%の50,512.32円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZMjVFSWNKWUt4c0Znc2N4eHNlT0VKVnFBcjBBZWNqVEtXSW9ZclYzWFlIUE0xaGR0LTM5aFQxeEVHM2RzR2F0MExOTF9sN3BFOHJBOWhnWGVWUWRjSlZqZ1cycw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05SUJRMGxKbTZMc0JnMTRPVEUtUU5PUmJaeTNPUUxEajItQnNfd3hWalJEY3VGWkhrQnFZWWhWWURlelVSVmFYaWR3TVQ5MWdGSS0yaE5lTjdaZDVrRzA1Q1JJTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xY0xEQm95WXNZQjZ2M0FlYlNrbDhMRHF4Q1NXeWtxQnNqTS0wZzVraUhWRzM3TUhXMWg3eUw5NjJmR3hBSEJOM2JITmQtbVpmM0taU1d4d2IwWkhKd185M1hpRURYNm5hOE5HMA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,405.73",
+      "change": "+0.30%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,929.66",
+      "change": "+0.86%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,786.01",
+      "change": "-0.16%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.55%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Drops 81, Nasdaq Gains 220, S&P 500 Adds 22」と伝えた。",
+    "海外メディアは「S&P 500 Retreats After Jobs Report Raises Prospect Of Rate Hikes (SPX)」と伝えた。",
+    "海外メディアは「Marvell Tapped for S&P 500: Can the AI Chip Rival Emerge as the Next Nvidia?」と伝えた。",
+    "S&P 500は前日比+0.30%の7,405.73で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmtCUXdCOFhOSEpvQlVGdEw3c0FNT19TbG9QS0h4Nkl1c3RfY1VJc0Y5dF9XZ2plNjIzZ0UyNXdlRzRzamMzeko3VnBKNU5tWGZBV2JLOE9lVGZISVc2V1BRX3o5UjByNDUxUkR3RnpycXRydF9lUHpYSzlfSEdORTFEMlRvcXNvenJtRTlTOA?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeHVhZ2NEZ19Zb2ZqZHR0SGRQdnJ3N21KMDhYZm91NE5UdzlBVzRNUnhHZUlqUGxTRHJ6czd4Z293bkN4S3I2NmVoSl9qXzdsdThRU2tzWURHcW55cm02QzdQaXMxR1VXVTl4aWoxcUM3RzdJcHRjZkJVYU9zWGFCNm83OEdSUnJITDBfdU1CMlBHczVHeDdOUERR?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUViX2lXbUtEQThBMkY1QTUtTGNRbERTN1dFU1lienVnX3puakY5ZHBCbU1jMnJOUFNMZVE1aEdVa3QxSjZGeVA4UWlRVERhbEhVQlNTMHlzRl9kQUlBRkFIMGQwZzczYXo5Z0xSY29rOURDejdLUG1IVDNkd2pTY01MMGthTHlIOHJLRTB5ZmpkN2JZOG5QOUNhWWtNVkdJWWxLODM1azM0QQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

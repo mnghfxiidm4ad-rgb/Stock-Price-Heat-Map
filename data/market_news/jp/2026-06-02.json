@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,734.24",
+      "change": "-0.30%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "415.80",
+      "change": "-0.41%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.64",
+      "change": "+0.28"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "【ドル円見通し総まとめ】ドル円170円のシナリオ｜朝倉慶氏が予想する株高・円安・金利高の流れ 2026年6月2日。",
+    "日銀6月利上げ、中立金利もヒントに? 欧米とは「立ち位置が違う」。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円台半ば｜米国とイランの協議停止報道を受けて円安(2026年6月2日)。",
+    "日経平均は前日比-0.30%の66,734.24円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84QWx5T3V6eHhvM1FNNGFDakdIU2FwOWZYSXRiSzhjV1ZTNUFZckVaRXhONkJRYzZJSXlwd3JTSVlvY0JieEl2cjhZNXlsLW54RGNiSUhwV3d0R1ZaSXAyMEdIZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jMDhiTkNlclV4dTBaZTdSUmEtQVlPeDh5bjdpRGZNYlVDMWQtZGxpR1c5UzBQb0xXdTVoWFZWR25ab2R3TWlEZ3owQW5mTmsyV1VwMTY4N0lqcXNOWFBRdFJsNm1LZjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWa0xXcDFYcjRza1hudEFhRjRIVGNzUURRY0YxMkVscEVKTzN0Wldfcy1QV0c5XzRsX29JVXhNT0JYM1hTWVlZTmFraDNNY2xRR0pfbmtlUklJdnpKdURyLU1PZC10eGpTUE4yeTg0M2Z2QWs?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:41+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

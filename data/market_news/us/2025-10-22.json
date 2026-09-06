@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,699.40",
+      "change": "-0.53%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,740.40",
+      "change": "-0.93%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,590.41",
+      "change": "-0.71%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "3.95%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "資本財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「The S&P 500 is more concentrated with AI than ever. Here's how to manage your risk」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: Netflix Stock Slides; Intuitive Surgical Pops After Earnings」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Continue to Hover Near Highs」と伝えた。",
+    "S&P 500は前日比-0.53%の6,699.40で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVU93bnktam5RTjhSNHlRV25PbE9yZmJkdFZHRGxJb0Y0YmpVUmdhSldnMVQyXy1hbElsdXRFNE1RbjloSHJqS1JBUTlNYTNnNHpObXV2MHdERHNIdGdxQUxGWFZCdk1vNDh5MDhXd2tLbXNzMmdMcVJvVkMtUHY0YXlIc05mLVFDcC1rMk5td0x2aWPSAZgBQVVfeXFMTXRYT1ZtekMtVnJJU2RJN3NaTzBHMmFfRWlEa0V1OGh1V1VmVThJel9TNmJqZjJDVDFHcExWOTVoZ2g4MVQ2a2RzUHZkeEtyU2VPckZJXzViT0xfVE1zalB1WXk3MHo4SzhVTmlKRjdPY3JwSHZvOWdkMWxPZXhxM1liZnlNNUdsTVl2ZFNiLUkwWFJIS3dvc0U?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxONDBxT0t3UEEtYkpucGJPZ2dpMGhfb29WZmdiam1mSzhDQm4wMmQ0dnlZX3pYVmFqRUx4N3dDWFd0THkybHAwNURmRXN6S1ZZTnVoUlJUcEVoU2VDX2tISjFDZVU0YlZIZVhXSE50cHZ2LU52QzJpU2NkLWtxU3ZXZkgxYjFhcWhSelg0LWlIN3ZYVlEtRDhYVnV2ZzItMWJ0dkxrbWltT082OFVHVXEwajhuZFJ6eUQ2VTZJeFFrdkxhLVBCanNYRmZoNlM?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWld2bl9vRG1CaEpGdmwtWG1OZHZ0elZ1REpyVnc4dDJuWEp6RzdVOU1UTDJYNTBRcm53V3dLWUZRZDIyT002MWtIdHhpbVhKNzFjTXFhNTFfSkNqNG83N0lOeVFWY2w1LWNTQVByRG5LdUxGaE45V3NRWkVMYXNsRVdNYlhaRDNlVFZ3M0toVGtWYWpGeVpvUndXWGxsNlJlUDNIVktrbE91SDZDTU1XMXBzMjVCTU1oUS1WckZXS0J6WmVXQWhkdVEtQWIxcFk?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:59+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

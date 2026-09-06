@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-29",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "61,434.19",
+      "change": "-1.49%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "414.90",
+      "change": "+0.48%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "163.86",
+      "change": "+0.09"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "コラム：円安と金利上昇が同時進行、40年ぶり水準のドル円相場と今後の展開＝尾河眞樹氏。",
+    "日経平均終値930円安、SK好決算「力不足」 AI過剰投資の懸念根強く。",
+    "【FX】7/29 ドル円164円突破なるか！？ FOMCで相場は動く？注目ポイントを解説 ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均は前日比-1.49%の61,434.19円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejlaemtfR0FCVjROZThnV0U5bUd4Qmh6dV9Fd2NMb1lnd3JkX3p2NUNraTB3bG1BQ295TTR3ZUpiOHFjRHZaazZyQ3pjT1ZvZThZc0d1LVRBR25CN2JzV015VGFzS0Rlc2JDVjl1RWE5MXRWX2MyZ2w3LXQ3cF9zdjMtTURudFBP?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lT0oxellzUkUwNWN5VkM0YllUS2h0OFZXZXNkc21IaU5Nd3RFMmhlbWpLWmE3cE13TkNhcmVydmdSay1ialhBM1psS1dtSWp3NUtpenBIYlQwaWxtdXVkNWpMRFA3OWJjTUFMdA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WRV9Ib2t3VUs5R2kwZndjRFR2aTlFVGdKMHBLRVlrZ3YxdkVmSUpsbHdRNWc4QkluQmZZYi1WbEpUdkNqMnZWTnJXR2M5OXJGSE44NThaS1h4NFJYWmZFaVR2Yw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:10+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

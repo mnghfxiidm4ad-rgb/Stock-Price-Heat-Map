@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-21",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,735.35",
+      "change": "+0.00%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,953.67",
+      "change": "-0.16%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,924.74",
+      "change": "+0.47%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "3.96%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「YieldMax S&P 500 0DTE Covered Call Strategy ETF (SDTY) Stock Price | Quotes & News」と伝えた。",
+    "海外メディアは「Nvidia Stock at 8% of the S&P 500 Index Is a Big Problem for Investors. Let’s Do the Math」と伝えた。",
+    "海外メディアは「S&P 500 Gains & Losses Today: GM Stock Speeds Higher; Newmont Sinks as Gold Retreats」と伝えた。",
+    "S&P 500は前日比+0.00%の6,735.35でほぼ変わらず取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VZllyQlhpQU1WdExxdVlwejI2YlBmanNES2s3V3gwTVBiQUNaVUJmR0NLcm54d05Oc1J1VjdtLUJaU1dkMllfa0czcw?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mOGJWTnVERzlMeXFwd0pDdkhDWFlkVzY1THpKb1dWRjdHU0Z6eDRPY3pVQ1JXczN2SjBSNW8wcWctVUVnalpZZlhvOGdndXowVjV2dXlRZXIxQ3FjZGdLenhmLXNFcUszd3VPMDY0alJSOEJj?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3lfRXlUSjRSRm5tUThmUnNjVjlmcjA1OE96MWt6a3FhWkQxZmQ0UHNZQnBhYUNpV0hFajdIb1V2bm9zQXl4alNVRm5QbHZjOEcyYVhhUlRIZTEweEZMRkx4UXZEamJ4M1JlZmJUS0hsZk0tLXVFSzBidGdyQmhKdklyQTdjWWQ3djMwLWF1VkFBb3p0d1RRUmZSVVJaTUt5M3NhY0JJTlkxUEVWQndRdU9pVWs4ZVNZU3Z0WUJDVTRBWXhy?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

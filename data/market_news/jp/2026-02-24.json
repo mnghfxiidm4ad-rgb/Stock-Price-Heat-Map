@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "57,321.09",
+      "change": "+0.87%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "401.10",
+      "change": "+0.25%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.63",
+      "change": "+0.30"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "東証午前、一時500円超高 AI株上げ、米関税警戒 - hokkaido-np.co.jp。",
+    "日経平均7万円は視野に入っているのか？。",
+    "中国の世界覇権を考える（9）相次ぐ中国にとっての追い風。",
+    "日経平均は前日比+0.87%の57,321.09円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UTmlHajJIYXJ6OXpyUVl1T3FrRU5VaVRCa1JpUmFuZmN0SXF6RHMtM29aYkQyZmcwMjlwNks0Rk05cE9RdFlVYzZHYnJzWjl6TnRGNzZnWVdBdw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NXzU1ajlrYTBGbXVNSU5xSU1lTFU2NXJjTnE4d0NveHdIREJfYUd6dHVzaGZJMW5nQzdBU2ZFaWdVNFNTY1BsVEdKMjVlVUNwYVY2XzJOajNpUzIzYW5McnAzbmNxQU93OHZIbQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MY1hDTVVfR3RwRk9fSXB0Tmotd2ZJSFBHMmo4WnZ3NThiSmZyell0RlU4cjktTUw5U1lkVjFrU1hGcGdJLWx3c2hWbGx1VjNTUEQ4cm1uTmZWTF9Fdm11UnE3UjFrTlBMc0g0Vg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

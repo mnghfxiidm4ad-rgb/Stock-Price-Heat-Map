@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,543.59",
+      "change": "+0.38%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,107.01",
+      "change": "+0.90%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,508.27",
+      "change": "+0.02%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.59%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 futures are flat as traders grapple with higher oil and earnings rush, await inflation data」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq Rise as Soft Inflation Data, Bank Earnings Buoy Sentiment」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq open higher as CPI, bank earnings take focus」と伝えた。",
+    "S&P 500は前日比+0.38%の7,543.59で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLXRwZldBcGdJQzdJNUJFZHZKN2Z6cF9tZlRXbXZsd0x2UFdCekduV2RKN1ZUWHZ5LW9YZGI0ekF3V0tpOUdnNHViYzRQbjhSVzhVcVlZNTRkTDU1M1RwT0xKdGRDd3FMeWkxZVJlU05CMmpwTEg4NERtWWhUaHU5Y2F5YjNLOTVqTWhXbnZaR1JKTmwtSERBb3ZGY3ZvT24xVTVJV3pnRVI5cUY3NF9BVVFVUWNVSlJweW5oQXR1ZnlqYmFTZlJVLWNGWmp4YkdpZTY1ZHE1WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDBjMGtIbWQxc0s3SEk5WnlVVURyV0ZiQUoyVjBHU2pKZ1VIcGNRU1UwbWs1azJfeE01bVRGbUZNLXFZZ3Itek1FbFo1WjNDMU5Ycjc1YlgyRFE0VENydEIzRG1KcHBBM0pxdG5hVDQzY1RTVGt0SmdGYTdvZnozM3JpcUdSOFFDS0xnTmxVNlNMOEVFZkxxLXBMQWxTRGFhU3FwYUwxZ3Y?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbDhYcFNJZHBaQ3hjUE5VN3I3QmJuODlpQzd3YlRnd3lWVFZqQ2dKYXJQQV9vWm5CRXlhZmY2UmRONGxxS1NXak9wV0k3Q08xRnZFT3dmNE16cGlYajN1X09GRS01Zkw5Nk9DQ2JrRzYxZXRKWVhZa3I1RkZrcGlabmlib1ZVdXh5VHlUZ2o5Wml1OUU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:10+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

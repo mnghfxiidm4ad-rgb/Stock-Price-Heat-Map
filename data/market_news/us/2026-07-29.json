@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-29",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,316.15",
+      "change": "-1.52%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,442.94",
+      "change": "-1.74%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,594.14",
+      "change": "-2.19%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.62%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "資本財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Futures Mixed Ahead Of Fed Verdict, Microsoft And Meta Earnings As Oil Extends Rally: Why SKHY, SPCX, HOOD, BE Are In Focus」と伝えた。",
+    "海外メディアは「Markets Hold Steady Before Fed Announcement as Microsoft and Meta Earnings Take Center Stage: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Rise As Investors Shrug Off Fed Hold, Big Tech Earnings: IBRX, MSFT, SOFI, META In Focus」と伝えた。",
+    "S&P 500は前日比-1.52%の7,316.15で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxPU2ZnR182Y2lDNjlLV1ZfUmtFdWFTRjZKS05vdGljSllzN21odTJFTUdCZ05KSEFWbFVZNjNvczdlMC1zcHVvQ1VmOFF2ZXlHMUVTbHpCOGlnYUhDWlpnTWdsejRTQXlxNjlOZm1IdXhzYzlGbXZPbDNWY3MyeTlzRmdGR1VZUDB4MEtIb1hsUnZmT0lZQllKTzNXR2NjcmRVUVhqZlJ5VVZ1b2QtRE5VaVNWRnJuLW1oLVJOUlVFMWpfR05LVmxnMk9VMmNWTXdwUHFOY2x4OUZBM2luemZ4VmdKV2wzS29YMGttY1FWcUQxcmp2ZDMtSFU2MjAyYk15dVEwSFM2ZksxeHQtQzkzZHRsVGM3T2tZNlpsQzhB?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS05VY2dDMEE4TmQtRHJ4QW9qQWw4SUw0bE05WHM5Y2ptenFGLWlrNWxWNWFLeS1qcnVwUE1Zcnd5eDFlM1haMWZNa3FrWTZ5THVBTnhtMmttcU1XUENQemdqS2ZDZkJEbEp2ZzBRajg5X3F0MUtjMDdiSVVvbmxYNzFGc3BsWGRKVHN1YkV3?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxORU5BU0M2R3AxelRCS21EOF9tMWlpR0Z2dlE1QWtRWEhoWXFoclhfWUlnTDQxazZ2emhoOFJ1d2VqTWR2VjBrODhXVmVCNVdnd3JVMXp1MFdyMjByXzBYY1k1MzZDRXVoeE9pZnFqNVlDYWFEOEVBbDhfSHhFRW4zalc2NmVmOG9EQ2R1R1JnMWJyVEU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:18+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

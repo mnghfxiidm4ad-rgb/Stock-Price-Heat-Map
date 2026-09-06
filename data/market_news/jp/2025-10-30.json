@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,325.61",
+      "change": "+0.04%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "345.80",
+      "change": "+0.58%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.72",
+      "change": "+0.99"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "ドル円153円で頭打ちか？FOMC後も重い上値 注目は日銀会合と植田発言 YEN蔵【10/30 FX NEWS】 ＃外為ドキッ。",
+    "日銀・植田総裁、利上げへ「春闘の初動」注視 政権とは「密に連絡」 [トランプ関税][高市早苗首相 自民党総裁]。",
+    "利上げへ「春闘の初動」見極め、植田総裁会見 政策金利、６会合連続維持―２委員が反対・日銀会合。",
+    "日経平均は前日比+0.04%の51,325.61円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iVl9feUxMY2gwZkpadHZPRWctZ3pTbFBzRWhUbGJjTDdsUWJkRlh0ZzJhcGdfRV9xRWZPMjY5Vlo0XzFmZEJsQXNiRHdMZ29INnY4MGE4RUp5VVRrZTJLZ2ttcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HVHRkVEhhQktYUVdGMVF3dUd1VHNONkl0dXNhSG92LTBUQXl3RHlNb0dMdjQtMExhZzVLX2hqTFJoM0ZFZENXMkFteDdLVTA4ZjktajNuRUVRNDAzTE0zUEZlMG5wWjA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HMGpodWplX1dJNm5yUG1fQWgtYjBqMXA3eERJM25TWENJWUd4WTh2WUhhRjhOOGFGYjZQZmFza20zSWd2NjB3Ni10eWlMWmVMcXpJdmZoZ08zRVNzaXBmRW05SQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:03+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

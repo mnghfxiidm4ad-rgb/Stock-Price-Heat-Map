@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-07-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,411.98",
+      "change": "+0.05%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,975.82",
+      "change": "-0.64%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,947.25",
+      "change": "+0.46%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.68%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus」と伝えた。",
+    "海外メディアは「Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Oil Prices Decline—Intel, Edwards Life」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Mixed As Oil Surge, Trump Tariffs Cloud Market Outlook: Why INTC, TSLA, SPCX, ORCL, SLS Are In Focus」と伝えた。",
+    "S&P 500は前日比+0.05%の7,411.98で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVmpaZkdKUzVtbG14WVhZR2FGY1lUZmVjYVdEcV9odng3VmRJRlg3YVlxXzFCenVUQnZHck05ZXN3WERSSC0wcWdRM2FDd3JKZjF0MkFfb0pHTHE1UVFpMGdDcjZ5dlJrOF9EYVJGbHdySjFWM1ZsLTkwSWhsM2N4WktqU1NFdVhMakprNlZkMlBZb2F1WjhqRnBHZ0J4WnBzVXdsNXpzc2FaLUNPRlBIT19qblpKeFV5bzNDSklRMzVaQ212OEJTZ2wzUk9BalRQcnVlbjBVajhYZGRfblA0S3J3?oc=5",
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcGhMS2FURHV2aTdIa3VvMDFENWNKOWxJcUZyaGktcTNnWUsxSW9ZdGp6SFpHVFg3dlNYUDgxXzdrREkwRmJBX3pQSkhPaE8zc0JFQ05kbDdRaHVVd1lRUWVLVHJwRWlHbzNfSS1jZllTQUpyazVQNkRxN3pIZkVXdVYyRVlyN0RXREtXa1c2Z0lEUm5BeUNSQVI3d0daUVh2ejJfVmdPTmFKX09zV2lLRTdJT1BDS1ByVml3ZmdjTWx3dnUyeTRDMHNiY1RORmxZb212ZU41RmRyVDFTbXk4VlBCX1JaSXF6cGlwTGtaZ254WDR3b0NBdEdZOA?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU9xVWlYdlRIczU3VWM2N1lpR3VFVVJMVFNpZ1E1VmM0YVNFM2kycU9MYnZxTW96ZTVqSEdHbVdKNTJncmpYY2tJVkZ2Ulo5U2t5N1FFR0twS2pVbHpqQUJnQm1tcHBmMm53Ulh1SFI0cEtTRkpRWnVPVW1pcnBVd05KclB4UVUwU3dSa1dpMVh2czBQRnc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:16+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-11",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,417.88",
+      "change": "-0.47%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "407.10",
+      "change": "+0.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.86",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "機械"
+  ],
+  "news_bullets": [
+    "TOPIX（東証株価指数）とは（朝日キーワード2027）。",
+    "【イメージセンサー世界シェア1位】 ソニー半導体、若手技術者が語る仕事のリアル - sony-semicon.com。",
+    "【↓】日経平均 大引け｜ 続落、朝高も半導体主力の一角が売られる (5月11日)。",
+    "日経平均は前日比-0.47%の62,417.88円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91c3VQbXY3cVJMdThPRkUyUkxXQ2pMU0F4ZzlST0tWYVRsV3ZSd1NMLTBXRTRtVWJmNUE4OWhaaVA0X1lUOFNiUEp1ZHhqS3cwdjBhcWdsTjI0d21NWi10UV8tVk1QQ0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uTzJjVFlRUFNJVjhVUkFvU1BEZTk4dGZHV0x2UkdQRF8wVmVDWHV5NUxZbWw0Ujc2eDl4VnpEMFZxdS1SNGZxMEFFYkhQVVhzeXFuT2I2bWFfM2RScEFyMkw5c2VOdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2S0dnZXFfNVZtWE9qcnhtXzU0djItTG5lRXloeEdXcWxySGIwczR6dXZWaUo5UFkxYU9meDRNcGdrcWk5cmRmRWpRbFlpNnQzaWFGaXd1SzhtSDNkazQ0Mw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:30+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,909.51",
+      "change": "+0.69%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,886.07",
+      "change": "+0.90%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,625.97",
+      "change": "+0.47%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.09%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today, Feb. 20: S&P 500 Gains 0.7% As Supreme Court Strikes Down Tariffs」と伝えた。",
+    "海外メディアは「Dow Jones, S&P 500 futures in red before GDP, tariff ruling」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq futures jump ahead of PCE data」と伝えた。",
+    "S&P 500は前日比+0.69%の6,909.51で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZaHJyWC1ZV2xCb0Y0QVByTUREa0p2ZlpvcjdwZ0RDMTRqVkdsUmI3SzVsNkdBWHV0ZzZ5RDJNenlXMUhUbDMyLXExM25FQTJnU2tnUHk5UUV1azgzZUxCTzdOWElqaGVid1R6WnptZWpjRzgtQ3RDdFN0RQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkpVOVBhbmxWSG85RWh1amNTS1RIbTRmWHlreTZsZGRVd0ZYZG9PVEx1ejJySDFGM2NCNzlWbkhvSUMzTnZFTzNQbHVMUkNoc242VjlzUHl2SVhxY2lqdEhKZXEtbHpMZUdGU1lCYXhiVzZGZjBVQ0wzTGNPS1Z5WGs5eVJUdUR5MC13SGdxZlRqWkhfMUU1RU1neWxSaVp4eS04ZE1lN0VSTnViamJ3bXlLMHA?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YMVpBNUZUMEZEREV2REFKU09OWHM2cXlnZmJ5U09ZQnhTV21CR2dWVmROaXRUdWprNVVGWmRuXzNUVDMyczk5M3pEaGgwRDhWM1d6aHdXV0tyYXBvRHI2SXoxdEZncXlkWkNYS2hTemxRSndmUmNrenVB?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

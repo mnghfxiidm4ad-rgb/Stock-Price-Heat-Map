@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-04-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,123.49",
+      "change": "+1.26%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "386.60",
+      "change": "+0.94%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.49",
+      "change": "+0.80"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "医薬品"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円台半ば｜トランプ米大統領の演説に対して市場はドル買いで反応(2026年4月3日)。",
+    "（まとめ）日経平均は660円高の53,123円で反発 今晩は米雇用統計。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で110円付近｜夜以降に円安が優勢で3営業日続伸(2026年4月3日)。",
+    "日経平均は前日比+1.26%の53,123.49円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mUzdNbVlVem9GTkVzelp5dS1mTE5Ya0xleUlmOTBxMHRlY0s4b1NZNzNIdTkzVlJMNXl0LWthQkFNVGdNS3c0SHJhSlVnd3JWZmU1VlAzcUhDNGFHNzlXN0l1dGFXUGRTa0hpYm04TVEwcjA?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ESGJ5eV94SGVKVEpIQ2xnaDRmZkVlOVpISWx4OS1LU3AxUm1xaEtsVHFab3RnWmJVN254NUZXU3B2RDFjWHJOYnQteVVyT1cxeGhja9IBV0FVX3lxTE1aU3E2LW9Cb0pzNlhPWElLMHZPYmw4TmZ0V2R1NlRrdXVuYVdjaW5KMWtGalIyOUg2T2YwTmMzeU9pODV3WHlZcTlFWXVOUXJhYnowcEcwVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vNDNEUER6RmFQcDZwODBibnRyd2VveUFheHVTdm4yVW5rdFdfcVowUlVCV3A1Q0Q4WDNSRjVUZ01Td2N2R3ZIMldEYkkwMFNkVzFTTU5mTUhRZkZwMWRySXFKbzQwbUZ6c0dEbS1QYlBxMlE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:15+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

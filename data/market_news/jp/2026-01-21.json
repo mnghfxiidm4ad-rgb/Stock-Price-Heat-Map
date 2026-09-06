@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2026-01-21",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "52,774.64",
+      "change": "-0.41%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "376.90",
+      "change": "-0.92%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.16",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "世界の半導体企業が日本市場に注目する背景 | 資料集 - 対日投資。",
+    "日経平均は前日比-0.41%の52,774.64円で下落して取引を終えた。",
+    "鉄鋼・非鉄、電気・ガスセクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEFLVDhnWDlVZnUzQkt2c1dCckVkOWVLMzF3Y0d6dDZDNXY4M3ZDb0JKbTlRdW4zclRONkpsSHY4TU5ISzRvTEVSUkh3bHhlYmFvQTQyXzc1RFY3VDZzWUgwSklLUnNvcVQzRldOT3dGVTZ0N2JVUF9wdmRUbmNoVlZKdVF5cjZWaXdNUFJaT2RQeVoyWHc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:41+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

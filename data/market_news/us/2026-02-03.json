@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-03",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,917.81",
+      "change": "-0.84%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,255.19",
+      "change": "-1.43%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,240.99",
+      "change": "-0.34%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.27%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Reporting Double-Digit Earnings Growth for 5th Straight Quarter」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Futures Pare Losses, S&P 500 Gain Amid Gold, Silver Rebound— Palantir Technologie」と伝えた。",
+    "海外メディアは「US stock market crashes today: Why Nasdaq, S&P 500 and Dow Jones all turned red – Gold and silver surge as」と伝えた。",
+    "S&P 500は前日比-0.84%の6,917.81で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQalBILWMtdnlxQktpS0ZFM0sxbHo1NlpVcE83b3k0SWEwMUpscXVZSGxrYkxnN0hzVlU2dWxQVEEzMTRDdnJIbG1PUE1POFQyODRmVGdMa0MxcnJmWnNIUmFGbEdoMmtVMEZwSGZYNlBTUXdiYzM0Zl95TzY4eHBkZGJIa3haeXF6cVBtZm1VMF9UT19Najk0cjdVQkRua1nSAa8BQVVfeXFMUHdlcnRGTHBqY0E0ZnpFNkxHY2hvalY3YVFuVHM1SkRjS1ZMemNEeFBkOTZrTHVKMG1rOU9PajJ1Yzg2eGF6cTdfYkN6UVJYNDJCUW5QcnlVeXZZZUthdVRLU2FEaFNyTmtZb0s4SjU3M3E4ZmxqWWNIYTBOMzBzZjdMTTRtMVRqTjIxc3dndGdPRkMtMVhfTDBGWTJsczdISHpjSUFHdGdvWjNycFpwZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZFFscUw3NFF2bzVzMUtSSzRYbTJvNnNtWFFlVG16dDJuRVNsc1N6dlpMemVuNmpjN01TRHhTWkVBaGNxdHdHQnZqMjgtMGlKSFY2N3FSNFZzc25ZMHdVS0p1cmF3UjZObjFqbWZLbDVLT1ppMUlzTVhsSEh1eFByTkRlckhMdVRPajEtc0xtZS1xUmdBRjhrS1RsS2k0dWtkNzhQTEVSMXJSMDV0WmptUDMycU0tWjJNaVoxazJpdmxJbU9QR2o2ckZ6X2EzYVlBRm9ieUVUXzlwYUUxdXhualhLT29yZ2Mxd3Q1V1BGVG1UOUdaS3NYajAyYVl4aElQNk14SE03ekhaZw?oc=5",
+    "https://news.google.com/rss/articles/CBMirwJBVV95cUxONE43dS1lckViUFlzejAzQzBEdmNrdmhBMzZWc1JPd0d2ZzdSVE5tOUZHU3FTa2VGVVJQOV9DR3NSdkFkeTRfWUtIS2g0SllMVFFLbjBrQWt2aDNTQVM4U25ub3lsVXQ5ZFVpMUoyRXkzQzhfY3ZQVFVGb2J4endVbTJISnlTRnVZTkEyWVNvVkd0ejdvZ0xaRUk5bDRWczBJV05VTkZVdTlwdjJGOUVRY3VpNUl4bkJacTVJVE1GOU5XNk1BQi1hYUpqaTA1clc0cjRDQzZ3VV9NUDVXNENKdHYwTGtzVFZpX3g1Rmp5VGlBa1dkb1lsU08xWFhqWXFBaF9kUmg5VnJtVWpjQTZJNTZvbktYb256T3ZGMS04dVFNS3dkNUJNdUYzRHdGU3fSAbQCQVVfeXFMT0RsT0x0VlFUVkxNdGhmY1lOdlFKNGJIdDJUM3Z6V3REalU5ZXJLVTVfYU85WkNMMVBJcUpSQjhHRnJ2LVVMUm1yNnItaGJwelh5S3BXS2dNdm1HdzFwc1dtTUsxR0JPODVjbmdHMUl3cWkyMi1BMjZYeTJNeFdlTlJXWjVzUnZxRGg2d29VMUVCZnlPOTZsZVdqNDQzR1AyYW9OLW5za3Z6QWFPclRZdkdOSjlMNG80QnlDUHdtMWtJRWdrNkF5WDVPd2VlZzcyX1Z1VDFVXzFRdFBvRVZfR3d4MGhLRVFhZW5ydkVOdnBKR2luU21tanVKUF9TU2NRcl9sRVZ5UlEzcE9tQTZXQ2x6RWhqekd1emx2SDRjMnFxem9TTFYzb1pPaTQ4SjhtcDVCbmY?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:49+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

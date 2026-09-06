@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,957.53",
+      "change": "+0.32%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "412.40",
+      "change": "+0.15%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.53",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "利上げ継続を確認、一部委員「早期に中立金利に近づける必要」＝日銀6月会合要旨。",
+    "乃村工芸社[9716]：「日経・東証IRフェア2026」出展のお知らせ 2026年8月4日(適時開示) ：日経会社情報DIGITAL。",
+    "東証反発、202円高 AI、半導体関連銘柄に買い 米国のハイテク株高で。",
+    "日経平均は前日比+0.32%の63,957.53円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcmdMZDkwWUJqaGtnaWhJYWtrYXh4dG9jOWdESFgtNkI4TTRodDB3dzRMWGp2V3VvY3dORnZwa2psU2hndFNnbWhkYkhZMmFCcm5NOFMtLUxKMm1qWFRKX1ZHRi1ibmN3a2stRjc4NnRGdmJQZkZ1dzRRbWlZbVgta0g1X0J4bk14dm1Z?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CcTVLN0ZzRmRvQTliYk5GSmhnVm9PR3h5bzNkYmNKZ2t5b3lvaUZkSmkxWEpldXFUdlpfcUFjNE02bUVOZDdwMEo2aWdFRUltUXRjcUpoTUhMOVk0YlVldXV6NFI0T2xyVUE?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qMHJBOTYxVHkxdXdTdzU1cFMxRjhsV2hJZDNEaXBuMDhFcVFGd3NYTGxJcm12d3dWVkNCeHltblIyaW9qc3UwUVlCcmEwRnkwbFpEZjJVT2JoaWdiTExYN1VrYTdnbS1sajFMUjE1b1RnMkhjaGc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

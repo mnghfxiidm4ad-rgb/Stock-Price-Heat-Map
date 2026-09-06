@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-11-28",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,849.09",
+      "change": "+0.54%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,365.69",
+      "change": "+0.65%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,716.42",
+      "change": "+0.61%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.02%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq Notches First Monthly Loss Since March as Dow, S&P 500 Make Gains」と伝えた。",
+    "海外メディアは「Today's Market: Dow Jumps 1% as S&P 500, Nasdaq Climb on Rate-Cut Hopes」と伝えた。",
+    "海外メディアは「US - Federal Funds Rate vs. S&P 500」と伝えた。",
+    "S&P 500は前日比+0.54%の6,849.09で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnRmelg0Unc4VFhxc0hrd0tUYTM2eHdfdWlHN1pKQ003WGRtOWY1ZWd2U3A1Mm90LTl5YjU2Z19wcGRVNE1Xb1dudmJfTVV2Rl9KcEt5Y0hrZzNIMm1vbGFQaDFYVGhiRFU0QmxKM1JJeldlTUl0V081LUxscFhJQnVsVTBkNm5NVVoxRGNn?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1R1OVVTeEt0OUlTV3hYZ2Nfa3kza0hBMENKSGd2VDViVGcyWHZtRXM1NFVNNVl1LWYtLXdtTVN0Mk9Zb0hqQUVqNTE0TEFlajhvM0VpQkZhekNrc29IMDNIMXNfdjhvWDliN0VwRlI3ajVhM3NTNHFiV3c0cy13Z25TTVNxOGRIcnF6bF95R3dhMEpENHNqYm1xNnpfS29yVDN0TXkxU2t3aWFJbk4yTWhxNFVKQmUtQjBDNzc3QWRXSS11a25n?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjFHNGMxcWVtZVVGWWVnOEh6NGZDVkFBZkIwRmd5SDBrTGdhNENUdFRyVWpPQXFUWXVSZTd0dDMyOEpsNEJOM3JPT2JQUnVsYlU4eVNldy1meVdydnJlRUs3aDBhazk1UG5faW5qUVpNNDVkZmtScGs5MHZzVm5pSFdJVXp6d3pySG5pbWpn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:18+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

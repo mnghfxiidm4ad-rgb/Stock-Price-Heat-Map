@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,816.89",
+      "change": "-0.11%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,902.89",
+      "change": "+0.35%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,916.57",
+      "change": "-0.56%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.32%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Drops 269, Nasdaq Gains 80, S&P 500 Loses 8」と伝えた。",
+    "海外メディアは「US stock market today (April 10, 2026): S&P 500, Nasdaq rise on tech gains after inflation data」と伝えた。",
+    "海外メディアは「US Stock Market Today S&P 500 Futures Slip As Inflation Jitters Meet Rate Relief」と伝えた。",
+    "S&P 500は前日比-0.11%の6,816.89で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFg0QUh1YVQ2bHdQTGp1Q0NYb2ZnTzYzakVGb3NPZGptVGM3UllCRzM4T0hoQWc3OTVaLTNfZnBWb2R3U3BlNnZXVElrR1ZQMnZmbFFRWlpHQ1NBX1lraVdCdUhtM2xfaGZ6bUZaMGZ1VGxCallTaW9PTW9hdVlsNlpueVRHOThXY3BmMmN2QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZHk1MVpENi1XTTlMbUwzd1dmczAtd1h2VVZwbjgxNGk2MkFSSHIwY3Nfa1QtTHM2TUZCazBjZUtXbXV3S3VTcW5seDBEd1U3Z0ZwckNQRF9lQkxHTGs3dmx2b1AxUmkydmNuQVJsSmNQSWNlSGlXazExQTU4elI2LWw3WDdCLV9vczk1ZWQyTUJYTVkwdTFUS0Q1cUJtZmJvbzNYTGY5SDExR3NFMjBEX19BNXlqRWg5eTZ1NUh6US1UU1ZEUjRkS0Z2eG9LQzZFNWV5SEpneElnUFZTdVAzemtreU1MYnpHaFBRanFUMVZPSnFJZEprc2lsblBGRmdJNFVDTUF2SmpfejF2UC1POHJSbEJCWDJ0M0ZoRnhRMlJTOWQxYVl0Tmc4RU5Hc09pSXpBYkI0Uzg0QXpWcFFB0gHEAkFVX3lxTE5wVWsyNnFiVWFiS2cwWkFFaEY3OURHN1NVREQ5VUFRYWFiUExRMGZRUzNqaWxjeTlsMWt1blM3NEJKaVgxanBHZ0hHMUJ1Ty02YUtYQlRXNnROMHJhelNMaGtlaGl0VkMyNEcwNmlZejByRmVNSVB6RmdWWWFsa2RsVHFNbzgyVXBqck5OTUdqbWNKSV9rLVlOU09mOFlBaGRDY1gzbklvZXZqWjRfY0tjNXpIRm1XdXpka1VhcHo4RGxhZWhhcXluVzBHLTBab3BqVDNnVWRoNmNLWjM0cG1mSzVIVWdrZWZrZWtPWnpadXhTNXZ2bkgydGd5Q3c0SGk2cFZNbmFkNk5EdEpPcGVlYUtyUVVNek9Wdmo2d2VBV3R2X1oxV1EtZmM2R2pWci1JT00wa2p4eFc0akQtQ2FfS25KQg?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHFJYmpiaG9jWXJjeGhKdzIzNmY3eVIzWFhRUU9PWTZ3cUhnNFFFdi03WVdsRWFpVUY0WDJVWldIekhPZmZNVEZBdDg0dTFnRklTZ1VVWnJ2UVVLMkJBOG1CeDktc2RnaGM0U19ieWNocFZvUmxIaVNERHl6SXpwd0pOLVBzUUdYTVlSQVpqUGVhZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:22+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

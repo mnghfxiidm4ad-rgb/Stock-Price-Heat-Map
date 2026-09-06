@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,443.28",
+      "change": "-0.19%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,508.07",
+      "change": "-0.05%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,839.26",
+      "change": "-0.59%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.60%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「US stock futures rise as oil tops $90 and investors await Big Tech earnings: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Rise As Chip Rally Counters Iran Jitters Ahead Of Big Tech Earnings: Why IREN, ACHR, TSLA, BA Stocks Are Drawing Focus」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq edge higher as chips recover; megacap earnings in focus」と伝えた。",
+    "S&P 500は前日比-0.19%の7,443.28で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UOWZrU3FVd0k4X0JNVTIwZUtsSHREQXZnNTZ0a0l4WndjSFhBSDhELVBGS29DaDAzMjFnZDVTeWFfa2xBbHVMSm9WejNPdUNZV2RhZFVCbXZBTWU0RzNtbFFlWkVKeFY5V19MX3lkdEQ0MWxYdmpqbjNFYUdCT28?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVdHM3NvMmRXc2dnUVFSVlRWcWJpN3U2bDU5Nk9fSThfWEJOekQweW8ta3FIRnZqUlh2bTVSSWlHUjJibktRbEN2aG9ybkNMV1NRSFQ0X1VDWUJ3MTBnZjd2aUhUcXo0Rmpfcnk4d29lb0pid1kxemVHTlNHamMxa0lvNUV1VmVVRC1LaVNiQ1ZNa1Va?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3h1T0xZNzF5cVE4SE1RUkxIM21qN0dkTnI4bFhLQkNXSHpBRWZ1LV9SV2Q5N1F3WGtkOWVzQ0lZUHFfY3p4RGd2czlOM1ZSRFdoTEhsT2Ftc3d6T21oa3RJclVYaE5xellrRDhhdWFZWnFMZFhXRDRzZmNrck5abHUtQU5RdjVmTUxMd1VsaXZOeWZQTmxKLTRZZnVNUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2026-02-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "52,655.18",
+      "change": "-1.25%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "371.30",
+      "change": "-0.83%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.20",
+      "change": "+2.04"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "エネルギー資源"
+  ],
+  "news_bullets": [
+    "半導体の電気の流れを妨げる電子トラップを高感度で検出 韓国KAIST。",
+    "日経平均は前日比-1.25%の52,655.18円で下落して取引を終えた。",
+    "小売、医薬品セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjODZlemN0eWVIemFSMGNub1F5OW5qTXVEa0NkNmhhTUtTM2ZkY29McDFXQ2xZanpWQktBY0YzamJib0hyQTc1RUZrZTBlVm5CUzFTRy1hUkduZlIxZnQ3U25YbkZncTVF?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-11-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,823.94",
+      "change": "+2.65%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "345.90",
+      "change": "+1.59%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.99",
+      "change": "+1.44"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "日経平均終値、反落1198円安 AIや半導体の関連銘柄に売り。",
+    "日経平均終値1198円安 AI売りでも広がる割安物色、東証8割が上昇。",
+    "日経平均株価1,000円超急落 エヌビディア決算後の株高続かずも、過度な悲観は禁物 野村證券・岡崎康平。",
+    "日経平均は前日比+2.65%の49,823.94円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pTmlVempyUEFEUzYzMGZtNzVxTlFXeUpjUU44RGFyWU1XWHl2WEhIcnRhWl90cDhkdGtIallSdDF0ejVkQW9PRl9FVW1DY2RHTy1CeEtCa0VDMkN4ZUl6RjNZVEdwaXg1aFNidg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Sc1U2VnlSckVTem5kWnJEWE91YkQ2el9ZX1hfb0Z4MFEwOHhTM1NHeV9sYzdpM3hpZ3k5dmNqLXJDNmRGcUhURDZIMUE2VkFfU1VhZ081Zk1BVTJOWmJobFc4YzdoSzhJWENkTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zdEE0VXBSZzdrdmM0em5GSnZ6N0JtTmNqWWpnVnI3V2szOVZLOXlHNFlfV2M0czNPZUMyMmZ1eDNxOUc3YkdCQUFPR044MmFUTFdKU1VKb2Vaamh1Mlpr?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:13+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

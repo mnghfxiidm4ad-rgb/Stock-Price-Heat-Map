@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-30",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,437.63",
+      "change": "+1.66%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,122.18",
+      "change": "+2.78%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,208.06",
+      "change": "+1.19%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.66%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500, Nasdaq Gain After Inflation Surprise Calms Investors」と伝えた。",
+    "海外メディアは「Fed Decision and Big Tech Earnings Dominate Market Attention: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「Nasdaq Futures Tick Higher As Microsoft Lifts AI Trade, PCE, Fed Split, And Iran Strikes Keep Investors Cautious: Why META, AMZN, AAPL, MU, IBRX Are In Focus」と伝えた。",
+    "S&P 500は前日比+1.66%の7,437.63で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbUtDMEFOODJIRE45WXRUNnhLajZvZFNySEVBX1VwWlBDVWZOZnYtamViVFI5QzM2M2VwTFM4b1RCXzFmZWoyNVVBd1lITi12WjVEOHRtN2NXSVVIQjQ1MEV6RjBYdlh3ZG9yOHFnU1pmWEVFQW5sa19RYnpKbUwzc0c2VTM5NlNBNDJ1eUhWT19JZkdEc3hQSzZrV3l3dENFbllTU0xjcE5wTHpHeWhVdEdiaG9sRXdiSHJKTjhiS2FRdw?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzd2OEN1dThvYVBud1FQU3JiVGZ6bHpkVEZtcXE3OWI0SlBYdWxZa0FCT3gzVE95bG9nXzBXQnluRnJ0eXQyb1VlcDZHNG13VUpWT3VSN09JSG5xNDRkSDVVbkp6NWVpWUY3MjFsZmRDQThKYmNaUDI2cEwwb3BKWEcwLUVNa1pxTlYwS1hZYzhya0VHUGZHVDdTZw?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOFZ1THpwSUpRMUlTMzNXSFdEclhaamtybVJwWURIUW9uZzMtc3JMNWFEMy1kT1NXcnlMRU1xaktpZmRlSVhuZmpCLXFLektZM0JMTnZ4QkI5VVE2SDlGd25xdHE3RDZCMl91VDNGSFdxVFpmOUUwck43YU13UGZVNUdsc0ZZZ3BfcWJWaFZFRXUtUHgxTnpYTHB1b1c2VWNPTEUwX1hKbXo5R1k5V2lBVlhkUDJLLThiQnRHX3QzMzJ6VHoxRVpvcThiYWFidTljTUItLS1VWTJ5bUpvTFNBRmJRTV84Zw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2025-09-29",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,661.21",
+      "change": "+0.26%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,591.15",
+      "change": "+0.48%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,316.07",
+      "change": "+0.15%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains and Losses Today: Robinhood and Western Digital Surge; Vistra Stock Slides」と伝えた。",
+    "海外メディアは「S&P 500 stock up over 278% gets a shocking downgrade」と伝えた。",
+    "海外メディアは「Wall Street indexes climb as investors brush off government shutdown uncertainties」と伝えた。",
+    "S&P 500は前日比+0.26%の6,661.21で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNXpfZWNNTndJSXNVcXV0Rm5xZmotU3hSVkF5R1ZyWkFLUXZsX1A0a2JvRXNNQmpHZjlXTDVxVlJQa3I4Qk1iZU1DN0tJNE9IelBQaUszdGVGd2VGa1NVcTBsNXFzeFJwMGRiay1ONkRib2ZibmVkUkltTkhGaUhYaWZmSHdhM2VycmdLMFVJNl9kZEdwdU9wWVMyalhnN0pmZGcyZkR5NnJJT2Qwb1ZWdGtZanpQdGlSeEZqMVZGV0RidzVET2Vv?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHR1alVXeHhrd3cyN0N5OW5GN1NtNE1RUHZWZ0UxcFFIQ0htTHFNQVpUUllPM3BGU04wWFJjTUs0WVBPdWltVjVqcnRZcHBtenUxQkF0cW5JOWFSMDlEaHNqVjlvQjdJSkhlY0ZUZW5LWGtaT2pCb3FlUUNyWlJsTmk0VlVEbDZWWUpldzBIZFhXUHdGcDVYbllwRXh3NHVr?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3I0TWhMWmxqNG5DazFCS3dWZWdteXBlLVcxUmJtbW9YR21RME9PN0s0ZEhzZUtLZlRfeVJRMF8ybkR4eDlJa2J6LU85RW05OXBCVVVWS0tHOVFOZ2VKaU1zbTUyS1lKYXB2U2FCZE05c01BaGtLaXR0NTJROHR5VmFBTEVPMlVnaTBXT1F4RTYzb0EtTHBPbnBwTGdqTm8wYmRRY29fM1lpUW9NS3ZjTlVIc2FOejk2eDVuMlB4cw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:47+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

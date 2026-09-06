@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-01-29",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,375.60",
+      "change": "+0.03%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "371.90",
+      "change": "+0.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.10",
+      "change": "+0.64"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "小売"
+  ],
+  "news_bullets": [
+    "【写真・画像】東証反発、終値４４８円高 半導体関連銘柄など買い戻し | | 全国のニュース。",
+    "AIとテクノロジーが未来を拓く！高成長が期待できる注目ファンド。",
+    "日経平均は前日比+0.03%の53,375.60円で上昇して取引を終えた。",
+    "エネルギー資源、自動車・輸送機セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sVC1Ha0JBNzJwdVZXMzlMWjNaMENvUkcwUHJVT29WVlI5NUdjSHg4Yk9QanM0b3pKa1JfZl9rSEF1ZDZqb2pHdDVHNXpDSVowempYNmRWS3VTWmZtTEE?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jdFdhcThLa0hpRmNuVkNCSW9IQ0JvTWRjVDJneVBZUnhKNzd0Z0dTczlSVFJtNzNVSnh4V0JuNEJwUGVnNHZmcFZ3bC1NdzRiTW5QY3QyWThjVVRlY2pQeGNxVnQtZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

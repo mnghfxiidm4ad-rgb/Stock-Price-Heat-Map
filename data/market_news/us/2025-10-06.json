@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-06",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,740.28",
+      "change": "+0.36%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,941.67",
+      "change": "+0.71%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,694.97",
+      "change": "-0.14%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.16%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq reach all-time closing highs on AI dealmaking boost」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq rise as investors focus on AMD-OpenAI deal」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, Nasdaq, Futures Gain As Government Enters 2nd Week Of Shutdown—Plug, Lithi」と伝えた。",
+    "S&P 500は前日比+0.36%の6,740.28で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQblgzNFE3d2lvQlFIdmg2VjhZQ0VFNnRVSHJMc1Zfdy1hQ0t6N2dnaFd4clZ3Tko5YWJzdFpnb0NDdlpYZmdjU2djODFKQi1PX21POVpHZVdFcWJXQTFMOVFNRHllLU9UYU9kQ0xkeUJ2YncxcUNNd2FVUTFJSG4xRWZVZU44MXMyNEhjTXZVRWROUG85QkMwcXY3UzN6dkc4aXN6YjZOZw?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNEVDNEZYTlVtYlZWVlpPVDVmdEhWSzF3U2s2Tlk1TW1uZTdFVjVocXpJRW5HSlBDbFk1cGw2Z19MTTFlSzQ2SVVodENQbmMzOEFneUpDTUNlbmpiUV82OXRjMzRQM1ZPNmZ3d0NEb1V6ZVQ4Ti1wWGFfTnZja1UzbWlLMzBzamJEWEhCbHBOX0NuMHZNWF9sVTVxMHZGbG0wOUJsT1E1Tk5QUzVkSDBrN1h1VGNsc05HOGJwRFdjWGdVZXV4cmc?oc=5",
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxPNDhvSGx4UjZRV2NfUWJLWkU4QVNSTHlkU3hfZXUzRWVZNEJXZlVJZVZ2VjlhOFNfNDhDWjA0aGpKLTR2dElUTGhXZEpfM2J1VzA2V1RhYUZtSm94NlpfQnphYmducmlrZGFXTUxRMjdEcUxyUG0zaG9vUENfbkc3dHlwaUlRTC00Znh6MDltYVoybFR2Um1VMENSc2N4S3k0bzd5Wnp3S1hfbVlYM1VacUJvOE5COVY0TEpkeEZlX2w4WFZZODFsQXlURzZNWUhkZzVrTzFJekcwa0hQSnJraU1OTEFzRWFPanpJbkJyOVA2MzFXQ1g3NkdxLUlVdnltamFDcDJiRDFvNVlMaFc0?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:51+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

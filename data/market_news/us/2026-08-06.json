@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-06",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,709.96",
+      "change": "-0.18%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,348.35",
+      "change": "-0.06%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,885.10",
+      "change": "-0.85%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.67%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Dow, Nasdaq End Lower Amid Hormuz Uncertainty As Investors Await Jobs Data To Judge Fed Rate Course — SOUN, GOOGL, SPCX, NVDA In Focus」と伝えた。",
+    "海外メディアは「Dow closes at record high as tech losses drag S&P 500, Nasdaq lower」と伝えた。",
+    "海外メディアは「S&P 500 earnings: Midyear 2026 scorecard, AI impact and what to watch in Q3」と伝えた。",
+    "S&P 500は前日比-0.18%の7,709.96で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDBOdW96cWQ0TEhOcXJCcElvcHpmYlFmcVlLZ2VxV3YxZXVHeDhOY0ROM3Jua2V1Z09UOEFQTnZoQXN1WVktQjQ4bXZ1bDFmc2tDUUM2WWVjcG1CbWFxQjUteVphSi15SjdhOEQyT3ByM2RqNFMyTFZtZkt5MWc0MGF5X1hPTHhMY0IyNlJCNzUzX0UteXR6T3NHYVQ1RGV2SHZZbzhKSy1pdDFvbXNTTjFtb2gzWERCTnZScw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV0RLZGJBSndhcDVVQnRiU3BsTzdVczU4SW9uR281dUMzcDNxS29Lck42SkV3WElFRS13a3lzSDFsUEJpeTVtMEpTWFBnLVY3T0ppNVMwUnAzUnVIU1VDM1l1YUt2U2J5Wk1HMFdPLWZmY1pYU1dfU2dhMlk4MllZWlNCdzdpS1pIN2JIWFV2S3hJOHE4UlhGNlVXeWZEbUREa3ZSc2tIYXF4UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2h5ZnhOYkVuM0FoeTRtUUhzOGozTUxXYlFMOWJNQVJmTTlXNnJ4aVpVVEZTcEZWdnlhT1JKQktiYkJTUEhXbUlsWTNGcjA0aTljWjBnOTJ1bVhjSXlKanhCWkFRZ2ZMTS1rZ3NHb1hFWUZqQUlpUXZrTlVuaEtiMVdERHdZVV9uVDlRZjlTQ1UyTHFObEhrOGcxV2JxeGZjc3BuQXlFdUpvTmJDQkxrUzhZZTBwS0FwZG1sSU4xYXBLdEdQR0JubVpJTDAtUzFL?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:23+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

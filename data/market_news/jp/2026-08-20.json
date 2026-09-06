@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-08-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,216.79",
+      "change": "+1.36%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "422.80",
+      "change": "+1.29%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.28",
+      "change": "-1.27"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "銀行"
+  ],
+  "news_bullets": [
+    "【2026年ドル円見通し】日銀9月に利上げか？それでも円安が止まらない3つの理由 2026年8月20日。",
+    "ｉＦｒｅｅＥＴＦ ＴＯＰＩＸダブルインバース（－２倍）指数[1368]：iFreeETF TOPIXダブルインバース（-2倍）指数 受益権の併合および重大な約款変更（確定）のお知らせ 2026年8月20日(適時開示) ：日経会社情報DIGITAL。",
+    "ナイス[8089]：「日経・東証IRフェア2026」出展のお知らせ 2026年8月20日(適時開示) ：日経会社情報DIGITAL。",
+    "日経平均は前日比+1.36%の66,216.79円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85ck8wb0EycjRiejdkQ05nRXVFSExCcFFUTzJhSlBZV3kwQWN4MXVrQmZNQWp2c2VyZmY4cmtsaGpVUGppRnJwMURGcUpiQlNvNDZVZTV0WFY5eEEyNWs1cUNpSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5NzhRN3ctUkgybFdSRWEwd25NRXlMeFdrdWNLU0xiZ2h0NjNodU5mQzVVelE4U3ZlMnRJRWJpcVBER2l0aUhFM0p6TVJZeEZsQlNnamNsd3dlUEJOUlNORU95YzZSMnJEcVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE16b3lRQXBWdHVFRUVfODJVVG5sUm9qM0FGanMwZUVDM0QxM0hmRDhTR2NwVFNLaXhqSElkSFdnR3cxVXRzdURTODU5aEtBNnBxQW5vX0Zha1FzbElyOTRFU0JMeGs2WGZxRWc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:22+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

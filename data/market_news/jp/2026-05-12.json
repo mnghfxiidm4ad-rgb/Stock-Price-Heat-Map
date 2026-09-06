@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-12",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,742.57",
+      "change": "+0.52%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "410.30",
+      "change": "+0.79%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.23",
+      "change": "+0.37"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "食品"
+  ],
+  "news_bullets": [
+    "S&P500反落、原油高とCPIでインフレ懸念再燃－半導体株の下落も重し。",
+    "政府・日銀による不意打ちのGW為替介入。 ドル円155円水準は株式市場にノーインパクト。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で157円台前半｜米国とイランの交渉に進展は見られない模様(2026年5月12日)。",
+    "日経平均は前日比+0.52%の62,742.57円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zN1Q3ZUllT01aTUNXcmJHaU9ZTWFvb3dFcWhRNmJqTm8tbUtCbFR5YWtIalQ2eGVGUFkwTEE4bExfVmVncmdDZmNpTnRONWctby1aUk9TOFVaX1Fzb2FjVzRzekNtOHNFd3ZETWlmNFpvNURmd2dJ?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlR0ltaER5U3pGRXhRN2lJUURqVFBQamJfSzF5YkRfNXllTElWMjZzQm41d1ZQUEVPQXhubldpc3Y1QU52NE1lQWhYR28yTkhiTzdz?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ySmRiRFBYcmwwRlhRWTc3Wl8zSTJsV1AzZ19iT2x4b3dCZDI3NURyRk1ZeGJSRVRaMnJDZV9BdmVuT25mS2N6MDMwek44TmVCVFhNVmJhdmY4SjFSVjBHUXhlRW5tNnA4TU9lUzJuQ1RON3c?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:31+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

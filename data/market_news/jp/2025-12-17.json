@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-12-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,512.28",
+      "change": "+0.26%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "353.70",
+      "change": "-0.03%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.78",
+      "change": "-0.24"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "【国内３位】 日経平均株…：時事通信社が選ぶ１０大ニュース（２０２５年）特集：時事ドットコム。",
+    "日経平均は前日比+0.26%の49,512.28円で上昇して取引を終えた。",
+    "金融（除く銀行）、電機・精密セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFB5ZEw2cVpscTJlX0Q4ZnRuaXBaTnpoeUhpYnJXTFhxRTNLRkFFNVdPMWkzdDFGQjhmQ1JnLXpmYm1LUU5XQWExUFA2cFJWbkxPNldDZm5UTjFwRXJHdVNSck9ZRzNDYWdjTnVNSmRTWW5kQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:26+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

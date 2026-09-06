@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,611.15",
+      "change": "-2.73%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "417.50",
+      "change": "-1.09%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "163.83",
+      "change": "+0.75"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "素材・化学"
+  ],
+  "news_bullets": [
+    "【ドル/円、来週の見通し】ドル円、170円へのカウントダウン…FOMC・日銀会合でドル高・円安が加速するのか＿2026/7/24。",
+    "日経平均・キオクシア急落！「押し目」か「落ちるナイフ」か？審判は中銀利上げ姿勢やSKハイニックスなど半導体決算。",
+    "日銀、7月会合で政策金利据え置きの公算大 利上げ路線維持の見込み。",
+    "日経平均は前日比-2.73%の64,611.15円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TLXp2WHd1cEM4MGlGM0Fsb2dmMDlMZC0zdUg5eXdSQnhqQmtNSjVydkJoMDE5a1R3MmFGYTYtLVFxV09Ld184TGZGM2lqMTFhX0gxY2dtU08xWDdEdWVkTEs4QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXlRSHMzUUNqa3ZFcVJEX0JCclpDUzZQY1diVUhsWW9EaW1obGFyYjUtZlZFWVRDOGRyMGxHQ205TmkyNFFQbm9HUTNlZUNyT0d6bllvc21EZFdnZ3d2MlZETnY1VnRMakNIMVBxdVJWMmZiTHRHS0lqcWhSaElaZG10aHNhbzNoWDVpU3J2T3Q2MEV5WUJpci1CZVZ3MVpSX0poWjlvQUk5Q290eHBzRUZXNA?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGNG9LVWptNDR3Wnc3VXNIS1NkVjRQNTVMdTRRWXBDZXNsWFFqOG1KZ1M2SHZpTzV3cDBFZHJPaDNCVHlWRHJURjJVbEhtd09EbENwdGlOa3VFMkZfWEMySk1QcjBnaEU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:08+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

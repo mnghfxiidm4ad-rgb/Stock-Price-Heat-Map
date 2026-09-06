@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,402.13",
+      "change": "+2.50%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "423.80",
+      "change": "+1.92%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.97",
+      "change": "+0.33"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "植田日銀総裁「利上げ是非しっかり議論」 物価上昇警戒、今月含め検討へ。",
+    "東証初の終値6万8000円超 為替は一時160円台の円安水準。",
+    "注目の日銀総裁講演、5時半から 利上げか見送りか…三つのポイント。",
+    "日経平均は前日比+2.50%の68,402.13円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pY1F1RjZ1Y1NuZ2tleEtxX2IyX0pWOTRIazhCSkFtWEpDMXhNZzBuaC1kMGRybXVKZWZQQ1JXeTFBM01SRE9MUTI2LTJnYzhVT21pQVVHMG1UUHdZQmFJazItdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82bzVjTDlFTGc0c2hFQkhVSlFIcW5IQzM5VC02N0dmaVFmbGI3eGF4TnFYTndMeVRVLXVkRUFIX2NFNW1EcGM1dEpvOEhxSWFfTDUtLTNLdWlEMkNvSXlRYU1DNlBaMGVL?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43TmpzeHFzOW9kb2NUcVVjZ1lZSDU3cG1Ock84OElfN2Y5aXNXRzNPVWdUNzNmMWFHWm1pN2dOcUREMDQyNnlVclpYaUJaSjllUkdiOWg4VGpZMElqR1pCODNnU1VtdVE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:42+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

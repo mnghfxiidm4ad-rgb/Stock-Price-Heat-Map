@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-03",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "45,769.50",
+      "change": "+1.85%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "328.00",
+      "change": "+1.36%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "147.15",
+      "change": "+0.07"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "植田日銀総裁、世界的な不確実性に警鐘 次回利上げについて市場は推測を続ける。",
+    "植田日銀総裁、米経済動向を「当面は点検」 早期利上げ踏み込まず。",
+    "利上げ「予断持たず判断」 植田日銀総裁、米経済を点検（共同通信）。",
+    "日経平均は前日比+1.85%の45,769.50円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OVGhKb0RuQkVndWVQdTZLTEtfWXVTYkJvbkoxM092OE5talp0UDhVNWEyeTlzbzdfbnZQMFlEbmJ1U0ZDU2xDU0I5RldMQzlIeXF6NjR0LTB3LUdOUG9ieV9sbXBKYnM?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaUHh3REN1V0k0LTlXOWdVSmVDWVJQZVN0NlFrV2lWaDdXdm53VWFHaTk2QlRFanh2SGlHMWJRd3EzX0lPVnRWM1ZFdzFPdXlUS0VVbDVnUzY4dlpKZ1BWeXUzOGxfbm8?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jOVUwYUZMX2FBNGF1M3lkNHVrR0hDcU5nbV9URVhFS1hvWFE1c1VOTkE4VzBPcE51YmxiQTVvd0I3c0NBbV81Z3c0VkRrcnF6UlEza2dZRFBXOTllcDNyWEtvMEZUUVNJazdxYnRXS0l0WktXOTI0TmU5R05IU00?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:50+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

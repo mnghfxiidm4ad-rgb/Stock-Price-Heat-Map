@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,407.79",
+      "change": "+0.13%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "358.60",
+      "change": "+0.36%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "",
+      "change": ""
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "news_bullets": [
+    "【円安はいつまで続く？2026年ドル円相場展望】為替介入の可能性／貿易赤字が元凶／南アフリカランド・メキシコペソに注目／為替は需給で決まる／インフレ対策の提言／野村雅道 2025年12月26日。",
+    "日銀、円安進行「物価の上振れ招く」 10月会合要旨。",
+    "半導体の秘密情報が中国企業に流出か 警察の企業訪問で浮上した疑惑 [茨城県]。",
+    "日経平均は前日比+0.13%の50,407.79円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MZGtrYmQyUG1QX3lEU0tEY0NoOVlMOWEzaHVZMnY0RlpZRXU2bGcxc1JvN1A1emV4enFvUm1EOVJPUzNNaDE5aGtYUDMtZHRBcjg2SWR2QXRGSVEyZUdKT09JMA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Idkg5d21HUjhFQWwwOWtHd3oyNmlMdEU3bWM1cG14Nzc1Y2NPQTRxcVlPV0ZZUndoNlFHcmZTc0ROZlh6LTBOeWVYMjVSUEIweUN0UmtiTlZhZUhoZWhlR1BrVGxjVklIZ0V5Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JOGZqSFd1b2w5SndFdEpETE9admZYMVhud1pwT2xfd0I0N3hpQzE3Yy0taHhZRENRTW1QTW5ZLWhCYkFZbUV3REVuM1ViMnRwcVJUSGgzTE9oYzNjYU5HUmNZV0oyOTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:30+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

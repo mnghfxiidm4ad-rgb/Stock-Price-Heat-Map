@@ -15,8 +15,28 @@ from typing import Any
 import numpy as np
 import pandas as pd
 
-DATA_ROOT = Path(os.environ.get("STOCK_DATA_ROOT", r"C:\data\日本株"))
 REPO_ROOT = Path(__file__).resolve().parent
+
+
+def _resolve_data_root() -> Path:
+    env = os.environ.get("STOCK_DATA_ROOT")
+    if env:
+        return Path(env)
+    legacy = Path(r"C:\data\日本株")
+    local = REPO_ROOT / "history"
+
+    def has_bars(root: Path) -> bool:
+        for folder in ("data", "data_us"):
+            if next((root / folder).glob("*.parquet"), None):
+                return True
+        return (root / "cache" / "latest_quotes.parquet").exists()
+
+    if has_bars(legacy):
+        return legacy
+    return local
+
+
+DATA_ROOT = _resolve_data_root()
 
 ProgressFn = Callable[[int, int], None]
 
@@ -274,7 +294,27 @@ def _read_quote_payload(path: Path) -> dict[str, Any] | None:
     quotes = payload.get("quotes")
     if not isinstance(quotes, list) or not quotes:
         return None
-    asof = str(payload.get("asof") or quotes[0].get("asof") or path.stem)
+    cols = payload.get("cols")
+    if quotes and not isinstance(quotes[0], dict):
+        names = [str(c) for c in cols] if isinstance(cols, list) and cols else [
+            "ticker", "name", "sector", "price", "change_pct", "volume", "vol_ratio", "turnover"
+        ]
+        asof = str(payload.get("asof") or path.stem)
+        expanded: list[dict] = []
+        for raw in quotes:
+            if not isinstance(raw, list):
+                continue
+            rec = {names[i]: raw[i] for i in range(min(len(names), len(raw)))}
+            rec.setdefault("asof", asof)
+            rec.setdefault("prev", 0.0)
+            rec.setdefault("vol_avg", 0)
+            rec.setdefault("shares", 0.0)
+            rec.setdefault("market_cap", 0.0)
+            expanded.append(rec)
+        quotes = expanded
+        payload["quotes"] = quotes
+    first = quotes[0] if isinstance(quotes[0], dict) else {}
+    asof = str(payload.get("asof") or first.get("asof") or path.stem)
     payload["asof"] = asof
     payload["quotes"] = quotes
     return payload
@@ -417,7 +457,7 @@ class MarketBundle:
             "data_root": str(DATA_ROOT),
             "latest_count": len(latest),
             "history_ready": bool(days),
-            "history_loading": loading and not snap_days,
+            "history_loading": loading,
             "history_progress": {"done": progress[0], "total": progress[1]},
             "day_count": len(days),
             "min_day": days[0] if days else "",

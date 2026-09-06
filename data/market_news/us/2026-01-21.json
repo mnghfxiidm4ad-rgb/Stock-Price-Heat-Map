@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-21",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,875.62",
+      "change": "+1.16%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,224.82",
+      "change": "+1.18%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,077.23",
+      "change": "+1.21%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.25%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「The S&P 500 and 10-year yield pain levels that could cause Trump to rethink Greenland push」と伝えた。",
+    "海外メディアは「Dow, Nasdaq, S&P 500 Futures Tick Higher After Wall Street’s Worst Day In 3 Months: Why NFLX, AAPL, CRVS, GME, UAL Are In Focus Today」と伝えた。",
+    "海外メディアは「S&P 500 Oilfield Services Titan Halliburton Tops Earnings But Everyone Is Focused On Venezuela」と伝えた。",
+    "S&P 500は前日比+1.16%の6,875.62で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMk9yemRlZlFNSWNZUUxUZjJqMndGUUM1Y0x3QWlPaTgyNmJoMFVUc3RqRjYxZjVhWDJxVWJTZTU5SFVRUHNtam14TVo2T19OSGFSRjJsODlSZGM4a3dQZ25wcVRjVVJQRG1IR0pULVN6NlN1MExJTzBuUUdaVHV4dUR5R1h6a2ViMjRBYzgwMHFIZmNqS25Ia0dvVXhIRzh6SUtBbzJaN2kzTm4xWUdNbVNPU0FEX21FVnZ4TGhDM3B0MDhJ?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMzZxTFVwazdYUUxpaUtydXZ1OFZjVnRPdllueVJldXdZRF8xdkpuZEJVOHRDU1p0Z042SFI1dUR3ZHBJSkxDMUpZQjQ1NGxYNm5rMWJZaEhFdzVYNVpZYl9KRjZLRHZzRE1oX1YydF9HWlNjU21OUklCZTA5LS1USVB1S0ZjT0RMM1Ztdzl2RGhLWEFfcmZHRHZta0diQkhMMFlCZEZVN1REUDFZX2RuM0V2Z3Q4ZXd2Y2ZFc01JMll2N1gxOVg5WjZHUDZPaHpXUHJQTkFGaU50SjJsYVBnYmlJNWZHamRrWXBEVXpmYkxLems?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMERDZnVpZ0ZZY3VndXNaNWlMaUhXUkJQWTcwcHBaanhXc2hhc241WlFCMWJiLVk0Vi1IVTZKTjVucTZlZGVldXlqblh6M0tRLW9aZHhqcVo2YlB1Si04WGF3NnF0aVZfZTBkNmk4MEFuMEoxSVhQRUQyMW1sX2FtckQ2QTZEMmRacVlCME55eEo?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:43+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-07",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,616.85",
+      "change": "+0.08%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,017.85",
+      "change": "+0.10%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,584.46",
+      "change": "-0.18%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.34%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「UBS trims S&P 500 targets as higher oil prices expected to delay Fed rate cuts」と伝えた。",
+    "海外メディアは「UBS Slashes S&P 500 Targets Citing Rising Oil Prices and Postponed Fed Rate Cuts」と伝えた。",
+    "海外メディアは「Dow Dips 85, Nasdaq Adds 22, S&P 500 Rises 5」と伝えた。",
+    "S&P 500は前日比+0.08%の6,616.85で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVZPVDQ3d2x3X2RvTVZZejFZbElTYzdUY0hxenBHbURtSm5fSGVXa3JYRG92WXdjVlpSMkR3TkpNSVpEdWhRQVBoLVMwNHhjZ2JGTWR1Z0JrQ2RCdkF2R2JLU2NjUlZaQXpfRHc1d0NReVNhbExWdEZ5T2xNd2N1YkpDNW92eHIyN0hocHIyZThIcG5CUXRvd1hvQ25kX2oyQWtxQ0Z0YXl2M00xMDlWQ3FhZWtkenUxcndFd1JzMTU0VHZOQmp4X3BHelhBOTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFlHZFFhRThudFhPUlFmRnpFbjg2SEt1T1dNQ2RRSkpqUlo4Q2hJVDEtSmNpM2pRUVhWT0tiUko4aWpja3plenJkcEtTbEJQY1haNW5GQTdndjZEUnJ1akkwWmdjQlozVm53a2RNdWM3UGgyMDNfb2ZoaXVsckNWS1Z0WVBPbHNNWXd4SWRIVzdVZFRWX05qVzdSdVROWnhsN1hURlVrUURRaWpKeGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ2FOdDRna0ZDZXhQMjdpU0VpWHJZdG1CRWlfcUxMenJHWC1KTW1fZS1qQ19Sc3NTNDdybXpsR2xQbjJkSjllRHhhbDlGY1U0MDNDdWd5WjFfZDlvanp3UGRvRDhMR19kR2tOQTVwNmtmX3hmMUxOemNaWmFGLV90MFQtT25CMzFlRDFv?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:20+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

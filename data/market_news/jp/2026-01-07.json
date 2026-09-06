@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,961.98",
+      "change": "-1.06%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "368.40",
+      "change": "-0.81%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.68",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "日経平均続伸、終値685円高の5万2518円 最高値更新。",
+    "旭化成、医薬や半導体材料の営業利益率15%以上に 30年度計画。",
+    "半導体のうねりと日本株（25 年11 月鉱工業生産）。",
+    "日経平均は前日比-1.06%の51,961.98円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MX1J5NUxqbXZnazFWR1ZSV25rUFMzNlB2RVBlMTNKbS1OQnlCUWttN0xKa01oSVFKOGtoZG5Ca0FObFduRmRIT09HbmY0OHNwVlhJVGtxbWFsU1VzRGplc1YwLXFCcnlJaWtrOA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE92Z29VeEd4Q3g5ejIxLVUxNXBVWGRKWkFxX2dCbWVaVlVoQWFHY05vT1R4eTRndU1TeG5BNzI0TU54NFpQMk1iaXpCYjFrWG1OZzBROUJ0dkxIakJWaTV3a29Pd2JvT1dMbmROOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMWJHWEJTUDI3b0FueEVMNHl5LVRTcGZGblN0M1FORXRUR2Jadk5BVms1X1dFNkVfdjdLRHlROEVuT04yMS1VNU0zMVk4aDFEOElZTHVFcFEtZUE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:34+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

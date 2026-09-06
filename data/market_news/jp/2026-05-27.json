@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,999.41",
+      "change": "+0.01%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "415.60",
+      "change": "-0.43%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.24",
+      "change": "+0.29"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "不動産"
+  ],
+  "news_bullets": [
+    "日銀の保有国債、含み損４５兆円 金利上昇で過去最大―２６年３月期決算。",
+    "原油高ショック「広範囲かつ持続的」 植田日銀総裁：時事ドットコム。",
+    "日銀の25年度決算、通期で初の「逆ざや」 国債含み損6割増の45兆円。",
+    "日経平均は前日比+0.01%の64,999.41円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xc2dZZmYtWmczTXVxckFOZWhDWXBhRmFYdFE1U3N2cG9vM0RoZkZBa0xib2RIcUJCaGs1ZGM5LWc3NHhpSkdXczFkWHRYanZ6MmlzZVhVSHhwbjB2cVYzS3J5dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxbVhITF9XS0k0N1dxbmwySjZ3MGlMejM5WTlJcUZJU2c1ZHlLenp2emRjalRQRkg3ekFEdGNZR0tlbllDUTFtN3M0THJRamVoLUtPVEdiUXlkbnlLel83WV9TMA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE43TVZXRzNNTXN2aV9fY0ZKLVUwellPWnRXVE9MYllmMERDNEVmVGFVOVVROHdiVGI3Um9kR3k0RjZVMV9zWVRfbzJyRmxNV0tjYmhTXzhIS2N4ZnVZeDVqT2YtV1doUnVRNFRkUg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:39+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

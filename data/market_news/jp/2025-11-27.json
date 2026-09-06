@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-11-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,167.10",
+      "change": "+1.23%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "353.10",
+      "change": "+0.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.24",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "三井住友FGが上値追い､日銀の利上げ観測も追い風。",
+    "日経平均は前日比+1.23%の50,167.10円で上昇して取引を終えた。",
+    "電機・精密、鉄鋼・非鉄セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QZDVDYmZ1M01OdnpXa0t2ZkI2TUVNX2NTSzZrOXB0eXFZaldxWmd4TlBHVThIMmZWaXVOZVBJLWxQc25SbTl4akdvR0EyVWg2S3V0bFkxQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:16+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

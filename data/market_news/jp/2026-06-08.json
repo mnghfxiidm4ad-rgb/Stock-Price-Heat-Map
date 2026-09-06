@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,024.60",
+      "change": "-3.85%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "408.80",
+      "change": "-2.34%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.33",
+      "change": "+0.34"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "日経平均一時3100円安、AI半導体株に売り 米利上げ観測で。",
+    "週明けの日経平均株価 終値2563円安 過去5番目に大きい下げ幅 アメリカの利上げ観測強まり東京市場でもAI・半導体関連株が相場を押し下げ。",
+    "ドル/円見通し(為替/FX ニュース )：先週末のドル円は円安で160円台前半｜米雇用統計は市場予想よりも強く円安で反応(2026年6月8日)。",
+    "日経平均は前日比-3.85%の64,024.60円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OTENVcG9ETlotdTNsVDExT09STi1wLXg5X2o3aUM3OHZNaVJYSFEtTjZRUWljNXNEdkNnSUhKaGpCM0F6QmdDYy1EREpNZUhTdXlwODdjU2szakdOWTZ5VV85anhlN0htSFowdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tQ3hTVkU2NlM2TmJWbmV2cm9JYUNuNXlPY05qdUpNUTExSndHZTNDUXpaOE9hM1ROVG04bElzbGE1dW1yUHhsUUZrS1FqR0JTVjZSMUFDbw?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNMXdnd1J0X3lhQmhSakFYY2N2bXdySnRKSjRNOG5hOTlKRjhRSjlEZXQxWEdnZHlGenJ0OFdaNUpVd0VUWjJIcjNpbjRhZE9TcmMtbUQ1RWFxa05QWVFJSmFwQWUzVG5ZTWl3R1hrU1oyejQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:44+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

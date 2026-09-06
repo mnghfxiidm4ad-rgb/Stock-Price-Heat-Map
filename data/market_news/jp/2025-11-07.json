@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-11-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,276.37",
+      "change": "-1.19%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "345.50",
+      "change": "-0.49%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.95",
+      "change": "-1.12"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "日経平均は前日比-1.19%の50,276.37円で下落して取引を終えた。",
+    "TOPIX（ETF）は前日比-0.49%の345.50だった。",
+    "小売、情報通信・サービスその他セクターが上昇率上位となった。",
+    "機械、鉄鋼・非鉄セクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://www.chunichi.co.jp:443/article/1160595",
+    "https://mainichi.jp/articles/20251107/k00/00m/020/142000c"
+  ],
+  "generated_at": "2026-09-06T09:26:48+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

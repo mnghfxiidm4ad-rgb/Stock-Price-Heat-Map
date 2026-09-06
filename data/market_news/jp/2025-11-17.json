@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-11-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,323.91",
+      "change": "-0.10%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "350.70",
+      "change": "-0.43%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.59",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "小売"
+  ],
+  "news_bullets": [
+    "人気続く半導体関連｢裏方の存在感｣で一躍際立つあの銘柄。",
+    "日経平均は前日比-0.10%の50,323.91円で下落して取引を終えた。",
+    "電気・ガス、鉄鋼・非鉄セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5U080VXd0SW1yRnZ2bTFSQW40b25uRklTV2p3dUQyRDdjZ2FRaDBaM1hYUzlQNUZsbnBZNk1kR0VBejh2UHk3V28zZE5tYm9OMU1TWHpsTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

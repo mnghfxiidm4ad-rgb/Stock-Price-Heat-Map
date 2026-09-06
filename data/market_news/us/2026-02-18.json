@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,881.31",
+      "change": "+0.56%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,753.63",
+      "change": "+0.78%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,662.66",
+      "change": "+0.26%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.08%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Adds 129, Nasdaq Climbs 175, S&P 500 Gains 38」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Rise On Cooling Inflation And Steady Yields」と伝えた。",
+    "海外メディアは「Stock Market Crash in 2026? Bad News About President Trump's Tariffs and a Warning From the Federal Reserve Explain Why It's Possible」と伝えた。",
+    "S&P 500は前日比+0.56%の6,881.31で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOHRGY3FGVGdUTnBTbFJ3UFRKRDFnSF9KQnRoSkN6VHZNY2xtOHBIVjVIZzVWVVV4MXdfN043WXlaYU8zTEpXR29RSWVfSy1DU21GR21wMTJUQXllZk9EekhhR29Wb2JXeVY2b0JtbHFhOTg5WGRNeG1hSVRzTFZGb2MzNzhVYmQwUEcwTEdOdXRHUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE54MmJZd3c3cmhNSmtiUFJqMk84MTFHY3ZuRW5XaFNtWG1hRzE1N2ZOamN2Mm9BR3VsdGZnQzJOZ2JRNzIyQUd4STNpajRvWS1EQTFaQnlRc0x2cDd2SzNQandGLXk3WHBUTHpxeGN6SkVzM3NJcTVUag?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHY2YXpMeVhfamZ1UWRPcmc2cFRCUFh4NWlvRlhlZTExX2RtMGFDdWJyanU2Ty01TzU0TExSRXpTWlV5ZnZkUURROE42ODlVRG0yYi1ZNkRvdGZWS3phaV9NWnpTRDE2T3ZxaHdIUkhRMFpvTktVcUQ2clB2REJlWmNjV3czNzZCMHZydVotaWhYMl96eUplWQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

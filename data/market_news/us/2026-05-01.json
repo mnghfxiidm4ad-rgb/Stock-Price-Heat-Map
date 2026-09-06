@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-01",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,230.12",
+      "change": "+0.29%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,114.44",
+      "change": "+0.89%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,499.27",
+      "change": "-0.31%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.38%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq advance, set for weekly gains after earnings-heavy week」と伝えた。",
+    "海外メディアは「S&P 500 and Dow futures extend gains, Nasdaq futures erase losses following report Iran has sent latest US peace proposal」と伝えた。",
+    "S&P 500は前日比+0.29%の7,230.12で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbzVzVFFXRWp6X1Q3cmU4VDNDalVDYms5ZXhYaWkxUjVmYml5T0htOExManp3eDg0LUptOHd2SG9pVE9qTWR0Q3hETUFlR3UtQ3hKM0tZUDU2REp2clR2Y0dteVFHS05Tam9IMHlWbV9ZVEZlSFo1dDl3YnZVblhPZzdOVVpKa2N4UkVkNXNEc25LTi1zVlhRcG1ycDFWZVktVmZjV3dZbkt5WEU?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeV9idU1LUGlvQk95cmswYXAxLTRGS2hwalpvb3ZVN185dUNQMkVnZ2xQNW9SdDB4a2l2eHRSUHNlZXY4OXZnZERTWkJsUTh6QVJUUkRoQmQ5RzJyX1dCa3MySkNCTGNCSHNiSGczRjdDSWtfUVVWbDFCMXA3MEM0Ti1GWGRyeUVMNFRtZElLYlFteTZmQVdBTlRnazdSckpCblVrR1ktLVJMZ2hKTFB4UXJiSFZDS2JPTEVJVV9lUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaTViaTRhYlIyc3k3UWlLTmNnOW51VS0tR2ZjcVJYM3prRXFfeU9SSzRNbzVYUjUtcTRsVTJ2YVJYb3ZEMkJMNHRiczktdWMxbGtBX3hTd0hXRm1jVWE2aElpMlFSaGlPVzFDYi1rODdlTGNHaldaNmFKWGtLV21URV9yajRCZ0paM09zMWhkVzNhcTZ0R1c2aE0yQk5BTlhjWGRQUVhEUF83WDktb3BGYUFta2JqQ1dPQ05rY1p0WGpVTFhzalAxeEtVVzJBV2NXdjNUb0xVNG9LNEFPcWZyb0NmVWczbWc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:33+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

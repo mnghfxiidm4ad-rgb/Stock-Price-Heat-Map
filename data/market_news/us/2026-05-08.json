@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,398.93",
+      "change": "+0.84%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,247.08",
+      "change": "+1.71%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,609.16",
+      "change": "+0.02%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.36%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「U.S. Stocks Close | Non-farm payroll eases 'stagflation' concerns, S&P 500 and Nasdaq Composite, semiconductor index post sixth consecutive weekly gain; Space concept rebounds, Rocket Lab surges over 34% post-earnings, ASTS rises 15%; Memory and」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq notch records, boosted by AI and earnings optimism」と伝えた。",
+    "海外メディアは「Dow Adds 12, Nasdaq Climbs 441, S&P 500 Gains 62」と伝えた。",
+    "S&P 500は前日比+0.84%の7,398.93で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZmlIMW5EQWlldlVoa00xN2lmSDVmUURuM183NllYVjBmdGE0SDduNDVneGM0dHVPR193Sm1Cai1LSklFUDIzTkYyWnhDQ2RUMl9mWVhPYWxaMk5BYzNVQXFySHMxbDJYejlxdEpsSmFqMmNBQ0N4bkY3VV9ZWERfWFhhV0phWW4ybDFzUzNEN2tudTUyUVMxUVNQOHh1Qm9ueUNRcw?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGVILXcwU3hObHYzalJvRDNUTDVJS0pXNnR6QjVtNXhtTTNSclRlejJYRjRiX2pJcmlOMGVBdzZvOUdzNWg1aV9GQVdWdzBOUUVEX3NaaGhTcHlyNEJEcFlVOHJGWnJWVlZNZHNnMC0wQ0ZPZmRxMTZYdGF4T1MwcDdLcUM4Q0xyNzJJRHVyUlJUT0lKM21leFU5dVc?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN1E0T29JMkhxR2c1RFd0b1Eta1RoblpwQ1ltUUwweVQtY09ZZ21QOHRDNjJHaWxvUGRoSjRILTdtLUJyQi0wbkJTVGFkVmswRmxpRkEzbEx2aldfbEJkOXFxWm1QSXNISG00bTVVZU9jZHUyekIySHV6ZkJkMjRlTU9iR19TcUg2T3RZZFFoS3A?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:37+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

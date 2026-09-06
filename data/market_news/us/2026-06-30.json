@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-30",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,499.36",
+      "change": "+0.79%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,213.72",
+      "change": "+1.52%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,319.20",
+      "change": "+0.26%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.42%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500 Futures, Nasdaq Ease After Historic H1 Rally As Markets Brace For Warsh’s Comments: NKE, BE, FCEL, MXL Stocks In Focus」と伝えた。",
+    "海外メディアは「Dow Adds 136, Nasdaq Climbs 394, S&P 500 Rises 59」と伝えた。",
+    "海外メディアは「AI boom is set to power 22% S&P 500 earnings growth in second quarter, Wells Fargo says」と伝えた。",
+    "S&P 500は前日比+0.79%の7,499.36で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT1NMd29XQ2xsMDNyVzJwRng1OWNYRXZYT2JCdHUwWVNvMzNHUDdVbnU5S2U0bDQxX2lySHRPcFlBU190QVU0VGc1M2NKUjJvLUpld2JqaXBHeWdUc3FDTUJfT19PWEUyM2RGSU81XzNjR1ZHNjRLWWtaN0dDZFI2SEM5S1lhVlJseVBBZ1MtRnZueFE?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUlySGRIdEZ2alZGbVFpUDNKeTI1M1JpSUZlNkZxdjNMQWxqSmR3aVNqeS1IV1hBc0ZUM1BsN0dfYldVaGlDQUYyYnFweXlqS3FVWEw5Q0tESDg2WWpXaWxubl9xdTM3ZFU5NkxCWVVIcGRHcHRoQmMwNjFITWdwUTdLN3k1alIyaVl6M2tDdGJTQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWnJ5Q2l4WUJFcnhHWTBHOTE2cW5haldMLVk3Mi1vQlJzS1Z1T0lXSG8xeUNVdzh6X3JoWi1wMU5XTXhjZHFwZlY2YmhMZ0RwVkJ1WmVONWtmekZFaE5PTmFlRkdEYVpEbzBxbll1R3dHUEN6dDhMNmE0OTI1T0ZiSVgybkNZYnhBOHA3WU11ZUtRZUtjTXFiaXF5M2xLc2pwNmFLbWFaVHpELXBfa3k2VC1iTDhhYWdtYWprdUozTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:03+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

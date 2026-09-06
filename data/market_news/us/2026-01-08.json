@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,921.46",
+      "change": "+0.01%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,480.02",
+      "change": "-0.44%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,266.11",
+      "change": "+0.55%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.18%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow rises, S&P 500 and Nasdaq drop as defense stocks surge, tech slides」と伝えた。",
+    "海外メディアは「Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Drop— AZZ, Northrop Grumman, Immuneering In Fo」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Sluggish in Early Thursday Action」と伝えた。",
+    "S&P 500は前日比+0.01%の6,921.46で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQzRyM05ybUM0VWY0T01ZeDRIV2l5ZlJZTVF4MzhkMnNpWXhPR2JRdTB6MTU1Z3MyQnRnZFYyd0ROaDB6LTVJRFJhbXM0WjdCUVFUVUJhMktuY0JlME5fRktOQlM3NUtOU0RCNVFRNC1kT1RBUHZSS0F5MTdCLWlfbW96NWk5aFNNc3lTanBRaTdXYnFzVDlQZk82aTdjbjRPclo0bzNGYThDTnVZSUsxWHNMWndlTThIR001d2JhcnluVXQtbDRnRnFybw?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOblhlYmNUbWJSX1JyWDhKejJqVENjVHRKLXBmdXpWOEpuR2VxRUZ4V1lwUjA0UE9tR0NPZDdFWlpZcFgzbWtZM1pNRWJvNlZEa3BVRWpfSkNOVnBiZkx0N3RGVHM2SGRYcmtZbE90ZlB1bU5hVzJpcXRVY3FSSm51OGNzOVJpZndENDl1blJQMTR3NmRfWWhIYzBkQVdOSzEtb2d0bFpIWk1xUkZUWFp6R2NFQktyVTFpT3V5ZEpHYWtzdXBNNS1VTEVSazYxRE1YVWktdnpqcjVST2xHY2xBZ0JpcEo?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdndpN0k1U25VV3BIdjI2emFWaGhlOEFrZHRiM0pBa0szMGpWUkNldlM1NEhGWDNzQmVvdzNiTHF6LVQweHVCQ0dqWE13aVNDdEdWNFdMX1JPOVZPd2VHY0lrMklwWFpMNkNxWE43aWFGdjJBNzNlby1OZ2hlMHZCSmVPM3FVMlZRLUd0T2ZuUTk0dEZ6YU1ZdWRpSGVmSUpITFNnN2FrNEZEdkRxTHRWa2liNEtDamtYQXJpM19uSnFqQ1FYTmtoT1ZYenlWdWE0cFZxcTdR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:38+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

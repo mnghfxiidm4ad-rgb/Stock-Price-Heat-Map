@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,824.66",
+      "change": "+0.62%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,822.42",
+      "change": "+0.83%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,185.80",
+      "change": "+0.58%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.29%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today S&P 500 Futures Slip On Inflation And Fed Concerns」と伝えた。",
+    "海外メディアは「The S&P 500, Dow and Nasdaq Since 2000 Highs as of March 2026」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500, Dow slip as hopes of U.S.-Iran resolution fade (COMP:IND:)」と伝えた。",
+    "S&P 500は前日比+0.62%の6,824.66で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGZ1cjdzSGFJbVdyeW1VYlU5czhZczEwWm9tSTREaTNYcC1XdjRHLTR2WFNwUGtzSEVBWHZPVkhSZVVTbEZJYXRwaGxYNW96eVdoblhhS3Y5dDhpYWJYYmNIalgtN3UySExHRmtKQ1A4SjM2dDdoUjM1RndnVGJXMDRrVF9vSVVLck5neDVsbDVUZw?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb0M2ZzBmUDhLZWZiNmdjSk1PQ09JWHp0ZXpOMGU3VzZlV01pR19HeXVZaFR2T2ZyV2hCOUdRTjNzXzA1N3g1VEt6enp0Y3JTMi11TzRpQ0laOGpjVjQ4MVBhNUFkNUYzOFQwRDFLSXY1UGNnWlRxWnJfV0RuRUlRcmV3a2JxRGR1NHA2c3psUGEzUHRCMUQ2MFJKV25JWWfSAaQBQVVfeXFMTzU1aUJMd3VzQVZfZDMxaXlkRmFYZUlhd0pWQTlrYmZ1R2g1WFZvZzQyTW8zNGtCcktoSmVvRHJ3MTd1aHZWUk9PYVZ4WDE5dDV2Y2dBRzBKWWFpNEluSVItcDlVTHJaeDJweHd3NHpKTlVQNUktMExRNHdFUVpMVGQ1SVVUOVRMZDl4TUNjYXM5UUVXUzFPaWdpRllaQjktM2duUUc?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2NpbjQ1b1RQQTBUd2txTkI3QmgzSkZ5NTlFc3NySTVTVkx1ZXdLWGxROTR6Wk9xN0VpOUl1UWtCTDV6RU1HQmNNekhWT1NWTWFDRUhCb2gxb2FsSWQ5bjR4QjNTeTFBdi1SMjltNGJCcjZZSWxXVVU4bUFyelFzMG5hUDNXU3I2?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:22+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

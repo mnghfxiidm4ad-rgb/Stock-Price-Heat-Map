@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,372.53",
+      "change": "-3.38%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "379.10",
+      "change": "-2.97%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.79",
+      "change": "+0.91"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "素材・化学"
+  ],
+  "news_bullets": [
+    "日経平均、終値1866円安の5万3372円 日銀総裁会見で円高に。",
+    "ドル円午前の為替予想、160円視野 日銀の利上げ示唆が弱ければ 2026/3/19。",
+    "日経平均株価1866円安 米株安受け、原油高も重荷。",
+    "日経平均は前日比-3.38%の53,372.53円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wQWhyU0trbDdaQ2VDeTFGZUxQZkd4WW1fUHhoUlU0a0pDWm5tcVdJemE2TGJ6anhRLXYyRFlNVlRlQzd2UHZaUVk0bWtEWFk5R3h6SDJ1bG5PUndLblZ4XzMxQzFmVzA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HU2ttVlpNTjNnVU9xdjBUZDQwLWo2ZHpTLThSbDJ4VlZJWlFqUlNWXzBrQTFkYnpySTgyb2k3WHN5VmZXNTBheUxDZmRiSHJfeGhqYlhsekhEV2RKenlLUzdJNA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VX2VITUhFMXRCTVQ0Q2hGQTdmRHBqQUpfZThsX09vVEREbjVFY1FhYjhtRS00MFVlaWREZTR6TC1fa2FIajhKRHZ6RVdlSHJfdkxuT2c1eTlVX0RnRnI0SW80Q3d1Wjd4a0dZZg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:09+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

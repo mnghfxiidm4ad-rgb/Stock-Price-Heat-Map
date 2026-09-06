@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,733.15",
+      "change": "-2.47%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "426.40",
+      "change": "+0.14%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.54",
+      "change": "-0.09"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で162円台半ば｜FRB議長の発言後に円高がやや進むも最終的に円安(2026年7月2日)。",
+    "半導体崩れ株大幅安/為替介入あるか米雇用統計速報/金利3％時代の財政 - tv-tokyo.co.jp。",
+    "日経平均株価 1741円安 4日ぶり下落 半導体関連の大幅下落が響く。",
+    "日経平均は前日比-2.47%の68,733.15円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DUEo4eGtHRGlMRjZVQ2YtWXNHS3ozNVJIWlZvMGNiT1FRb1RTNHVZWW11T1VveTNjWlhGRDE1OGptREF6WGdOY1M1X1NIUERrZWo0M1JENURXem5NYk5TRHFLVTRSS2doendZU2J2UE1TdkE?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZkczWURhaFFiNjNzMWkyQjV1UzB2RVdHRnhTR0pDdG5YUEN3RW1rWUQ5SlhNSm9hZmVCbXotX1hRVGJURkFVeC1WazBzYUFMVFdrTXFDeWl4eS16bllqWi1SRjU5Y3g1X2h0RDlaZENKRTNGOEVMQnNHSHFTMjJJQ3ZWTUtIMGl0LUg3Wnd6eU12dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pMVdyeXBFUUktM1FHUnVPQTFfT3BqajRxMk5zdzJlWnpBQXRMZnJhVTBKdmNhTWNXRmp5Sk5ZN2IyRDhtaVdTQjZpbktHUTZ6eGF3ZGEzOA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:57+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

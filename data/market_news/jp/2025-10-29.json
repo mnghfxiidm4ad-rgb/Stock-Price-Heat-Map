@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-29",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "51,307.65",
+      "change": "+2.17%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "343.80",
+      "change": "-0.32%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "151.73",
+      "change": "-0.96"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "食品"
+  ],
+  "news_bullets": [
+    "日銀、6会合連続で政策金利を据え置き 高田・田村委員は利上げ提案。",
+    "ベッセント財務長官「日銀に政策裁量を」…事実上の利上げ要求か、円高・ドル安進む。",
+    "AI・半導体株が逆行高 日経平均5万円維持、買い需要根強く。",
+    "日経平均は前日比+2.17%の51,307.65円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR3RmbVhySW9QTDZKMlJhbzd0b2dJY3phOHVLT3lJZk9Ib2xDTlZLSHpNdHp5NjA4NFVmQjgxUzBlbzVtX1gtbURUVElNaWozMERpdm41UW9lei1vQlo3a0dBSHNpcWlBTWpRRm9tQlZIZU1nZ1RlTFZoMURqWl9oNFM3X2JmRFpwRWNz?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yZ0F6NkxGeXczUVdVNmtTMlF3eXk4R3lfUUxRRy1EOWFBaHR0UzNOdkEyRDBRdDJRLXczSFZ3cDV4cmYyYXlKMlRCOWF2NUxJR3ZZY0tXdFdFYzFDYnFLZzhHdTA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xNTU0U3NBclp1UXY3OXNHdHNOWXFyeHlNNUFsRFo1TFFLZm1uYzNvcEdpZUszMnA2M2RUTnFZd2VVa2tUWFh3d3F6ZGttcXFHRTQ4ZUJWTlNGMTRPMGZYT3BnSk5VM3lBQU96Mg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:02+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

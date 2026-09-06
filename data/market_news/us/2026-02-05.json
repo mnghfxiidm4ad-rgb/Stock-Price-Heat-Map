@@ -1,0 +1,46 @@
+{
+  "market": "US",
+  "date": "2026-02-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,798.40",
+      "change": "-1.23%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,540.59",
+      "change": "-1.59%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,908.72",
+      "change": "-1.20%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.21%",
+      "change": "-0.07"
+    }
+  },
+  "top_sectors": [
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「In the shadows of giants」と伝えた。",
+    "海外メディアは「Average Roth IRA Return Rate: Maximize Your Money and ROI」と伝えた。",
+    "S&P 500は前日比-1.23%の6,798.40で下落して取引を終えた。",
+    "公益事業セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMHRxbVBDVXdxV2hwR1U3VnI1ZURFeU5wWTIxOXZjQTljLWtYcU01dTBWOVVVV1RKOEVJVVk2bGpHdHAtakFrdVZRYXFZei1BWnhVOEpLSExMUTFpR3VMeWRDWDBuRmd1TEJLSnF5U0tuOE1VU2JkbmRVTWhmNXRmS25oNUFDcTlBWTBfMGVUMGVFUlpvYVNpVXZRUDQtdVB1aUNYTXlFRDhWbmdfV0lYQXlnZkFYWDNMWEJuUW1OMm42Z2dWY1NhSGZnZUN1QmJnZzJhekRrWWJPMkR3amp0YUNGWmxId2tBS192RW5mTjdoQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBd2ktcURXX0JMbHlQcVR5WGhQSndPUFpjcXdOZV9fWWtMbXhFM0JqV0l0a0dCZ2dINWkwQkIzSHRpOVQ1WEk2Q2N3ZFlGN1BkUldtWWZSWVRENXNXYXdla1lKZGFoUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:51+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

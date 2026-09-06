@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,272.11",
+      "change": "+0.84%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "415.70",
+      "change": "+1.32%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.67",
+      "change": "+0.44"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "建設・資材"
+  ],
+  "news_bullets": [
+    "（まとめ）日経平均は529円高の63,272円で史上最高値を更新 引け後はソフトバンクG決算に注目。",
+    "為替介入の効果持続「難しい」 黒田前日銀総裁：時事ドットコム。",
+    "【ドル円見通し総まとめ】円安はいつまで続くのか？2人のプロが読むドル円相場の行方 2026年5月13日。",
+    "日経平均は前日比+0.84%の63,272.11円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBTjU3VXVxb240bnVDUzJGNU0wTDI3bGpIMXBGcUZXVlJnSFJSSWVqN0lnek5DXzBkSHl3SDBaTHBtb0sxNV9oSXh0dUNfOUE4UnJ5bdIBV0FVX3lxTFBYTS1JMjJzQWR3YzVnU0djVlV6NmgwNm1US2FEempkem00Z0dxOEhIUER4M1FWRGt2S1pmS0FYRFhrN1VnOGhPQ1BacTFPT3h6NTIzZTZ6OA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RN3N2d1JXTmVJX1pNcUV2S0lPRzZkV1Z1bmpQU1BKdlhUb3pxWWIwYVc5bHJEdUwxVDdwSjBoeGZpTEdDMXVvNGR2VjJJaUhoQmg1ckJpa1pwckdQUk1lYnV2MA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YOWtLanlJLVFRXzN5SFRlYUVPNkd2aEYyeXA2LS1zMFptbWhOeHhGWXlibXNTM0tETG1YRElJWDl4ZTR1TExNNjduajUzLUJoNXR5RUszUURHdmlrWVZRV3VmOA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:32+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

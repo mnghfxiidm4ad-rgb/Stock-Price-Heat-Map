@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-25",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,946.13",
+      "change": "+0.81%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,152.08",
+      "change": "+1.26%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,482.15",
+      "change": "+0.63%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.05%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500 Up 0.5%, Tech-Heavy Nasdaq Extends Gains In Run-Up To Nvidia Earnings」と伝えた。",
+    "海外メディアは「Dow Gains 308, Nasdaq Climbs 288, S&P 500 Adds 56」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq end in the red as Nvidia drags chip stocks lower」と伝えた。",
+    "S&P 500は前日比+0.81%の6,946.13で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM2FFODg0SFR2bThGakszUzRZSVlPVEZ1SG1GTEk2VklMNEE4R1I0ZTE3ajhLZUdHYUhXX3ZQWEVGUEJzVjdMV0g0Q1NmaS1nbWZMR3ZNTXJUY2hMZlI0U1dhd1VtUmdQMkFtUVgzZlNiZzFtOGQ3b0l1c1Y2bE16VGFGTTVNVmtlNHhhWkhYZkdsM2xUbzYyY2QyY29STlRDSElsTTNkaG9jSFpFMzBxV0xwUTF4YldTMFRObjNyaUdWNFBkYUFlSjNYenF0Tmp5ekVJLVhB0gHeAUFVX3lxTFB0U0Rib3J5NTFScENBQmp5SmVrUkJ2Q1loYjMwUk5fbzd2OHV3UkhJM0VWQTRSNG43dWdXODJ1cDJPV1VqRTBNQk96bFBvVXgxSkR6MVNHUktJb2Z1dDdZbXFYZlRuMF9rVDN5Q3VRWGxLbFVCTmhFeFlobHl1NkNSSDJwTmZfbEw0M085RDlrNGVwS3Z1cTVvR0lDUVVuMlBNd2dtTFd3UnFGWW9NV3VidWxrUVVVTjBjRDdwYklPM2llMGF0c29sZU5POUhBd051bUpZTXYtYS1BSnlSdw?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUk9GYVAxemlaVnVfc2Q0aG5qMlNRZUs1a3AxaVNzR2hYdzRMR2VwX0JYZktXM0o0dmRQMFVxTUp2aWJEelkwb1ZwUmNzeDIxN0dMdTBZWVNTU0ljdVdYMGgxOU1pS3ZxdWpySV9uaFVWN2xRR0x2bUdUUmFZckpIRXE3UUItSVNTSVZMTFcyZ1FBdw?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxObDhmdVVBMkZHY2llZ2ZkdFdSSk4tSzM1MmV4X1p3NWJ1aC1NcUlsbU9FZm5yT1p5RUJ3eTJEaTg3RlpyZXpuUmhQNnNvWU1FcWtMZjV1VzdmQ2laaGVVdG4tc3MxempGb1VGa0ZCSTA4LU9RaDB1a2dnbTFfMG5jN1F3aVRSeF9NSUxEbmppTWFPc3g1WENZRmIyNXBNN19WdUg1c2s1cS1pM0JEbVptNFpUaWdFSnY3SEdrVENQTGp4SXFGQVViM2dQbkw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:00+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

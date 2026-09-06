@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-11-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,253.91",
+      "change": "+0.17%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "354.20",
+      "change": "+0.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.28",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "機械",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "円安見通し急拡大！個人投資家は日銀利上げ見送りを予想【外為短観 第198回】#外為ドキッ。",
+    "市場で強まる「１２月利上げ」観測 日銀が見送れば円安加速も。",
+    "日銀の野口審議委員、利上げ「政府の物価高対策とそごない」。",
+    "日経平均は前日比+0.17%の50,253.91円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pd1RVdHNJZVRYNnBYRHdPV3FKVV82Y2RfTHVacVdKSUYyUVhnM05sRnhjN2tVY25hVEVCdXdscWlOaFRYbkxlcEJncUtqLTIxY3NMYW5QalVTOWlQeHR3NmZPOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiejVYY1BDOW1abnktV0lrQjZVUTBXQ29LTTJCRlNIdTlWb25GdFR1SU9xV0EwZFgwdC1yNkFYdm4xdG50RmpDYmRfV0g4ZU9WY1FGTC1ZX0J1VTdCMzMyY2FwNA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IOWs2dndNTTZ3cFpTOXg2TlFIcjg5ZThQS0hhQk15dXZiamhfMENIbmJJbi1UaWpjcjd5QWd1ajRIOEo3UEZkbVdBT1l2SUVxN1RmY1FadTZ1NElsMEhFVlJSZS1McmxOQ1k3aw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

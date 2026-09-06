@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,554.29",
+      "change": "+1.65%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,683.94",
+      "change": "+3.07%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,671.03",
+      "change": "+0.92%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.47%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Number of S&P 500 Earnings Calls Citing “Inflation” Increased for 3rd Straight Quarter」と伝えた。",
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 weekly preview: Wall Street eyes Warsh’s Fed debut」と伝えた。",
+    "海外メディアは「Dow Climbs 469, Nasdaq Jumps 795, S&P 500 Adds 123」と伝えた。",
+    "S&P 500は前日比+1.65%の7,554.29で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeV9SdlBBT1VQY2d6X244bGtpb3ByUjJtOWtFUUJ0QlBpODhtdVpEYkphWFdLTDNiclphbF96T3NQdTlTdUFnUVRwa1M3NWczcUZhTHRYam9maXRoRlZXcVFncGZPWXhvRVNBYjNYVHpQOTlhaFpScDJMRGc2bTdNVGhvNG5PWnJBQkRpNXlMUUJSZVZHLUFhOVEzczkzMjFTYUw0bXZ6R3YzT2tVUTdNONIBwAFBVV95cUxOcDBsUFNUNE1hTmRrdzNBMG5mS1NORktIazNfeFZaOTRBWDFHY1lTSkRHenZsWFhnemg1VlhtV1NEeUZKa2wxSTZSWmxqR2M4WF9fS29wV0dRZnhRUFBiODNlZTYzdEI3cm56c0EtMFNEYjBiUnlreDVhMG9nTGZTRnhPclR4cmpINFBndmtJSmJlYU1IcVJPT3RZV05oMmhDZWhZTFo4Y3ZSS1FJY2ZtN3BGSVRLemZuUEtkUG9hemI?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZk5JeWp5cEFQeS1wT0dQUXdRQVlKajZsTndPckQyRlR6YjZyTVJCUlZHVWt5T3YyMHNFTUY0UmZYY1NXNjg2NGhEVnR4TmxxZlFIWGZXM0dzbUFIRU0yR3diaU52Sm1VQWJ6blFoakNqSXN2c1JQeDAyVHJOUlA1UURsUGUycmZrS0t0ci1LNXNJem5IR0NacFZEQ3Z2MGE4c0NGamROekFEVXQtOEwtNll4U0ZNNjNsdkVvZTJ3SDBwRzFuN1VRdA?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc0UyUEJKQUY1bkFBUmFOUlZETjJLd3JlX21lcWVlbDVtelhzaEdJRW5MZFQ3UVU2RjhPd1ktRUtLaHY4X3ROZ0diTWw4bzR3cU9LR0RZQ3FwcjB0cXB5d2hmM3FCajFVY3pMUXQyejhadlpQRmhaU3JzTGdoeWlHWVBfZUVaY2hxZnB2RzVwR1dqSGc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:55+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

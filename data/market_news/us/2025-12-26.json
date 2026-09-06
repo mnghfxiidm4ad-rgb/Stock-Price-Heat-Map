@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-26",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,929.94",
+      "change": "-0.03%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,593.10",
+      "change": "-0.09%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,710.97",
+      "change": "-0.04%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500, Nasdaq Futures Decline After Christmas Day—Nvidia, Sobr Safe, Bio」と伝えた。",
+    "海外メディアは「US stock market Santa Claus rally – Wall Street eyes new record as Dow, S&P 500, Nasdaq on the move; gold」と伝えた。",
+    "海外メディアは「S&P 500 Breaks 6,900 as Dow Extends Record Rally for Fifth Straight Session」と伝えた。",
+    "S&P 500は前日比-0.03%の6,929.94で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb29NNnBmMlM4OEpPTFRhWEJRcWpFTTQyZnJHUzI5eFJJUHhrVFhiMnBsZEM1c1czY3JYeWNEd3BHbV8xek5uck5vZ2Qtd00yYUNxalVnZ21EMDJZN0QwUHRsODVDVl85MDdzUmN6SGJGWVIxS3dXVG9XN01lbk9wWFJjUU1XWnZsX3hlalNKUmN4UjhZc3dKNjNDQUVXUnhDd1RjaDY2bDF0OXoyYVpJQVE5U05LWkYxMzRNMU5PYlZhQUZaQlN6WVN2RXBnX3lRNDNVdUlOd0t4ZUFHc3NuRGY5UWdKTEZrMHY5QzVXM2pLUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipAJBVV95cUxPZWJfbGI5MkdJRGtBX3psMXVaZWdSQ05aeGZhdFE4bXRUWE1GSW53RDMwVkRTX0o5WFRib3hKalRMcmIxS0lxRFNSOG9qa3JJRVpDSFhDd1Rfc0FFVlNrR3NUU2IxcV9GOFhhVkJkVk0wUkdDNDFsbVRrd0Fwa19xTTdzQ0FVR2ZMY0NtOEhJX0lsTEQ2QnR3XzZYLXVvMVNhclkxN2xwVlhyek1BekJxVUJ6cEZzbVEwUlVfaGE5OHRDY0g5U2VPVlNldEpFbW1QV3hHR2RRZVN4b1hnNE42NGRrMHo5NWZ4UEpiY0RoQzNFcVhuM1dZWWRVUWYxRy0wNTBVX053RmJVSXVkcnhIOXZLZU1oQ0ZseF9uSEZsUGFabEVN0gGqAkFVX3lxTE9NbHdOTTB6b1NBaGd6UHh5YTZYZ3ZzNklWNExoMlJGVlFqQnFRa01maGNRWGl0MS04ZDIwSWVkOU84cWw3SElQUG42Z3ktMnFOZncwM3JKbVAydnpMVlhodVZFT2NuNE9wVThOUFBLVmJxQzdQMEc0MnNDMUVnU0FySk9FdlBDYXpIUl91bkFCMDRjNU5tM1hHUzBMYVhaeHk4SjZZd3hTU1hLMlBscVB6NEJWTHBMbXh6dEw2eU13cVFZQVprZXFyZmZ4UDF3WndrQnFKekotXy1RQjFtWmhWTGI5eDUxQjFLc3dyTnlMbGVVR3B0c2lGWTdXUVNNdGw4SjAzZmZpZGtGLUZmcDQtbFdRZUJQZHZoYjVsOHgwVWFFRFgyQ3lseFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUl9wdU14cDh6clJhekM4d18wbTV0elFxUXdxQVJROE5yRmR1T01rOFlSSGxCMW1obHNBc3lNbXJnX21HZ3dGd2MwLV9WYk91YjY5eV9iWVpDQVJpZDdpVzJXMEZNVjVuRGdHbmtTSGUwUThUZmxoOTNQeWRMZEQ3MHM1dTM2Ujl2ekE0MFV0WS1BOWtTS2tFUmZ6Nnl2MDFXSWZFa1o4Z0JHdnc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:32+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

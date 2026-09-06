@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2025-10-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "48,088.80",
+      "change": "-1.01%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "335.00",
+      "change": "-1.90%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "152.96",
+      "change": "+0.29"
+    }
+  },
+  "top_sectors": [
+    "小売"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "銀行"
+  ],
+  "news_bullets": [
+    "【日銀はいつ動く？】自民党新総裁は利上げを牽制／日銀総裁も慎重／10月会合の行方／日銀が抱える“トラウマ”／円安が進むリスク／米国が金融政策に注文も？【ニュース解説】。",
+    "追加利上げに不透明感も ５年の任期折り返し―植田日銀総裁。",
+    "投資家調査：日経平均、3カ月後「強気派」4割迫る／為替は「円安」見通しに。",
+    "日経平均は前日比-1.01%の48,088.80円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVkZwU2Jfeld1cExONzZTOFpPNVRUVG9CMkRoRUJzNkhENTV5VHBzU05DeG9aUUptSGNkcExGSmd2amR1VTR5dy1hYktZX1J6Q3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxeExSekh2dTVTcU40a2VNNHVXVFJ1WDVHS1MyWnlZOTVSMnlDMktxRU9SakhTQk9RMGpKOWlNdmN3dnpnd1RWbnVCcDJWeWlkVXh1VWR5cDFWd284d2ZUVzlUTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pcnZsMVByU2hDMTUyTHZGV0JnVWFqVWE2RG1WLXhzY0VseGJjSEdtaU53NTdaQWVRa0cxRGNFeHNPZFpXZW5WTnhXQ0lkVVVrUXJGbHR0X21PQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:54+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

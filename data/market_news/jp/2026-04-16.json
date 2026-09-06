@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,518.34",
+      "change": "+2.38%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "404.40",
+      "change": "+1.20%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.81",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "植田日銀総裁、見通し実現の確度やリスク点検して政策判断－G20会見。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で114円付近｜円安トレンドが継続して114円を超える場面も(2026年4月16日)。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円付近｜ベージュブックで米経済活動の拡大が報告される(2026年4月16日)。",
+    "日経平均は前日比+2.38%の59,518.34円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aX3RncFpiaXA4R1RYblFiXy03eEVFV1RMLTd3YjN6aGhSaUdLRk01d3lLQXViWndTWGg4YW1ZNjBrSXo3Sjl0cFRtWFI4YnUwLW44Mnp6U2lIQ0ozcDlmalJPUldaVFVPcF8tRW54dm5hSTdaVElR?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmOGRDdENja2hpYzUxWm1iYl9UdnN1bDlTWUtXZDIwZmhweTQ4YjRqMHhlbEU2UWNTVFRmRWVDQWp6dFdYMmluLXFSdlR6dlhLYVcyMlZyMk1CY0ZzbmpRZlJ0cVBWNENHZmQ3QThXeTFsX2s?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xQWdkb3RBX2N3ZlpWMVlnUUNjQmlZTzJyc3lmODhZT3dQUlNzUE1PWkpySllYeWpucXZ0WXlJQWtwMlVPNVB6eWpEb2pZTmZNTE1lWm1uYXdqTUJrNmUtUmt0aWE3WDJfZ2tIUkp4eEp6TGc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:22+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

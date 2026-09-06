@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-02-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,843.22",
+      "change": "+0.10%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,578.38",
+      "change": "+0.14%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,533.19",
+      "change": "+0.07%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.05%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "金融",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500, Nasdaq futures slip as AI fears weigh on markets」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq open lower as AI disruption fears sour sentiment By Reuters」と伝えた。",
+    "海外メディアは「XLRE Trails the S&P 500 by 5% Despite Lower Interest Rates That Were Supposed To Help」と伝えた。",
+    "S&P 500は前日比+0.10%の6,843.22で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUnhXSDFudHJmNEM0SVVBZWRMSkp4bzZxSVdxV0QtMDJtc1l5alJUX1VVYjZGTlZyS2JoNVZXMmxMWHVPbEZ0eG16RW85LXV4VEh1N1JFenE5T1VBVDZ6TlFuQmJwaEJxdFB1NzMyY0NudktJZHRBUDRTc2pKTG1XNG9wUjZkRlVF?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDBRcDV2THJkNUlPT3lHRzZIZzA4Sk1lSXR3blVOTERmT0NoTXhZZ3ZIcUdaN1otdmtRRXBLdnRWSEd1WE1aUExDNi1Zd05HS1AxenM5SFJ6ZXJweWRiYkZDZm54Zjlva3p1Y09kSUNXT0lsOUZxWWRFdEh4bnZ3UlBmWnBzZFJQUFM5UmpjbnI5NWdsY0ZXREFtX3lXYk5UcExYMkZQU0lIOW11ZDdzc2JDU1pTQ052SnhJ?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMjEtZjBLd3o3UVNSN0xfcFdCWkdkcjRFODEyQ3BvczZyNkM4d1VtQW15M2k3c0NnbUota3dRLXNpRUh4Nm9wbFdpbVVxc2M5Yk9nbGtTOUxFQkRUYmRMdkdvVjQzRmxxbk9fTW1DU0FBVXFWbHk4bzlQOGVvM0RYektoY2hvR0FyeU1Yc0pFc2gybmlGQ01qQ19qeE1HbGRtUmdFZGlNUEg5NEN5OWNLdFMwWERFbUFERnJFSlRNblU4bmlyOFE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

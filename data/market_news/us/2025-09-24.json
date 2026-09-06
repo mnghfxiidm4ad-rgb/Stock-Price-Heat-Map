@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-09-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,637.97",
+      "change": "-0.28%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,497.86",
+      "change": "-0.33%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,121.28",
+      "change": "-0.37%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stocks fall as dollar rises, gold falls with Fed rate path in question」と伝えた。",
+    "海外メディアは「Meet the Only S&P 500 Stock to Have Outperformed Nvidia Over the Past 5 Years」と伝えた。",
+    "海外メディアは「Markets sold off after Powell said six words investors don’t want to hear: ‘Equity prices are fairly highly valued’」と伝えた。",
+    "S&P 500は前日比-0.28%の6,637.97で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kbWdKUWEweElUOHdvUTdsRkl5ZUh0YWRsMzNrMHl6RnhUS2pKY0RmNHgtYXFQcFp2TGh6OVc4bmVWQkpSajg3Sjh5c3FKZ2E0VTBOc0N3blpTSllIMGN6WUFHVVZKOXo2MUluZW1nZ2Q2ankyR2ZveUd4NA?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTnE4aXRjMHRzQXNnZlVEM2ZNMW5uS1FMdzZBa2JUU3NHQlpDQkI2amlJWFk2ZGVUSVBCTzlQSFZBQmxONTJQUlpXMTByQy1TNHgwRWgxQW5TcU5OWFZLOWRwM0Jxc0lVQ0pZUGlFNHZHRTE2Q2FhUDc4eURUN0lTNTduZEJUc3U5VzAxeDRoTmE2U1Y0Q0ZtRg?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYktkSUtyclVRQ3QzaEd3Wll3Z01pLVp6QVg1dnljbHFwTHUxMkFFQUx1ZUN0YVlUQlZ4Tl9Jc0lBSjFia3hMQ1JfdE1oVFhFeER1bDNhdjFEQzN1Z05WMGp0LUk2QjFpUGdGaUcyS240alM2MGdpVmhhVVNxb3UweUxBOFpjbm1IanZaM1NXVEwtbHYwUjl5SFhNRmtCbFNWaUJ0d1dCTUJJLTQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:45+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

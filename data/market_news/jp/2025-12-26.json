@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,750.39",
+      "change": "+0.68%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "358.80",
+      "change": "+0.06%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.09",
+      "change": "-0.09"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "（まとめ）日経平均は342円高の50,750円で続伸 TOPIXは一時3,436ポイントで最高値更新。",
+    "円弱気論が拡大、日銀緩慢利上げや財政リスク－26年に165円予想も。",
+    "【NISA】2026年は｢オルカン｣や｢S&P500｣に負けない好成績を誇る｢日経平均高配当株50インデックス｣に注目！“日経平均5万円時代”のNISAの投資戦略を解説。",
+    "日経平均は前日比+0.68%の50,750.39円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9pOFNpZGlkRWFkOURvQnJxZHBMc2Nsb1FmRjFscXdPWmJ4ZTR5OWg5YXdiX1Vqbm5QczQ4by1wRmgtTUVuQUp0OFN2eDdzOFhZbkFfOdIBV0FVX3lxTFBwYk42bzdDOG5DUXBtVndlM1NCUTJVVi1wNlBLaVBDSTN4c0ZzaE9OUkFvejhUbWV2djhTZzdzS0lXYU0yaElhMW53LVhIbUF3Y0R3Q1dwZw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fV1lRdXdBV1Nib25MWk1FUHVESGJpMjd1LXYtdUJnZUQwT0VyT3BHczl6WUYyTXRDV3hjaF8xQkR1ZGwzR1NZMUc1aFJWbVFZVVVWOXNQMUVremFZRXZoX3J3eHBobG9wTzF3V0pDZFFiVHdMMGp3?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15YmZHWDNzaHVWTHVQaTMxTDhPSFRRNTBuS2VxN0l4NlptWTE0TkhVbk82UFo5VnVCLWt6N0xqMEtfTk9xSUVfN3ZQUHBUcnRQVzQ4?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:31+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

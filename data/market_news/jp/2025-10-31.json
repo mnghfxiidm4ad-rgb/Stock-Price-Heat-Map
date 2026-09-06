@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-31",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "52,411.34",
+      "change": "+2.12%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "349.20",
+      "change": "+0.98%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.90",
+      "change": "+1.18"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "日銀決定会合、政策金利据え置きは妥当なのか 利上げの決め手を解説 野村證券・美和卓。",
+    "日銀、早期の利上げ再開視野 米関税の懸念後退―賃上げの勢いを確認へ。",
+    "日経平均株価、10月7478円高 高市トレード・ハイテク株高で上げ幅最大。",
+    "日経平均は前日比+2.12%の52,411.34円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mRDd3MGtsY09jMFZHcHB5STZuejVtYUhkdkNFWDg1bHR5Zmxwd2NoQ0ctNHo0Ul9zVmdOUkQxRTRsSURBZjFDYTE4NTVFeV90UU1BaUZBV3ZMcWxMUWtr?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBla3doeDhiUEM4cE0zMGt4S1BQMUJISjJqU0trajgxSk1zVFNmZ3k1TjFKZEJVNXBxb2phT0pUT0gtamp5WVhUa2pVWVZnZFk2cG80YUV4YWpUTC1Yb0hqS2VvRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aUNweGwtZGQ5QUtiRUJXWlFwQlZJQ1ZCLURvbG9rTk9YcE1hV0FueWV4ODAteVpkM1d6WGphWlgtbXRUWUxhNHRXOXdUUmlLYUlIVm11N0pwWjJTVFJBZHY0OGFMSTFGQWlndw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:04+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

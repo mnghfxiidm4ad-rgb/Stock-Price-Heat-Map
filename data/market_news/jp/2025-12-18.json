@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,001.50",
+      "change": "-1.03%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "352.10",
+      "change": "-0.45%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.49",
+      "change": "+0.72"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "金利ある世界：日銀、26年以降も利上げ継続姿勢 引き上げ発表後は円安進む。",
+    "【市場概況】東京為替見通し＝円安進行も利上げ継続期待に警戒、本日から日銀金融政策決定会合。",
+    "日銀が利上げ決定 政策金利0.75%、30年ぶり高水準に。",
+    "日経平均は前日比-1.03%の49,001.50円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45TzRLZVRIc1ZHQ21RSlBuSzlqbTY1bGdILW1rQk1kdGk5T2RzSUhfWmZUSHo5Z0lXOUlXZWdMTUlhQzEzTS1yRmI2WmU4V2R0OVlVOWRMbnpSWVd3WEF6RXZ0MnRLU1JW?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84aDRLMHhCcGZ4RVAxOFVndkI5OHlfanQ4UllRTFRaTUYwRGc0NFhpLTg4RGFPdlJVX1FOWWw4akF2NEh2UFRoUWxqT010RDBoYVpUWWlHUllneDBzYm5RMVcwTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oZExsOHh3U0JUR3Rqdy1JZWowU3ZSVnpkdHBPUmU4cjQ2cFJERko0SWw3NFVwdzFBRldXVlA1TGhab3hfMVZqUklMajRQQk9LaU9VaXhnQjJPN0c0VnBlUkJFbjYxQkU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:27+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

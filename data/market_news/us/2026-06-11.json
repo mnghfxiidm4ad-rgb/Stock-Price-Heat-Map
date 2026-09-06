@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-11",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,394.30",
+      "change": "+1.75%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,809.66",
+      "change": "+2.54%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,848.75",
+      "change": "+1.86%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.46%",
+      "change": "-0.08"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「BMO raises S&P 500 year-end target citing ‘unprecedented’ earnings growth」と伝えた。",
+    "海外メディアは「S&P 500 rallies 1.7% for its biggest gain in 2 months on hopes for a US-Iran deal to get oil flowing again」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq, Dow Futures Climb As Historic SpaceX IPO Looms, Trump Hints Iran War May End: Why SNDK, ASTS, RDW, CRWV, RKLB Are Also Trending」と伝えた。",
+    "S&P 500は前日比+1.75%の7,394.30で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLU1lOXBfUDZoRjVUVFlTcDJiZGRPWEdWSkNrVDdPYWZnNThadTItM2MybU9CWWV6MXpDbFNNR0hPeVc0Nmw3SElpaHRZM19TWTZYemI5LUhnZFdhRWpiLWxUWXBLNkVDQmw5QlFRS2tjWmFFa3hfTGp5cUYxYldnRzJYNFhOOEJ3S2w4YmE1bEN1RW9aNVJqdmlXTFpjdWRZaEkyemE3bXpocUk?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONjk5X0V0a0hLLW5ZSW1jU0Q2aW1mNVlWYkg2ZHlmTnlZMG9xTEVrc0QwQVVlTUFkTF9zVmFxVVJWMXdtRVVxTXo2U3locmFUTkdvZnFtb2lGS3JqY2VYT3hkSm42ZmpTNTR5V2dzeWZ4czdzSi04a2lERGFJN04tOEhjRkRBX1BNczAta2FZcERVNWhTZ2t5YzA2VVVzcElQY2lMd2lkd3kxTGlBSEJxMkEtZkw2X281NE9DLVhjdHJ5STNmZVhvOXJuOHVlNEY0TWJtbFpValE4VEtpWkNVTF9TajhZWG1vck9SRjgzUjZPcy1YcWp4VUdNU2YwQkd4WDBjTmlVNTd0c2Jld05hbXZod3ZqT2F5Yk0xX2VhdHZmcnp0d3JCQw?oc=5",
+    "https://news.google.com/rss/articles/CBMiowJBVV95cUxNejNzc1p5dElmeFdlbmVBTlZWUl9vOUpsSEZlSktDRFJmai1sQUpudEZ0emJvR1pERXdWZDlHTHQwRmJySFp6OVJVWV9laFl4U0o5NkRwWnlpUG9FVlVvem5XUjZITWhUTkNIM3RTTG1NdlB1Q1ZyZlpFUjI3SFMwMXFOcUN5TmlSMS1OT2dBV3VhTG9tNVFiRi1CM0FEQUNKc0I1Q2J5MS1zSFpvQ3FfZkFQeTJIRUVvYUNKQWlvM3RzaDFsa3VfR19wMlpiUk1Wa3R1U1NiODZFVm5TaEU3UzVJM083UDU5R2xDZXZYLVJMRklxVUFnWFczN0F5a3k5Qy1wUkRibF9zQkRDSjBKUFN0enRFNTFfQ3R5TUt0enlUR1k?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:54+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

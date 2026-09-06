@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,420.10",
+      "change": "-1.21%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,021.66",
+      "change": "-1.34%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,492.55",
+      "change": "-0.98%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.46%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Slip As Fed Rate Uncertainty Lingers」と伝えた。",
+    "海外メディアは「Markets Look to Fed as Iran Deal Progress Eases Energy Fears and SpaceX Extends Rally: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「Warsh experiences worst 'Fed day' S&P 500 performance for a new chair since 1994」と伝えた。",
+    "S&P 500は前日比-1.21%の7,420.10で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaE44U0JKU1FVNm1KTG5xSmVqa2lxU0hfWW44aHFzcDVzMFNHZnRseW0tVFpSVHJDX3NyaGVId1UyaHBDTm1ad1h0Ul84MDU5Q0FXTnJTZTQ1b1p1Z1JVNHlvYlpwdkpTVWFRbTdrdThSLVhLMlNzSlVDN2dBMThEZzY5dm9ORFRTTTE2cTBuMFp1aHVzX2pEdzhGVlZINzREODFBUDRpeXZWMUVGU01RRHhyTTRXMGpRRGV0eDVnVE56RzFybGo0MkF4V2RxcmxRRmFyTURaMkdTZjVKZGM1MWEtMA?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeVhtbWpNZm41eEdqSWZYZUVNWm50UG9KVnA4a29Pd1o5LWg1Q191YTRIOUJXcXN0TXJZenRUTWFmeWNvdllKaVdIS2NndUpqb1BCeGlXSkk3ek1NYVRFMW90UmdTN0pDenRKOWotcFFncXhkN2Zva2ljbU5FeTJhZA?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE00ODdOSGsxSnVTeE9JOEo2b2JPdFo3R0kxa0paLVlZblA0aEw2XzhXMlNzTHhYSHRtSFJrRU05bzNycUFNRVFJR3R4bTZEYTM0ZmplYnNqeFMxaXNsekNwTHBPZHpZR0ZNN1dHVWNpamtLR1NaSUHSAXtBVV95cUxNTUZXN0ZiQ0RnZWM1S0p3SDc4LWRYc1NrY3czalp1TVNrZGNBQzBSMl9aR0tENkVoM1QxRnJnR1pYRmZ3bGJFWXI5cDJqcF9YVGtFWlRMdHRwaUtlTXp2bm93MVJwSENWckdFcG9EcDkwSzk2SnJ5ZUhUNUU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:57+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

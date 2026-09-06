@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "61,867.43",
+      "change": "+0.71%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "412.70",
+      "change": "-0.53%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "163.30",
+      "change": "-0.56"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "日銀、政策金利の据え置きを決定 基調物価の2％超えリスクに警戒感。",
+    "日経平均は続伸で寄り付く、1000円超高に上げ拡大 米半導体株高を好感。",
+    "マクロスコープ：日銀展望リポート、物価上振れ警戒 利上げ時期やペースは示唆せず。",
+    "日経平均は前日比+0.71%の61,867.43円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jOUNUaDNVdjROeWtzQ1h5OUdfZmN6UzZiWk14cVBBWkJoQU9VNEpZYjJuQXA0T3QyOU9wZVBsbmdRSVBoX2VoMThBTFBYRGVyUy1DQ2RsR285ejZWZ2pFbkZHd1VLQjJJUTNOcDlGS1RsXzkzREFwUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTGFuZ2w4YVFRbVFnUWI0VWNWMHpDaFFrLVZtaEJMWU5EZ2FnUC0wbGlPeFFzWnNWOUlzOVEyTXg0aElFeURDSEpvaDZjUmRYWWNNZ21hSUw1QldFak1HXzUxeFAtay0zb084ZEZEWnhmU01FRzBCeENHdjJLTElzZw?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EbUZJUm5yY3pvSlNTMFdBLXlnZ2xSLXVxeFhZOHhFbi12cXdmZDJLVE1NeWxyd1liTlAxb1pJNXJLYWpMaXVFUHk5STZ4YWRsZTBPRFA3ZHlqQ1RncjdVU25mS1ZhcVZLTEFSSXg5VFhTQ0ZBTERLTUNxU3IzQQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

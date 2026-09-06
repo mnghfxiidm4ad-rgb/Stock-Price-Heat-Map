@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-08-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,326.42",
+      "change": "-3.16%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "417.40",
+      "change": "-3.16%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.55",
+      "change": "+0.21"
+    }
+  },
+  "top_sectors": [
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "news_bullets": [
+    "【豪ドル円見通し】インフレ・金融政策・金利差をCheck! 豪ドル/円相場の今後を予想 2026年8月19日。",
+    "日経平均終値2134円安、AI・半導体株総崩れ 拭えぬ中東不安。",
+    "NYダウ、続落し116ドル安 中東不安や金利高止まりで売り。",
+    "日経平均は前日比-3.16%の65,326.42円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FaUhUbVNpdDFQMHhBY1I5MWFsb2x3WUlWR1VQcFppbnVNb25rdVdxZ1BqRTZuUFdmbVNGMzBGblRRY21aRG9uektLU2hRQVJ6R0NwM2hJWXkzZXNnV2RLeno2RQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pdzRPeXgzOXpFOWw5ZlBtNzd6WmRfd0c2dFpNTkN4dXpVTXBXWGFTMkNMMXFvQmgxaU9CZVNDQlo2NWdWa1RpV1dZQ2pOVEZmclBhdlRSSHdEd0pDa1h2Sm1VQmxyU2NFanVqdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE85RWw1SlVBV0FRWjJ3eWVzczVVQ0ZYMlBfVUxRbV8xRHJlOUFrLUZkdDJINmdWV0ZvRlo5YlhTZHpidXJManB1VGkzNGpuRnNRTktlVjItekNERnM2NUozbThYd1FPazdSbFBFLQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:21+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

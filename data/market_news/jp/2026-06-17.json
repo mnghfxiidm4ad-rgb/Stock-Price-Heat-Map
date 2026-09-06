@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,902.25",
+      "change": "+0.72%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "425.50",
+      "change": "+0.57%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.42",
+      "change": "+0.19"
+    }
+  },
+  "top_sectors": [
+    "機械",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "運輸・物流",
+    "不動産"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で160円台半ば｜日銀は市場予想通り政策金利を引き上げてドル円は円安で反応(2026年6月17日)。",
+    "FX/為替「ドル/円今日の予想｜FOMCでドル円は高値更新か」 外為どっとコム トゥデイ 2026年6月17日号。",
+    "日銀：植田総裁欠席ながら無難に利上げを消化。",
+    "日経平均は前日比+0.72%の69,902.25円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE11UnVCMkwybmFiVVJNb19fVFFTV0hVYnpfTGp1Y0hEeDhWV21vX29Cd3JScmt1N1hBbkk5Rk0xR3J6dVd4VlZaVzJtdnlxbFNjZkRqbmdjNE1RM0dXa2Etak5NX3plVWhtTmVNSi1kQXlhQ2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jdkFsY3JMRVJTak5ibVB4bHdPdjFMUlhKN1FJTzIyQnBZLUx2ZnRIWVpSX3MtMU5NenFLYnQ2SktzeVVYcTJIRy1kaWRJclNtNjRzUUxmemU3R3VfT3JGZTA3VQ?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqN2h5SWFwREE3ZF9xeDRzTWMzWVVDZUpxMXYxa1BRVFZ4b2pQSTN2c29FOHAyRDh6SXJoU2xLLWtlbGp1ZXY5ZEpHY1RmeVFsMlJQOWd1dGx3RFRTd0xqcjB0Sy1kcm43VHFjSzZlamR2Mk5YRC10Yl9nYkZ5Zzg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:49+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

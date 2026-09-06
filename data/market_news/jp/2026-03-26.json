@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-03-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,603.65",
+      "change": "-0.27%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "382.60",
+      "change": "-0.26%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.38",
+      "change": "+0.67"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で110円台後半｜豪州CPIは市場予想よりも低い(2026年3月26日)。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円台半ば｜有事のドル買いが続く(2026年3月26日)。",
+    "日経平均株価3日ぶり反落、終値は145円安の5万3603円。",
+    "日経平均は前日比-0.27%の53,603.65円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYbVF4MkZtM0xiazdfbVo5TkJQdnNuRHNLOVIycVJQeEIzdUVmZ2VLS1p3OW51TnhhdGR1aU1WeVB3Vi1rOUVWempmdS0zQ3dTSzFNMDJ6UTEweU9QWEVJdEp6QmJQcHEzbk9qQ29aeEIwanM?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlbm5IVm9JYVFkQTZlQWU2R003ZmRRbk1FU29uT0tQZVN5cTRnbUtQdExPckNwNV84TjVLdUdSc1BVeUt2dDR2UGxpOXhRdi1UWFNkRGtoRlN1Tzc5UUdhR05GOWw1UjY0NC0xMmhIbjJsZG8?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhZmszNjh3RGx4Sk5feVl2alFFX2tXSW1ISFJnMW0yMmRRc0FHcEpCMElweU42MG41eC0xOEo1cHozNVZrZEtuV0k4X3QyTVFEbmNmM2pBSTYtUDhPemdIYUVfbVRqaDg3RElHeg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

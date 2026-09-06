@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,358.22",
+      "change": "-0.10%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,476.64",
+      "change": "-0.43%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,848.90",
+      "change": "+0.35%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.40%",
+      "change": "-0.09"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Gains 182, Nasdaq Falls 110, S&P 500 Loses 7」と伝えた。",
+    "海外メディアは「JPMorgan raises S&P 500 target to 7,800, says earnings revision ’unprecedented’」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq futures tick up as tech steadies, Micron earnings eyed」と伝えた。",
+    "S&P 500は前日比-0.10%の7,358.22で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb1JNMjd3a3Z3enRoTXp5NzRIZnJ3VXJ6eHozT1loZTkwaVdkQVIxVDJFREE5Ync1ckFwbjhwR1RlWjlFMHM4QzJnWm55a2pmREtfTVU2NDByLXFNUFhBVTh6cVQ5V2VKbFJ4Ry0zUWt5TC1INHhTclpmSjhfQzFDLUE5NTMyUTRKeGg3cElvWmg?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY290VHI3Q3JMdnUyUENqbzQyVzQzN0xqS0hqdnNXQ1VkdmM1a3BpdHlrODJkWlhEX2lwd3hXV04tZHJDbFRUS0dqQlQtSVY0aFoya3V2dWRsdjN3VDVtV0R4QmdLdXQyQVNHRkItRE5kajd2eC1wY2owYVZfaml1aHVMR0xwbGx6dDF2NnBoTnZTUUdrcWJ3Rk5lOFVsQWpzQldNS3Q1RmtWc3U3V291N3YyM01peklCYVNPSzlDR25FZw?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaHY2c3QxQXFjNWpReWN0Vmh6V0ZJMi1tT2haRFNiTDZQMnk1cXl0b1VfSV9KRENweWxYeE54ZjhtQnZ3dWIyZWtFOFR4dnE4U2lUQ3JQY3U2b19jb0k4WEw0TnlHNjFKOXNSYTF5Xy05amdfS3VXZFRqWVlVNUppZk9XMnRnMXR4a3E2QXVXMnVmOGQ3VkZLcUdOMkN2UElVdEJsZVhSRTNPWFN3N0MtOHROMjZZSmxPTFJxSHhR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:00+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

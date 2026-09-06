@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,624.70",
+      "change": "-1.36%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,152.42",
+      "change": "-1.46%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,225.15",
+      "change": "-1.63%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.26%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 loses some ground as Fed Chair Powell speaks, last down about 0.87%」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500, Dow Jones, And Nasdaq Sink Over 1% On Fed's Decision To Hold Rate Steady」と伝えた。",
+    "海外メディアは「Today's Market: Dow Drops 400 Points, S&P 500 and Nasdaq Fall 0.5% Ahead of Fed Decision」と伝えた。",
+    "S&P 500は前日比-1.36%の6,624.70で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWkdrMEg3ZEZYLU1NQXV6RW8td0cwTHFUUkZmMjFsT1JxTjNPS0x0SURyNHdzS0ozdkNYVk55Z1UyZUZDemxqLWppZ3FkNDVHbEtUOUdPejYwT2pobmlxVmtOTE1xT0xBNl9xMEQwUEZWUUZxeXotd2ZtcTZqU0tsVFBQaDhSUzU0Snphd3V4NjdkWTJUTGVVOE5EVk00aEJOdHJ3TjBrSEtmSl9WTEd6V1ZSZk1Zd1FCYUJBWkp0czRoUWZ2?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVzVELTRSWENTZXIzWURYM3B1Mko4b25WTVptZHZxNy01WXBhRlAwOVBoTGxZaEh6WHMzRnVQNDdacHVuT0JfbEgyei1SQVgwMnppWU9jWDhuVk1ic1VCd3QzczBpLThVZzFTTk9ZTzZGeTE3bUxHS2Mxd1FKa3FPdWpaT2MxWUNjYTI1eGZUU1hVczZMdjVyTWJVLXNIRDlCOXZ4YmhwZ3lVZVd5VjUzWktTRFl6clhXdHpfdHIyRjBVQ0NROXfSAc4BQVVfeXFMUHJhT1BGVXpfN2xYc0ZoWjJIclNWUElFYVdXbjZDMmY5dzFXYzlCcy1taS11V0x4Q3RyNmptWnMwZlNpLTlmWEV1RWNmMVdHZnpRMzdiT0xlQWJrZEY3cGNRZ2l3bDBNTkQxQVdlVzB1RkxVLWxSbWNrdjlzaExXc1BXRF9xQzluYTRYWEhxSEtERnVsbkhkX0x5ZERsb0VOYXppcUtxdWVEY29LS0txLWJUOVRIN0pMeXVOYzkzX18yVUVFaFhBYjU1MUx5ZXc?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaXc3VGhiLUtjVlE3Zlk3WW5hVnpVMTV0b3VuWmNkQ0dnZ2dIMGJqaXE2dWJCUGNOY0FrVFpwd3R4eHVacTdYa0pMY3R1cS1MOUpWTU9qempZOU5STUVXVWptOTZyVnRXRWlNSzk0dUk4T2FKR1lVdVdRQ2hVWmNiamZHci04SGExaGFpMmgyd1dTWGI4cWlMVnRvUUpiRTBlWVpTVm1nMFBFWVEtSWpDZEpjTEZkMElKQVNSNkFwdFNRR2lNS0J1WlhkTFRKSEE2dkNUMlFJSV9Lb3Z5bEE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,365.46",
+      "change": "-1.44%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,587.04",
+      "change": "-2.21%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,666.84",
+      "change": "-0.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.49%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P, Nasdaq end lower on semiconductor selloff, AI spending concerns」と伝えた。",
+    "海外メディアは「SpaceX Extends Slide as Tech Stocks Retreat and Investors Reassess AI Spending: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「US Stock Market Today: S&P 500 Futures Ease As Traders Eye PCE Inflation Data」と伝えた。",
+    "S&P 500は前日比-1.44%の7,365.46で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmdjSzdjcTZLWHNHRU5aWG1Vel9pMEN3eXM1cDU5UFo4cDM3V3ExeVVOWjlpNF9PVzAwVVM2SGJXdm94S0RBS28zNGVOYnhhbTctMHU4S0lNYjBiSno4YzNOei1CcEZCc3VMMHFBSGpteWdMYXdRUExxeFlJaVdKWnR2QzRtclVfMjMxLUNwM3ZLaVBYaEJoOUQwZG4xa3F5TjNFQWNjQUtxUHpFaHpMOWY2NG5vVUt6bnZsWmc3V2NGTmFzMFgw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2JteEkxaE5iX1NQVmJCS2czVjZzV3F5akFjOE1RRGdJWGhRUVBGN0JabmxKVXRGN2Y4dGRPMXktYlRPd003bzdnNG5Pd0VYSGlYcGJycHZaV2kyYzNISVRVVDFZSGFKQ2I1VU43RVJzQUk5MVZfM2dHWXdlcU1fdzdQU2RiaFJO?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUVxNFRvdUUzalVfTm1EbXgxNExVSUI0SGJxT09oSEJLT1oxNjBFbVlGQWlXdjJiNzRPb0Q1aEJwOVFvbG84T1dDUHdoRXF4Qnh6djhhUVo2RDdiaEtqQ0NKejJ3QVVKeVpBRkFaWnVSUmhja3pGRmZVWFJaYkdCN0RqeVVwRU1DbENlSG1QSjJtUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:59+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

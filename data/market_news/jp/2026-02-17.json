@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-02-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,566.49",
+      "change": "-0.42%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "395.20",
+      "change": "-0.73%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.61",
+      "change": "+0.83"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "建設・資材"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "機械"
+  ],
+  "news_bullets": [
+    "高市首相と会談、植田日銀総裁「一般的な経済・金融情勢の意見交換」。",
+    "高市首相、植田日銀総裁と会談 衆院選後初、経済・金融情勢巡り。",
+    "日経平均株価5日ぶり反発、終値は577円高の5万7143円。",
+    "日経平均は前日比-0.42%の56,566.49円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMFVvZE1iaEIxVkwyWkJsekZkQjhTb3pLLVluMml0TGFFTDVpQjJzNE1DNzVRaTRJanFMQW1seXJkaXZTYjlwVF8xT3M1RnBfSXZheUViRUY1cDh4RlpRdFJjbXZkNGd3eUs3MHRsa3dsbGdjSndWSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aV0l4VHVEWmRER3FaT3YtRC1zaG95UVdMZ2JKYm4zUzhyVTVDYWVGT1BPZ3Q3NWNqYTU3SWZqc21qRDloREtpTzJNWUttWDRCcERGa3VIeEY5dVZtaXdIREZ2QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WYlpSRDA4ZDdyVXFid0d4ZEpndnlYZzVXLWhabVpQMlRjZG91SE1SZDhzaVNZRk1IRXlOUWJfRmN6M0ltY2dWbFRucWQ3ZlRxVlhMZGZVWkd1SW1pTElDekNhUTV4VXFQTEJDQg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:54+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

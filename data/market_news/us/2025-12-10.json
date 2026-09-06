@@ -1,0 +1,46 @@
+{
+  "market": "US",
+  "date": "2025-12-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,886.68",
+      "change": "+0.67%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,654.15",
+      "change": "+0.33%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,057.75",
+      "change": "+1.05%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.16%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "公益事業"
+  ],
+  "news_bullets": [
+    "S&P 500は前日比+0.67%の6,886.68で上昇して取引を終えた。",
+    "NASDAQは+0.33%、NYダウは+1.05%だった。",
+    "素材、資本財セクターが上昇率上位となった。",
+    "公益事業セクターは軟調だった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3MxNkZkT3B6QW1xRC15N2g5TVVjMmFEWmwwQl9HcERtQldCdHhwdU1yUEJVaklIOUY0VkZOMEYyOWt5Vi1VYUk1Z2s1d0h0SVFGOXVPdWFLS1kwY1o3X2tlam5JT08wRWRfNFN4WUJJdkptbXRHWXZ1Y1l1Nmd5d1NKNjBqWkhORGhjMWEzYkl0cUlxOFpCTWZpNkNaTkx1QXFrODdPZ05weERsR3JWbkpKVEpYSGJ3UmoyT2tVWENiOGxsZFFyTFFR?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMDZWX0llQWFnbXRZMGdKZ2JEQVFBbTV1c08xYTUyUlp5OFE5TVdTclpOb3E1V19DOVVuVDhKMkN5Umo4RkxtODdGM2VxMnVxdWJHSFZWNGNLUkZETkF6N2JhX3VDS3d0Y2tJRnJaQmYybGVzS2J3RzYyeThGY3VDUzYxSnZTcVFYRmNIaVpKSEtoLVJqcFI5TVktY0Fodzl5V3V3Vg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:38+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

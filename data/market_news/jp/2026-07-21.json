@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-21",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,232.19",
+      "change": "+3.26%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "418.30",
+      "change": "+2.55%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.49",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "機械",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "小売"
+  ],
+  "news_bullets": [
+    "NYダウ反発で開始、一時300ドル高 AIや半導体関連株に買い。",
+    "日経平均終値2091円高、中国AIショック一服 米ハイテク株に慎重論。",
+    "（まとめ）日経平均は2,091円高の66,232円で大幅反発 半導体株に買い戻し。",
+    "日経平均は前日比+3.26%の66,232.19円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZEZENTFpdDFCam1nSEg1RFZVa3o0Z3p1YmNlam5oU3QwT1Y1c3dUVk1rMHcyV3FCSjVEZWNuQkZMOXV3TVZOeXlQaU5aMS1sNFB5clhFZlBaZnZYYlQtYkpCMjRvUm1fR3RiVA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQWlVJbWNvZllyb2VsbGFRTndGTkwxSEE2UXB4VkhNRk4wX2t2U1llaEdpaWdMaG1Ubm1XaVdyYkpjZmFIaFdOYV9Ibk12VGhNME1IeU4yb2F2WHNTTURRMW8zM2oyV1Q1bHZqcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TbWtFMVU3eXRablk2RGx4bExYR2VGVUUxWHNsX2RPVVVVcGZvUlZkNnBiSjFYYmkwY2t6VWFHYjBrRlUySEYySi1ZZDhJRTFHaGRJctIBV0FVX3lxTE90M05vLVFQanVucGdjVEdpbHRQb3piQmV5ZE4wQmlweEIyQzM1VVIwZndSRjE2N2RuT0dzY3FSNkNxcWtDTm11bjBDeF9OZUVkUHRocG9law?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:06+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

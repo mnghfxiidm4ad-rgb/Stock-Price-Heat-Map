@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-06-22",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "72,353.96",
+      "change": "+1.55%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "434.50",
+      "change": "+1.12%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.43",
+      "change": "+0.14"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "日経平均7万円超え。AI半導体ブーム、原油下落など7つの追い風（窪田真之）。",
+    "日経平均株価7万円台半ばを意識 大手半導体・電子部品企業向けに納入している企業に注目 野村證券ストラテジストが解説。",
+    "【日本株】日経平均に負けていない？東証グロース250指数構成銘柄で好調な15銘柄。",
+    "日経平均は前日比+1.55%の72,353.96円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYVGtiLXZLOTI5VTJwMFk0RFFPT3Q2UVk3eW5ZTUZGRERWSDJRVEtuQWF5ZHk0SVhzOTkwM0ZmX19QbzBraHR1R09MWnRxZ2dqaGQ2RVl0UUlWUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tSjBwWTMxVXRNMWJla1NGUzdBM3lpdjhsUUk5WFVZUWZZOXJZak96TnpnSU9kdVZiMjZ4dWdDMmVaRW5qSGs3QkdxR3lBZ3g1VVczc3BreXRtdElsemV3?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KTGNIbVN3UU9FQmlleHZHT095UTZoaWJsNk1NTnUxR0hUZmE3OWJTUE8wNm43WmhFU0hUZnVNVktrdER2OHFRajBjTkQ3ejhFd1l4a9IBV0FVX3lxTE16dzlXTEN6YlBFYThKcjRkMlQ4WU9mZUFQZlctdTJOWXJ1d0x4U0FKZFdsQ0lFMU5ZZmtuYXE5Nm83MjM4STE2N2d4YWJmQW8zQkY5d01Oaw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:51+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,572.40",
+      "change": "+0.38%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,269.23",
+      "change": "+0.62%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,658.64",
+      "change": "+0.29%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.55%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500 Futures Edge Higher As Record Bank Earnings, Cooling Inflation Lift Risk Appetite: ASTS, ATAI, AAPL, PYPL in Focus」と伝えた。",
+    "海外メディアは「S&P 500, Dow Edge Higher As Bank Earnings Offset Middle East Oil Concerns — AAPL, SKHY, ASML, PYPL In Focus」と伝えた。",
+    "海外メディアは「U.S. markets look higher as softer inflation and ASML results lift sentiment: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "S&P 500は前日比+0.38%の7,572.40で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNUtRN3FGa2RSU0xKejhtVUVWT1F6RVczOEFROWZXcWxCUFJQUXlqc3B3UjBjZ0F6MTJQcU5CdUliLXUtRnFzUzhEdTFKdWZOMW03eTJ4LVNXVmNadUJjdTNFRURKWEU5X0tsUzZTMEZGY2RzSFN5aWlZd0xFVkM0RUIzSnpHWEZkeXRxTEpXRmg3TU82OVFURjU4UWpEN0JDeF92QnhzSElVSnFTdUtiNEpiU3hFakpVRVRkQnNabk1ndkl3emUyM2xoamhTV2xjbThSdmdXd254Y1F0elJaRUJWZEw1VlVzYWx6c3BrTE9TT1YzX1pWWjAtS2JuY2RpYXlqTXVrM280T3lHSnF3SHVOallwWk03?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM1o0bVp5RXBkQlVGWWJQcjRKemM5WWJHeXRyX00wUnhiSVFvTUFmNTdfa2ZzbFFuZXNZUUpHMWkzUEE3dmVMVE8tTlJkT3c3Q2hWZjBUWHhOc2hQT0hHYkdCdTFOY1dLUk1qWG1nY0gwLU5KLUZwLW9QNUJtSzNjVEo1X1hDWkxscTRBRUx6MA?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDFlTFp1MmphWmRRM0pzRmdtZ1VjX0NwVWI0dWhEWHcxSzBDXzcyTGV3ZzA2REtKSWh6RmZxbG9XZDdULWFUaldyRjlnMndHd3NRTjNaWVhwaXk2cm5YVlllRXhPcVRXWVNQZVJGNm9pSmlTZEtMLWVST0xuQXlzOTdVeVBVaUFYV3hHaWwxbVY3bXVNTDBScw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:10+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-11-05",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,212.27",
+      "change": "-2.50%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "342.60",
+      "change": "-1.35%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.56",
+      "change": "-0.65"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "｢半導体＆造船｣の2大テーマ､今期最高益に期待の商社株。",
+    "日経平均は前日比-2.50%の50,212.27円で下落して取引を終えた。",
+    "商社・卸売、運輸・物流セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13QzhfdVJHZV9Bbk9NZkY2c29XN29haUg1N1l4RFlfOGN5UzFsX1JYdjY1NjZBM3o0RllhX2x5bzZ3Wk00eGRpU0JhUlVkV1lCQlZzUFAzbw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:05+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

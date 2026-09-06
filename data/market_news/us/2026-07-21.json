@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-07-21",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,509.20",
+      "change": "+0.89%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,837.21",
+      "change": "+1.29%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,224.64",
+      "change": "+0.74%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.63%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq, Dow Futures Ease As Oil Rally Tempers AI Optimism Ahead of Big Tech Earnings: SMCI, OKLO, XE, SKHY, GOOG In Focus」と伝えた。",
+    "海外メディアは「US futures rise as Middle East tensions and AI earnings dominate investor focus: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Dow Gains 385, Nasdaq Climbs 329, S&P 500 Rises 66」と伝えた。",
+    "S&P 500は前日比+0.89%の7,509.20で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimwJBVV95cUxOcW1ickhkejdXR1Fmd29RdGplOE0yTEc4WVl4UnI5RlpodlVGUHVyQkwzdmZ1cjA1cFhxZDVRaTBWWHo0MjlCSmYxNi1DTzdqOWhSUkVjcHZ5LXV2ZTdzbEpsTU5yb19SVENQM25Lam5hNE1ULXdTVkFOQVBoeHR2aFcyNHlwRUp1Q1pVN1NBTmk3a0N1SEtscXV6QmJCOXIxSVpZekx1R3hTMWtaeS0zd0tmTTZnejNVQ1R6UHRvb2RUNUVQcHJadDJLWF9KT2NfUWRiR2pZYXRUOXhzc0VQSC1SRV9yb1hIckhNdUQ5RWpZVUJlN1NSTVZmTlNFbVRzTVRTeHB5YVhzODZ1d3BsWFA2UUkxLUJQaVZn?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUUk4dnJ1Z0lWSlVLVmQ0elRqQlFhOFk2cGhMZ2YxV082dFJnMkxTX2lIcXdwT2F4cDJIeE9Id3prbWJXdzVSYTRielBXajZ6TTE2N2NXUUtiV05ObnVWV3F5RTZyQjhDdnFWRTBaak8zcmxhOVhWUXlDYnJUaTF1YXh6N1YxTnNLYkNHbm5GVWRVZ0ozSy1z?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG5wcW50RkVHNFVEVXo5WFFBYXNnZ0FEam90eHVGNi1jRlFrNmVIZEFmenZTMVpnVjJVMy1LRExubVAwSlZuWVBUTEZNbDRNeF9ST01WZS1fNjdjc2E4ejhYQVIzZ3hFTThDYUdrXzRLa29xM19UbnRaaS15S1JlWEpKNnpYbFI3d25Zc2kwVHB0MDQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:14+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

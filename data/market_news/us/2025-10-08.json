@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-10-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,753.72",
+      "change": "+0.58%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,043.38",
+      "change": "+1.12%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,601.78",
+      "change": "-0.00%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.13%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: S&P 500 gains 0.6%, Dow rises 0.4%, NASDAQ gains 0.9%, Gold climbs 1.5%」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq end higher as tech strength outweighs Fed concerns」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Continue to Grind Back and Forth in Premarket」と伝えた。",
+    "S&P 500は前日比+0.58%の6,753.72で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOVhZTzUwSkFTdEVFRFF1d24xb2loWEdmT3MzU1BVWFRxdHNvNkYtYXlOa0FPZEJIS1ZoX3lMOEotSTBJRFpWOXlOaVNzN3kwYl8xcUJoSUhKenJlNlJtV2g1MC1VeUFpZ0pFQmZTTl9LdEZMNEt2NkNuV0RRYzJPY2V4Qm8tVTExYll1TnpkLVkzYkRXSV85WjZ1SmdYLTJLd2lEdWFJVTRqanVkTTAtVUJpZHYwLWcxWHVyVVlR0gHLAUFVX3lxTE1SUHJMMXEzRkVIdFhQQzZ6THZDd2FfSElBYURCdXczbUhBUEdvZk5IcERyWnhyWXEtZDVfS3dIQ0kzMWFrMjN4TlVGemhReDRHa2llRk00ZHVHUDAxY0pxTWdDRTNkSnRPaG5TdF9LM3FhNWx2WVBFdUdmcHZYR2tDSUVrLUw1dW5BbWRBcHM3U1V0WDlPcll1NjRhNDBPRU9CSzFYeF9MT3RhRUV0VTBIZ1VTelBXbEFsazFISUZWSmJtVG5UcVRwdEQ4?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3lHWFhyVWhKSjN5QnhRY2ZLS0dJRExVb3VKcW91eHJpNlc3b0kzdHhnemN6dnEtTndxWlduZmZjNzkzUGRaNFJGb1BSXzlKR1N2eklpVFVyQU5qSEVhb0N4aFZVOXJJNFdTOTJJSnNrRFhzTzRfTlpSLWpzbDQ5ZkZPUEZhZkVhTGZBNXZjQnBCTVdBSjMxczhRb1VDcVUxdEpiVFlOZmdRdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYm40ZWxReTdBT1ZUQXZOcGxsM0dGdjdJRV94ZFo4SVdyOW5qUl9Eck5TbzlORGQ5SFU2dE9tZXoxS3c2WUJ3bGNvd1JLd0Q0c0pMemhrdmZEWFZUU1FMc1IyNUc1dlRGWS1jV3UyNldiSGRmaVBKRkRMVTVlV2M4S09rc0RuQU0wczZhQ01ZOGVmQkoteEdHalRtbGdOcy1pSnhMQ1ZlcWRNSXZyRE55dFVOdUJBZWFsWFFXdVZsMmdqaHJYbkJLdFNEd1E1ZnVueG9pdXkzSENlYjJ3YW1WUnU5cElWUQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

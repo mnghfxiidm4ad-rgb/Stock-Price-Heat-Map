@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-23",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,140.23",
+      "change": "-0.75%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "393.60",
+      "change": "-0.83%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.49",
+      "change": "+0.12"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "ドル円、日銀決定会合後の円安急進も 159円 為替介入で波乱か。",
+    "日経平均株価が初の一時6万円台 AI一点集中、国内外で半導体好決算。",
+    "日銀利上げ「早くて6月」か、中東情勢の不透明継続で4月決定会合は政策金利据え置きへ。",
+    "日経平均は前日比-0.75%の59,140.23円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXpDVXh6c3U2OUxPYWtzaWl6ck82QW55dU82cThwSjRuTjA2OU1mb1ZkR3EwVlNqa2Roc0YwQWx6YmktakMzemc1eUFNYnhsVFd0b3h4ajhKbXNLZW9TVlhUMzFtQVI3ZktvakhFTFJBV0h4dzBnSENfdk5US2Z0M0xqQ3l5S3FHeEpjVVJpbmJtZ3AtWE12SkNLaFVMeEU1QmhUM0oxa2dKX0RTOFozdUdR?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWQVY1bkN5WWRyaWtzaGxVQVNBQ08xTTVHME1ZTGo0RFhZZWdwM3QydkFsdU9QVktEOTYteERObHFSSFZVbUVnWmNpMndwOFdEZndLajlZa2ZRSUVfbDAyZlhXWFZmMC02dkp5YQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BcTJXZzZFTzFPbUpNZ0VfYjFlUkZEd2FndjF5X1J5dzRjN283emJpc0FlZ1hHcDZzdVlWN05wdHl3dkpqUWcxWFJQQkrSAU9BVV95cUxNY2l2RE1nTW8yMWVJOFh0NmNRaW9FaU5va1F4Y1VIZjdrblF1ZGxJVktfM3gzeVRrSW9JVlZBUTYzODExUWYwbDhYMVlMNzZz?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:25+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

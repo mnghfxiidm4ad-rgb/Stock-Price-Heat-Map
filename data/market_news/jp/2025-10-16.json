@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "48,277.74",
+      "change": "+1.27%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "335.50",
+      "change": "+0.39%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "150.97",
+      "change": "-0.76"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "商社・卸売",
+    "食品"
+  ],
+  "news_bullets": [
+    "日経平均株価605円高 欧米の半導体株高が連鎖、高市トレード再開。",
+    "日銀・田村委員「円安は物価の上振れリスク増大」 早期利上げに意欲。",
+    "日銀・田村委員 2％目標実現「前倒しの可能性」 追加利上げ姿勢維持。",
+    "日経平均は前日比+1.27%の48,277.74円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ic2tiam96dlRfQUNfc2RfQ0Vsa3JyZ1NndWVlXzBxZ2hscXFwb05TYk5Eb0NTb0tpRzZWWlhRTTlRUjMydzVmZWFWN2ZwZ0dKRXdiX1FQcHlFeDI1WVU5VlB3OXlEbmxLYXh3TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4M2JNNklSenNwUmNndE1oQ0o3ZmY2WVVPdXhNNkdRSlpPaWpWdEJrZVhPemFQTUdoSTFWYVFqSE9DMVFTRWthRUxIbURPVW41eE1lcE8yQUpGVVdkMUhDblllNGxPV3lCcUZxbA?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94OU4yMmRaemF4cURtOXR1WExLdnR2RXZQbngxMXNhdlJOWmpsbGFWZ0V0Q28wbFZibVZQNG1RRWdPZllTcXRBVWloNkF3R2lqRTNDQWF3?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

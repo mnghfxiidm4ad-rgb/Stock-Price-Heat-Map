@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-03-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "54,248.39",
+      "change": "+2.88%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "384.70",
+      "change": "+2.48%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.85",
+      "change": "-0.58"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "食品"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で111円台半ば｜中東情勢に関してG7財務相会合が開催される(2026年3月10日)。",
+    "午前の日経平均は続伸、5万5000円回復 原油上昇一服やＡＩ懸念緩和で。",
+    "日経平均は続伸で寄り付く、5万5000円を回復 半導体株高い。",
+    "日経平均は前日比+2.88%の54,248.39円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE94WGdpQkwyZWxEWGlDNklCQ1k3YkdCWjN1c0UtOU5GREtRVTlBTDRDWUxXdHZLRXRfSWJpbEhvMl9IbzMzRWpFRUQ5ZEdub1hJX1d4RnRJMXpyT0dNbEM5WGUwVGx6dmRQZXdSaGhyYzM4TUE?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcXFia0ZJS2ZTSGlBanNLSDhTMmhPWldiVk4xNWxLc19iRmpOMnQ0WW5ubkRkdlh2bGtHYm5sQ0g3bkExM0JCVHdiYTQyX1QwbGtWYmhCb01uWUQta3lCemkzdHFhMlZDMldPdVZaa1Y1Z0YwQWYyYkxCODhtQjZ6bQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSVZYamRpeHJNVFB1a3o0aldKV1k4MDlscmttMHgyYVFnSlMwdURvLV9SUldENmRsQUJ6dWItVlF0SXRZdEwzWjVKLVp1TmVvOGNWck93ZWd0OHlyb0dmOFh3SVExcHo4Yk9lSVVRZ2lESDUzVnI4LVNveWJnVDRoeg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:03+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

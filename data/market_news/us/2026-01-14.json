@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,926.60",
+      "change": "-0.53%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,471.75",
+      "change": "-1.00%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,149.63",
+      "change": "-0.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.14%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Tumble Ahead Of SC Ruling On Trump's Tariffs」と伝えた。",
+    "海外メディアは「Dow Dips 42, Nasdaq Falls 238, S&P 500 Loses 37」と伝えた。",
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Continue to See Choppiness」と伝えた。",
+    "S&P 500は前日比-0.53%の6,926.60で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZVlrMDBBNS0yS1FSNnhWS1hKZW5lcXhFRFZFTkM0bDAtb2ZJT3J2MHZNbVlvVEZmdnFhV0JPRlJqeVZ4TnRWR21kQkVpV2VaOWFxWGt6REk1R1E2QjVYNGJTRGxJS2NwRFNhOTJaWDFRSmxQWmdZYVJ4UDVuc1g5d0dfanFnUU5YZDExbG5pQU0tZFBFVXlURGNrNWM4VFozaWhHYTdod0xzVk5TX2VBVGNEY2loZWpCWjgwQnJ1QVlOa0pzTTFGMjYtTUtqSjE3VVljQWo1d0RudDl4b0ZfNm1KYmF0cjNKYmJVQ081UW0yLUlpZkJsUUlWRnY5MnRxbC0xMjNydjBtbGFxc25KdVQtam80dzJ6TlE?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVG9RNHJMbTVYdnFhTFpKYUdNVEhmYXBYdkwwOFdTTzVveFB4Q05uYjhYeTR1RE1IZk5xN0U1dnFoWFVuS05QalJVNHJDVHRCOGtsaHJ6bl9DYUdHdHlkcmhBYnhOcjRoSkRrLW1iVXZRWmFaX1VNSFJ6WGlFbHA4VEZnOGI4Q0lobDgzWlJsTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTEhuaG9BQy1SZmswZGh3Z3VGYlBLbWJsZFliclpLTUFQVnRqT0VGS1VCcVVPUUtXZHd0U3VaTzFEd1R6bjBmTHFTRzZ1R3ZEVTlEclc4S29VcVJ3MGVVeHVKMmhuaV9CZkhSZ0dQSU1haHp6Q3lCcGQ4SmhnLUpKNW13OURqOEExeHd6bVpGTWdHOWc5M1g1UWdFdlp5SDE0Ukp2Y1diWVFzZW9sZjN5Z3ktY2FKREc4N21qTVdiVjNVWnVIdmpYcWVGMWU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:40+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

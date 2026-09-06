@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "47,950.88",
+      "change": "+0.01%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "338.30",
+      "change": "-0.06%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "150.33",
+      "change": "+0.72"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "コラム：米国経済次第の日銀利上げ、中立金利が意外に高くなる可能性＝門間一夫氏。",
+    "シカゴ日経平均先物 大取終値比 395円高 （10月6日）。",
+    "中国半導体ホライズン、日系自動車がインドで初採用 ADAS向け。",
+    "日経平均は前日比+0.01%の47,950.88円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFE3SlFnVkNSc3dibWROOS1XM1pqdEV0b09hZ3huUGQ2d202b1p0d0F1MnV2SnJhR04zdnltQVIyUThwb29iSEgtclhpTlpCeGh0RmVFS29xcTc1bHkzZXJ2QnZVdEoxYmo5dHJYNDRBVTVTU1MwSW5SSndZRkhHUzByVE4zelBQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NWVZ4WGdhNlRoVGlYWVhFNnRyOXAtYXlTaDlhaW1nOEZDS28za1l1VnY5RVZMcnVaQVF1TlBDemowZE90a2VVVkJoUmhRaFUwTkNQUzNZdEtFbzFCRXJMMA?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vamNHUnF0MXpSZlh3dFZDbmhGMVlCdTE2aC1KNU9xWG5rbndoVURYbG9BRDhnZWxROUZlNjRzSXU0RXBmMGMteXV1NzlHQUE2SG96X3VFSFpVbUxLM3AwZEtFUVh6a1k?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:52+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

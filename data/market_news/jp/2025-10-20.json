@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "49,185.50",
+      "change": "+3.37%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "340.00",
+      "change": "+2.29%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "150.90",
+      "change": "+0.78"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "食品",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "【元日銀理事の為替予想】ドル円150円で横ばいが本命か！？高市トレードで日経平均株価はバブルぎみ？ /円安方向にバイアス/門間一夫氏が徹底解説 2025年10月20日 #ドル円相場見通し。",
+    "米国株SP500、日経平均、ゴールド(金)、原油のCFDのテクニカル分析見通し 2025/10/20〜10/24 中国GDPを前に日経平均とSP500は利下げ期待が支え、金は安全資産需要で堅調、需要減速懸念が重しのWTI原油は軟調な展開か。",
+    "日経平均株価が大幅反発、終値1603円高の4万9185円 最高値。",
+    "日経平均は前日比+3.37%の49,185.50円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zcHhDWmxTelljaXZpMUI3eVo1QkthMlZKVGp3a2RkNEVJd3A1ME1TaTZaRTFhekJDeEU4dlRfWjl5SWg4MXZUaVlkQ1E3M1BIZnZmNHhZXzJ0U0g5UzJBMkNBbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90UGpSU3M3Z0RWNDF5WEtUbzFJM0N6OGQ1c3p5WVp6TkRNLVFlLVJVVEtLNHB6cS1faUlhRjM3S1psWHV1Z3BkV093YnpNTlVKNnZoSURFWU9wcUFmLWZWT3NVbw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lNHB4S2JQbTVxbExSdVNzRzV5NFR0MGJpWmk0RUdMdWpxVlNFekJ4YWJLcTh3VEdJa2RrcW9UNnI5bGFRa0Z1QnRtLWpEVmFaOUZ3WEhsbU1lc3lKUFgwSmdscXdBZDFMckdoeA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:57+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

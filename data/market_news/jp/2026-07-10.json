@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,557.73",
+      "change": "+1.20%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "422.10",
+      "change": "+0.72%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.36",
+      "change": "-0.18"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "食品"
+  ],
+  "news_bullets": [
+    "【見通し】NY為替見通し＝ドル円は各種材料をながめ方向感を見極め、カナダでは雇用統計の発表も。",
+    "来週（7/13～7/17）の日経平均株価の予想レンジは､6万5000～7万2000円！ ゴールドマン・サックスなど米国金融大手の決算、半導体関連株の動向に注目！。",
+    "日経平均株価813円高 SKハイニックス人気で半導体株に買い安心。",
+    "日経平均は前日比+1.20%の68,557.73円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1meGpZaTdJZkloeVN0bnNIY3RKSnMzWkEzOUlTVmlrTkpDU3VJUURXZ1R5TFlHSWhqeTBFc1BGV2tzT3d2bnREaUlOU0NzRlBPNXhCR2k0NkNpYVV5V3R3YXRRVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CUkxHd3JmbFdRa0xqaHhjRVlJMTltOElRM2lwSEpqaWE1SjB2d1ZsOU9hTUlPQW5kTWxTT0RRMnhjUHE5azRLd3VaZUwwOXRMbkhB?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kNzU2RnhjaDlkNV9tYTNyS0txWlBtV2Y1M0J0SGFJOGU4X0xWVzZlRm1mRmNTMk9LTS1fVnlIWEdHcW9KQ0JtME5CbTAwT1ItT1ZIbmJpTVpZMVNvMXpNdXdUWndWTkpURDdReg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

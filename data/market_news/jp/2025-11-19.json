@@ -1,0 +1,40 @@
+{
+  "market": "JP",
+  "date": "2025-11-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "48,537.70",
+      "change": "-0.34%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "340.50",
+      "change": "-0.18%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.55",
+      "change": "+0.28"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "「日経平均は2034年に21万円超との推計も」永濱利廣氏が大胆予測。",
+    "日経平均は前日比-0.34%の48,537.70円で下落して取引を終えた。",
+    "不動産、小売セクターが上昇率上位となった。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUDY4bWVUVTVUMHljem1Mem5jWTI4NXloTVpmRXEzUjZ3RlVNRnpacGI0VW9WZEVCR3hyWGRwUVdKZXpvNXFoc1ByQVZ5VXdwOUp0dG4wTGZqbU92MUExMHRMUWY1VzNZTVJGLUZ1V29QTk9XMFNoUGUxc2k0dlZDbUZYclVyMlRU?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:12+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

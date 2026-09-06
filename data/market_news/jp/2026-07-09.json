@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-09",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "67,743.85",
+      "change": "+1.38%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "419.10",
+      "change": "-1.74%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.54",
+      "change": "+0.18"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "金融（除く銀行）",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "決算:ローツェの純利益56％増 3〜5月、半導体装置が好調。",
+    "日経平均、一時上げ幅1600円超 半導体、米国の流れ引き継ぐ。",
+    "午前の日経平均は続伸、半導体株がけん引 一時6万9000円。",
+    "日経平均は前日比+1.38%の67,743.85円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wdEVGcTFzdE1lc3VuR3ctMDVRdHBxWDNLVTd4Q1NvSlVIX0FFUUt4WGR0YWpDY3diYWtEeXUwOEZVN0JIV2JZVFBpRDZvZVN5SkxablFBU24wT25yemNsN3B2YXJzWEIxbFFSZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TaU1qbG1Jb0d2dkhCT1h3U2J2RGpaRVo3VTJHLU9kY2pOUVpnNWU5RXZFcmdlV29Dcl9qMnJJM1FUaW5ZdnotXzNuM000THRUSk9Uam8zcGg3M1JzTHA2Z2NVZkFJTEV3?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQTVpNEJ6M21saTFRNjh2d2N1dVFBeDhSSjdPb1JxUXlmbHB2M25xM1J0NWhvdVJVdlVYNVRjNklnSFZGblpQN29kN21LVmRZSm1zTTFtSE00a3JMdk1BbWVvX2htbERDUl9wenlKOTVScUJST29oYVVfSTBiM2NZeg?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:00+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

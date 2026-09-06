@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-19",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,606.49",
+      "change": "-0.27%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,090.69",
+      "change": "-0.28%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,021.43",
+      "change": "-0.44%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.28%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 on Breakdown Watch as Oil and Yields Rip Higher」と伝えた。",
+    "海外メディアは「Stock Market Today: S&P 500, Dow Jones Futures Slip As Jobless Claims Fall To 205,000— Micron, FedEx, Con」と伝えた。",
+    "海外メディアは「S&P 500 Forecast: SPX breaks below a key support post-Fed and as oil prices surge」と伝えた。",
+    "S&P 500は前日比-0.27%の6,606.49で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkxSSlB1WVVndjI5SkdvVWlGWXNCUTlLRWRFTGc2T01RNmFhQ1RWUUxvNTh3Ri1hTTBaUDFSTWN6MUptTTJqazBwemFWTGdzVWZmckxNMkxmaGV4c29UVlNsZmxsS0I0NmlmOVo2Qk45RUVnTlRFV0dYU0prTGJTN29wemxkTDVWT19heGlMNFVEa0xhUW14M0Fia1dfZzR1?oc=5",
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxNS0Z2T09tZWtqMjdZZW9yQVNtSk40ZTdNS2RUZDhmeW9NeHRhMXd2YVRuSUttNlJhM1VOSmZ2R1lTdUx1bGswRjFMdnpuQ1pNZ25VblB6aEhWRmdqbUxnTWRxU2FIRGdTdlBneG5hR3c3T2dXaWh5cEc5dmZQUlhjM0pYdzVkcUZrUk1pdHBFWHM2UV9MUHpYNUpUSmJMNXVoS2pPQ096WWphQ2tkVjFKbnBXZlppVU1IaWtsX3hYRU4tU3ZCWkRxSExRUUdTX3kxTmc4OXR3MTl2ZmktdEVRZFZxSVdoQ3ZxVnBaX3l1TWpSS3J1NVBWcTB3ZWhkQTNhaG1FMmtuRXlIZHRGWWV3TUVNVjJXd1J6OUJyWm1B?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjk4a3ZQN3kzVTZRd0x3NG5aVTF1OVJIaldmblRoOUZQenRVYldCRVJfRF8wRmp0RDhwcHJJeUkxWlFnUWFqbWo2WmsxQl83V1RLM3NjSlg0UzNnQkxQaW5CdmRiY3MzOUVhYmtiak1QYlk2Y2toenFvaVBiM3Nudkh3THdlcVFxS1EwNjI3VVFMRnQ5V3dmVGRSUUFtVjI0dWpQZjJuNFU4U2R4dFJXQUZCTFd2aEt6SDBrNV94V2RVQncwV1HSAdIBQVVfeXFMTmdHcFRyVzVsVHpyUXlab3otbERlUjUtcDF2VWNEWFpNQ3lTY1QzWE43VTdhUGt0aW1qbC1LQXlZd2ktM2c5V3d4UURZTWdwV3p2VDlnRm1tNkRENVF6MUVBR09kSzU2U0N2Y0EyS2UzVmI5OEl4d0R4Z2Q4Q2lGSkRKQXowUEI4Z0xGMTZ2X2lCaTdybkI5eG1zdGg0NDhkRGxaTzlLakNvMS1ZZVVpNFluSFN4UjBrSjVIRHdZbExuUEdKZzVZdzdGdU9fVDVVQXZR?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:11+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,878.49",
+      "change": "+0.64%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,428.83",
+      "change": "+0.52%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,362.68",
+      "change": "+0.47%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.17%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "金融",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「US stock market today: Wall Street advances as Dow, S&P 500, Nasdaq gain on Nvidia, Oracle strength」と伝えた。",
+    "海外メディアは「Why Dow Jones, S&P 500 and Nasdaq are gaining today — U.S. stock market jumps more than 0.5% - here's toda」と伝えた。",
+    "海外メディアは「Stock Market Today: S&P 500 Rises; Dow Gains, Gold, Silver Prices Hit Records」と伝えた。",
+    "S&P 500は前日比+0.64%の6,878.49で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOb2xNaUZZckVVTExnVUNTcDdUMXpIbkFrU1ZtOEhORkxlRzR4eGpEODQydmNGa05fZHBDVnZaajItVjloTmNneEx5Rkt6YUZST1REb1BvcEYtY2Z4QTZ3ZjM5M0ZQSEhERExkWjdxNEVHRmtGOGlET3RaaEc4VDEtUDUzWlJaUU5YcmdYRnpCeTJnckVkQkt3NzhsYkt0ZmxPamtVX1pGR0NMRzZhdU9hMEVVanRxTkJBN2E2b2tQWTVEXzJVQlhQS2VtT2dnazVVNGNaRmhyTWJISDVFMC16cE13MENMdVhFSkhYdGN1aHZLY0x3VEVvTDYtSGNDRmPSAYQCQVVfeXFMTmNibXVkbE1QeC1iVU5xOGp1Wm84eVFSSHNqSzkwVG01NlFtQnhiZWpEWldlMk5jeWFWYV83dW5HNDAyc1NnZmpRVnY2N1c0WklnNTVyZG9xMk5ickM5aUxzQWZydnN1cG45clltd2JLV0htMFRNTEFZQS1UX1VCcHIxamtHVldqYWtnclBCSzNicFdUZEhxVHR5dWpCcWhZd0pnZzdIcXU0X0RXUVRidUFFck9zNEhSVDF1TGZfNDJjaHVKcmhuMWUyOHEwa0ZhTTVnZlpzWHJra0M1aVNhSEdIMDdMMi1DWTJQS20xaVhxZVlSem00Y1VjNmtjRW9LMld5b18?oc=5",
+    "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTGI5VUZpMWRiTFNsekE0UmhKREZYV2s3czNjaHhXbWFPNV9lWE5KSXphZEE3OVlLb2prS0VwVUZLUDdoSDBJUFJUZHJYWUdNZmh4OHByLURxc2YweVp6aEtLTDNrZV92RVJfOE9OTUtBZXUwdUtVOFM1eUllaFU2NThoWmlUT3dBeDVLSk1nRTlxVzZpWV9wTXZaWUxrc3BjOE94YmtydUVfZ1p4eFp5YVozclVIWE9pd1VaTTVXb0JnZ2hENE8yVko5dnh4QjZhRENfMXVzczA5TkhjcmNRRVpwcUR5emQxZG0xdDdqTFRoZF9KbnltMzhlVGdXb29VZ29aQ1k2ejQyM1htXzkzVG1Rd1LSAZoCQVVfeXFMTXRPMGFMQndIYXdJSko4MFF1eVEtNHZ4UDF6X2ptOVFwLThnOE5YVDFtYVlUeTZHeWd4ZDJ5UENPdHpwMFRDbUV4STJKa2t3WlZSQmtFWnEtR1NHOC1mVVQ3Y3RFd1JXOEdfcWg0RFMtanZWdHN1ck9iVFFYMC1ZU3JYdjZxU1dxUUpIMjQ0TERpdDY5WFdVZnIwX1JKMWp3SnFOWlg5MThIcGJIWURfZmdPUEhFZzBCWEtxZTlRajliNGtoOUlqVnk5Q0s2TklTYWIzMFJ5alF6MjRGNTdELVloSk1Xdk9iZHhBd2J3U0owSWQ0YnhBZkxuSmlXX05hY29kRGdfdl9vU2ZCeFVPdWRUTGRJR2V6VUNR?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRzdWZy1LbTNTdXFOR2lkbTRQWFBreC16WVBKa1NXUDRfWWVOWTlQR0VvUnJSTm9tSXladU1QY3g4alhqOWlMQ3pnY1k1ZU5iWk0zbXdFeDlFb0RFdHk4TFVIOGdnSlpTMXdGUmN0Wk1xQmdIdUNnQnpVa2x0cjNQSXFKMDhGLUN5NFpkb01VY2NlNlE3d0ZQTzNaaUFkUUtRMkNUWG52ODZ4aUo2YWV3MXlDNm1xRU0?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:30+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

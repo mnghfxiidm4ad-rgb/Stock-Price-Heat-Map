@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-15",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,751.51",
+      "change": "+1.49%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "425.60",
+      "change": "+1.02%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.19",
+      "change": "-0.24"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "小売"
+  ],
+  "news_bullets": [
+    "ドル円午前の為替予想、米CPI下振れで早期利上げ観測後退 じりじりとした円安基調続く 2026/7/15。",
+    "FX/為替「ドル/円今日の見通し｜米CPI下振れで早期利上げ観測後退 じりじりとした円安基調続く」 外為どっとコム トゥデイ 2026年7月15日号。",
+    "インタビュー：長期金利3％超えなら、政府が日銀に国債買入増額を要請の可能性＝安達元日銀委員。",
+    "日経平均は前日比+1.49%の68,751.51円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Cd0hCSlE0MlM3bzJ1VmRZSGJBRks5Uy1XMFZkNXhVNlpQRlRDd0ljdGdCX3dxWnVHRnJUcmlLYzlsc0FBWUJPbmxINTROY3RpUk1fTFoyQXpza0g5LVJ1NEZGUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaY0h2RGF2SXJteUVMOXNIRVRqV0o4TnQtUmdycVBMNFFlZFloR3FaYThfTnBNWXhWZjFWQXRWWXRMelZNUkZsQng4MzRhWXdfUGRlcFVENGMwcnhYZE1OUVdGdw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pb1B3bTUtSWJ2ZDRVTTNrSHlfaEpWcDR4S0ViSG5WNzNpdlRacENSUFJJbThKUmNGcnVIUUtmTGdGbVVIT0ZKS3drZ2RTMkJDcTI4NHp1Z2dIX0t3TUw0cnJnS2JybF94Vm5wYXFZYVpwU1NKZ1NCWQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:03+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-15",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,134.24",
+      "change": "+0.44%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "399.60",
+      "change": "+0.35%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.79",
+      "change": "-0.42"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "植田日銀総裁のG20会見、4月利上げ探る山場に－情報発信に市場注目。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で113円付近｜RBA副総裁がインフレ率の高さを指摘(2026年4月15日)。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円高で158円台後半｜米国・イランの停戦協議再開の可能性が報じられる(2026年4月15日)。",
+    "日経平均は前日比+0.44%の58,134.24円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BNXgyT1ZlSFl5VlUwYXozV0p3a3djQkp4OUxDMmFXTkFtU3BfTk9KUkRZa3lCaEh0U2tEVVRNTXVqRG1TdkNvaWpCMGxXU05zbkNaVUxsUGJHOGlFRTFHSWluM2N6SHpTbmJLUU9TbWVSem9uM2pJ?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE81VkpLRHBLbjYyclc1MEd3SUZhTnEzdkc1aHM1eFJRMEZ4cG1rRi1pTzdQU0lPcG1XQU5INWF5Ykh4SXZvSnNxcUpuTVVBdFlkTVU3Tk1rZzBvR0RGd3M4QnNDeTE1YklWZGJnZmY3ZE8wY0U?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OeDVXQkY2YkliNGxnT2lUT2pIVlJCeHFDdFV6SE4zOEMwNWY4MVZMUy0xSFlZenAyVGx0OWhTQzR3Y3VYcm5nb1UzZ1h3eElWNWpZRmNKS0I1SGNBUXZjQzNNRUZlQ19aNnhJOHNqVnVBYmc?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:21+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

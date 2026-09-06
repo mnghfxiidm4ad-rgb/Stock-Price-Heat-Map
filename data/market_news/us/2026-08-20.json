@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-08-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,641.16",
+      "change": "-0.87%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,067.17",
+      "change": "-1.00%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,759.21",
+      "change": "-1.32%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.70%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Climb After Sharp Selloff On Rising Treasury Yields: MSTR, MARA, COIN, WMT Stocks In Focus」と伝えた。",
+    "海外メディアは「Dow futures fall 357 points as Treasury yields rise again」と伝えた。",
+    "海外メディアは「Gains in AI company stakes juice second-quarter earnings for S&P 500」と伝えた。",
+    "S&P 500は前日比-0.87%の7,641.16で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1BBVm5UVy01TGdwRjhBZ2dIaHYtalE0Tm51NU9pX25NakdJWnpkNWVKSUEyOUJSbHhPaUlhTnMtU2p0T2ZUTFVVSmtvdV9LaUQwdHh0cXhOUE5ncC05ejdTLTBMYkdqdmdzcXZHRWFTbUtVQWtoRzQzN3lwdEtVeWxmZ3NPdW0zSmhNQjlhaE1HQms?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HMEVHa2FVOEFMVzZCRUVqcDhwUVdxVWozN1BuM3dVcEMwalFiYTkzRE1SMVNPZy00VkhwaDJyb3p0NGJPYjAxUHRkWU9MX3FjeGJ5WExTejgxREYyQmxqU1Utcjk1LVpHakJVblR2aFVZV1FR?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEoyTlBhdlZxOEhhZFREWWpnNDdtV0RDODN4eFFTcmV5T1RfenE3eFRHYzd0VUlrclYwN0w3YUJnWGRzSWZITEx5a2xvQkdVYmVzcHJsSGxBV2JCN2pIOVlhb19pSXVJTWVHVVRFSnVmTXlZWkMwSUFhMWRQeDAzVXY1WUVoWDliVGhJNE9vN3dJV2FyZTZqYmJZc1h3TFE5WDItZFprR1Y?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:31+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

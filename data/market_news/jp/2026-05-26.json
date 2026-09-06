@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-05-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,996.09",
+      "change": "-0.25%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "417.40",
+      "change": "-0.14%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.95",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他",
+    "建設・資材"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "ドル円午前の為替予想、原油大幅安でドル安・円高もクロス円は円売り優勢 2026/5/26。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円高で158円台後半｜市場は米国とイランの交渉の進展を見守る展開(2026年5月26日)。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で114円付近｜イラン情勢の進展への期待を受けた動きか(2026年5月26日)。",
+    "日経平均は前日比-0.25%の64,996.09円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LS2RTVGVRVEFZLVNKZURPT0kxRFhTU2RxbjVCeWhRSzNldXhKc0ZPRjRsNk0xdEtfcm9Na0h1MjRkWFdOUmpXV3hFX0JBR1RGZzk2Wi1NRERmNDhmRjBJOGNUUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FYnpjUFRvV3VKRkd4TWNBTTQtNGlXalo4bVV5Rk1JQjUwazVTcExKUjhnendsYUpBVFFxczBDYm5RSU1abk9PTy05cVhpSmxOTUdqVUVUVkkxMzItNTdzZ0RMenU0MGlpZFhOekQ3emNoVzA?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBObWRWT3VWbzBvaDV1blU4QTZqRGNkOFVMUGhheGxDS3BQV090QWJrUk02SkhrMGYxMmJVRjRmeEl1Vm0tVmtobnhDamNDck5nM2kwTGNJWDU1MFk4RTJjamVPdmU0dV95cjhhX2dwdFNGZmM?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:38+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

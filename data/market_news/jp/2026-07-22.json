@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-22",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,115.60",
+      "change": "-0.18%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "420.30",
+      "change": "+0.48%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "163.19",
+      "change": "+0.70"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "円高とドル高が交錯、日銀利上げペース加速報道と中東有事深刻化＝ロンドン為替概況。",
+    "日経平均株価終値116円安 急失速、半導体株買いの勢い続かず。",
+    "「日銀は利上げペースに柔軟な姿勢」との報道で、ドル円は162円半ばへ下落 今日の外為注文情報 2026/7/22 17:00。",
+    "日経平均は前日比-0.18%の66,115.60円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ENDhXVG1mZHlkOXBUOVZPdXREQUE4NHFjYzNZdW5hNnJKUjJ1bGJlVlZYcUlyR1phN0liRm82RE5VSHdOU1dOTg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RLVhMLU1ocllhYU9FS2h2YTB1aFp5bHJlQzFOcFhKTkdOa1kwVGFSLThsS0IxbTJoeUNvd1c5YzZjYnFFb3lzZzdFWXNZMDNlNWZDZlR4ZE5oc1RxdEV0OGEzNXgzS29PblhfVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rYkk3dXRsR3ZJbjJzRHFRcndXVFF1emJYeURpbXZTbkxJM1VOXzA1Sno3al83MUdLblZ0ajQ3eGRaNTVNeGh1Y3Q0MzljS3lsd08wQl9WOElpc1Z3ZWN5MjZHRQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:07+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

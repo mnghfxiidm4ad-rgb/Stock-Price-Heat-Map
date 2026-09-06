@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-10-15",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "47,672.67",
+      "change": "+1.76%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "334.20",
+      "change": "+1.67%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "151.73",
+      "change": "-0.70"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "中立金利「まだまだ距離」、利上げ判断すべき局面＝田村日銀委員。",
+    "高市新総裁「政府が責任を持つ」金融政策でも、植田日銀の利上げ路線は変わらない。",
+    "日経平均株価3日ぶり反発 終値は825円高の4万7672円。",
+    "日経平均は前日比+1.76%の47,672.67円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRTVuOG9rcER6SU9FcW5HYnk0SkV0UlQ4MTc2b0NOWWtVNjduZTFIRlNsY2pDZUJidUVaNWRYd2lwSU41Rnlia2M2SDBHUm9HcDc5UExnOWR1ZXhkT0NzRHNqb2Q4SjlROXpiSS1JLVdrTjBYekxGdGlvSDNsUEFVSnE4U0EzMzhuSncw?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fc1luSGRrYll2NVotZlRla09tbE1lY1l1RG1wTlA5cXR0MGxlbWJGaWxicko0bm1weGN0Uk5qenBzRGhzMGhUT2N5eHHSAU9BVV95cUxQQnZrM0dEX3ZqSjdrdmRnMF82Q1huRWVQN2d0VUlvdTAxQU5velZvMXVrUDltQ0wyNEFUbzQzMFg5VTVlRnJqU1ljNW1QV3I0?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NWVjM3pkWi10TXJxUHdtWGlJNHlramZTYkJwZTV3bVFOVHF0WEp4bXkwT04xTWZ6NTlGWU9aeUlWd0RmTVo5aWlYa0NIUDNra0FSb2FtZWRUQ3VtblZXcVZnVlBOWDNEOXBfMQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:55+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

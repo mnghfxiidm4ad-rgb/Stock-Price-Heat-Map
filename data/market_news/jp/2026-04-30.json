@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-04-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,284.92",
+      "change": "-1.06%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "394.10",
+      "change": "-1.47%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.18",
+      "change": "+0.63"
+    }
+  },
+  "top_sectors": [
+    "食品"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で160円台半ば｜FOMCは市場予想通り政策金利を据え置き(2026年4月30日)。",
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円高で114円台前半｜豪州CPIは市場予想よりも低い(2026年4月30日)。",
+    "【↓】日経平均 大引け｜ 続落、原油高や金利上昇で売り優勢 (4月30日)。",
+    "日経平均は前日比-1.06%の59,284.92円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XYy1JOG50SUpURGFJOFUzWDd2QTM0eWh6Tncyc0JVZ1llN1ZsWDd0NC16Ynd5Q0JXdjBwOWlLVU11M1k5VGNfc2N5bjJhT3AwQk1JcHNPUUhZVnlRNVhiVVc3cklrNktYNjVtWVozMDRyeDg?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtYzRabXRnTGlmVUdwYTNaaDJsdFVCT0ZVUlk0cVpra3RFc3N2OUxVeExCeWlUZXh4RTV3RThYMFBFa1dxWUNOTEtaQ0cwd0lOUEZYa2RkQmwwOENaTmxNaE93Nk1NNjdwZkxLMklCV0hLbzQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sZkxfNElEMjRhNHVpN2dKNmtvUGE1UlN5WWJSVXVtakQwVk1IZ2FDVnNtTjRpc1pOZUJmZEpZQlgxRGdJTEZHNmctWjJPZTRmelRuNjBwWURoaWtHakt4RQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

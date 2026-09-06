@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,966.28",
+      "change": "+0.65%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,671.35",
+      "change": "+0.81%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,504.07",
+      "change": "+0.48%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.17%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow, Nasdaq 100 And S&P 500 Futures Gain After December Jobs Data— General Motors, Ti」と伝えた。",
+    "海外メディアは「Dow Jones, S&P 500 close at all-time highs as jobs data firms up Fed bets」と伝えた。",
+    "海外メディアは「S&P 500 Hits Record High as Soft Jobs Data Keeps Rate-Cut Hopes Unchanged」と伝えた。",
+    "S&P 500は前日比+0.65%の6,966.28で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilAJBVV95cUxQRE0ydzV6MndXMmVWZmlnYWtKbHpaQUExN1plRkVJR2pJVlU1cVNyX05JdlQySDZmSTNPS0dwZE9GNUV5RWVXMUhzZ21PNmFnamRqd0J5aXpHWVg4Q0F6NVFQR1A5eDR5VVBoWTg2RFEzQWFZYVAwS21nYjVMdXlkb3BELVFLZ1haSUtxZS1sc3hPUF9fQjVOVWRpTnBEMGdhWjI3U3lyc290dlJsb0VBa2JwdEF5VVVxN1duNkpBUFFjZTN3Mm93Vkk1WEJ5MHFnYkVhZEhkcXU2bXE1dWhQYzJYdEx5WERMSmRzeGhQd0RKaTFpb3JLaGFBQmNGOVpTWHdwZWtSTXlRbWhKbFZQZkRuQXM?oc=5",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ2haRTAwM3p4d1JfMjlMSldGS3dDT1RWQW9FNEUwSHk2blZNaEg0cWJCaE5KeHp1OXlMWDhUWF9ZV0dmMy0wVEFhV3FLY0RLS1AyTU5DS0xjajE5YkdtUTFzLVBqRm1yNmpoOURIdGdXTzRXdTk0eWVrTlJHWm0tS19KZ1pUUkU4dEFVLVdfcDUydjN6aG5OMExxZ1BxQW83S1BIN0tIak11SHRucGZTVEF5Y2hVX1FwU3ZpRF93Tk5vYnVoQjR4M2ZsY2g2alFGa1FpUzhSc040SXc?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOF9RTDEySi1qbDRadG9PZTBfMTVLbThJZ3JpZThRLTNRS2o4SVUtSU9wdlNBeWMtalVQVzVtOURNbWdzTjFtTjk1Y2VnNFRjUUs3WWgzMFZMS2lBajQ1Sm4zU2RwaFBwaEtoMXFwWElUd1RiVDlhVHlvOGl3dFR6VWN6aGt2V1p0azRNUzR3Q0dlQW1NS2tCMVZnQ1JuN0FNR0oyV1Zn?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:38+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

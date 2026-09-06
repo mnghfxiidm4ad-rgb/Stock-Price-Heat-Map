@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-05-19",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,353.61",
+      "change": "-0.67%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,870.71",
+      "change": "-0.84%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,363.88",
+      "change": "-0.65%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.67%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 and Nasdaq open lower as chip stocks drag, inflation fears persist」と伝えた。",
+    "海外メディアは「Treasury Yields Spike To Trump's Second-Term High, Sinking Gold And S&P 500」と伝えた。",
+    "海外メディアは「Dow Drops 322, Nasdaq Sinks 220, S&P 500 Falls 49」と伝えた。",
+    "S&P 500は前日比-0.67%の7,353.61で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxONEJZOFRueHAyYnQ5LVZXWGQ5UUMxal9pVHFJY0U5Y3NNWnJvV21NY2FUZTdYOFp6Y3J2Yy1GV0ZpdkE5NTZDcTg2MlZFeTNWRkhaVVRIWTJpbEhkcWw2aGJGVzRUSHlhR1hwYVZpbTVKTGtzWEJpR2RtYWpvbmYzZU84OC1fckw2UjdHaEZqMFBDQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnpvVkplNHlNVl9sTldnUUR3azNQNjdkZGZIeHRFenpVNFlLRnZNSGRnTTlwYUg5MEdFQXRKRld4QzF2RU8yTWVZejRhZ2dyc1Fyb19EakJuclFRUTRaRm95dExGb1M0VzIxT001eFlld1l6amNvSHFhVm0zWHhWeks5R2g?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2s3MnVwU3lkYVJXUFdOZEplT1JQSXEzNlVDcjh3aVRWcHNzcTVtLUI3VnlUcDhKbXM3djhLSHQ5T0dJTVpjem5xNmN6Q3hFMkZ2OWFicXdJOVVvVy15S3Q4YUhyRjZXQUc4MlpTMDZJeTRDTFVHSXI4M044a0lrSjdVSURUWXo4YUJXQ2g3VGJZdw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:42+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-01-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "52,885.25",
+      "change": "-1.79%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "372.90",
+      "change": "-2.20%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.17",
+      "change": "-3.34"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "銀行"
+  ],
+  "news_bullets": [
+    "日本株は上昇基調に戻せるか？注目は半導体株決算、米FRB人事。",
+    "日銀１月会合、植田総裁会見で注目されたその２点。",
+    "衆議院選挙― 勝敗シナリオ別の日経平均・ドル円予想値と投資アイデア。",
+    "日経平均は前日比-1.79%の52,885.25円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13VkRwUlJJS05zRk1jdEpjMlpZRHZ6bzR1YWJ3aEZDay1QWUl0YXFXMmo1emhiY1Z3MndhOFgtc1JjOHJuWE9DWGs3WUF5R1l2c1RCZkhaU2Fsdw?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWkV3ODdrRGtFRHBEcEJDZEFaNkZMb1Nja0NwckZ2dHVsVndLWS0yb01TSU5iZnNIX3Fwb1Z2dTQ3NTJlVUZVWlVtaEp4Sm9vV0FSb003ZWNWN0tENlZ5ZFBWS2M2VlBsbHBlM2JkdWhXUmZCOXA1OTVLYTI5aEE?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0MjBKNG5Jd1ZnbV9YRkxQdVk5RWVRS3hPVW9VXzhMTFhOUEhMdk9DSXRTMmhYdVJtak5GSWktc1lRejVuLUhsQzRTSDRPMTh1NE5hdHF1ZkVZc0hHOVB5MGM3VTg4VmtnTnFlOQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:43+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

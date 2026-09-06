@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,511.35",
+      "change": "-0.57%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,376.34",
+      "change": "-1.15%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,999.67",
+      "change": "+0.64%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.43%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [
+    "金融",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq, Dow Futures Edge Higher Ahead Of Fed Rate Decision: INTC, SNAP, SOFI, RUM In Focus」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq, Dow Futures Retreat After Rally Fueled By SpaceX, US-Iran Deal As Fed Meeting Looms: TSLA, PLAY, FISV In Focus」と伝えた。",
+    "海外メディアは「Oil prices tumble again on US-Iran deal; S&P 500 falls」と伝えた。",
+    "S&P 500は前日比-0.57%の7,511.35で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUdUYkJwWWF0bVY0YTRFaVM3ak1leTdYTUM2WW1LaDhtZzc0WjN4dGpQaVZNMDF3dHktc1hHZ2ttYXJ4aVhLSkVROUs0OGNSdTZLZEM0SXNKS1JBckFoSmFmZWNfR2xPOWZkdEZiN21QSzhrdURlTExhcFExZkJUalJUakJ3VHI5ZndLR1VXMUNrekZoOTcwaXlqbXRMb3BTSi1PVk1QTTlwLVpIa1VUYUx5ZDZnekZyQnBWTHp2cWg2U19sZG02bHVnNlhfSnc3emlDemNUWVE4LXBOWE5FWldUVXBtVUhrN1E?oc=5",
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxNVXVDVTVMN0pqMGplX3RNa0dLTV9iQzk1ZEJvdFB3SnFBbHBoZXVlR0k0ZFhzcHlZT2tESF9IbC1IUEpfaWR4SFRzVzM4OG42SndJWktsbGJSZFg5a1Q3dHJzXzIybWUxNHg3QnJ0Q255dEFfekJNNGRrYUJNcGhtaGxycjc0SFlYVEp3NnRGUXZlSTFqQW5leXprcjYwVFZkaEtxSzhRanVtWm9YZE43ZzBvcXBVWW1yVFRpZ2I0bW50R1VEY2hqT3NnNnphbVR1djNkMFJBdWM5Zm1nbG14M3R2QVZ5RjhfRDlGR2ZfUkNfZ1Rzbm11dHUtaktuejhjMHljNnpmWU16QVRXbmRj?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IRV9tSEN6NW9aSmpWbFZzTnFyTGRjS05rVnpGLXZ2TjktR3FtN3JQa1hsU0VGczZ4bV9oUzZYUHMxWFdMRTJfY09aRGhLTGFob2Y5NEdRMmFtdy1xNzdLclN4QVg5WFdoZlRZMGlMSW1pVS15YU8yNENuX1dWaVE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:56+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

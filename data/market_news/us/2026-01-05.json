@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-01-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,902.05",
+      "change": "+0.64%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,395.82",
+      "change": "+0.69%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,977.18",
+      "change": "+1.23%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.16%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Climbs 595, Nasdaq Adds 160, S&P 500 Rises 44」と伝えた。",
+    "海外メディアは「S&P 500: Why a Crowded Bullish Consensus Could Raise Volatility in 2026」と伝えた。",
+    "海外メディアは「Why the S&P vs Nasdaq Ratio Could Signal a Market Turning Point in 2026」と伝えた。",
+    "S&P 500は前日比+0.64%の6,902.05で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUxMdlVlVmFDUTRXWHRSbV9hY0tqRTB2bnRCNHNkaGJobWNCazNoRE5RV3gwRk1CYUZjellPSWNBVHVROVFTYmM3VHZSVGdpZ1ZIS25LV0RKdXhHQTlzaVRhRGhnamNoZ09vRnE4aDlmZi1oMmZkNzdjZjYtdEl6S1Q2SWNHclhLMEdlUnJOVVZmUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLW80bmFkXzVMQTdFcnFjUU9TX2E0dUdhTlVidFBYd19feGY0MHFwWkYxUlFIelFSR1h4bHl2b1d3RTZoRzRTVkQyV1dnSjNLUjdUOXRoTmVQMkxVSlY2Uk1qN2JiNmJ4TDN3MGJQZEdQUVAya0pNa01xeHZCZm84bHNtdFpLVTVmMHgzWUczaDhvOUN4SjVYRDFKeGpBT2pxZDhCeFNZWGdfZmdSWUp0QjNsQnY?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXJoOWF4d0FKVm9hc1lKT1FtSnlYbXRpLW51cUtoQWlCNy1wRThOeDBLaDJMMUFWX2pkVW9KaEkzV1NUa182M202U0tjcDJpQzlaUzJjX05WTGZ3RXhNbjR1Y2ZNd01qR2VDVEJBY3c2NDRvY2steV9KeEZ4QVZPQXNXdUg2RDRGUnNBbXl6U3RKcVNIMjdOZmdOOHB3bktOY2dJeWd1dzFMaEFzeE9nRjBWcWUyZw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:35+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

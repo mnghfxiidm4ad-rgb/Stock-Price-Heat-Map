@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-08-31",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,311.93",
+      "change": "-0.14%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "433.50",
+      "change": "+0.35%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "160.12",
+      "change": "+0.80"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "機械"
+  ],
+  "news_bullets": [
+    "日経平均終値93円安 AI半導体に売り、FRBタカ派的発言が冷や水。",
+    "長期金利一時2.95%に上昇、30年ぶり高さ 日銀の利上げ観測根強く。",
+    "【ドル円見通し】160円台定着は現実味を増したか｜「米金利高＝ドル高」を雇用統計で検証 FX分析 2026年8月31日。",
+    "日経平均は前日比-0.14%の66,311.93円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzd2JBZlRzVmFaM1pjVzVidFpPck10RzlzeTRlOEhtTmxZRVc1bmFES01PMUM5THpERGs5NW4tQ09fbEhiOUlIR3Q5a3FqWVREbnZqT1lRRG5pQWFQTFZlNVNIS3FpOUxRT0syOA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBaDlyWThjaHlLajI4Yk9icERGZmJUd3hkal9nZlBSd01NanZmUkYyZnRFdllnZVpCQmY0RlYtTkhpZXJLZDM2Y1B6YkdaQVVWU3NfSmp6OUE3WkYtVnplQUlHYlA3OGpmb0lWOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04QTU3RXJ2dDhlNHBCREpHS3psR25STzBzU003Q2F4ZnNGeW1ZdlpyWFNJejRTVkVNeXVWWWZ2TnJCc0gzaGdDbUM3eC00c0lYQy01dzI5VTU5bVN1VXg3Nkd3WQ?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:28+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

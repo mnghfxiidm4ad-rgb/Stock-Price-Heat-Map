@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-04-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "53,429.56",
+      "change": "+0.03%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "387.80",
+      "change": "+0.26%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.68",
+      "change": "-0.10"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "豪ドル/円見通し(為替/FX ニュース)：豪ドル円は円安で110円台半ば｜日中を中心に円安が緩やかに進む(2026年4月7日)。",
+    "ドル/円見通し(為替/FX ニュース )：ドル円は円安で159円台後半｜米ISM非製造業景況指数は市場予想よりも弱い(2026年4月7日)。",
+    "日経平均、3日続伸 終値は15円高の5万3429円。",
+    "日経平均は前日比+0.03%の53,429.56円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GSFZMN2pmY0J5RTJ4OGp4NnRoMl9TbUpMOC1udzF3WG9obHRKVTc0ME9HaFNFbzB6TEtjYmpwaFR0V0J1eDRMcElhNnh3WFVjV2NTVmVyZkxRTmZOaEFULVBnd1VSNDRTMDZoaHlFenJjYUU?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HUkJFOGJzWVFlZlAxTHVTN3A1MWZQVDcyeENlbHJjXzEtSkVNYW5QSnNsTEhvTG9qTk1JSDUzSUpwTlFwNjBUMmZ1ZEhRRmcyTHpqN21MTEh0cE0zTHRxQUpTMWhUcFhMOHNYR3psNU4zN3c?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTanZ4azBINkp6dDNTVW5ZR182UjkxWkExcmR5Z1I2MDlMNzJqUGxHdGdXNnNmLXFSeUZ5WWJFTU1iWHJxbFI4Und5alRiV1hFdWdYdGJ6VWdyNkJ3bXZiZURLRXFzVkIwdHdRaA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:17+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

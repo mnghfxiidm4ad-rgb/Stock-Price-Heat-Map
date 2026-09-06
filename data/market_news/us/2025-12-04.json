@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-12-04",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,857.12",
+      "change": "+0.11%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,505.14",
+      "change": "+0.22%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,850.94",
+      "change": "-0.07%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.11%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 Gains and Losses Today: Dollar General Soars on Strong Earnings; Intel Stock Slumps」と伝えた。",
+    "海外メディアは「Nasdaq Index and S&P 500: Tech Stocks Drift as US Stock Market Awaits PCE Data」と伝えた。",
+    "海外メディアは「The S&P 500, Dow and Nasdaq Since 2000 Highs as of November 2025」と伝えた。",
+    "S&P 500は前日比+0.11%の6,857.12で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOXzd3a2ZqY0FNQ0JsaXpMREhFTmE3bExkMGU4ek80ZThDSkQzWWJRY0FZNHE2LVdTVUtENUVERmtDa3U1aTUxVF90cXQxZV80UkRVR3Q0d3EtcW9mcW9YcGotT1BxcjVZcWUzZlpGZzZRLVhwSFd6TGVtajhiNzNud2s2T3hBWjcybERFZ1JZVW4yWTlVem1TUVduTDN5RFhWTG5HVEpfLWhraE05dWNfMURRRXV0TDl5c3k3YWxWX1dvZnV3SHJfZENVcHRnRy1JRlBXc25R?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaWI0Z3hWa0hfT09OdDZqS1pvRXhqRUd2SUlWcFd1N3gxM25BZnA1LTZmSG1DLUtzUWpSTDRzSVZneVZDNGhkYmJwc2NNOUlUcFpTTFhqSnFpcEhma0JLdDZOWWN0Z1Q5N2Q1STJqdjk3UUpoRTd2TzBDT3FyejlVMGVESTJBaXF5QjJmS0lNOFdKQ0JFRWQyTF9pREowUVBJMHo2UWRMbENkWTFwMTlZMTdYZFIwQzFsMEdneFNrNVBDakQ4WHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnh0NUVhZWRldkJCYXBiOG9rX0tkeGh4MTZoakJuSGdKOU5MQkdqaUVZY0luQW5OY1VITFUzWUlKem94dkRXYnFpTmk2SE1tLVVPSkEyMFVSQUNva1FwM3BBaW5yZ2xIaGY1c2ItQ2J0a3hMXzFHbDBlbi1pYlRFV1V3dEVnM3AxdE5DSV84N09lSzJ1YlJpZXdxWDc2YWJhUmxN0gGoAUFVX3lxTE1sUUt1RG1NLUFmZ0lmMDhLbDlKVlJuNEV3VkNJMi1UREZpY0FZb3NtTmdibDU1cXU5dHBoU1hlNDEybFhQTG5ONlp5RGdfM0xiZlM2NnB3RmRiVGd2Tjdyb2dxSjJQU2p4ZmdrZnE3UHlneFdhNkNYS3NvQ1JOcjliUE9MZkxsVzV4QnBkM2lTVEtkcjUwT2hfdENGZ1U1aU92YkFMcVF0VA?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:21+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

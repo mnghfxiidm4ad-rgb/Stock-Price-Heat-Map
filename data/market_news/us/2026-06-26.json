@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-06-26",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,354.02",
+      "change": "-0.05%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,297.62",
+      "change": "-0.24%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,876.11",
+      "change": "-0.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.37%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Morning Wrap: ASX 200 to edge higher, S&P 500 and Nasdaq lower as Apple and Microsoft hike prices」と伝えた。",
+    "海外メディアは「Dow Drops 45, Nasdaq Falls 61, S&P 500 Slips 3」と伝えた。",
+    "海外メディアは「S&P 500 ends lower; chips tumble and Moderna rallies - The Daily News」と伝えた。",
+    "S&P 500は前日比-0.05%の7,354.02で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTd0R0JCZ19seEtPRFN3d1BSUVpKaDhQLWJtWXhLNnUwQUdQRHlFZ3VXNGsxSVBpMnN4d195QWM0bHBUYkpDUzZPbnd0LVVkaktFcHJuOHVWZG9IM0QwM0xoVndDNHU0Vm9zR0N3V0FZY1V3dFphdFE5N2xsUnRMT016NzgtLS1kNExHYzNCbjlBdkZMV3dwYlVuemdhUG02NHVNcUhxTWFXeEp0eUE?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0Eza1l2dWtrTGxzU1JoYU9pend0YTNOZnR1UFREUmRtOEloTVlzbmJrYWIycWlZVXRZR3EwenpDY0UyeG9SWl9lSGp6OUVuQ3F3SzVxMFJKWjAwSXNkU240V0JyRXFlZE1KOHlldkxYZ2tXbHVrNjlvQTZyQkNsUnBQWmFpSFl2ejhQZld3?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVV3VC1welJWUkRjM0xQQlhWdkNaSEVMdWJtS3RTVEJxNzhtT1Iwckczbjh4UWlqVFZyOG5WdEtJZzhxQjE5TXVJODdReWM5VnkxM0hVS01SM0l0SzMyeXBOOGt4VUZpMnIxTXFpWjg4aGVIVEc2cGM0VzhNWVdNVjdNaFZSWGtYN0h6UzRkckhtZWZ2Uy1vUDV4RUVBNjlwRGQzTUtvRFQtZ3hkRVdVa3UtNlVMazZBRmNLcGc0WDExNkVa?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:31:01+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

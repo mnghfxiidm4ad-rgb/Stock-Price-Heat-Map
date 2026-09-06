@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-12-11",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "50,148.82",
+      "change": "-0.90%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "352.50",
+      "change": "-0.76%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.79",
+      "change": "-1.05"
+    }
+  },
+  "top_sectors": [
+    "商社・卸売",
+    "金融（除く銀行）"
+  ],
+  "bottom_sectors": [
+    "情報通信・サービスその他",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "【セミナー開催レポート】第1回東証改革徹底解剖シリーズ～TOPIX再編で、日本株はどう変わる？～ - smd-am.co.jp。",
+    "＜12/10新刊＞『半導体エコシステム』。",
+    "日銀短観（2025年12月調査）予測。",
+    "日経平均は前日比-0.90%の50,148.82円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vbFVMUlF5Q3BPb0Fadms4S1R0TTU2ME9CbEgwRzFId28zOHFmMENOY2twVGtsbkwwcWd0NVJxZzhDQlFOVWF3UnFlRFZLaTl4WUVDc3Q3TjJNWXA1SHJraQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mOF93Z3M3SmQ4Nm5UUDhCZXNjSGFDU284YmpLeFVPSXpvVzl2alhlc28wbV90czk3Y1p6V2hXVDVHRE1Ob2JnSmkxaEVpazh4LUMxSjhYY0poanZsRWVYMDFWcXFhSnc?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVZRWmtTNFBJaWdyUi1Ib1hCMlFpYXVqM2R3a1UyXzlSeHc1TmE1QkZCeEpsbEExUGZwbFY0bUZTb0pPeTVhZVF5QjRZNmlxX2o5WDQzMTQyYWx3NXg4Y045QzlaM294T0Jram5iZkVHclNVTWs2dk5mZnNvWG9QYTdXdUY?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:26:23+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

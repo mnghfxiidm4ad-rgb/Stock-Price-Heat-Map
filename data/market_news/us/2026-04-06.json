@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-04-06",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,611.83",
+      "change": "+0.44%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "21,996.34",
+      "change": "+0.54%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,669.88",
+      "change": "+0.36%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.34%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Gains 165, Nasdaq Climbs 117, S&P 500 Adds 29」と伝えた。",
+    "海外メディアは「S&P 500 Recovers As Risk Of 2026 Rate Hikes Falls (SPX)」と伝えた。",
+    "海外メディアは「TRADER’S EDGE (4 April 2026) The S&P 500 extended its rally for a fourth straight session, buoyed by growing optimism that a last-minute truce between the U.S. and Iran could still be reached」と伝えた。",
+    "S&P 500は前日比+0.44%の6,611.83で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEtyVFM3eXFKdjU1cGEzTEdVZ2lhWTlFUC0zMThxN21SY05uLW95UE82SFpET3FWaGQzdllhX3V6RklHUC1oN252bE9tS2Nqb0JYSFR6S0dTNWJQbXUzWFdpOWZmRkJUOFVzWWdqZlZxVTJOZDdSbllwMFlpU2lkay12M0FueVhobFV2SnBpVUV3dw?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU29XQlhnTjFvU0FEUmQ0dEpacDNid3lrNmk2V3hIVzhibXBBYVBQWDlpQ1doVzg2UjRQOHgwOGt6d2RmZFFmRFBrX2RDZXdMNUNHSXM1dDl4Q3JTdzY0ZmdMYUVoVFRpWmwtWmRQOGFfVHNxVkJ3b1lGeE5uUDlUbWhWd0EydlJWVWc?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLU4xVVFuNHY3dTQ5UnVyblVNQmt2V01ZOG0yRVgwTHFaMmEtb3lnUVRUMmpTellqdl91NVJIY1NLNXNRbkVvb25nZVZHdzBHbGllUHF3R2JBNUZ6WE9fb1dMZUFWWU5CaEdNY3hvZml0VzhNYWJZTkRnNHpRc3Rpdl8yMXpIRm1DRWtReDRWUmJWYUtKOVE?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:19+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

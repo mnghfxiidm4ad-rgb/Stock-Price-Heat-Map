@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-07-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,737.69",
+      "change": "-0.01%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "435.40",
+      "change": "+0.86%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "161.45",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "ドル/円見通し(為替/FX ニュース )：先週末のドル円は円安で161円台前半｜上下に大きく振れる展開(2026年7月6日)。",
+    "日経平均株価、小幅に反落 終値は6円安の6万9737円。",
+    "【ドル円見通し】えっ、『不意打ち介入』って何⁉｜個人の円買いが13年ぶり水準！｜162円台定着は米ISMとFOMC議事録で判断 FX分析 2026年7月6日。",
+    "日経平均は前日比-0.01%の69,737.69円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzMV82RUlVMVBHVE1MYlkzaTMwbzZudWZsb0luYTlhUWVGT3dfQUs4R3UzUU5adUhtSXRrM2xiSzFqbnBNbTZmY00tSmJyY3Jhek5TVnFkejhUbF9MYWZjY0Y2X1VOaERJNkE1WkhqYkdsYjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4TDl3d1Z2R1FoNEI3RGhPaEFEV2VVMkpJeWdvdGE5YWg1N2IzOHR4czY3N3BDSGRMVWJxeFFkSlczekJwQm9WaHZJWWZYY0hybUx1dWxlMHVyMGVyclhfNGp6bGgtUmgwV0RtLQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrSGk0alFzRkJLWjdFNmNKaGhhTVBQTGRkYkdFYWF3Mlh3RjQzd0tnd3M4QTBEekxCc1BzUHEyVDJCZDhDNzZyaUZnOTFtMTM4dHRZdUplbVFaS1I1TWtUME5Hcw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:27:58+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

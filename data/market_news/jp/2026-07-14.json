@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-07-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "67,743.50",
+      "change": "+0.74%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "421.30",
+      "change": "+0.84%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "162.43",
+      "change": "+0.55"
+    }
+  },
+  "top_sectors": [
+    "情報通信・サービスその他",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "【見通し】NY為替見通し＝ドル円、米CPIやFRB議長の議会証言に注目。",
+    "午前の日経平均は続伸、米半導体株高で 買い一巡後はＡＳＭＬ決算控え様子見。",
+    "マイナス金利「1票差」、物価目標遠く 枠組み変更求める声＝16年上半期日銀議事録。",
+    "日経平均は前日比+0.74%の67,743.50円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92NVA2TWR2SjBtWG5fVU04Tm9mamJuVTZpaS1wUHNlNFY0azM1bVl5MkY2OHpfZ2FrblhndEhyY25qMktBSVBoQ0IwSkwxbGVZSVA4WUt0dW5iUE5xdVptUnRfSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnBmS1FsRnlKTUlRb1ZmYWR0Y2h5Y0JzcWdENkh4SEl6SlYtbGpkUnpkZm9IRjlRZ0FweVBXbldJVjJ3eWdTeWxndzluU0xZY045d2QtQWxWN25jNUV4VWNpSFZaaWZNNzZUMGRELTFDZXI0RjM5NGFTSlczXzgyVg?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DZnpXaVBXUUlBdk9oNlRGck5NQjZTLUstNTlUYzlUVWJaeFlQdUdLSjZualhKVzY0QlR5cTJvRVpPbVJScG9aTnZ2bllyTTZ0Xzhnd29VVXV6cHRoM0FwNDJmZGdmWF85cFZsMnJEbV95a1pKcnBwaw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:28:02+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2025-09-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "43,643.81",
+      "change": "+1.45%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "326.20",
+      "change": "+0.99%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "148.34",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "日経平均株価3日続伸 終値625円高の4万3643円。",
+    "決算レポート：ブロードコム（4番目の顧客から100億ドル以上の特注型AI半導体を受注）。",
+    "2025年度下期経済総予測：日銀総裁は法が求める説明責任を果たしているか 政治家は独立性を侵害していないか 軽部謙介。",
+    "日経平均は前日比+1.45%の43,643.81円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmdlYwYjR0bmU2aHJSdjd4SmFVRVBPQVBBMlRsazFRWFQ5UDJsQmVNMERsLTVqU01Fbk9RUDFjRjBEQ05nTk53OWJCWXNYb3k0TXpObnZ5OXJQVHZqcHQtcnVsdVEzUjlaSEVLYw?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OOTN4d1liRWdlOEtweXhRVVlGcGxCN2ZGWk5BV044eXc5MUtxUG8zaFRoX041SHdxVWlaSlJ0NWNocERINmE3VE5yeHNjandEMnpBSy1TcS15Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5saWttWGJyQ1FRZ2s2UzlxcXEyRkFQUnJGdjVreUhKajJRSE9tamNDVUFWQVgwNVhNam15V1cxNW1UQ242aUxrU0F4di1Uc2FyRTFXY3JwTHZCUUtHY19pOG1QSzAxQ1I5X2JCcTBnS1lpb3FvNlV2TWs2TlVUOW8?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:25:42+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

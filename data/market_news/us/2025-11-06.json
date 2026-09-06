@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2025-11-06",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,720.32",
+      "change": "-1.12%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,053.99",
+      "change": "-1.90%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "46,912.30",
+      "change": "-0.84%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.09%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「NASDAQ Index, S&P 500 and Dow Jones Forecasts – US Indices Look a Bit Flat」と伝えた。",
+    "海外メディアは「S&P 500 Gains and Losses Today: DoorDash Stock Drops; Datadog Pops as AI Tools Help Drive Growth」と伝えた。",
+    "海外メディアは「Big Tech drags down S&P 500 amid jitters that stock market is overvalued」と伝えた。",
+    "S&P 500は前日比-1.12%の6,720.32で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaUkwMUhNZHROR2pLZDZscjhSbG1KTmFRcUdUbXV4SXJOdGFjQ0VrWnhCTWJ5aGlUeHRUd3ZtdEhOSnpLcE81Uy1zMWFKS1QwTndmSWJLTUFnb3VXOTF1aDY5d3NScDJOaXQ0MVBaU1kzd1ZhRHlISE5ONFRReEFTeU9lYzFIdldHTFJqNjA3SkVGRUI0cUMzNnRtdHVnTVhWUFptVzZBSXB1Ym9na2V0eGlCa2UxUzNqLU1acUtB?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcXF3Z2NwaWhTWkh5UFlMSUgtWmlrSWlzamd6Z2FtcUlENVVBaTNDand2SlVkZEpSVEZPU0JHbGwyVTkzS2lVVzJQQ2pQcE53S1RiUFVNRnZHMGpHWkxJSXZsWktNT3k2S2h5clMxSE9GcVZqRlE4cHE4MmF0UU0wRG5aM2ZzSDZFN21PREpOOHNxM3d3UXpBTXM0OFBBWWFfM0dVVkRnRk5rNUc2cnpSRzNyWlBJakRhSnlEUTVrRjR1UU5VdlA1YTBicVF4ZDR4MlE?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2txS2RfSWlIR3dmM2VVb01QdXNBVnQ5ckRWVDExN2dGTFV4N01HNXJNSElacXA0eWZfVnBodDhsWXduV2x4c0ZUMmNURzR0SEstYWxrM283ajFQV2g3N21SMmRWOF9XSVBXN2ZlTTgtYTBndHpQNWVYWTliUjJEVVhxRHIydGduVnlJQ0I4UzBkTEYyekJWSUZnck53LWFvbEUwZUhKNWxuYW5FMDNLR1gwN0RCdw?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:29:07+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}

@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-03-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,830.71",
+      "change": "-0.56%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,748.99",
+      "change": "-0.26%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "47,954.74",
+      "change": "-1.61%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.15%",
+      "change": "+0.07"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "資本財",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, S&P 500 Futures Edge Higher On Rate-Cut Hopes: Traders Eye More Big Bank Earnings, Fed Talks」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Rise Before PCE Report, Likely Tariff Ruling: Why NVDA, TSLA, GOOGL, IBRX, APP, GRAL Are On Traders' Radar Today」と伝えた。",
+    "海外メディアは「US stocks today: Dow tumbles 800 points, S&P 500 and Nasdaq slip as oil surges after Iran tanker strike」と伝えた。",
+    "S&P 500は前日比-0.56%の6,830.71で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQamY0WWg1NlpxM3ZIUDM5MlhoU0ZTdVhkMzAyUUV5TVBNcC01WTNqbHJ2bmRUeUN0cXkweEJJY3BFRmdHZ3Q5eURkcW1tSzl5ZTVmN05HS3IzTlp4bzhIeFV5T1RuUE1kUDVDMHc5RnhCMG4zbXF4a0ZBY0RfVHdWNU5oZ24xSkRfN2o0UDFSU1FKRTNfZFRZR0ViWERfdWl5Q3NNdkFCd1RrdFN1MFYzV2NMQmVmdGVWRk0zeA?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWx1cDlndXA1S2lWbFVsMlppSjRFZlBZempyaFZQWXZiZnJGcGJTemczU0JpSGtzTThabFJ2VGt4MG9Wc0dCU3RNeXpja0ZxOU9peW9BMHpyaW93WWJIZUtHTDBnLTFyZ2x5S0RYSVR4WmF2c2dZdG9SSVl3cFk3LWxTdFY5XzJSNGpRNnNBYzV6d1Z4NDBtSTVJOHZvUlAtcHFvWnVFTGhwUUFSMklxbENyTUpZTGcyQXNMMjJFZWo0RG1Td0ZLbENRTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwJBVV95cUxQNV9TZUtNM3RwWmVxY1JfUnFDVEJWdXpGQjZqTDRwclJuZmRpOGkwVHM3T3pxTXRTSVg2NzVHeWFFNmNBa2xmbnpKd3pPazhvbUVoY2UxRTE5b0hZQnlHQ2E2MEk3T3RHWldJMG02WU9rUzNudF9xaGlBUG91NzQtY0xaeEJWbUtvWWw0dGh2Q1hfT2phbHlGLUx0N3RrcTJ2SG5Vb2NfU0hSNXRVYWxyRW1Bb1F3S2JCZnA4R2dib3lrd2l0QVlKZWNHX01sMGk4ZUN5enVmWXNsMHI0ZHcxdjBSQURCd3RDWVF1VkpRT3FmZUFMcE8zUTg0TnV3Slp1dFhQWFpnM0VQQmlXZ2MxTXVDWjdjd3djZkZhbVMtZ9IBpAJBVV95cUxNa0hsR3VIRGloZXBydXBuMDh0cUFBZl9oTmFiQ2RmUW1yMkFZaGU4YzJVUHR1N0F1WEpiV0p3OHlIWXRvZS1yaEdLQVhkNmpnRXJJWlU1VlFsaEI1OTNWTXdFeFFINFotZjk1eXFJMVNlUm5HSFNlUDBHMURidHRrb3NRNEVkVk51c2kxaTgwSWhxUzdNaEJ0MmdkVkw1N3ZYWUE3Y0Z1THNuSVp2VU0teGpmdkhoVDQ3eUlscnhmN0ZBcWk3NHBJS2ktTkd1QVh3OGoyZEZBQ2FESTFaWUctd2J5cTlQUUpVOTJwb2FxWHhoUWlYUVBiOTRFQm44SDhwck53ZlBmcVI5LWtWTWx3azZRZlpYVTI4Z1QtODcwQ21Dd1ct?oc=5"
+  ],
+  "generated_at": "2026-09-06T09:30:04+09:00",
+  "mode": "backfill",
+  "trading_day": true
+}
