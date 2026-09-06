@@ -13,6 +13,7 @@ def main() -> None:
     (OUT / "static").mkdir(parents=True)
     (OUT / "data").mkdir(parents=True)
     shutil.copy2(ROOT / "index.html", OUT / "index.html")
+    shutil.copy2(ROOT / "privacy.html", OUT / "privacy.html")
     shutil.copytree(ROOT / "static", OUT / "static", dirs_exist_ok=True)
     shutil.copytree(ROOT / "data" / "quotes", OUT / "data" / "quotes")
     shutil.copytree(ROOT / "data" / "market_news", OUT / "data" / "market_news")
