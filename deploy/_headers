@@ -13,7 +13,7 @@
   Cache-Control: public, max-age=120, must-revalidate
 
 /static/*
-  Cache-Control: public, max-age=86400
+  Cache-Control: public, max-age=60, must-revalidate
 
 /ads.txt
   Cache-Control: public, max-age=300

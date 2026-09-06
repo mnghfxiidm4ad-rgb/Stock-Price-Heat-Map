@@ -31,7 +31,7 @@ body {
   min-height: 100%;
 }
 
-.top, .controls, .metrics, .ad-slot, .site-foot {
+.top, .controls, .metrics, .news-panel, .ad-slot, .site-foot {
   flex: 0 0 auto;
 }
 
@@ -150,6 +150,7 @@ h1 {
   border-radius: 12px;
   padding: 10px 14px 12px;
   overflow: visible;
+  max-height: none;
 }
 .news-panel[hidden] { display: none; }
 .news-head {
@@ -364,6 +365,7 @@ td.down { color: #3dd68c; }
   .check { margin-left: 0; }
 }
 .ad-slot {
+  flex: 0 0 auto;
   margin: 0 20px 8px;
 }
 .ad-label {
