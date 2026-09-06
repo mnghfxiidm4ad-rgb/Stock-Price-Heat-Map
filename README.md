@@ -7,9 +7,9 @@
 ## 見る方法
 
 - ローカル: `start.bat` を実行すると `http://127.0.0.1:8765` が開きます。この PC の `history/` があれば全期間、無ければ GitHub の直近1年分を使います。
-- 公開ページ: リポジトリの GitHub Pages（ルート）で、直近1年の営業日ヒートマップと市場ニュースを日付切替できます。
+- 公開ページ: [https://stockchronicle.app](https://stockchronicle.app)（Cloudflare Pages）。直近1年の営業日ヒートマップと市場ニュースを日付切替できます。GitHub リポジトリは非公開のままです。
 
-公開用の1年分は `python scripts/build_web_year.py` で `data/quotes/` と `data/market_news/` に書き出します。日次の Actions は、新しい終値を同じフォルダへ追加し、1年より古い日次ファイルは削除します。
+公開用の1年分は `python scripts/build_web_year.py` で `data/quotes/` と `data/market_news/` に書き出します。日次の Actions は、新しい終値を同じフォルダへ追加し、1年より古い日次ファイルは削除します。Cloudflare Pages は `main` への push のたびに `scripts/prepare_pages_site.sh` で公開ファイルだけを `_site` に出して配信します。
 
 ## 自動更新（終値）
 
