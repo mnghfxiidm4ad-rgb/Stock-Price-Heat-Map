@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,399.84",
+      "change": "+2.12%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "430.10",
+      "change": "+0.61%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.40",
+      "change": "-1.26"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "不動産"
+  ],
+  "news_bullets": [
+    "日経平均終値1378円高 半導体買い､投資家は｢雇用統計よりマイクロン｣。",
+    "2026年ドル円見通し｜9月日銀会合で円安は止まるのか？佐々木融が鳴らす為替相場への警鐘 2026年9月7日。",
+    "【ドル円見通し】米CPI上振れで157.25円回復か、日銀観測で154円台か FX分析 2026年9月7日。",
+    "日経平均は前日比+2.12%の66,399.84円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PN21EZVNwY1dtYVlwMWpQbWNONzVZOHhSXzloNXczYWJTUmJFSURTTC0tYlduMms3bGJxTjlTQUI1bGxLdVFST3hKV2JuSFZQZkdsUTBrVWVRbzI0c3ZHRzN0OWNOTFdDMWZkbQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JdEV1Y2NqbjYxaWphcFZKclRWU0pVWGxGNVlrVm1WZkRSVGtnbmtQdVljRFBsbFdMY0o4OFdRdXdWUTRrbWpvcGREOTlORUJxWUM3WTVoTFAxRGdLcjlqNkIwcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wWXAtZ0xsb25CRnd2d1JheUR2VGozbXlyaWlXWXRYT1ZwS3RIX0ZKNF9WTTJfWU9KdGxMVFBOVmcwUk0yZXJWaFFfbXNrMzFOdWRmR1F5SHJDODU5UF8yNm5QNA?oc=5"
+  ],
+  "generated_at": "2026-09-07T13:11:28+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
