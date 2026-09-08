@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,269.33",
+      "change": "-1.70%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "422.20",
+      "change": "-1.84%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.34",
+      "change": "-1.86"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "半年ぶりに1ドル=152円台後半 日銀の利上げ加速観測で円高進む。",
+    "ＳＭＤＡＭ 東証ＲＥＩＴ指数上場投信[1398]：ＥＴＦの収益分配のお知らせ 2026年9月8日(適時開示) ：日経会社情報DIGITAL。",
+    "日経平均終値1130円安、円高が相場の重荷に 輸出関連株に売り。",
+    "日経平均は前日比-1.70%の65,269.33円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwbjRrdDM0RVJHaWNWMXFBeEZjaE90Tm10cHJNTThrMF9iaWo1S0NjYmVFRTU0NVNRRUp4d3BYYXdKX0RrTzFWSC1MTUU1OHctUlJkLTUtZGRMbE5xM3lqZXJ2X1JsX0U?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdVIzYjNwZWx6MEY1OUZ5U05aV2pOM2ZSZkhvcW1OcWpXdHZKQVhqb3U0NXdPNV9kSHF3ajk1V2VMYVBMZ2pxUDVCcTc2cDlJQjRhYkRLWUxySEp3SlVNa2g2WlZ1Wml2dXJqLWM0c0lQODF6U1F6NHBocVNJSW9ISDUyLXJCcmxOSmN4Z3k4YkdxQlZ1VlFnSHBBeWI2ZnZvbmtJbWthV2taS2FGMGZNQ19JNjVGcHIwckZ2N2pTZDNBbkMzNnRqUlRoT3o?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE02b2tVWGxzUGpGQlB3aFVRY2ZVVkhjQVBFbVdWYVdqNXBfQ0hERGU0R3BZdVA4WW1RSzBwTWNYWFdEZlN3YWhFeVJDdDROWG03UlpjOGZXS2NRTThMckxMUjd4ZzczenhWZnYwUw?oc=5"
+  ],
+  "generated_at": "2026-09-08T11:54:52+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
