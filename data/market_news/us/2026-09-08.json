@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,673.52",
+      "change": "-0.58%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,421.41",
+      "change": "-0.32%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,786.07",
+      "change": "-1.18%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.81%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Oil Nears $100 as Markets Assess Fed Rate Expectations and Iran Tensions: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「Oil Approaches $100 as Iran Tensions and Rate Outlook Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「U.S. Stock Futures Retreat as Oil Rally Revives Inflation Concerns: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比-0.58%の7,673.52で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcUZrWllEeHVFN3FCeG1vc3B2NFRidi15VW1iQlowSXJDS3V5TzFMa2NJTmdMMjhUVWNLMUpMZ2tnSnNneXpWa1dTVWNlZkJJalRYX01SSzBxVDB1UU9ISlcycEdKVlpuWUY4M3ExQnZIN3Z1TEN1N3ZrSXR1RXY5eGFKT3Jyd0NKQ1ZBOGtB?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVRKQUdORVpSeVlPR0JKTlJHeEtZQXdsd0wtZV9MZUh4Yzh2X0xJYzJSZDZDVnlDaVZfMjNaOVViV3NOYzBPUWRRUjVyVEdqSENwZUVmRjlnMEJEN0NiZGRiaWNuRTlva0dKcDVqaXd1Q1NHYnlWZWpSeWtiS2t3MU1yRlp1d0RI?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEc3Y0c0LU5TbWFqV212eHRIcXVwMElxRVdReFpuSm90LUdBd1Y1RldBRzJMRWwtTGZFak1jZldZR0IyVDBxdllQLUs2NkZnSENQeUctX0hlYWk5SEZsX2hmLThPMnhVNldQNVBCcWtMNFhRUHZuakZrYXdaYXYtSkVB?oc=5"
+  ],
+  "generated_at": "2026-09-08T22:47:17+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
