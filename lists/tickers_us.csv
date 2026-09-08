@@ -180,6 +180,7 @@ ALTO,ALTO,"Alto Ingredients, Inc.",NASDAQ,NASDAQ
 ALVO,ALVO,Alvotech,NASDAQ,NASDAQ
 ALXO,ALXO,ALX Oncology Holdings Inc.,NASDAQ,NASDAQ
 ALZN,ALZN,"Alzamend Neuro, Inc.",NASDAQ,NASDAQ
+AMAC,AMAC,AMR Resources Acquisition Corp,NASDAQ,NASDAQ
 AMAL,AMAL,Amalgamated Financial Corp.,NASDAQ,NASDAQ
 AMAN,AMAN,Amanat Acquisition Corp,NASDAQ,NASDAQ
 AMAT,AMAT,"Applied Materials, Inc.",NASDAQ,NASDAQ
@@ -514,7 +515,6 @@ BSP,BSP,Bending Spoons S.p.A.,NASDAQ,NASDAQ
 BSRR,BSRR,Sierra Bancorp,NASDAQ,NASDAQ
 BSVN,BSVN,Bank7 Corp.,NASDAQ,NASDAQ
 BSY,BSY,"Bentley Systems, Incorporated",NASDAQ,NASDAQ
-BTAI,BTAI,"BioXcel Therapeutics, Inc.",NASDAQ,NASDAQ
 BTBD,BTBD,"BT Brands, Inc.",NASDAQ,NASDAQ
 BTBT,BTBT,"Bit Digital, Inc.",NASDAQ,NASDAQ
 BTCS,BTCS,BTCS Inc.,NASDAQ,NASDAQ
@@ -659,6 +659,7 @@ CGON,CGON,"CG Oncology, Inc.",NASDAQ,NASDAQ
 CGTL,CGTL,Creative Global Technology Holdings Limited,NASDAQ,NASDAQ
 CGTX,CGTX,"Cognition Therapeutics, Inc.",NASDAQ,NASDAQ
 CHA,CHA,Chagee Holdings Limited,NASDAQ,NASDAQ
+CHAD,CHAD,DeFi Development Corp.,NASDAQ,NASDAQ
 CHAI,CHAI,"Core AI Holdings, Inc.",NASDAQ,NASDAQ
 CHAR,CHAR,Charlton Aria Acquisition Corporation,NASDAQ,NASDAQ
 CHCI,CHCI,"Comstock Holding Companies, Inc.",NASDAQ,NASDAQ
@@ -1905,7 +1906,6 @@ LPBB,LPBB,Launch Two Acquisition Corp.,NASDAQ,NASDAQ
 LPCN,LPCN,Lipocine Inc.,NASDAQ,NASDAQ
 LPCV,LPCV,Launchpad Cadenza Acquisition Corp I,NASDAQ,NASDAQ
 LPLA,LPLA,LPL Financial Holdings Inc.,NASDAQ,NASDAQ
-LPSN,LPSN,"LivePerson, Inc.",NASDAQ,NASDAQ
 LPTH,LPTH,"LightPath Technologies, Inc.",NASDAQ,NASDAQ
 LQDA,LQDA,Liquidia Corporation,NASDAQ,NASDAQ
 LQDT,LQDT,"Liquidity Services, Inc.",NASDAQ,NASDAQ
@@ -3773,6 +3773,7 @@ AU,AU,AngloGold Ashanti PLC,NYSE,NYSE
 AUB,AUB,Atlantic Union Bankshares Corporation,NYSE,NYSE
 AUNA,AUNA,Auna SA,NYSE,NYSE
 AUST,AUST,Austin Gold Corp. Common Shares,NYSE American,NYSE American
+AUXX,AUXX,Gold X2 Mining Inc. Common Shares,NYSE American,NYSE American
 AVA,AVA,Avista Corporation,NYSE,NYSE
 AVBC,AVBC,"Avidia Bancorp, Inc.",NYSE,NYSE
 AVD,AVD,American Vanguard Corporation Common Stock ($0.1,NYSE,NYSE
