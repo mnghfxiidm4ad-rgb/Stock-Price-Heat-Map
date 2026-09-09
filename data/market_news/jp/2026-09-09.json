@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-09",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,142.78",
+      "change": "-0.19%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "421.40",
+      "change": "-0.19%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "153.24",
+      "change": "-0.61"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "小売",
+    "銀行"
+  ],
+  "news_bullets": [
+    "日経平均は２日続落、終値１２６円安の６万５１４２円…原油先物の価格上昇でインフレに警戒感。",
+    "フェイスネットワーク[3489]：「日経・東証IRフェア 2026」会社説明会 アーカイブ動画配信のお知らせ 2026年9月9日(適時開示) ：日経会社情報DIGITAL。",
+    "日経平均株価終値126円安 原油高警戒、電線株買いは支え。",
+    "日経平均は前日比-0.19%の65,142.78円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UOFhJS09xN3lFY2lRek9oMDRWUmlBMUhqSUhjeHpBMGRhMWJqWlc5SHdOdmtIb0NKOHVKb2JrSldfcVJ6TC1qa0NNc3FRQ2VYOW1zdkd6MWtzV1VNdnprNmJWcmE?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTlYQnZQb3l2aWo1UGRWYUNtbXR2WXZvYlJheFFWcWdxZ3J4alZ3bEVIbHdYSzNzUXItTUxyRlJCLXE0N3dfdzJDY0JibjhTNk83Tjh1b0xMaURvSWlnSHQtTUFnZ3FhN21RcnFrQWktcTFVZXh6UDBGRVdocFh1b3NyVzA0RmhxUDhSdXFsS1ZkaDFpVGJyM1lZd1FTV2h1eFNaUnRCZmhteEZBcV9vR09zUEFUYnFzZ0VpZm9PMEJDY1c5aV80U1h5Skc?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBORm5ob2g4U1VnMmZ6NWItRU12S2YtWDNubVZkZWNDeEdYZ09weE00OHZIcGNUZVh4dEx2T0xVZFl6Tmo5b0tsb0hYdFJPbzlVQnZOZ3hzaXphcVhXZWFvTzBfRVZjNVdVcDY3bg?oc=5"
+  ],
+  "generated_at": "2026-09-09T12:04:46+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
