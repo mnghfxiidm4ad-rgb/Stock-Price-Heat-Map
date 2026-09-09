@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-09-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,636.36",
+      "change": "-0.48%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,253.34",
+      "change": "-0.64%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,380.66",
+      "change": "-0.77%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.84%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "資本財",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus」と伝えた。",
+    "海外メディアは「Oil reaches $100 as markets assess Middle East conflict, rates and US-Canada trade tensions: Dow Jones, S&P, Nasdaq, Wall Street Futures」と伝えた。",
+    "海外メディアは「S&P 500 Performance After The FOMC Raises Interest Rates By 25 Bps Since 1990 (SPY)」と伝えた。",
+    "S&P 500は前日比-0.48%の7,636.36で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEFlNjhDMWtHX1VBZHdheWJnb2dpMmJhZlYxUloyRElUX3RUNjhkR1YycjV5UUVNSmo3QjdPaGJxLTBhSVVNZzE4YWVqN3VNUWl1NnM5dy01U0dKbm9pVFpLQmdrRndKenJrM2JTNXZhcERwUU9zYVUxZWlxR1E4bWQ5M3BYTWdEMXo1Y2FySGhCcGM?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDB0S2RWLVVUd1VDZjJzMGYwWm4xZXVxbG1CekZSOWJlZ3FoMFZ0SlJMZUtyZkx5dkhFbVhuLWltTkYyQVd3YXRJd2NGQmRMZ3ltdHlEcUNRcUxlQ0g1Q1lJRmZvUW53dGZkNmRZLU5sMWROa3o5MVp5UVdJeV94ajEyaGwyb0czUjMzVV9LOTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGtHQ19GR3U2NXJZSkdDZ0RXVGpuVHB2VDFqRHNRcTNzVFRmTjBGLUM1NHpCR0IwSndwMmRTbjVzVG95eUFlMUk2Ymw5MlJCbC1DZHdOTFc2Q285ZWxyemxSTnFBZi14WHh3bFVaUnRieXdFd1N5Q2F1bHd4Z2JvYUxIV1FtTUQybmhXOXE1bkpCUzdqcDNBZ3dyOEZIYjl4NUloYVpjNWN6MEZwZUY2YS1B?oc=5"
+  ],
+  "generated_at": "2026-09-09T22:38:40+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
