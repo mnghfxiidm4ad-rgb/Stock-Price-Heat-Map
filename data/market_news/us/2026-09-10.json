@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-10",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,591.70",
+      "change": "-0.58%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,081.72",
+      "change": "-0.65%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,064.10",
+      "change": "-0.60%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.94%",
+      "change": "+0.11"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 ends down as Treasury yields rise and traders fret about inflation」と伝えた。",
+    "海外メディアは「The Dow, S&P 500, and Nasdaq All Fell 0.4% on Oil and Inflation」と伝えた。",
+    "海外メディアは「Dow, S&P 500, and Nasdaq drop 0.4% amid concerns over oil prices and inflation」と伝えた。",
+    "S&P 500は前日比-0.58%の7,591.70で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU3QzVUsxTkVySW9tWmhHeXZ6OW1jZlY4OE1ETU9UWE5qWWFzbHFSa1ZJRTNWZVBuLWZJUU5yLUpvSXhvQUtiZHBXMEVxeFdFS1pNWXJxTUJCTUhYTDdpWjNwbGF5MFl5aDZ4NUUwQnNtSmdRWmN3aW9HWXNLLVZqaGNnUWZSeHhfd0RyV3M2NHhzclJK?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWNCZUpKX1NSd1NuTTlycXVCRUVIUFNSQmNVbXdFVjBrdWhKMUVsaktRWW9SUi1XaXUxTW5YM0YzNTZ2UEFqd3RkVlZRdkhvRGRjSjllSDdOc0xMNmRLb1ZzTGF6VVIyWkFFZW5kQmpycl84enNvanVJZlhaeVNPMlRUNWI2Y2JYaVRyUUZURjZ1anRwRkFr?oc=5"
+  ],
+  "generated_at": "2026-09-10T22:41:10+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
