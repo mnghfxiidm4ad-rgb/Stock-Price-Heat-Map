@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-10",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,270.95",
+      "change": "+0.20%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "422.70",
+      "change": "+0.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.15",
+      "change": "+0.67"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "商社・卸売"
+  ],
+  "news_bullets": [
+    "日経平均128円高 金利上昇不安で売り先行、先物主導で上昇に転じる。",
+    "今日のFX予想：原油高、金利高でもドル円の上値は重い… 2026/9/10。",
+    "日経平均終値、１２８円高の６万５２７０円…１０００円近く下落からＡＩ・半導体など買われ上昇に転じる。",
+    "日経平均は前日比+0.20%の65,270.95円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBheU0yRVhkRmRxM1JIcU1nMEdLSUllMWdQbi1WekdxQWRZUmktZnNyNG5wQ2RzM0xOT2IyWlZSX1NXaG1TTkZOTjlPMWFNcmJZMnVGb0lBamdFUUU5c2ZzMUxxcThKU2lzcHI2eQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsNGNKRjJacVQzUXEtQVBlREpkUVZVcWlTaUZHbWJoVkVWamdLZXJxMGo2QmRKUFEyTldVMmhvbHlia1NLbDZHT0J2a2FUS1BfOUxVUWs0cVVCVm0wMlpEZl9PMA?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ibjhibXJKSEtmajBPS1ZUZEJrM2Q4S2tFazFsQlZDMnJJbldkT1M5V1pOWHY4WFBNMV91NTlSeFJGcTlaTUhrOXByeWwwdzBqc2ZaTUlmeHRjZFdLekJ0RFZGNHo?oc=5"
+  ],
+  "generated_at": "2026-09-10T11:59:21+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
