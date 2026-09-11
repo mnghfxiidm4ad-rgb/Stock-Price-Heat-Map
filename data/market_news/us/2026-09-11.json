@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-11",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,656.98",
+      "change": "+0.86%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,333.04",
+      "change": "+0.96%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,573.29",
+      "change": "+0.98%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.97%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Futures Gain Ahead of Inflation Report as Oracle and Adobe Release Earnings: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「S&P 500 ends down as Treasury yields rise and traders fret about inflation」と伝えた。",
+    "海外メディアは「Wall Street Today: DJIA, S&P 500, Nasdaq Comp Rise on Lower Oil Prices and Dell, HPE and Apple Gains」と伝えた。",
+    "S&P 500は前日比+0.86%の7,656.98で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSkI5NzZkTE9zVGNBUEUyM2J6ZXFCM0YzMlFfSVZnaEJHZl81UGtpaEJ3NUZjeUtZOHFDRTNmaWJGVXVMbUl4d0ZGUk9WZFNwWFRDeHRiYk5GVDdMRzIyQ0JiTEtIVFVOektoa2tiVlRIdXZYUjB6YmlWWE9kcnBiR2MxNVNxYjg?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM3V0R0dpUmZYRTBmdF9jeHFJLVF4WWQyX01UYXctUkI3OEc2dVRPWmU3eTJhbEJRMTdqUTN1QXgzLWxQeVU0NWJHczJSWlkzV1hkeEZpYk1fQmw0NXVrY3RJVkpxSHJMQlQzR2JibzAxNUx0QVhKbFlhVDNWU2laT0JvU1Z3VENMSEJxanZUeFNIcUp0Y2VoY09tSWU1X3NKenFj?oc=5"
+  ],
+  "generated_at": "2026-09-11T22:41:04+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
