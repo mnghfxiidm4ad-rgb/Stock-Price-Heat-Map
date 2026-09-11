@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-11",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,011.34",
+      "change": "-1.93%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "419.70",
+      "change": "-0.71%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.00",
+      "change": "+0.43"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "【FX】9/11 ドル円反発は本物？米CPIで円高再加速も！？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均株価が一時2000円超の急落 原油高騰でインフレ長引く懸念 長期金利も再び3％に迫る。",
+    "日経平均株価、NY原油や米金利の上昇が逆風に（先読み株式相場）。",
+    "日経平均は前日比-1.93%の64,011.34円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2aG8tU1FUZFViNkVTN0kwUlpFcmxTVEs4MEVFU3poci16eUNiM3NiclZ0b2ZBbktGbzJrTHh5VzJtVUFTUGZhWi1jTUZacmUzeENSUHRmX29ZLXZUUTFPUHdaVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lU0xHLVcxUl94c0Fub0w3R0tHZHFyQlRSSWxBU005TTFyVWphcnNlZFY0Z1l6ZkxYYkhiSnA4ZkhacjV2LUNhajZ4c0ZxQWRyN0RDWUZXdw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QcF9SWFQ1cFpPX2hpSmRuaTJxSENhNldpMFZFSy1VVm1OYUIyVlBmelFDR0preXBPSzNlRUhBZV9LYjJ1T25NeTRfdjcxcGtSRmRTWGxrTUQ2Z2ZLTjJIZ0xaTGZVal9oMXpJWA?oc=5"
+  ],
+  "generated_at": "2026-09-11T11:58:20+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
