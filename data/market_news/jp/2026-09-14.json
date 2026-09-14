@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,492.99",
+      "change": "-0.81%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "423.30",
+      "change": "+0.86%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "154.89",
+      "change": "+0.40"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "【ドル円見通し】米CPI上振れでも戻れない153円台、FOMCと日銀の「次の利上げ」が焦点（予想レンジ151.50〜155.00円） FX分析 2026年9月14日。",
+    "ドル円午前の為替予想、CPIでインフレ加速は確認できず FOMC控え様子見 2026/9/14。",
+    "【FX】9/14 ドル円なぜ上がらない？FOMC・日銀会合に注目 ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均は前日比-0.81%の63,492.99円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91QkFjaEVORFctbV9nOXd2WUZkUU9QZC1hZG9MTGlwMHV2NkI4aFRlTXlWZ29PZW85TTVZQm9hbkJwYkRZdFhtaVZTR3ZDLXV4c0tHOWE2aG5TTkZXWU9waXZvcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJcVZMQmhCVXFIV29oQkNUT0ZCaThJbXZDLTJhV0pVX0ZtY2NyLWpVTUVqbGZXOGdFVUdXaF8ybUUzOFNXN2NqOFRyNGVFZUU0NkZUSW1RU18zcGtSWWFYRV9FVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UbkdxdmZIVTJKb3diYS1mNDU0SnJEeXRKVEFBb09sQ0pDZWR1ck5uU1lUNkFaWEplQUIyRlpFNENseW1WcFVPdXpNSldUMHU2TU9QZXVxaGYwb2ZnUWJudDJYbw?oc=5"
+  ],
+  "generated_at": "2026-09-14T13:31:53+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
