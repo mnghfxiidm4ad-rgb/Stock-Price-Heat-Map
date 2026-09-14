@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,619.98",
+      "change": "-0.48%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,186.41",
+      "change": "-0.56%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,421.20",
+      "change": "-0.29%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.96%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq fall on AI slowdown fears, oil price surge」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq open lower as AI jitters hit Nvidia, chipmakers」と伝えた。",
+    "S&P 500は前日比-0.48%の7,619.98で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2tqZk53N1RVS0ZVbHZrcnN1eVBQOElrSWxaaGVUYkIwckRxUGduUFZLSlRPNWJGckQzLUNFZ1dYMzRoNVlMNjQyLU9abXF1N05jMG4wcGhoYk9fZjNwZWtRYlRWZXlsM2pUOFBYMjVJMnNDYU9jR3FtOFhQTzNoVzkyWjJWZVlBNmdSOFJJN0xJVlNOUW1wV0xHNzdUeTJHOWc3STE1dm5EejREaTRpbkRsYw?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFBneHhIT2dwMzZlSFFZTC1FaVZwelEzM3JscDdLQTAyTkkyd0tpT2txUHprRkFva0VfbWd6cFpuT0dLelZrNk9uUHUzWnpqU2xPMXAwSlRHV2R6ZXNYQmdLVGYyRlZvS1h3UVRDTDJkd3p5cG1Ndjk4?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBueU1OUWtQSlZ3X1h5OE5vek5wVGtEc1FMdXZCNEdCTkx0dVI2b3FfM3Z1SW00dy0wem82dHBqai01dlpscXdna2xYaXpiYmh6NldsUVZmZVhkMUZKa3pneS1CM0otak5wZ0h3WTRjaUhnMWU2eDB2b2o2WnA?oc=5"
+  ],
+  "generated_at": "2026-09-14T23:14:18+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
