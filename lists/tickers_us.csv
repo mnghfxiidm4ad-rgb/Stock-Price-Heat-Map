@@ -294,7 +294,6 @@ ASTL,ASTL,Algoma Steel Group Inc.,NASDAQ,NASDAQ
 ASTS,ASTS,"AST SpaceMobile, Inc.",NASDAQ,NASDAQ
 ASUR,ASUR,Asure Software Inc,NASDAQ,NASDAQ
 ASYS,ASYS,"Amtech Systems, Inc.",NASDAQ,NASDAQ
-ATAI,ATAI,AtaiBeckley Inc.,NASDAQ,NASDAQ
 ATAT,ATAT,Atour Lifestyle Holdings Limited,NASDAQ,NASDAQ
 ATCX,ATCX,Atlas Critical Minerals Corporation,NASDAQ,NASDAQ
 ATEC,ATEC,"Alphatec Holdings, Inc.",NASDAQ,NASDAQ
@@ -1752,7 +1751,6 @@ KFFB,KFFB,Kentucky First Federal Bancorp,NASDAQ,NASDAQ
 KFII,KFII,K&F Growth Acquisition Corp. II,NASDAQ,NASDAQ
 KG,KG,"Kestrel Group, Ltd.",NASDAQ,NASDAQ
 KGEI,KGEI,Kolibri Global Energy Inc.,NASDAQ,NASDAQ
-KHC,KHC,The Kraft Heinz Company,NASDAQ,NASDAQ
 KIDS,KIDS,OrthoPediatrics Corp.,NASDAQ,NASDAQ
 KIDZ,KIDZ,KIDZ AI Inc.,NASDAQ,NASDAQ
 KINS,KINS,"Kingstone Companies, Inc",NASDAQ,NASDAQ
@@ -2196,6 +2194,7 @@ NEXN,NEXN,Nexxen International Ltd.,NASDAQ,NASDAQ
 NEXR,NEXR,Nexera Technologies Ltd,NASDAQ,NASDAQ
 NEXT,NEXT,NextDecade Corporation,NASDAQ,NASDAQ
 NFE,NFE,New Fortress Energy Inc.,NASDAQ,NASDAQ
+NFEGP,NFEGP,New Fortress Energy Inc.,NASDAQ,NASDAQ
 NGEN,NGEN,NervGen Pharma Corp.,NASDAQ,NASDAQ
 NGNE,NGNE,Neurogene Inc.,NASDAQ,NASDAQ
 NHIC,NHIC,NewHold Investment Corp III,NASDAQ,NASDAQ
@@ -3972,6 +3971,7 @@ BUDA,BUDA,"Buda Juice, Inc.",NYSE American,NYSE American
 BUI,BUI,"BlackRock Utility, Infrastructure & Power Opport",NYSE,NYSE
 BUR,BUR,Burford Capital Limited,NYSE,NYSE
 BURL,BURL,"Burlington Stores, Inc.",NYSE,NYSE
+BURU,BURU,"Nuburu, Inc.",NYSE American,NYSE American
 BVN,BVN,Buenaventura Mining Company Inc.,NYSE,NYSE
 BW,BW,"Babcock & Wilcox Enterprises, Inc.",NYSE,NYSE
 BWA,BWA,BorgWarner Inc.,NYSE,NYSE
@@ -4876,6 +4876,7 @@ KFRC,KFRC,"Kforce, Inc.",NYSE,NYSE
 KFY,KFY,Korn Ferry,NYSE,NYSE
 KGC,KGC,Kinross Gold Corporation,NYSE,NYSE
 KGS,KGS,"Kodiak Gas Services, Inc.",NYSE,NYSE
+KHC,KHC,The Kraft Heinz Company,NYSE,NYSE
 KIM,KIM,Kimco Realty Corporation (HC),NYSE,NYSE
 KIO,KIO,KKR Income Opportunities Fund Common Shares,NYSE,NYSE
 KKR,KKR,KKR & Co. Inc.,NYSE,NYSE
@@ -5820,7 +5821,7 @@ TEI,TEI,"Templeton Emerging Markets Income Fund, Inc.",NYSE,NYSE
 TEL,TEL,TE Connectivity plc,NYSE,NYSE
 TEN,TEN,Tsakos Energy Navigation Ltd Common Shares,NYSE,NYSE
 TEO,TEO,Telecom Argentina SA,NYSE,NYSE
-TEVA,TEVA,Teva Pharmaceutical Industries Limited American ,NYSE,NYSE
+TEVA,TEVA,Teva Pharmaceutical Industries Limited,NYSE,NYSE
 TEX,TEX,Terex Corporation,NYSE,NYSE
 TFC,TFC,Truist Financial Corporation,NYSE,NYSE
 TFII,TFII,TFI International Inc. Common Shares,NYSE,NYSE
