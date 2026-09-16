@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,551.81",
+      "change": "-0.45%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,978.42",
+      "change": "-0.01%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,461.90",
+      "change": "-1.21%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.01%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock market today: Dow sinks 600 points, S&P 500 and Nasdaq fall as Fed hikes rates, bond yields rise」と伝えた。",
+    "海外メディアは「Dow Jones Futures Rise As Oil Prices, Yields Fall Before Fed Rate Hike; Will Market Rally Bid Bond Voyage?」と伝えた。",
+    "海外メディアは「The Dow, S&P 500, and Nasdaq Split Ahead of a Near-Certain Rate Hike」と伝えた。",
+    "S&P 500は前日比-0.45%の7,551.81で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcDY5cGk1b1piYWlVVV9zbXlFVjRZRjNGSDZOWUU1emRTYWd2dExlYS1wcFBPRTBTcTNQNkdLWUhrUnRtdDNjLXgzM05NblpsZjUybUlDbFdUT2JicmhzenFNUjFqa0h1Y0VLdXpvWTM1S2RyWjNaaUxzcG84ckhTNzlxM285OGdiQ3R4UVpwTEhsYTlacmc2Q09tS2VxNk15VkluVWlveUFLalNOZjVPUW9KRmFyc1BCbXRDSERmNU1EZEJGTXc?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxObndOaXg3dFBpcExlT1dNb0VpWnRuX3dxd1FVUEMzejFDNXQ4UkZDXzY0bWdqb3h3TWE2YzNjQjhYMFRFazFUXzlpeFNkNEVPS05zVzNqaHQyV0tkMVE5V2NSdXFSYk11YzIyRkZPVEZMVERjVmxsaHF6MzE3Y3E2cXZsVERTUzYxYlFDeEJGZ3Q?oc=5"
+  ],
+  "generated_at": "2026-09-16T23:03:46+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
