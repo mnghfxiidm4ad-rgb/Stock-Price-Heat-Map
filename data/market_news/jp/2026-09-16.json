@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,923.00",
+      "change": "+0.69%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "423.90",
+      "change": "+0.62%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.12",
+      "change": "+0.74"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "情報通信・サービスその他"
+  ],
+  "news_bullets": [
+    "ＮＥＸＴ ＮＯＴＥＳ 東証ＲＥＩＴ（ドルヘッジ、ネットリターン）ＥＴＮ[2066]：「NEXT NOTES 東証REIT（ドルヘッジ、ネットリターン）ETN」一証券あたりの償還価額と市場価格の重要な乖離に関するお知らせ 2026年9月16日(適時開示) ：日経会社情報DIGITAL。",
+    "FX個人投資家動向｜南アやトルコはショートが解消、金利・原油頭打ちの中でドル円が底堅い 2026年9月16日。",
+    "日経平均終値438円高、佳境の中間配当取り 海運や通信に食指。",
+    "日経平均は前日比+0.69%の63,923.00円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xUGhfemhVNmJzUUc1NEx2OTVkc1hqTkZTNDFpZWczcDNzMWRNbGJQZHp0OUpoMzFpS053aWNvRzdxcDJYS2NqNU9CMFNWMDBhSEgxSUJmcG5FTTdxaThBdU1qTnhxamlacFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Xc2dwN2c1cHJwSk1Pbl9DQXVGd2hKeWNMMngwNFREcVVkd2l4UWM2aVJUTFFxY0lzYTZyVzc1dUNOMHE0R3Q0QkVGd1ZFT0QwMm1PQXVRWEY4T1NON3kzSkt2TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xTmU1QXlidll4a09DWVJGSi1iTHJmbjJ1elpoaEtTZ3J0T1llODdaQ2NQWU1seEtPZU45bm5tZ1JRUW50S01vb0RlcmNKUW5Qc3JDb29qN0t3aUhrMUpCS3JXR1ZXVTJhMzF2Sg?oc=5"
+  ],
+  "generated_at": "2026-09-16T12:20:30+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
