@@ -1135,7 +1135,6 @@ FDSB,FDSB,"Fifth District Bancorp, Inc.",NASDAQ,NASDAQ
 FDUS,FDUS,Fidus Investment Corporation,NASDAQ,NASDAQ
 FEAM,FEAM,"5E Advanced Materials, Inc.",NASDAQ,NASDAQ
 FEBO,FEBO,Fenbo Holdings Limited,NASDAQ,NASDAQ
-FEED,FEED,"ENvue Medical, Inc.",NASDAQ,NASDAQ
 FEIM,FEIM,"Frequency Electronics, Inc.",NASDAQ,NASDAQ
 FELE,FELE,"Franklin Electric Co., Inc.",NASDAQ,NASDAQ
 FEMY,FEMY,Femasys Inc.,NASDAQ,NASDAQ
@@ -1748,7 +1747,7 @@ KELYB,KELYB,"Kelly Services, Inc.",NASDAQ,NASDAQ
 KEQU,KEQU,Kewaunee Scientific Corporation,NASDAQ,NASDAQ
 KEYY,KEYY,Keystone Acquisition Corp.,NASDAQ,NASDAQ
 KFFB,KFFB,Kentucky First Federal Bancorp,NASDAQ,NASDAQ
-KFII,KFII,K&F Growth Acquisition Corp. II,NASDAQ,NASDAQ
+KFII,KFII,K,NASDAQ,NASDAQ
 KG,KG,"Kestrel Group, Ltd.",NASDAQ,NASDAQ
 KGEI,KGEI,Kolibri Global Energy Inc.,NASDAQ,NASDAQ
 KIDS,KIDS,OrthoPediatrics Corp.,NASDAQ,NASDAQ
@@ -2977,7 +2976,6 @@ SNTI,SNTI,"Senti Biosciences Holdings, Inc.",NASDAQ,NASDAQ
 SNWV,SNWV,"SANUWAVE Health, Inc.",NASDAQ,NASDAQ
 SNY,SNY,Sanofi,NASDAQ,NASDAQ
 SNYR,SNYR,Synergy CHC Corp.,NASDAQ,NASDAQ
-SOBR,SOBR,"SOBR Safe, Inc.",NASDAQ,NASDAQ
 SOCA,SOCA,Solarius Capital Acquisition Corp.,NASDAQ,NASDAQ
 SOFI,SOFI,"SoFi Technologies, Inc.",NASDAQ,NASDAQ
 SOGP,SOGP,Sound Group Inc.,NASDAQ,NASDAQ
@@ -3216,6 +3214,7 @@ TROW,TROW,"T. Rowe Price Group, Inc.",NASDAQ,NASDAQ
 TRS,TRS,TriMas Corporation,NASDAQ,NASDAQ
 TRSG,TRSG,Tungray Technologies Inc,NASDAQ,NASDAQ
 TRST,TRST,TrustCo Bank Corp NY,NASDAQ,NASDAQ
+TRT,TRT,Trio-Tech International,NASDAQ,NASDAQ
 TRUG,TRUG,"TruGolf Holdings, Inc.",NASDAQ,NASDAQ
 TRUP,TRUP,"Trupanion, Inc.",NASDAQ,NASDAQ
 TRVG,TRVG,trivago N.V.,NASDAQ,NASDAQ
@@ -3411,6 +3410,7 @@ WB,WB,Weibo Corporation,NASDAQ,NASDAQ
 WBD,WBD,"Warner Bros. Discovery, Inc.",NASDAQ,NASDAQ
 WBTN,WBTN,WEBTOON Entertainment Inc.,NASDAQ,NASDAQ
 WBUY,WBUY,WEBUY GLOBAL LTD.,NASDAQ,NASDAQ
+WCCB,WCCB,West Coast Community Bancorp,NASDAQ,NASDAQ
 WCT,WCT,Wellchange Holdings Company Limited,NASDAQ,NASDAQ
 WDAY,WDAY,"Workday, Inc.",NASDAQ,NASDAQ
 WDC,WDC,Western Digital Corporation,NASDAQ,NASDAQ
@@ -3751,6 +3751,7 @@ ASA,ASA,ASA  Gold and Precious Metals Limited,NYSE,NYSE
 ASAN,ASAN,"Asana, Inc.",NYSE,NYSE
 ASB,ASB,Associated Banc-Corp,NYSE,NYSE
 ASBA,ASBA,Associated Banc-Corp 6.625% Fixed-Rate Reset Sub,NYSE,NYSE
+ASBH,ASBH,"American Savings Bank, N.A.",NYSE,NYSE
 ASC,ASC,Ardmore Shipping Corporation,NYSE,NYSE
 ASG,ASG,"Liberty All-Star Growth Fund, Inc.",NYSE,NYSE
 ASGI,ASGI,abrdn Global Infrastructure Income Fund Common S,NYSE,NYSE
@@ -5892,7 +5893,6 @@ TRNO,TRNO,Terreno Realty Corporation,NYSE,NYSE
 TRNZ,TRNZ,Trinity Capital Inc. 7.875% Notes due 2029,NYSE,NYSE
 TROX,TROX,Tronox Holdings plc Ordinary Shares (UK),NYSE,NYSE
 TRP,TRP,TC Energy Corporation,NYSE,NYSE
-TRT,TRT,Trio-Tech International,NYSE American,NYSE American
 TRTX,TRTX,"TPG RE Finance Trust, Inc.",NYSE,NYSE
 TRU,TRU,TransUnion,NYSE,NYSE
 TRV,TRV,"The Travelers Companies, Inc.",NYSE,NYSE
