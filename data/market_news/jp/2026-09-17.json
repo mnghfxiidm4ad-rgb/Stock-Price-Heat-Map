@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,136.25",
+      "change": "+0.33%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "427.40",
+      "change": "+0.83%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "155.58",
+      "change": "+0.31"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "小売"
+  ],
+  "news_bullets": [
+    "【米利上げ転換】日銀が3回利上げしても追いつかない、FRBの利上げ再開で遠のく「円安修正」のシナリオ。",
+    "ドル円午前の為替予想、156円台 円安再燃のリスク 焦点は日銀に 2026/9/17。",
+    "円安一時156円台、9月上昇の半値押し 米利上げで日銀タカ派論に影。",
+    "日経平均は前日比+0.33%の64,136.25円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QY1RTYlJ2dTRzVUsxU2pwVkJkZDhmNHh4TmZZWElvSUlYWGcxcFc3cUR5c0FqOF8zMVVpTTE1eTdMblkzWUY2eTBfS1hjb2VkVWQ2Q053?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nU0Q3aURWbVdmRzVrREZ5WU5NT3RKY053WUd3Q0lwTFVXeHYwU3huaHhkYkhQVkU4Wl9fTWsyWDYtUkJzZWVtMG0zUVQ4OVhkNEpodW45SlV3WmhXWDJ4Rnc0aw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mT0VoUzIwVEtEWE5zX0RkcktlYVVxUXpLRElzekZvTFNSRHpXMGJjd2NnZmM1dUJra01icHFzeXNVYzdLRDZzOTZfT0FlRUxYN1g0dFBGZUJVQmpiWFo0c190VTkwQkJpYVZVYQ?oc=5"
+  ],
+  "generated_at": "2026-09-17T12:20:40+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
