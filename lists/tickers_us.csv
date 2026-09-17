@@ -219,7 +219,6 @@ ANNX,ANNX,"Annexon, Inc.",NASDAQ,NASDAQ
 ANPA,ANPA,Rich Sparkle Holdings Limited,NASDAQ,NASDAQ
 ANTA,ANTA,Antalpha Platform Holding Company,NASDAQ,NASDAQ
 ANTX,ANTX,"AN2 Therapeutics, Inc.",NASDAQ,NASDAQ
-ANY,ANY,Sphere 3D Corp.,NASDAQ,NASDAQ
 AOSL,AOSL,Alpha and Omega Semiconductor Limited,NASDAQ,NASDAQ
 AOUT,AOUT,"American Outdoor Brands, Inc.",NASDAQ,NASDAQ
 APA,APA,APA Corporation,NASDAQ,NASDAQ
@@ -577,6 +576,7 @@ CASH,CASH,"Pathward Financial, Inc.",NASDAQ,NASDAQ
 CASS,CASS,"Cass Information Systems, Inc",NASDAQ,NASDAQ
 CAST,CAST,"FreeCast, Inc.",NASDAQ,NASDAQ
 CASY,CASY,"Caseys General Stores, Inc.",NASDAQ,NASDAQ
+CATL,CATL,Catalyst Acquisition Corp.,NASDAQ,NASDAQ
 CATY,CATY,Cathay General Bancorp,NASDAQ,NASDAQ
 CBAT,CBAT,CBAK Energy Technology Limited,NASDAQ,NASDAQ
 CBC,CBC,"Central Bancompany, Inc.",NASDAQ,NASDAQ
@@ -944,6 +944,7 @@ DRCT,DRCT,"Direct Digital Holdings, Inc.",NASDAQ,NASDAQ
 DRDB,DRDB,Roman DBDR Acquisition Corp. II,NASDAQ,NASDAQ
 DRH,DRH,Diamondrock Hospitality Company,NASDAQ,NASDAQ
 DRIO,DRIO,DarioHealth Corp.,NASDAQ,NASDAQ
+DRK,DRK,DarkHorse Technologies Inc.,NASDAQ,NASDAQ
 DRMA,DRMA,"Dermata Therapeutics, Inc.",NASDAQ,NASDAQ
 DRS,DRS,"Leonardo DRS, Inc.",NASDAQ,NASDAQ
 DRTS,DRTS,Alpha Tau Medical Ltd.,NASDAQ,NASDAQ
@@ -1747,7 +1748,7 @@ KELYB,KELYB,"Kelly Services, Inc.",NASDAQ,NASDAQ
 KEQU,KEQU,Kewaunee Scientific Corporation,NASDAQ,NASDAQ
 KEYY,KEYY,Keystone Acquisition Corp.,NASDAQ,NASDAQ
 KFFB,KFFB,Kentucky First Federal Bancorp,NASDAQ,NASDAQ
-KFII,KFII,K,NASDAQ,NASDAQ
+KFII,KFII,K&F Growth Acquisition Corp. II,NASDAQ,NASDAQ
 KG,KG,"Kestrel Group, Ltd.",NASDAQ,NASDAQ
 KGEI,KGEI,Kolibri Global Energy Inc.,NASDAQ,NASDAQ
 KIDS,KIDS,OrthoPediatrics Corp.,NASDAQ,NASDAQ
@@ -2108,6 +2109,7 @@ MSGY,MSGY,Masonglory Limited,NASDAQ,NASDAQ
 MSLE,MSLE,Satellos Bioscience Inc.,NASDAQ,NASDAQ
 MSS,MSS,Maison Solutions Inc.,NASDAQ,NASDAQ
 MSTR,MSTR,Strategy Inc,NASDAQ,NASDAQ
+MTAK,MTAK,Market Technology Acquisition Corp,NASDAQ,NASDAQ
 MTC,MTC,"MMTec, Inc.",NASDAQ,NASDAQ
 MTCH,MTCH,"Match Group, Inc.",NASDAQ,NASDAQ
 MTEK,MTEK,Maris-Tech Ltd.,NASDAQ,NASDAQ
@@ -2738,7 +2740,6 @@ RILYT,RILYT,"BRC Group Holdings, Inc.",NASDAQ,NASDAQ
 RILYZ,RILYZ,"BRC Group Holdings, Inc.",NASDAQ,NASDAQ
 RIME,RIME,"Algorhythm Holdings, Inc.",NASDAQ,NASDAQ
 RIOT,RIOT,"Riot Platforms, Inc.",NASDAQ,NASDAQ
-RITR,RITR,Reitar Logtech Holdings Limited,NASDAQ,NASDAQ
 RIVN,RIVN,"Rivian Automotive, Inc.",NASDAQ,NASDAQ
 RJET,RJET,Republic Airways Holdings Inc.,NASDAQ,NASDAQ
 RKDA,RKDA,"Arcadia Biosciences, Inc.",NASDAQ,NASDAQ
@@ -3156,6 +3157,7 @@ TITN,TITN,Titan Machinery Inc.,NASDAQ,NASDAQ
 TJGC,TJGC,TJGC Group Limited,NASDAQ,NASDAQ
 TKLF,TKLF,"Tokyo Lifestyle Co., Ltd.",NASDAQ,NASDAQ
 TKNO,TKNO,"Alpha Teknova, Inc.",NASDAQ,NASDAQ
+TLAC,TLAC,Three Lions Acquisition Corp.,NASDAQ,NASDAQ
 TLF,TLF,"Tandy Leather Factory, Inc.",NASDAQ,NASDAQ
 TLIH,TLIH,Ten-League International Holdings Limited,NASDAQ,NASDAQ
 TLN,TLN,Talen Energy Corporation,NASDAQ,NASDAQ
