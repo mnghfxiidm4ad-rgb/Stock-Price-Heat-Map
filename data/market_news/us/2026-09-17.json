@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,637.76",
+      "change": "+1.14%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,418.30",
+      "change": "+1.69%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,778.04",
+      "change": "+0.61%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.95%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: S&P 500, Dow, Nasdaq 100 Futures Gain Despite 25 Bps Fed Rate Hike— SNAP, LEN, GNRC i」と伝えた。",
+    "海外メディアは「US Stock Futures Rise After Fed Rate Increase as Investors Await Bank of England Decision: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「US Stock Futures Rise as Oil Prices and Treasury Yields Decline: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比+1.14%の7,637.76で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNam44M0NnNmVrXzRGdXVaQ19ibDJLYjF5dkc0aHZQY2IxV3FWSFZTRHVOZVhYV1hfTTZlM3Q4NkYyZmxnaGtXM3ZuQW5RcE5JUVdGNUxtWHBrNjRLbmI3SkdWQzRJR3lDY2NRaFBsV2c1N3BqZmxmNVROVzlXUENNdUR6T0FzU0Z3OEp3cFJTYnhaZC05dXhiZW5aYmlLcGdPbjNTazEyWTB3WlpiMTRpS2t5TUhwa014cFB2UDZiSzhfd2hzWVB4Y1dmMlJVQ3lQTl8wYXQ4Yi1UeHpnbWg3Y3doTDFNaUo1YnVSUEl2cw?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdXYycmNSWVh6SE1jb2JxQkh6WUwzTjRiS1ZPYjdBV2h6dVdHaTZHYXV1cThZUnV3aG4zc3lmVkpNZFhrTnNmaEZITEhVRW5tYkluNm5SZGd1WWdaOEg0Y0E2dnQxaDRlTXVvTzNENXpCZGZMMElMeEdLeEFfSDJwdDhOYkUya19hUU5iMGdwYWNUT1RS?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMVJCdWp2REtuM0ZyMmd3d0hzSmtSS2UwZ01sRjJuRjhKX3F6ZndpbUtPTm9wdVFURnZTVnJKVThwV3ZmWjQtcDFiVl90b0lhbGZmVzZhQ0cyMmk2VFZBQU1LU3Atazh6dkhCX0NFakxXR3VlYlAyRXROZ1U0ZERtRHQ1UXVpMGtlbHJBWmtDMEllVW1s?oc=5"
+  ],
+  "generated_at": "2026-09-17T22:55:51+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
