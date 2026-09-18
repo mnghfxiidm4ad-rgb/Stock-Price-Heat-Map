@@ -1068,6 +1068,7 @@ ESQ,ESQ,"Esquire Financial Holdings, Inc.",NASDAQ,NASDAQ
 ESTA,ESTA,Establishment Labs Holdings Inc.,NASDAQ,NASDAQ
 ETON,ETON,"Eton Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 ETOR,ETOR,eToro Group Ltd.,NASDAQ,NASDAQ
+ETRA,ETRA,"Electra Therapeutics, Inc.",NASDAQ,NASDAQ
 ETS,ETS,Elite Express Holding Inc.,NASDAQ,NASDAQ
 EU,EU,enCore Energy Corp.,NASDAQ,NASDAQ
 EUDA,EUDA,Euda Health Holdings Limited,NASDAQ,NASDAQ
@@ -2336,6 +2337,7 @@ OFSSH,OFSSH,OFS Capital Corporation,NASDAQ,NASDAQ
 OFSSO,OFSSO,OFS Capital Corporation,NASDAQ,NASDAQ
 OGI,OGI,Organigram Global Inc.,NASDAQ,NASDAQ
 OHAC,OHAC,Oceanhawk Acquisition Corp.,NASDAQ,NASDAQ
+OIG,OIG,Orion180 Insurance Group Inc.,NASDAQ,NASDAQ
 OIM,OIM,OneIM Acquisition Corp.,NASDAQ,NASDAQ
 OIO,OIO,OIO Group,NASDAQ,NASDAQ
 OKTA,OKTA,"Okta, Inc.",NASDAQ,NASDAQ
@@ -2976,7 +2978,6 @@ SNTG,SNTG,Sentage Holdings Inc.,NASDAQ,NASDAQ
 SNTI,SNTI,"Senti Biosciences Holdings, Inc.",NASDAQ,NASDAQ
 SNWV,SNWV,"SANUWAVE Health, Inc.",NASDAQ,NASDAQ
 SNY,SNY,Sanofi,NASDAQ,NASDAQ
-SNYR,SNYR,Synergy CHC Corp.,NASDAQ,NASDAQ
 SOCA,SOCA,Solarius Capital Acquisition Corp.,NASDAQ,NASDAQ
 SOFI,SOFI,"SoFi Technologies, Inc.",NASDAQ,NASDAQ
 SOGP,SOGP,Sound Group Inc.,NASDAQ,NASDAQ
@@ -3500,6 +3501,7 @@ XFOR,XFOR,"X4 Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 XGN,XGN,Exagen Inc.,NASDAQ,NASDAQ
 XHG,XHG,XChange TEC.INC,NASDAQ,NASDAQ
 XHLD,XHLD,"TEN Holdings, Inc.",NASDAQ,NASDAQ
+XIII,XIII,Churchill Capital Corp XIII,NASDAQ,NASDAQ
 XLAB,XLAB,Exascale Labs Holdings Inc.,NASDAQ,NASDAQ
 XLO,XLO,"Xilio Therapeutics, Inc.",NASDAQ,NASDAQ
 XMAX,XMAX,"XMAX, Inc.",NASDAQ,NASDAQ
@@ -4670,7 +4672,6 @@ HBM,HBM,Hudbay Minerals Inc. Ordinary Shares (Canada),NYSE,NYSE
 HCA,HCA,"HCA Healthcare, Inc.",NYSE,NYSE
 HCC,HCC,"Warrior Met Coal, Inc.",NYSE,NYSE
 HCI,HCI,"HCI Group, Inc.",NYSE,NYSE
-HCWC,HCWC,Healthy Choice Wellness Corp.,NYSE American,NYSE American
 HCXY,HCXY,"Hercules Capital, Inc. 6.25% Notes due 2033",NYSE,NYSE
 HD,HD,"Home Depot, Inc. (The)",NYSE,NYSE
 HDB,HDB,HDFC Bank Limited,NYSE,NYSE
@@ -4709,6 +4710,7 @@ HNI,HNI,HNI Corporation,NYSE,NYSE
 HOG,HOG,"Harley-Davidson, Inc.",NYSE,NYSE
 HOMB,HOMB,"Home BancShares, Inc.",NYSE,NYSE
 HOS,HOS,"Hornbeck Offshore Services, Inc.",NYSE,NYSE
+HOST,HOST,Host Digital Inc.,NYSE American,NYSE American
 HOV,HOV,"Hovnanian Enterprises, Inc.",NYSE,NYSE
 HP,HP,"Helmerich & Payne, Inc.",NYSE,NYSE
 HPE,HPE,Hewlett Packard Enterprise Company,NYSE,NYSE
@@ -5615,7 +5617,6 @@ SAN,SAN,"Banco Santander, S.A. Sponsored ADR (Spain)",NYSE,NYSE
 SAP,SAP,SAP  SE ADS,NYSE,NYSE
 SAR,SAR,Saratoga Investment Corp New,NYSE,NYSE
 SARO,SARO,"StandardAero, Inc.",NYSE,NYSE
-SAT,SAT,Saratoga Investment Corp 6.00% Notes due 2027,NYSE,NYSE
 SAV,SAV,Saratoga Investment Corp 7.50% Notes due 2031,NYSE,NYSE
 SAX,SAX,Saratoga Investment Corp 8.00% Notes due 2031,NYSE,NYSE
 SAY,SAY,Saratoga Investment Corp 8.125% Notes due 2027,NYSE,NYSE
