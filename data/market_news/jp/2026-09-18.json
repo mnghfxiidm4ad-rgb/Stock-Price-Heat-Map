@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,018.95",
+      "change": "+1.38%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "426.30",
+      "change": "-0.26%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.83",
+      "change": "+1.82"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "食品"
+  ],
+  "news_bullets": [
+    "日銀 政策金利1.25％に引き上げ決定も円安進む 委員2人の利上げ反対が影響か 植田総裁午後3時30分から記者会見 今後の利上げのペースは？。",
+    "植田日銀、利上げ回数は半世紀で最多 1.25%で中立金利の下限超え。",
+    "日経平均、終値882円高 日銀利上げ「逆風にならず」。",
+    "日経平均は前日比+1.38%の65,018.95円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1vRWFyRnZvaHFTSE1MTW0xMU5FSmNOZFhOcXdCMXNwdVZKWTdvMDRzQmZCd215MWlRWEdZdUtlaHBTWFc5bm9GTnJPS3NmSzNBWXlIb1Zvaw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HSmNYV2hIZ3dCOUpjYzFjVVhxMXRPYWhLU3ZST2d4bndtMUpTenJSb2RlLTZabHRDMGNrclBLYVJmYWVMRFNXQ293a0lnRm5faXQ4VDlPNzZUZ1NMZU9TbFBDc0FEUnlaekpFcQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Zc3RhMHNYcHpXaXV5VzB0cGNDRWxxTVhHMV8zSHdvYzQyZmRGaFJVaFhjLTMtQ0JINnRFZlFOOTU1TmRCdUY5Y2VpblJSMThrZmE3bVBIcEcwU3NsWV9RWFVGT1VHV0c3VklsNg?oc=5"
+  ],
+  "generated_at": "2026-09-18T12:00:26+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
