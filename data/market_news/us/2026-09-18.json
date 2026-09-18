@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,650.50",
+      "change": "+0.17%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,522.54",
+      "change": "+0.39%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,682.64",
+      "change": "-0.18%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.00%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq, Dow Set For Mixed Open? US Stock Futures Seek Direction After Fed's First Rate Hike In Three Years」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 Futures Rebound After Fed Rate Hike: NVDA, NBIS, SNAP, SPCX, BE, GNRC Stocks In Focus」と伝えた。",
+    "海外メディアは「Stock Market Today: S&P 500 Rises, Nasdaq Gains 0.5% as Oil Fails」と伝えた。",
+    "S&P 500は前日比+0.17%の7,650.50で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLVhGcFFvMW9qWm5UQmdDcTRRSDluT201MDB5cmpNeFlBSzljMWVhckdEaWQ3aTBRLVlGeF9wV05mMHBLQzJibWtLUDdUTGlPakFHX08wRjZSZ2ZvVlRwS3BVazh5OWNMVWNPLS1qMGRXQm9XT2wzNXQ5RmdxVkQ5bVVaQ3p5aUtHNTI3Vzln?oc=5",
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUXJEaHROQVZGQ1piWlVodkxVX2tnRFR3ZVZJbXo3SzlsYXdwTERsVzhvSlhFbzlBYTA1blhkaXEzMnF1X29CREEtN2Y2S3Q2dWZzckJ2dmh6d2Y5NGV1bl9lb2FlSjhKaWFaZC1zVS1KNTR5U1lNTjUzRTZRb2U0WDNTSTFtTkhXa1ltbFBfMmdQbnAyN2RVSm9QbDhxUGJPWnRaVUNZVEpVSjV5cVg4bXFCMmd1VkM5YU1weDZPQTRYdFF6OHY5dE5OSTZsam45aElaVW41ZWpHMjE5bjJlWl8wUFU0eVc1eE1mdw?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVg2OWxtSnU4bmZyUlJzR2FnWmFORi1vc2tGT2VGUWtUWk9KNEpQTkF5cEZDMHRJUFZMb1lsZDJKaUZLdjRtak44b2Z6RjhBZ1FHUUIzcjRaYnk2ZGt4SnZETGNDem4tOXhnZHp0M3c0Wll0UkU3TVRMVno4a2JrRlRQV0dTSWtXTERwWFFSQkFIeFVIR2N0WXo0SlpmXzQ?oc=5"
+  ],
+  "generated_at": "2026-09-18T22:41:35+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
