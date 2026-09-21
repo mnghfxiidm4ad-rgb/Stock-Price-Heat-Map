@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-21",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,764.70",
+      "change": "+1.49%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,122.09",
+      "change": "+2.26%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,048.83",
+      "change": "+0.71%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.96%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Market Today: Dow Gains 300 Points, S&P 500 And Nasdaq Rise As Oil, Treasury Yields Ease」と伝えた。",
+    "海外メディアは「Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil falls」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq rise as oil prices and Treasury yields fall」と伝えた。",
+    "S&P 500は前日比+1.49%の7,764.70で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMk80eGd5SEprbG5kNUFUb1phSW4zTERuTlpNSGsteUhHRnZrQUFMRGlzd01ONHRpRm9XclhHWFFQY0EtYkRWekJyMTZTdVNuNk9QTHk1QnZhTXR5ZVN0eWNBVVhKM3lrZmdQRmtqWUF0bmN6V0trVG5PRnc1cFdDaHR5R19jUF81ZDE3NGxsWk40aElxR19Fd0p4LUprZDBYZC13RFdRS2EyRFNLeWlZS1FWZ2tpRjlzWXJBLXZaMkxIREZsdHNWWVotUjlSSXFVYld6ZdIB3AFBVV95cUxPLVo2amlIZF9QOW1fcks5TE4xRDdaTmh3UU5sTGxRX2FoT2tsaVBQSkdBTjBnQnJRdFlqRG5CNGpnQTBXVVltaDY1aUtab1U2QjVuanBmYklvSG5wY2RBR0xOYWxhdi1ZMHNCUnU4SWZNNkRaeE1uQWw0TTJBM082RS1oWHVaV0FoM2ptcHlGS2gtWDF5ZlZjc21GYUE0R3BpZUJoaWs0eU9GZHllM1U4WmR1SGpVVEI0cVNrS1JaSlJMUDJVWXQyTFRsQXh3bzlIUklYcy1EVzRBVGRa?oc=5",
+    "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTd0dpVnU0VnNlVnFOQVNQcG1lcVJONVZvcnVsOG0zVWhFTjkxWFZnMDdEbW1NTHlPdWREeGxqME9jaDdlRVFqQ3hObDFENVlRdzdiZUxYd25QZWFYWXhsUEpCMjhGb2pVMUtwcjQxbzE?oc=5"
+  ],
+  "generated_at": "2026-09-21T23:24:05+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
