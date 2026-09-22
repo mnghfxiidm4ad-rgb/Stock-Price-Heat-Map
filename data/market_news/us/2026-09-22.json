@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,764.64",
+      "change": "-0.00%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,244.28",
+      "change": "+0.45%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,863.69",
+      "change": "-0.36%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.97%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "金融",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Steady Ahead of Trump’s UN Address as Alibaba Unveils New AI Chip: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Wall Street clôture sans direction claire: Nasdaq +0,45%, S&P 500 +0,00%, Dow Jones -0,36%」と伝えた。",
+    "海外メディアは「Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus」と伝えた。",
+    "S&P 500は前日比-0.00%の7,764.64でほぼ変わらず取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTg5a2xFam1zdzFaMkNVRXhTaWJsS3gtMHV6RGRKUUZEMVlnTVVoNmpwY25RczNmR3lhLVhSdEdnOWJzaTk4RFhxVWFnX0xlUS1vb0JNN0NQemJNZXpOdXgzVWFIaHloTFZXc3ZVNFlDelh2VUt3OUdUVE45RGxtTU5sU09IM00wM0RrM3BWQk1lVW1KRHhYc3d3?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10dXZqcFlib3llTUF0d2tvd1VEVXBrZ1JjSUpTay1BSWFNeENHNXZFMkhwZGJCNnRPdzBGbE56LUltQVgwdmNJZ1VmdXNYRm13OFFfVWFma0JfQ292ZFNCWDR2QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZW9MczQ5eU5PM2tvT01QNlpUZU90ejZheGhlTnhQd1VEU2phYVZpTjB0cmN6XzFPQ3Zac3ZrOU9Kc1B2MGs5bzM4YkF3NHozS25mRGU2eE85Tnd0WWt5bWNxZGJsUWJVUk5weTFNT3hGbllPR2Etem1OU3lVY3l2S3ZYQ29ITm1WWkRVUnZqNDFPeWM?oc=5"
+  ],
+  "generated_at": "2026-09-22T23:03:31+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
