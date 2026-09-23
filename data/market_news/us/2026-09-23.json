@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,706.03",
+      "change": "-0.76%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,936.04",
+      "change": "-0.69%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,511.59",
+      "change": "-1.03%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.11%",
+      "change": "+0.15"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "エネルギー"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock market today: Dow, S&P 500, Nasdaq tumble as 10-year Treasury yield surges to 2007 high」と伝えた。",
+    "海外メディアは「US Stock Futures Edge Lower as Markets Assess Diplomacy, Oil and AI Developments: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Wall Street Futures Gain as Meta’s Muse, Oil and U.S. PMI Data Take Focus: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "S&P 500は前日比-0.76%の7,706.03で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1B0MDd4V1JhMm9LcEFRRE5UWGRINU15S2ZHeEJtVXVEempaOGxSazJVVWpXdGtnandJcThCWGhMbUZoYVpjQmMxSEpkaW9kXzJCdWx1OGhucnJ2RFNyVnEwTXdTam4tR09BTmp2MUtsS3R5TlZPSmk5YlY1aGJpVm1R?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3lFbV9OQTJ4ek1nY2FpVFJCUWRQY18tSGR6dGRkYmxYMGVuMFgxMUJIRm5YSlhVQXl5WHJVYlFIeWR1Vy1rTWc1YkxCZ2tSUlpMdWxlZ0N0bXVGcVJWaDZqQlRkaHN3NExJNl9JMWE1MXkwU1owZ0tjMnVJV1hmQmY5SVI?oc=5"
+  ],
+  "generated_at": "2026-09-23T23:00:54+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
