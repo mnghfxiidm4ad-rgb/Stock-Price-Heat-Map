@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,513.99",
+      "change": "+0.76%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "424.80",
+      "change": "-0.35%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.77",
+      "change": "+1.31"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "東証前引け 日経平均は続伸 一時1200円高、米半導体株高が波及。",
+    "日銀政策金利1.25％程度へ～加速する利上げと円安の行方。",
+    "東証14時 日経平均は膠着 長期金利上昇の影響は限定的。",
+    "日経平均は前日比+0.76%の65,513.99円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jU2RxSTJVc2o2YTVwMk51S1BZQ3hnYkhqZmozX2U4QW9BaWE2SmZzRjNXQi0wUk16ZGhaN0k3ZGlrTzlzNlcyMVpUakJOT05rdUxnWkh2blZRUmhuSDFlSFJOaVdXeFZaY1ppWA?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfR0Q1X3hrVWR2eVh5N1FELVl2WTkzUWl3Nl9wYldWcDk3WmtuaUE1M1RmOGxsV3ZUaGpVVE94dU1oNHV3UERIRE1LTGhsckZWZDRaUl9RX3JIM3J1YTJV?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rNTNOdTZSM1BYUjhuUld5bFdSbVJOM3BDc1dlcUpaa0JxR0oybXB5ekNBUTJyZE00VzBXcGNJT0F2Q2VBUERsLTZhWjdDa0wyWEY3eE9XOHFVazZEY2syM182dGRMWkNaeVgxWA?oc=5"
+  ],
+  "generated_at": "2026-09-24T12:27:26+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
