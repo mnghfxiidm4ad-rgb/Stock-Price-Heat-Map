@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,704.13",
+      "change": "-0.02%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,939.37",
+      "change": "+0.01%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,349.98",
+      "change": "-0.31%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.16%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "ヘルスケア"
+  ],
+  "bottom_sectors": [
+    "素材",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「U.S. Stock Futures Fall as Treasury Yields and Oil Prices Rise: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「U.S. Futures Decline as Investors Await Trump-Xi Summit and Assess Higher Bond Yields: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Wall Street Futures Decline as 10-Year Treasury Yield Reaches Highest Since 2007: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "S&P 500は前日比-0.02%の7,704.13で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU2pjczRPbi1Sd0RQTXM1VWhJX292blB3dkI0bk5RNkJKOFZ2VWlVREFkclVoQjZ0Tmx0aENCUFl1YzJrWTg5cUo5Q1pKbW1NUjlmeS1IZUgxMG1MSG1BZGZ1YzhpNk83dU5ZcjhPTmJ5bGtGYXNWUnJ6eXA4R2gzQ2NISGI4Q3JaelBjUm1jQXdzaHZjS2g5Ui1B?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclVISU80QTd2SjhRTzd3ejF0c1FSZmFDWi1pcFBkUmgwYVlCVEQ4NWJRTWJvYi1TMmNVUUNuNFNvOGV5N09BVWZlM1VLaDRfQkhqclZzRFJyc1dOa0pVSDRaeDhNOWtVQTN1WlB4T1VaN1VOT3N1RjhKaDROTjUzOXZ5dzFaM2ZieGUtQWVwV3pRX083dEVTUTlrc0FYZm8?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxONTY1Z2N4akhkRWJsTzlzZ3ZrbmxyN2F1QzN4YWtHazFCNWxfS2NrYmpTdDV4bVp3QlhJSWZETjJUSUdTNXZqYnRmUnZ3LS1udmw1dHl5WEF5OU5pRkkyb0VpVEUyMTZXZE1CcC05UkdEOU4wUkRSbGlXVkpwWlh1VmNaSmFXdw?oc=5"
+  ],
+  "generated_at": "2026-09-24T23:16:30+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
