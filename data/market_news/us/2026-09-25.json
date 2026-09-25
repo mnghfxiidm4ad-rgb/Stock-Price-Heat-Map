@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-09-25",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,743.41",
+      "change": "+0.51%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,068.72",
+      "change": "+0.48%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,828.62",
+      "change": "+0.93%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.18%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Futures Point to Higher Open as Treasury Yields, Oil Prices Pull Back; Nasdaq, S&P 500 on Pace for Weekly Gains」と伝えた。",
+    "海外メディアは「US Stock Futures Rise as Treasury Yields Remain Elevated; Costco Reports Higher Quarterly Sales: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「S&P 500 posts weekly gains despite Treasury yield, oil headwinds (SP500:)」と伝えた。",
+    "S&P 500は前日比+0.51%の7,743.41で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQMy1aYjJ3MHEwWnhpX0dmallxYXQxOWYxNUxRSnl0UVdsU1FiYWRyRHlXSnhhYVdfX0c5Q0hGQ2VaTjJucUYtOUE4RjB1cGp6bFM4UTc3a3ZuOUlKZnVqQnJSUE1TR2dlUnI2Z3lOSGJWNC1tZ1NxNkdxSXI1YTQxNUxOdmlLUkVac1VCM085TUNJNGprR0JFeFM0MnhiQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbml0TVg2aHBNbUNmaDdOSkJCV3ZCUVM2YzVpYnFfZnAzak9vLWc0NUZuVUg3LW14dm9qWmZwLUx1VkZVZ2ZUSGVLbE1qb1l5dXpiSWtDaF93QTM5cEJhQUdFV1FCYksxVWtlMmZYVDZHcXBSZ0ZNcmtXS1BUYUxwUWlEZ1NrS0hEZ1lrMXFQWV9mei1Bd25sLWJxSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUVWVE01Nl94ZWdCZGdPTmlOcDRPbFJqLVd3eFgzWDZ5bG1ndG9sNGhfQ0MtOGhkX0wwd2hzY3dlWUphRGlzeDNlaEVpRXN3bVJvdnV4ellKS2hjM3RlTVc0cjlyVlVYc0U2VkV5NkFSRGhJUGlYR2p3d2dxOV9UQTQzbUc3Ui1yUXhyVGpEdlJoNklRMTN5NUlvR1VybnlsZmZGa21KTW4?oc=5"
+  ],
+  "generated_at": "2026-09-25T23:21:44+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
