@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,364.20",
+      "change": "+1.30%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "430.30",
+      "change": "+1.29%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.62",
+      "change": "-0.65"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "金融（除く銀行）",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "東証大引け 日経平均は5日続伸 AI・半導体関連が押し上げ 中間配当の権利取りも追い風。",
+    "東証寄り付き 日経平均は続伸で始まる 一時400円高 配当狙いの買いが支え。",
+    "東証14時 日経平均は高値圏 配当狙いの買いが支え 銀行株高い。",
+    "日経平均は前日比+1.30%の66,364.20円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRbE5ENHp3ZlJpREY1RGR1TnN5ZmJmYlJJX09uRmk1NlVqQlg0Ri1VM2J3V2NXMk9aOGxPMkZ0TU4tTlpic0pZaFdLSFZITmVxd09PN1FUY21NcEF2TkYzVFpuLVA1N2dRd1oxdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE12VlRrb3haV1AtTnhHVlhSRjIzRElESFNjNVhaNmQtcEdhWjEwQjZsREhQVG9jVldpX3B5N2dqWlZVN0JUMmR4d2FvTmxKY3Joa3NNa1V4bHZhay1DRU9taVVuVjkxRE5FRko3ag?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSa0hNNkQ5b200QW1iZmhYVkFyenk3VUxPV0E1MnlMMlZ2NG9kWGtpaXRITW9aVjBLei0tNWg4bGVGcmd4eXdpOFU2anc0MGtSbjJkZmZOcXh2TEhHWVZMOEFnZzI3OUlXN200dg?oc=5"
+  ],
+  "generated_at": "2026-09-25T12:28:13+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
