@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,877.62",
+      "change": "-0.73%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "428.20",
+      "change": "-0.49%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.35",
+      "change": "-1.46"
+    }
+  },
+  "top_sectors": [
+    "金融（除く銀行）",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "医薬品",
+    "運輸・物流"
+  ],
+  "news_bullets": [
+    "［動画］【テクニカル分析】今週の日本株 10月相場入りの日経平均はどうなる？日銀短観・米雇用統計・マイクロン決算、今週は意外と注目材料が多い＜チャートで振り返る先週の株式市場と今週の見通し。",
+    "ＡＩメカテック[6227]：大手半導体関連メーカーより大口受注のお知らせ 2026年9月28日(適時開示) ：日経会社情報DIGITAL。",
+    "マクニカホールディングス[3132]：当社連結子会社によるインドの半導体・電子部品商社 Elektronika社の株式取得に関する合意のお知らせ 2026年9月28日(適時開示) ：日経会社情報DIGITAL。",
+    "日経平均は前日比-0.73%の65,877.62円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TU25qYnJfdm03ZWNnSTY5Zl82UkdkbTJkWGg1QVBpZzVnSzlCYmE1anNnS29RdFNNUGNnRm02TG9pcThQR25BQy0yRW84bnlNc0hGYXhoT2VaQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWx0RkQtb0VIcTlySEtyZjNzLVpOMVNXY1hxM2RJWHh2ZzFiTUNIODN2UDgyT2dSQTA5RjIwdVQxYm5kQmxBOGJoaUtSZlFVTTJia2pESm01cFFwcXJtQWpUUi10ekFTM2tBSUNPMGkzWlZsSUNOczNKcFRScFgzQURFTlE0eFVadHF4NlpyQThWTGZJeW9GZGdoaHN5SEFVSDlyeU9UNE5NQWNUR21OYlc4TlhKYUpCcXYyWDJWNjZha2Q0aGNGRjJUVnc?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGRRZ0dlSElBbTBGVzhYRktISjNaUHNZM2tyT09IT0dfdm1abG5ibzh0SEZBRFg3OHlKMzZzTzRTRHhlX3dMYnQ2Q1U3NXZtVlJkMlZvSldJVnFCV3RrT3ZEc1JydHd3UkxOdTVBN1RxMXRaVUhvYS1qQUh6MUVzYVdTYmc4R0IzRWFGSW1wWnVJSUJSdjBaQTFkdXNNX3hwT2pqbFBLRHptUTBkV3VQZGdqYV9xMkpzMnpqQVRQNWZQLWxyZTFSR0JLX00?oc=5"
+  ],
+  "generated_at": "2026-09-28T14:46:58+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
