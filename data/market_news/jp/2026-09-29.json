@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-09-29",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,481.27",
+      "change": "-0.60%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "425.40",
+      "change": "-0.65%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.45",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "機械"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "東証前引け 日経平均は続落 米半導体株安や原油高で、配当落ちも重荷。",
+    "【FX】9/29 ドル円157円台、円安けん制は効いている？ 米JOLTS・消費者信頼感に注目 ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均は895円安、ダウ平均先物など軟調で東京市場の株価の重しに(フィスコ)。",
+    "日経平均は前日比-0.60%の65,481.27円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fZVVyTU9pa0pkeHR2NldlR0VvbG54YmI0SmhScURIcXpQMTZUT3BPdUN5dUo2cjZRb2VXc0pOQTdwcHpUekFkZlVEX1hVdTEwbVUzWHk1NVV2Y1p2T3pVcGNsRHFmRXEyQU9wVg?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rSzFSNVpmQVgwUUoyMHE3cFp5Y0tOeVJha0tScU52TU94TkREWWF1MlNhN29TMC10LXQ0MktDR3owaTFsclFLZUZlX0t4MFNVMERXTFZYNUdYLVF5RnhxanZnWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjkxeHpxa282a2RJRmw1R096QmQ2TkJzYjYwMHVNMjdmckFXT2NteS12d1ZqWFJMNHUtT1h0UGNxUm1pdzUtc2JKNmRQQ3J1bkNrb2ZUSGdwT1hjbjJDcVpCcGdsWmg4TVM4NkJESTNzb0lyM25oX29OU3dtZWJHNzE0WmRRazg?oc=5"
+  ],
+  "generated_at": "2026-09-29T13:36:25+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
