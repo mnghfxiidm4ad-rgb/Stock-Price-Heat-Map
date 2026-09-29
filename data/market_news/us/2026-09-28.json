@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-09-28",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,683.69",
+      "change": "-0.77%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,820.38",
+      "change": "-0.92%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,481.51",
+      "change": "-0.67%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.24%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「Dow Slips Over 350 Points, Nasdaq And S&P 500 Also In The Red As Treasury Yields, Crude Oil Prices Rise」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow, S&P 500 and Nasdaq Fall, Oil and Yields Surge」と伝えた。",
+    "海外メディアは「Stock market today: Dow, S&P 500, Nasdaq fall as Treasury yields continue to climb」と伝えた。",
+    "S&P 500は前日比-0.77%の7,683.69で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb1BBdjdEdnl4VVdFbHVJQWROT3ktUnl4SVRVb21aSGViQVg1SE9hQnEwNTVwMnFzb2hja1A0SnNBVGRDZWpZSHJZeE1RSml1QmRXcmpsRzFRN2FZNDY3OWVSM3Jsek56MVlKWWNqODZ2cE1HeWR5anhpU2RNTjhLampvbW1reXdVd0w2cDRUVi1ISG1uWG1NVVp1VUZVaGVPZHdtWUhjanR4M1hTTjdYalpiQnVmSDNMekxycElDU2lFUG83RC01SF9kM19DZ215ZWxoRHFEQmFYczJSMFlKUU9HNWxieFhlek9QV3E2aXRlUDRhbGxn?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHUzMVg2TmRNdmQ5NTlQbnNzek14eFhXRUU4aDBPblloQ1hldm1mdDBIN0JuMTFzNktENEdWNTU0ZUU0bkdpSjR1bjVRNkJQZ1V1Qm9mUDRpNkxPVk1rUlJoTkJtYUQzaHdiUk9Qc2NLZmFHeGx1aVRscEt5U1d3RWtXTHo0TnJ2bEdQM2gtc19oYlVsSFNJTlpQYjFibU5peWY5ZTZ2QQ?oc=5",
+    "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html"
+  ],
+  "generated_at": "2026-09-29T00:27:31+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
