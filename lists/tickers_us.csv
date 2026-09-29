@@ -1149,11 +1149,11 @@ FFIN,FFIN,"First Financial Bankshares, Inc.",NASDAQ,NASDAQ
 FFIV,FFIV,"F5, Inc.",NASDAQ,NASDAQ
 FGBI,FGBI,"First Guaranty Bancshares, Inc.",NASDAQ,NASDAQ
 FGBIP,FGBIP,"First Guaranty Bancshares, Inc.",NASDAQ,NASDAQ
+FGC,FGC,FG Communities Holdings Inc.,NASDAQ,NASDAQ
+FGCPP,FGCPP,FG Communities Holdings Inc.,NASDAQ,NASDAQ
 FGI,FGI,FGI Industries Ltd.,NASDAQ,NASDAQ
 FGII,FGII,FG Imperii Acquisition Corp.,NASDAQ,NASDAQ
 FGL,FGL,Founder Group Limited,NASDAQ,NASDAQ
-FGNX,FGNX,FG Nexus Inc.,NASDAQ,NASDAQ
-FGNXP,FGNXP,FG Nexus Inc.,NASDAQ,NASDAQ
 FHB,FHB,"First Hawaiian, Inc.",NASDAQ,NASDAQ
 FHTX,FHTX,Foghorn Therapeutics Inc.,NASDAQ,NASDAQ
 FIBK,FIBK,"First Interstate BancSystem, Inc.",NASDAQ,NASDAQ
@@ -1364,6 +1364,7 @@ GOOGM,GOOGM,Alphabet Inc.,NASDAQ,NASDAQ
 GOOGN,GOOGN,Alphabet Inc.,NASDAQ,NASDAQ
 GOSS,GOSS,"Gossamer Bio, Inc.",NASDAQ,NASDAQ
 GOVX,GOVX,"GeoVax Labs, Inc.",NASDAQ,NASDAQ
+GOW,GOW,GOWell Energy Technology,NASDAQ,NASDAQ
 GP,GP,GreenPower Motor Company Inc.,NASDAQ,NASDAQ
 GPAC,GPAC,General Purpose Acquisition Corp.,NASDAQ,NASDAQ
 GPAT,GPAT,GP-Act III Acquisition Corp.,NASDAQ,NASDAQ
@@ -1645,7 +1646,6 @@ IOTR,IOTR,iOThree Limited,NASDAQ,NASDAQ
 IOVA,IOVA,"Iovance Biotherapeutics, Inc.",NASDAQ,NASDAQ
 IPAR,IPAR,"Interparfums, Inc.",NASDAQ,NASDAQ
 IPDN,IPDN,"Professional Diversity Network, Inc.",NASDAQ,NASDAQ
-IPEX,IPEX,Inflection Point Acquisition Corp.,NASDAQ,NASDAQ
 IPFX,IPFX,Inflection Point Acquisition Corp. VI,NASDAQ,NASDAQ
 IPGP,IPGP,IPG Photonics Corporation,NASDAQ,NASDAQ
 IPHA,IPHA,Innate Pharma S.A.,NASDAQ,NASDAQ
@@ -3148,6 +3148,7 @@ THEO,THEO,BOA Acquisition Corp. II,NASDAQ,NASDAQ
 THFF,THFF,First Financial Corporation,NASDAQ,NASDAQ
 THH,THH,TryHard Holdings Limited,NASDAQ,NASDAQ
 THRM,THRM,Gentherm Inc,NASDAQ,NASDAQ
+THRMV,THRMV,Gentherm Inc,NASDAQ,NASDAQ
 THRY,THRY,"Thryv Holdings, Inc.",NASDAQ,NASDAQ
 TIGO,TIGO,Millicom International Cellular S.A.,NASDAQ,NASDAQ
 TIGR,TIGR,UP Fintech Holding Limited,NASDAQ,NASDAQ
@@ -5629,7 +5630,6 @@ SBR,SBR,Sabine Royalty Trust,NYSE,NYSE
 SBS,SBS,Companhia de saneamento Basico Do Estado De Sao ,NYSE,NYSE
 SBSI,SBSI,"Southside Bancshares, Inc.",NYSE,NYSE
 SBSW,SBSW,D/B/A Sibanye-Stillwater Limited ADS,NYSE,NYSE
-SBXD,SBXD,SilverBox Corp IV,NYSE,NYSE
 SBXE,SBXE,SilverBox Corp V,NYSE,NYSE
 SCCD,SCCD,Sachem Capital Corp. 6.00% Notes due 2026,NYSE American,NYSE American
 SCCE,SCCE,Sachem Capital Corp. 6.00% Notes due 2027,NYSE American,NYSE American
