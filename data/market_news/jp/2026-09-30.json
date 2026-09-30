@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-09-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "66,753.72",
+      "change": "+1.94%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "431.50",
+      "change": "+1.43%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.87",
+      "change": "-0.49"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "機械"
+  ],
+  "news_bullets": [
+    "【FX】9/30 ドル円FRB早期利上げ観測後退で156円台、米PCEに注目 ｜為替市場ニュースの振り返り、今日の見通し。",
+    "午前の日経平均は反発、原油安や米利上げ観測後退を好感 ＡＩ・半導体に買い。",
+    "東京株式市場・前引け＝日経平均は反発、原油安や米利上げ観測後退を好感 ＡＩ・半導体に買い。",
+    "日経平均は前日比+1.94%の66,753.72円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RbHNFd2dLR0hfVWRyUkxxN3BwQnh2N3RUMTg2eWtfN3RHZ3VOV19IZ2VtNFp0N2dVNTBVYUlhRk1RTDRSTkxqRkI3ZzNjYkl0V3kyd0FJMmlNeERPRk42U01wcw?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMHFPUnhrVWJESUlQY2N5R1p6RjB6cjR6N0RubkY4V01RVTdSelZSeU9ZS0FZd2FHcmIycVFBLWpSeUs0YUZYTUFkdTlDcVg1dW96SWJnc0tUVlppYVBhVDZNcDRGd2VpUEkwUTZ6SS1kOXVRLWZDWFdLakFuVnoyZEtiOUtjQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdktxSEI0S0JoUllxdTBLUFQyNU5RaEItc0h6dUNaY0ZwUnFKZDF5ejdWMWQ5Wlg4bzVNTFRnenZvOUlLRDlaNFBTLWI0Z0ZLaTRpQTlwQk5Gcll4RTVleWlmOXVaZ0F2Vkd5LVBkazV4cnRPbEltN3ZtYlZsbmp6RF9JT1Q?oc=5"
+  ],
+  "generated_at": "2026-09-30T13:13:23+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
