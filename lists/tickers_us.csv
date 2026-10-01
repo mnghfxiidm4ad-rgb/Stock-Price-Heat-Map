@@ -26,6 +26,7 @@ ACAA,ACAA,Averin Capital Acquisition Corp.,NASDAQ,NASDAQ
 ACAD,ACAD,ACADIA Pharmaceuticals Inc.,NASDAQ,NASDAQ
 ACB,ACB,Aurora Cannabis Inc.,NASDAQ,NASDAQ
 ACCL,ACCL,Acco Group Holdings Limited,NASDAQ,NASDAQ
+ACCV,ACCV,Accelevation Holdings Corp.,NASDAQ,NASDAQ
 ACDC,ACDC,ProFrac Holding Corp.,NASDAQ,NASDAQ
 ACET,ACET,"Adicet Bio, Inc.",NASDAQ,NASDAQ
 ACFN,ACFN,"Acorn Energy, Inc.",NASDAQ,NASDAQ
@@ -137,7 +138,6 @@ AIRS,AIRS,"AirSculpt Technologies, Inc.",NASDAQ,NASDAQ
 AIRT,AIRT,"Air T, Inc.",NASDAQ,NASDAQ
 AIRTP,AIRTP,"Air T, Inc.",NASDAQ,NASDAQ
 AISP,AISP,"Airship AI Holdings, Inc",NASDAQ,NASDAQ
-AIXC,AIXC,"AIxCrypto Holdings, Inc.",NASDAQ,NASDAQ
 AIXI,AIXI,XIAO-I Corporation,NASDAQ,NASDAQ
 AKAM,AKAM,"Akamai Technologies, Inc.",NASDAQ,NASDAQ
 AKAN,AKAN,Akanda Corp.,NASDAQ,NASDAQ
@@ -466,7 +466,7 @@ BMRA,BMRA,"Biomerica, Inc.",NASDAQ,NASDAQ
 BMRC,BMRC,Bank of Marin Bancorp,NASDAQ,NASDAQ
 BMRN,BMRN,BioMarin Pharmaceutical Inc.,NASDAQ,NASDAQ
 BNAI,BNAI,Brand Engagement Network Inc.,NASDAQ,NASDAQ
-BNC,BNC,CEA Industries Inc.,NASDAQ,NASDAQ
+BNC,BNC,BNB Standard Corporation,NASDAQ,NASDAQ
 BNGO,BNGO,"Bionano Genomics, Inc.",NASDAQ,NASDAQ
 BNKK,BNKK,"Bonk, Inc.",NASDAQ,NASDAQ
 BNR,BNR,Burning Rock Biotech Limited,NASDAQ,NASDAQ
@@ -1147,6 +1147,7 @@ FFAI,FFAI,Faraday Future Intelligent Electric Inc.,NASDAQ,NASDAQ
 FFBC,FFBC,First Financial Bancorp.,NASDAQ,NASDAQ
 FFIN,FFIN,"First Financial Bankshares, Inc.",NASDAQ,NASDAQ
 FFIV,FFIV,"F5, Inc.",NASDAQ,NASDAQ
+FFR,FFR,FF EAI Robotics Ecosystem Inc.,NASDAQ,NASDAQ
 FGBI,FGBI,"First Guaranty Bancshares, Inc.",NASDAQ,NASDAQ
 FGBIP,FGBIP,"First Guaranty Bancshares, Inc.",NASDAQ,NASDAQ
 FGC,FGC,FG Communities Holdings Inc.,NASDAQ,NASDAQ
@@ -3707,7 +3708,6 @@ AMTB,AMTB,Amerant Bancorp Inc.,NYSE,NYSE
 AMTD,AMTD,"AMTD IDEA Group American Depositary Shares, each",NYSE,NYSE
 AMTM,AMTM,"Amentum Holdings, Inc.",NYSE,NYSE
 AMWL,AMWL,American Well Corporation,NYSE,NYSE
-AMZE,AMZE,"Amaze Holdings, Inc.",NYSE American,NYSE American
 AN,AN,"AutoNation, Inc.",NYSE,NYSE
 ANDG,ANDG,Andersen Group Inc.,NYSE,NYSE
 ANET,ANET,"Arista Networks, Inc.",NYSE,NYSE
@@ -4219,7 +4219,6 @@ DB,DB,Deutsche Bank AG,NYSE,NYSE
 DBD,DBD,Diebold Nixdorf Incorporated,NYSE,NYSE
 DBI,DBI,Designer Brands Inc.,NYSE,NYSE
 DBL,DBL,DoubleLine Opportunistic Credit Fund Common Shar,NYSE,NYSE
-DBRG,DBRG,"DigitalBridge Group, Inc.",NYSE,NYSE
 DC,DC,Dakota Gold Corp.,NYSE American,NYSE American
 DCBG,DCBG,"Dime Commercial Bancshares, Inc. 9.000% Junior S",NYSE,NYSE
 DCH,DCH,Dauch Corporation,NYSE,NYSE
@@ -4566,7 +4565,6 @@ GEF.B,GEF-B,"Greif, Inc. Corporation",NYSE,NYSE
 GENC,GENC,"Gencor Industries, Inc.",NYSE American,NYSE American
 GENI,GENI,Genius Sports Limited,NYSE,NYSE
 GEO,GEO,Geo Group Inc (The) REIT,NYSE,NYSE
-GETY,GETY,"Getty Images Holdings, Inc.",NYSE,NYSE
 GEV,GEV,GE Vernova Inc.,NYSE,NYSE
 GF,GF,"New Germany Fund, Inc. (The)",NYSE,NYSE
 GFF,GFF,Griffon Corporation,NYSE,NYSE
@@ -4822,6 +4820,7 @@ ITP,ITP,"IT Tech Packaging, Inc.",NYSE American,NYSE American
 ITRG,ITRG,Integra Resources Corp. Common Shares,NYSE American,NYSE American
 ITT,ITT,ITT Inc.,NYSE,NYSE
 ITW,ITW,Illinois Tool Works Inc.,NYSE,NYSE
+IVAI,IVAI,Ives Ultra AI Opportunities Inc.,NYSE,NYSE
 IVR,IVR,INVESCO MORTGAGE CAPITAL INC,NYSE,NYSE
 IVT,IVT,InvenTrust Properties Corp.,NYSE,NYSE
 IVZ,IVZ,Invesco Ltd,NYSE,NYSE
