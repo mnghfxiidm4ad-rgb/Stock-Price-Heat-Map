@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-01",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,956.72",
+      "change": "+3.30%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "434.40",
+      "change": "+0.67%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.02",
+      "change": "+0.62"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "東証寄り付き 日経平均は続伸 一時600円高 半導体関連に買い。",
+    "日銀は「普通」の利上げペースへ 2027年の利上げ局面終了後、超長期金利の低下を予想 野村證券・宍戸知暁。",
+    "短い間隔の追加利上げに複数の言及、内閣府は中立金利に踏み込む＝日銀9月会合。",
+    "日経平均は前日比+3.30%の68,956.72円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE52WVlUM21PcWxpRXhhUTVlMG9OLTRxNGZuOW5mS3JIUnRRbHRRMVhLeFJsOXZRQ3JCdEpoNnl1LTQ4Uzl0eHptM3FtZjlJUEN5S2hlR2JXR1lXV3JRam10MHN1WDBQcGVLLVlyZQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MZWVXNWxHQ1VPREtUZmFGQ3Q2U0M2Wmx1QmJtTXpNaGR6OGNFanlwMVdqUDdXcHpKWVEtd3ktZ3ZBRHVCLWVldGd3WHE0QzVkN01rVENmVUpqREdGOTZZ?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRHBLMUMtZTdkX1FuMG40SHJ0Y2VwSWZqUW5TUmN3UzFWdlNkdFJnY2xEVlAyZ1FuMUltQlcwaEVYd05JZUpCcldHdHBSNTgzYnZzM0NXcFVjRTZVWDJERXRQTzM1WFBMYjF4VXE1RGdGOXdTUWdFUE1LdFp3aDRkSU96XzBrclFwMkdFY0t3R28?oc=5"
+  ],
+  "generated_at": "2026-10-01T14:03:47+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
