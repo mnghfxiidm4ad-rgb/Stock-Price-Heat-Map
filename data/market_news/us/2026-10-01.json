@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-01",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,666.45",
+      "change": "+0.19%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,871.60",
+      "change": "+0.04%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,926.56",
+      "change": "+0.04%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.24%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Rise Despite Soaring Treasury Yields As Markets Eye Jobs Report: MU, NKE, IBRX, CEG Stocks In Focus」と伝えた。",
+    "海外メディアは「US Stock Futures Rise as Treasury Yields Ease and Investors Assess Micron Results: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「US Stock Futures Advance as Markets Weigh Micron Results and Lower Treasury Yields: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比+0.19%の7,666.45で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUGdBQUwyYkpyOGgxLTBwMjVJMFBqb3FWWk10VDk0YUptMHZGN0Q1ZUktUWpQLWx0VUxqYmZTRlJCZ3R5aGtreWFzRXNtNzZibWZmTjFzOFdyRjNxVFVkMDNYYVF6Z3R5SzlZMHRDcDhtU3NvRk5jWllXRFZFc1RNN1JXX0Y2ckRkQVJqalJWSEE5T3M?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVJTbnNYQ3dRVnJsQ2lLVlRLalQ5Z2lNS2RjNldzM2tHMFZQbXhGbVFTbjdmZ1VOajJldlVYa04tOTE0a2x3MXpIU0ZKLXJJRTN5dGhfTkY0d2haOFNGN3hFaXpnRmRxOVRLb1hLZmlqa29RcWNQRlAtV1NzZ2ZPRkMzcEUtWUZjSmlvb1N6YnR5LVhSMUZ3OEVMcw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWIyUjlzMFZnSWpmMzFMSWlLZVJ0alNYcUNsbjN5dFVtd2lfQ1hqbFk0N3g4Z1BTcWJGMW1manJsZGdIZEFQT3dBTnNiUmdnZGZfN3V6WHZaMTdOZTB5SzdETWRZY2huSDNkbm1fZXpVa2NkeE9hRVV1Y2ZEdEJYdW9vTkNuWlNx?oc=5"
+  ],
+  "generated_at": "2026-10-01T23:58:57+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
