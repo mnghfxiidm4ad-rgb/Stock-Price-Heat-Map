@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-09-30",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,651.54",
+      "change": "-0.25%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,861.06",
+      "change": "+0.24%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,906.05",
+      "change": "-0.86%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.29%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Wall Street Futures Advance as Investors Await PCE Inflation and Micron Earnings: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "海外メディアは「Dow Edges 0.11% Higher, S&P 500 Gains 0.27%, Nasdaq Jumps 0.45% As August PCE Inflation Cools to 3.4%」と伝えた。",
+    "海外メディアは「U.S. Futures Rise Ahead of PCE Inflation Data as Markets Monitor Oil and Diesel Export Talks: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比-0.25%の7,651.54で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3FBOFlYU2pLMm5YUDhHb2d5aUtjWktWN3BVUzJtaTk4QkpNOWRVelk2WEpMWWNRNU5CT2tCOGV4dFBtVFlRWmNpWXo5a2VRTEhfZTNIcGYwQURkM1FaVFNwcndTdXVUdmdaY19CZ3dYblhsSXRMaUpQVmlkVlBLQ1dQbXRVZzA2V1dzekNZYw?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONjQteXQwVXV6aWNFbExEYmxUeGVPOFZTQjdEbFNwelRqQTRROWJGOXBEdmMtSFEyNUhKRE5XWDRuMXlhaEhwNmo2ZWZuRGQtTjYzckNQLTVzMGR1UFRlRnZFeS00Y0tnSGsxSHZMTHBfQmhqX1MyNG05QXJBSkFnRHM3Q0drZlpUOENLcFhkTHZ5QzVHbTIyYzZrYWFrRU9Nd0M2VmR3eTliN05UM1FTOUhGSjZfSWN1Ums3N2FHbmJNMVJIR0IzXy01TlpCQzZfOFRuSGVCaWxvVzUtcnlTWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdEdnUmNieFlUbl9uVWVDV1dYR1pJTlFTSm15bjRDZ0MtMjliQUhUZWpYZ1RKMnBSek5XYmVGUmwtdnBYYVJYeGhjTzA5YWJjc296Nm0xNWIxZkNjanFON2MxYUJzbE1QdUdhSjEtWmpjclRoSWhBdW9Zc0EtOUVWWUhRNVBGU2dXXy1pR0pkbUlobjg?oc=5"
+  ],
+  "generated_at": "2026-10-01T00:00:10+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
