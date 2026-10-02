@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "68,309.46",
+      "change": "-0.94%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "430.20",
+      "change": "-0.97%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.46",
+      "change": "-0.09"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "自動車・輸送機"
+  ],
+  "news_bullets": [
+    "東証14時 日経平均は600円安 米雇用統計控え様子見強まる。",
+    "FX/為替「ドル/円今日の見通し｜米雇用統計はFRBの早期利上げを巡り平均時給に焦点」 外為どっとコム トゥデイ 2026年10月2日号。",
+    "日経平均終値647円安、投資家「リスクオン」なりきれず 金利高が重荷。",
+    "日経平均は前日比-0.94%の68,309.46円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PREhfZzB0alhKM3lRd3h1TWdiZEZsc0hrbWFmZWNTbFJ3a1hrVmh0TlBwYlVhaVBhYW9rWjJKOEwzX0xLOWw1SzU3aFFDbkM4T25CUWJxMkdaVUJoNkU0X2VwSnVNSzFBWnpOZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rbWFNdm1nWlV0SnFOdUhNZ0IxbmpGM3pXYy1BLXF1NnNPYnBhTEZJaVBjRDljYVRQSnBaUTlDczZ4ZndJVVNmZWNfUDBHMXlCUmVXV2Jhd3hOeUZJbEpuWkpjNA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCdlVzVzJlNHFHVHpDcEpTMDhfODE3aGtPVEFpc0NIbjVJeDlaQTV4NDZ2ODR4SlBXdURCcW5oNVN2S052Qlo3c3o2N0kyNmt2Q216Y3RIQXJ2ZHp5WjRmajhhR2FhS3FfUHd0VA?oc=5"
+  ],
+  "generated_at": "2026-10-02T13:24:11+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
