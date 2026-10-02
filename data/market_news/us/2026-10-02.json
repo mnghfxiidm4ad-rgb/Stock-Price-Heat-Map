@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-10-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,722.72",
+      "change": "+0.73%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,190.86",
+      "change": "+1.19%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,176.96",
+      "change": "+0.49%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.28%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「U.S. Futures Rise Ahead of Payrolls as Bond-Market Volatility Remains in Focus: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Wall Street Futures Advance as Investors Await September Jobs Report: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500, Dow Futures Rise Ahead Of Jobs Report: NKE, META, RKLB, MRNA, SLS, TSLA Stocks In Focus」と伝えた。",
+    "S&P 500は前日比+0.73%の7,722.72で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZjlCTEU4QTFlM1hIaEpOdVdGOEFqRmVsTkkyZ0d1NTV2UnhhM3JqY3ZkWGNrYTlTazNwR1dubUkybl85SzVCRGs2VXZTTktwNmNXWDN5emJsek4xaG1lRG1lZy1hZEdvM21VaUFReTl6MU12UVpRaVcybXFIWWVqRjRXTHE4emo3NHFwbksyVHRUMHJEVUtaN2hn?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXBlRW1yeXRvaE1Db3drNUYxSHJWMUNiYldMcUhicEZZQ3NGZmJfRkR3LWxoYnFOdjNxakFQRmQ2Nmg0ZFQtb1oxTG1yVDJhSk4zME4yelNpdWNoR1p1N3JzQ3FwRFlvcTVIRDNjQVUyaEpwakhuWTBkLTdKLUhnRzJlbHVYMzJlTlE5Q29XSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3hNX2pyak9IMG5Vdnc0OHpnYzVrZC04eWVZeF9BT2ptNGxBWVh4aXZEbkRCeERxVFJuSmhkYlhqbHJKTjFMdGVXaXQwbHhoM1FVTlZ2RGpCT1ZfWUxDOUZQczBSckkwRlpWWE9yUnFQNnZWZlZSTTh2NUFENVFwRGN0dHE2ZjFodnB6SFNhYnJpNm8?oc=5"
+  ],
+  "generated_at": "2026-10-02T23:52:32+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
