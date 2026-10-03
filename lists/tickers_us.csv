@@ -763,7 +763,6 @@ COGT,COGT,"Cogent Biosciences, Inc.",NASDAQ,NASDAQ
 COHU,COHU,"Cohu, Inc.",NASDAQ,NASDAQ
 COIN,COIN,"Coinbase Global, Inc.",NASDAQ,NASDAQ
 COKE,COKE,"Coca-Cola Consolidated, Inc.",NASDAQ,NASDAQ
-COLA,COLA,Columbus Acquisition Corp,NASDAQ,NASDAQ
 COLB,COLB,"Columbia Banking System, Inc.",NASDAQ,NASDAQ
 COLL,COLL,"Collegium Pharmaceutical, Inc.",NASDAQ,NASDAQ
 COLM,COLM,Columbia Sportswear Company,NASDAQ,NASDAQ
@@ -1229,7 +1228,6 @@ FRTT,FRTT,Fort Technology Inc.,NASDAQ,NASDAQ
 FRVO,FRVO,Fervo Energy Company,NASDAQ,NASDAQ
 FSBC,FSBC,Five Star Bancorp,NASDAQ,NASDAQ
 FSBW,FSBW,"FS Bancorp, Inc.",NASDAQ,NASDAQ
-FSEA,FSEA,"First Seacoast Bancorp, Inc.",NASDAQ,NASDAQ
 FSHP,FSHP,Flag Ship Acquisition Corp.,NASDAQ,NASDAQ
 FSLR,FSLR,"First Solar, Inc.",NASDAQ,NASDAQ
 FSLY,FSLY,"Fastly, Inc.",NASDAQ,NASDAQ
@@ -2250,7 +2248,6 @@ NSLR,NSLR,Neostellar Capital Corp.,NASDAQ,NASDAQ
 NSLRL,NSLRL,Neostellar Capital Corp.,NASDAQ,NASDAQ
 NSPR,NSPR,InspireMD Inc.,NASDAQ,NASDAQ
 NSSC,NSSC,"NAPCO Security Technologies, Inc.",NASDAQ,NASDAQ
-NSTS,NSTS,"NSTS Bancorp, Inc.",NASDAQ,NASDAQ
 NSYS,NSYS,Nortech Systems Incorporated,NASDAQ,NASDAQ
 NTAP,NTAP,"NetApp, Inc.",NASDAQ,NASDAQ
 NTCL,NTCL,NETCLASS TECHNOLOGY INC,NASDAQ,NASDAQ
@@ -2620,7 +2617,7 @@ PTRN,PTRN,Pattern Group Inc.,NASDAQ,NASDAQ
 PUBM,PUBM,"PubMatic, Inc.",NASDAQ,NASDAQ
 PULM,PULM,"Pulmatrix, Inc.",NASDAQ,NASDAQ
 PURR,PURR,Hyperliquid Strategies Inc,NASDAQ,NASDAQ
-PUSA,PUSA,Aureus Greenway Holdings Inc.,NASDAQ,NASDAQ
+PUSA,PUSA,Powerus Corporation,NASDAQ,NASDAQ
 PVLA,PVLA,"Palvella Therapeutics, Inc.",NASDAQ,NASDAQ
 PWCM,PWCM,"PowerCompute, Inc.",NASDAQ,NASDAQ
 PWP,PWP,Perella Weinberg Partners,NASDAQ,NASDAQ
@@ -2826,6 +2823,7 @@ SAIA,SAIA,"Saia, Inc.",NASDAQ,NASDAQ
 SAIC,SAIC,Science Applications International Corporation,NASDAQ,NASDAQ
 SAIH,SAIH,SAIHEAT Limited,NASDAQ,NASDAQ
 SAIL,SAIL,"SailPoint, Inc.",NASDAQ,NASDAQ
+SAIQ,SAIQ,WISeSat.Space Holdings Corp.,NASDAQ,NASDAQ
 SAMG,SAMG,Silvercrest Asset Management Group Inc.,NASDAQ,NASDAQ
 SANA,SANA,"Sana Biotechnology, Inc.",NASDAQ,NASDAQ
 SANG,SANG,Sangoma Technologies Corporation,NASDAQ,NASDAQ
@@ -3152,7 +3150,6 @@ THEO,THEO,BOA Acquisition Corp. II,NASDAQ,NASDAQ
 THFF,THFF,First Financial Corporation,NASDAQ,NASDAQ
 THH,THH,TryHard Holdings Limited,NASDAQ,NASDAQ
 THRM,THRM,Gentherm Inc,NASDAQ,NASDAQ
-THRMV,THRMV,Gentherm Inc,NASDAQ,NASDAQ
 THRY,THRY,"Thryv Holdings, Inc.",NASDAQ,NASDAQ
 TIGO,TIGO,Millicom International Cellular S.A.,NASDAQ,NASDAQ
 TIGR,TIGR,UP Fintech Holding Limited,NASDAQ,NASDAQ
@@ -5252,6 +5249,7 @@ NRXS,NRXS,"Neuraxis, Inc.",NYSE American,NYSE American
 NSC,NSC,Norfolk Southern Corporation,NYSE,NYSE
 NSP,NSP,"Insperity, Inc.",NYSE,NYSE
 NSRX,NSRX,Nasus Pharma Ltd.,NYSE American,NYSE American
+NSTR,NSTR,"NorthStar Earth & Space Enterprises, Inc. Common",NYSE American,NYSE American
 NTB,NTB,Bank of N.T. Butterfield & Son Limited (The) Vot,NYSE,NYSE
 NTIP,NTIP,"Network-1 Technologies, Inc.",NYSE American,NYSE American
 NTR,NTR,Nutrien Ltd. Common Shares,NYSE,NYSE
@@ -5984,7 +5982,6 @@ UZE,UZE,"Array Digital Infrastructure, Inc. 5.500% Senior",NYSE,NYSE
 UZF,UZF,"Array Digital Infrastructure, Inc. 5.500% Senior",NYSE,NYSE
 V,V,Visa Inc.,NYSE,NYSE
 VAC,VAC,Marriott Vacations Worldwide Corporation,NYSE,NYSE
-VACI,VACI,Viking Acquisition Corp. I,NYSE,NYSE
 VAL,VAL,Valaris Limited Common Shares,NYSE,NYSE
 VALE,VALE,VALE S.A.  American Depositary Shares Each Repre,NYSE,NYSE
 VATE,VATE,INNOVATE Corp.,NYSE,NYSE
