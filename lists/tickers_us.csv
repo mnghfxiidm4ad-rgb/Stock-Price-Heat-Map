@@ -939,7 +939,6 @@ DOYU,DOYU,DouYu International Holdings Limited,NASDAQ,NASDAQ
 DPRO,DPRO,Draganfly Inc.,NASDAQ,NASDAQ
 DPU,DPU,Top KingWin Ltd,NASDAQ,NASDAQ
 DPZ,DPZ,Domino's Pizza Inc,NASDAQ,NASDAQ
-DRCT,DRCT,"Direct Digital Holdings, Inc.",NASDAQ,NASDAQ
 DRDB,DRDB,Roman DBDR Acquisition Corp. II,NASDAQ,NASDAQ
 DRH,DRH,Diamondrock Hospitality Company,NASDAQ,NASDAQ
 DRIO,DRIO,DarioHealth Corp.,NASDAQ,NASDAQ
@@ -1649,6 +1648,7 @@ IPDN,IPDN,"Professional Diversity Network, Inc.",NASDAQ,NASDAQ
 IPFX,IPFX,Inflection Point Acquisition Corp. VI,NASDAQ,NASDAQ
 IPGP,IPGP,IPG Photonics Corporation,NASDAQ,NASDAQ
 IPHA,IPHA,Innate Pharma S.A.,NASDAQ,NASDAQ
+IPHX,IPHX,Inflection Point Acquisition Corp. VIII,NASDAQ,NASDAQ
 IPM,IPM,Intelligent Protection Management Corp.,NASDAQ,NASDAQ
 IPSC,IPSC,"Century Therapeutics, Inc.",NASDAQ,NASDAQ
 IPST,IPST,"IP Strategy Holdings, Inc.",NASDAQ,NASDAQ
@@ -2802,6 +2802,7 @@ RVSN,RVSN,Rail Vision Ltd.,NASDAQ,NASDAQ
 RWAY,RWAY,Runway Growth Finance Corp.,NASDAQ,NASDAQ
 RWAYI,RWAYI,Runway Growth Finance Corp.,NASDAQ,NASDAQ
 RWAYL,RWAYL,Runway Growth Finance Corp.,NASDAQ,NASDAQ
+RWAYM,RWAYM,Runway Growth Finance Corp.,NASDAQ,NASDAQ
 RXRX,RXRX,"Recursion Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 RXST,RXST,"RxSight, Inc.",NASDAQ,NASDAQ
 RXT,RXT,"Rackspace Technology, Inc.",NASDAQ,NASDAQ
@@ -3111,6 +3112,7 @@ TAVI,TAVI,Tavia Acquisition Corp.,NASDAQ,NASDAQ
 TAYD,TAYD,"Taylor Devices, Inc.",NASDAQ,NASDAQ
 TBBK,TBBK,"The Bancorp, Inc.",NASDAQ,NASDAQ
 TBCH,TBCH,Turtle Beach Corporation,NASDAQ,NASDAQ
+TBCV,TBCV,"Thunder Bridge Capital Partners V, Ltd.",NASDAQ,NASDAQ
 TBLA,TBLA,Taboola.com Ltd.,NASDAQ,NASDAQ
 TBLD,TBLD,Thornburg Income Builder Opportunities Trust,NASDAQ,NASDAQ
 TC,TC,Token Cat Limited,NASDAQ,NASDAQ
@@ -3404,7 +3406,6 @@ WABC,WABC,Westamerica Bancorporation,NASDAQ,NASDAQ
 WAFD,WAFD,"WaFd, Inc.",NASDAQ,NASDAQ
 WAFDP,WAFDP,"WaFd, Inc.",NASDAQ,NASDAQ
 WAFU,WAFU,Wah Fu Education Group Limited,NASDAQ,NASDAQ
-WALD,WALD,Waldencast plc,NASDAQ,NASDAQ
 WASH,WASH,"Washington Trust Bancorp, Inc.",NASDAQ,NASDAQ
 WATR,WATR,Air Water Ventures Limited,NASDAQ,NASDAQ
 WATT,WATT,Energous Corporation,NASDAQ,NASDAQ
@@ -3441,7 +3442,6 @@ WIMI,WIMI,WiMi Hologram Cloud Inc.,NASDAQ,NASDAQ
 WINA,WINA,Winmark Corporation,NASDAQ,NASDAQ
 WING,WING,Wingstop Inc.,NASDAQ,NASDAQ
 WIX,WIX,Wix.com Ltd.,NASDAQ,NASDAQ
-WKEY,WKEY,WISeKey International Holding Ltd,NASDAQ,NASDAQ
 WKHS,WKHS,"Workhorse Group, Inc.",NASDAQ,NASDAQ
 WKSP,WKSP,"Worksport, Ltd.",NASDAQ,NASDAQ
 WLCO,WLCO,Wilco 63 Corporation,NASDAQ,NASDAQ
@@ -3457,6 +3457,7 @@ WNW,WNW,Meiwu Technology Company Limited,NASDAQ,NASDAQ
 WOK,WOK,WORK Medical Technology Group LTD,NASDAQ,NASDAQ
 WOOF,WOOF,"Petco Health and Wellness Company, Inc.",NASDAQ,NASDAQ
 WPRT,WPRT,Westport Fuel Systems Inc,NASDAQ,NASDAQ
+WQEY,WQEY,WISeQey Corp,NASDAQ,NASDAQ
 WRAP,WRAP,"Wrap Technologies, Inc.",NASDAQ,NASDAQ
 WRD,WRD,WeRide Inc.,NASDAQ,NASDAQ
 WRLD,WRLD,World Acceptance Corporation,NASDAQ,NASDAQ
@@ -4228,8 +4229,8 @@ DD,DD,"DuPont de Nemours, Inc.",NYSE,NYSE
 DDC,DDC,DDC Enterprise Limited,NYSE American,NYSE American
 DDD,DDD,3D Systems Corporation,NYSE,NYSE
 DDL,DDL,Dingdong (Cayman) Limited American Depositary Sh,NYSE,NYSE
-DDS,DDS,"Dillard's, Inc.",NYSE,NYSE
-DDT,DDT,Dillard's Capital Trust I,NYSE,NYSE
+DDS,DDS,"Dillard's, Inc.",US,US
+DDT,DDT,Dillard's Capital Trust I,US,US
 DE,DE,Deere & Company,NYSE,NYSE
 DEA,DEA,"Easterly Government Properties, Inc.",NYSE,NYSE
 DEC,DEC,Diversified Energy Company,NYSE,NYSE
@@ -4652,7 +4653,6 @@ GTY,GTY,Getty Realty Corporation,NYSE,NYSE
 GUG,GUG,Guggenheim Active Allocation Fund Common Shares ,NYSE,NYSE
 GUT,GUT,Gabelli Utility Trust (The),NYSE,NYSE
 GVA,GVA,Granite Construction Incorporated,NYSE,NYSE
-GWH,GWH,"ESS Tech, Inc.",NYSE,NYSE
 GWRE,GWRE,"Guidewire Software, Inc.",NYSE,NYSE
 GWW,GWW,"W.W. Grainger, Inc.",NYSE,NYSE
 GXO,GXO,"GXO Logistics, Inc.",NYSE,NYSE
@@ -5917,7 +5917,6 @@ TVE,TVE,Tennessee Valley Authority,NYSE,NYSE
 TWI,TWI,"Titan International, Inc. (DE)",NYSE,NYSE
 TWLO,TWLO,Twilio Inc.,NYSE,NYSE
 TWN,TWN,"Taiwan Fund, Inc. (The)",NYSE,NYSE
-TWOD,TWOD,Two Harbors Investments Corp 9.375% Senior Notes,NYSE,NYSE
 TX,TX,Ternium S.A. Ternium S.A. American Depositary Sh,NYSE,NYSE
 TXNM,TXNM,"TXNM Energy, Inc.",NYSE,NYSE
 TXT,TXT,Textron Inc.,NYSE,NYSE
@@ -6009,6 +6008,7 @@ VIPS,VIPS,Vipshop Holdings Limited American Depositary Sha,NYSE,NYSE
 VIRT,VIRT,"Virtu Financial, Inc.",NYSE,NYSE
 VIST,VIST,Vista Energy S.A.B. de C.V. American Depositary ,NYSE,NYSE
 VIV,VIV,Telefonica Brasil S.A. American Depositary Share,NYSE,NYSE
+VJET,VJET,"Flyte Aviation, Inc.",NYSE American,NYSE American
 VKI,VKI,Invesco Advantage Municipal Income Trust II Comm,NYSE American,NYSE American
 VKQ,VKQ,Invesco Municipal Trust,NYSE,NYSE
 VLN,VLN,Valens Semiconductor Ltd.,NYSE,NYSE
@@ -6034,7 +6034,6 @@ VSH,VSH,"Vishay Intertechnology, Inc.",NYSE,NYSE
 VST,VST,Vistra Corp.,NYSE,NYSE
 VSTS,VSTS,Vestis Corporation,NYSE,NYSE
 VSXY,VSXY,Victorias Secret & Co.,NYSE,NYSE
-VTAK,VTAK,"Catheter Precision, Inc.",NYSE American,NYSE American
 VTEX,VTEX,VTEX,NYSE,NYSE
 VTMX,VTMX,"Corporacion Inmobiliaria Vesta, S.A.B de C.V. Am",NYSE,NYSE
 VTN,VTN,Invesco Trust for Investment Grade New York Muni,NYSE,NYSE
