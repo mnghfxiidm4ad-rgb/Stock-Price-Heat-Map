@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-10-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "70,683.98",
+      "change": "+1.05%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "440.40",
+      "change": "+0.94%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.07",
+      "change": "+0.33"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "食品"
+  ],
+  "news_bullets": [
+    "【今日のドル円】昨日の振り返りと今日のドル円相場見通し「焦点は「15:35」日銀総裁挨拶：米指標下振れでドル買い一巡、調整局面入りの見極め」 2026年10月6日。",
+    "東証10時 日経平均はじり高 400円高、円相場の先安観も支え。",
+    "FX個人投資家動向｜植田砲待ちの中、日銀の連続利上げ期待後退が円の上値を抑える｜メキシコペソがシェアを拡大 2026年10月6日。",
+    "日経平均は前日比+1.05%の70,683.98円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wY082clEtY3lhR0FWN1dSOWV4M2Y2S2NxeVUybDVPRjdveG5ESHJjN0FKd2gzcDcybkpSb1J0bXNoM191ZTZhYTF2ZEkxV1VVQzZUNGJvZVR2aHdIaXAzbS1ZQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fVjJsUDFwZ2JSZlpySDRmZk5HN0dUa1NxTFBMeFpTVE13Wnhxc3VKN0F2YVdYVkxOZ2ZjdU1uZU5CX0N5YUtRZHdqM2dnZl9ZVFBnZDNfa3NCNmtqdWVNaHJ2c3RrOG5pMjdPbQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41LUhfcmNYcnRiUTJXWjc5RGh0ZG0tUEFDTzdrUVEzcm4wQmRJa2tQQXJKdXlrNVZkdDdQLWR6Rl9nZlBrSVI2empZRmtLN0xETHZZODBpbDNJeFVxY3I3QWZNVQ?oc=5"
+  ],
+  "generated_at": "2026-10-06T13:49:19+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
