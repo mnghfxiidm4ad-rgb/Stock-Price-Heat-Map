@@ -829,6 +829,8 @@ CSX,CSX,CSX Corporation,NASDAQ,NASDAQ
 CTAA,CTAA,ClearThink 1 Acquisition Corp.,NASDAQ,NASDAQ
 CTAS,CTAS,Cintas Corporation,NASDAQ,NASDAQ
 CTBI,CTBI,"Community Trust Bancorp, Inc.",NASDAQ,NASDAQ
+CTGG,CTGG,Qwest Corporation,NASDAQ,NASDAQ
+CTHH,CTHH,Qwest Corporation,NASDAQ,NASDAQ
 CTKB,CTKB,"Cytek Biosciences, Inc.",NASDAQ,NASDAQ
 CTMX,CTMX,"CytomX Therapeutics, Inc.",NASDAQ,NASDAQ
 CTNM,CTNM,"Contineum Therapeutics, Inc.",NASDAQ,NASDAQ
@@ -1833,7 +1835,6 @@ LEE,LEE,"Lee Enterprises, Incorporated",NASDAQ,NASDAQ
 LEGH,LEGH,Legacy Housing Corporation,NASDAQ,NASDAQ
 LEGN,LEGN,Legend Biotech Corporation,NASDAQ,NASDAQ
 LENZ,LENZ,"LENZ Therapeutics, Inc.",NASDAQ,NASDAQ
-LESL,LESL,"Leslie's, Inc.",NASDAQ,NASDAQ
 LEXX,LEXX,Lexaria Bioscience Corp.,NASDAQ,NASDAQ
 LFAC,LFAC,Leapfrog Acquisition Corporation,NASDAQ,NASDAQ
 LFCR,LFCR,"Lifecore Biomedical, Inc.",NASDAQ,NASDAQ
@@ -1926,6 +1927,7 @@ LTRX,LTRX,"Lantronix, Inc.",NASDAQ,NASDAQ
 LUCD,LUCD,Lucid Diagnostics Inc.,NASDAQ,NASDAQ
 LUCY,LUCY,"Innovative Eyewear, Inc.",NASDAQ,NASDAQ
 LULU,LULU,lululemon athletica inc.,NASDAQ,NASDAQ
+LUMN,LUMN,"Lumen Technologies, Inc.",NASDAQ,NASDAQ
 LUNG,LUNG,Pulmonx Corporation,NASDAQ,NASDAQ
 LUNR,LUNR,"Intuitive Machines, Inc.",NASDAQ,NASDAQ
 LVLU,LVLU,"Lulu's Fashion Lounge Holdings, Inc.",NASDAQ,NASDAQ
@@ -2202,7 +2204,6 @@ NGEN,NGEN,NervGen Pharma Corp.,NASDAQ,NASDAQ
 NGNE,NGNE,Neurogene Inc.,NASDAQ,NASDAQ
 NHIV,NHIV,NewHold Investment Corp IV,NASDAQ,NASDAQ
 NHP,NHP,"National Healthcare Properties, Inc.",NASDAQ,NASDAQ
-NHPBP,NHPBP,"National Healthcare Properties, Inc.",NASDAQ,NASDAQ
 NHTC,NHTC,Natural Health Trends Corp.,NASDAQ,NASDAQ
 NICE,NICE,NICE Ltd,NASDAQ,NASDAQ
 NICM,NICM,Nicola Mining Inc.,NASDAQ,NASDAQ
@@ -2597,7 +2598,6 @@ PSEC,PSEC,Prospect Capital Corporation,NASDAQ,NASDAQ
 PSHG,PSHG,Performance Shipping Inc.,NASDAQ,NASDAQ
 PSIG,PSIG,PS International Group Ltd.,NASDAQ,NASDAQ
 PSIX,PSIX,"Power Solutions International, Inc.",NASDAQ,NASDAQ
-PSKY,PSKY,Paramount Skydance Corporation,NASDAQ,NASDAQ
 PSMT,PSMT,"PriceSmart, Inc.",NASDAQ,NASDAQ
 PSNL,PSNL,"Personalis, Inc.",NASDAQ,NASDAQ
 PSNY,PSNY,Polestar Automotive Holding UK Limited,NASDAQ,NASDAQ
@@ -2649,7 +2649,6 @@ QNT,QNT,Quantinuum Inc.,NASDAQ,NASDAQ
 QNTM,QNTM,Quantum Biopharma Ltd.,NASDAQ,NASDAQ
 QQQX,QQQX,Nuveen NASDAQ 100 Dynamic Overwrite Fund,NASDAQ,NASDAQ
 QRHC,QRHC,Quest Resource Holding Corporation,NASDAQ,NASDAQ
-QRVO,QRVO,"Qorvo, Inc.",NASDAQ,NASDAQ
 QS,QS,QuantumScape Corporation,NASDAQ,NASDAQ
 QSEA,QSEA,Quartzsea Acquisition Corporation,NASDAQ,NASDAQ
 QSI,QSI,Quantum-Si Incorporated,NASDAQ,NASDAQ
@@ -4171,9 +4170,7 @@ CSTM,CSTM,Constellium SE Ordinary Shares (France),NYSE,NYSE
 CSV,CSV,"Carriage Services, Inc.",NYSE,NYSE
 CSW,CSW,"CSW Industrials, Inc.",NYSE,NYSE
 CTEV,CTEV,Claritev Corporation,NYSE,NYSE
-CTGG,CTGG,Qwest Corporation 6.500% Senior Notes due 2051 (,NYSE,NYSE
 CTGO,CTGO,Contango Silver & Gold Inc.,NYSE American,NYSE American
-CTHH,CTHH,Qwest Corporation 6.750% Senior Notes due 2052 (,NYSE,NYSE
 CTM,CTM,"Castellum, Inc.",NYSE American,NYSE American
 CTO,CTO,"CTO Realty Growth, Inc.",NYSE,NYSE
 CTOS,CTOS,"Custom Truck One Source, Inc.",NYSE,NYSE
@@ -4981,7 +4978,6 @@ LTM,LTM,LATAM Airlines Group S.A. American Depositary Sh,NYSE,NYSE
 LU,LU,"Lufax Holding Ltd American Depositary Shares, ea",NYSE,NYSE
 LUCK,LUCK,Lucky Strike Entertainment Corporation,NYSE,NYSE
 LUD,LUD,Luda Technology Group Limited,NYSE American,NYSE American
-LUMN,LUMN,"Lumen Technologies, Inc.",NYSE,NYSE
 LUV,LUV,Southwest Airlines Company,NYSE,NYSE
 LUXE,LUXE,"LuxExperience B.V. American Depositary Shares, e",NYSE,NYSE
 LVS,LVS,Las Vegas Sands Corp.,NYSE,NYSE
@@ -5680,6 +5676,7 @@ SKIL,SKIL,Skillsoft Corp.,NYSE,NYSE
 SKM,SKM,"SK Telecom Co., Ltd.",NYSE,NYSE
 SKT,SKT,Tanger Inc.,NYSE,NYSE
 SKY,SKY,"Champion Homes, Inc.",NYSE,NYSE
+SKYD,SKYD,Skydance Corporation,NYSE,NYSE
 SKYH,SKYH,Sky Harbour Group Corporation,NYSE,NYSE
 SLB,SLB,SLB Limited Common Shares,NYSE,NYSE
 SLF,SLF,Sun Life Financial Inc.,NYSE,NYSE
