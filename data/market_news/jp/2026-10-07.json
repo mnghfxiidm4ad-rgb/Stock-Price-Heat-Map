@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-07",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "70,035.71",
+      "change": "-0.92%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "437.00",
+      "change": "-0.77%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.17",
+      "change": "+0.21"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "食品"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "日経平均終値648円安、インフレ懸念で息切れ 米株高に追随できず。",
+    "東証ＲＥＩＴ ＥＴＦ[2555]：ＥＴＦの収益分配金見込額のお知らせ 2026年10月7日(適時開示) ：日経会社情報DIGITAL。",
+    "東証14時 日経平均はやや下げ渋り 不動産や建設株は堅調。",
+    "日経平均は前日比-0.92%の70,035.71円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE53TnZZWkIxY0xPWEs0XzBXbTFkNUQ1OGFKRTVNRVM4NnNlRUIzTjQ2dG9pVC03MmVJRlBqa1ZnV0R4ZFlBZXhvWXpOZmxlYVI1UFVkeE9NekpGckIzck8xQzdpQlBUeUR3QXlHUA?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMlFScFNXbHVLdGRLeWlZVHBhalJhaWlWMTFXWWJSOXRWNVFPZHBPWlhjNmVCQWR4aVdHRzJLQW95NzdEb1FqTllHOEhZTGEybXY4MHlFZHdxUzhMWHZKZVpreWRFcURTNUdiWU1kNUhkSS1tbHFETjJFUlQwYVdOYWVacTZVS2ZwRkJycWRqSEt2RG54bFBXTUJ3bEVERVE4Y1lHdTA3Q0ZrT242SkdSNXk1czB4eXFtdnp6ZW5taDd4Qk9iSmpjeXpNcTg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZEU5UUNrLWhDSlNmLXljR1dHTnBLenNOVlBxSklIZXNfSm1HelA1ZmI2Y0t3c2RfYTRFUXU5R012a0ZhU3hCaGlaaXBCQWk1dDE2T3hNSXB1cElidUt6bkJsRG9JZVNsbnpNNQ?oc=5"
+  ],
+  "generated_at": "2026-10-07T14:06:51+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
