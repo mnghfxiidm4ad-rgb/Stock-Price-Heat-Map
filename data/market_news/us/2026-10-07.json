@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-10-07",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,801.77",
+      "change": "-0.22%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,538.69",
+      "change": "-0.22%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,179.87",
+      "change": "-0.66%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.28%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「US Futures Point Lower as Treasury Yields Rebound Ahead of Fed Minutes: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「US Stock Futures Dip as Markets Await Fed Minutes and Corporate Updates: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Stock Market Today: S&P 500, Dow, Nasdaq Futures Fall as 30-Year Treasury Yield Hits 2002 High; Iran Mocks US Economy — STZ, PENG, LEVI in Focus (UPDATED)」と伝えた。",
+    "S&P 500は前日比-0.22%の7,801.77で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMmZkZm1FQzhHRllEWWF6UUdBc2lFNHUzWDBlTUhCUTFsVjRUSE4zOHhycUVwdEI1Wk1qeFREd09YbS1fVTdFRVBzS21YVURscmt0S1oxM3M2amp5VFRaTU0tLXdtNk1yemtESWw5Q1RyQ2R6NjJFWG9ER2xJTHVLdmI2QnBlSGc?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUJjVVNlVzdKQTNpOGEtZXhBYUtDRzFKMWFqUDUxdTFkMTV0VmtxZUxyeTBmS2c3UTliS1I2dnd4OHVnN1ZtdUxCYzlTcFNRcW5qS2tpa2tEZGdhZFNmQ1dQUG5xUEJIdThiNXoyQkxlbXhhbHROUjRJclEzTEJ0UGZRdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLUZLd0x4Mmh3OUJQWUZQelIzbWFoMW95U1loMnRaQWNrMHJodGJMV3BtQWs5Rjl0RVdzNmVYVk0ya3J0cEpWajd2dU8yQmJuSHpMZ3B6Qm03dEpOUmtWY0IzaUhJM19CNFU0UTE4NDFucS04Ulc4TDdnTlRNLUdlb1J3ZXRKTUN0cV8tT2tub21tZ29QWVpUWHpoMTZzUlZaUFo2dHhUVDl4WXdxVUhkZklLZTJlZmk1bVM2MnowYWlMRFlkQzVHLTUtbjNQeWQtckREVkpCZVc2SmZrNU1fc055Uy1ieWV6NzdmZjBXZWRZVXVvSWtyRHMyc3JLM09nZm5hc2RfOHNYZUNrWloxX0QxdHA4ODVOTVBwREJlQjVtb0VKbndrQTlzWQ?oc=5"
+  ],
+  "generated_at": "2026-10-08T00:16:49+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
