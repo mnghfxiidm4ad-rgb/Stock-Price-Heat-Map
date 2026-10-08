@@ -373,6 +373,7 @@ BANX,BANX,ArrowMark Financial Corp.,NASDAQ,NASDAQ
 BAOS,BAOS,Baosheng Media Group Holdings Limited,NASDAQ,NASDAQ
 BATRA,BATRA,"Atlanta Braves Holdings, Inc.",NASDAQ,NASDAQ
 BATRK,BATRK,"Atlanta Braves Holdings, Inc.",NASDAQ,NASDAQ
+BBCI,BBCI,Bradbury Capital Inc.,NASDAQ,NASDAQ
 BBCP,BBCP,"Concrete Pumping Holdings, Inc.",NASDAQ,NASDAQ
 BBGI,BBGI,"Beasley Broadcast Group, Inc.",NASDAQ,NASDAQ
 BBIO,BBIO,"BridgeBio Pharma, Inc.",NASDAQ,NASDAQ
@@ -441,7 +442,6 @@ BKYI,BKYI,"BIO-key International, Inc.",NASDAQ,NASDAQ
 BL,BL,"BlackLine, Inc.",NASDAQ,NASDAQ
 BLBD,BLBD,Blue Bird Corporation,NASDAQ,NASDAQ
 BLDP,BLDP,"Ballard Power Systems, Inc.",NASDAQ,NASDAQ
-BLFS,BLFS,"BioLife Solutions, Inc.",NASDAQ,NASDAQ
 BLIN,BLIN,"Bridgeline Digital, Inc.",NASDAQ,NASDAQ
 BLIV,BLIV,BeLive Holdings,NASDAQ,NASDAQ
 BLKB,BLKB,"Blackbaud, Inc.",NASDAQ,NASDAQ
@@ -1576,7 +1576,6 @@ III,III,"Information Services Group, Inc.",NASDAQ,NASDAQ
 IIIV,IIIV,"i3 Verticals, Inc.",NASDAQ,NASDAQ
 IKT,IKT,"Inhibikase Therapeutics, Inc.",NASDAQ,NASDAQ
 ILAG,ILAG,Intelligent Living Application Group Inc.,NASDAQ,NASDAQ
-ILLR,ILLR,Triller Group Inc.,NASDAQ,NASDAQ
 ILLU,ILLU,Illumination Acquisition Corp I,NASDAQ,NASDAQ
 ILMN,ILMN,"Illumina, Inc.",NASDAQ,NASDAQ
 ILPT,ILPT,Industrial Logistics Properties Trust,NASDAQ,NASDAQ
@@ -2947,7 +2946,6 @@ SLN,SLN,Silence Therapeutics Plc,NASDAQ,NASDAQ
 SLNG,SLNG,"Stabilis Solutions, Inc.",NASDAQ,NASDAQ
 SLNH,SLNH,"Soluna Holdings, Inc.",NASDAQ,NASDAQ
 SLNHP,SLNHP,"Soluna Holdings, Inc.",NASDAQ,NASDAQ
-SLP,SLP,"Simulations Plus, Inc.",NASDAQ,NASDAQ
 SLRC,SLRC,SLR Investment Corp.,NASDAQ,NASDAQ
 SLS,SLS,"SELLAS Life Sciences Group, Inc.",NASDAQ,NASDAQ
 SLSN,SLSN,"Solesence, Inc.",NASDAQ,NASDAQ
@@ -2999,7 +2997,6 @@ SPCX,SPCX,Space Exploration Technologies Corp.,NASDAQ,NASDAQ
 SPEG,SPEG,Silver Pegasus Acquisition Corp,NASDAQ,NASDAQ
 SPFI,SPFI,"South Plains Financial, Inc.",NASDAQ,NASDAQ
 SPHL,SPHL,Springview Holdings Ltd,NASDAQ,NASDAQ
-SPKL,SPKL,Spark I Acquisition Corp.,NASDAQ,NASDAQ
 SPOK,SPOK,"Spok Holdings, Inc.",NASDAQ,NASDAQ
 SPPL,SPPL,SIMPPLE LTD.,NASDAQ,NASDAQ
 SPRB,SPRB,"Spruce Biosciences, Inc.",NASDAQ,NASDAQ
@@ -3411,7 +3408,6 @@ WATT,WATT,Energous Corporation,NASDAQ,NASDAQ
 WAVE,WAVE,Eco Wave Power Global AB (publ),NASDAQ,NASDAQ
 WAY,WAY,Waystar Holding Corp.,NASDAQ,NASDAQ
 WB,WB,Weibo Corporation,NASDAQ,NASDAQ
-WBD,WBD,"Warner Bros. Discovery, Inc.",NASDAQ,NASDAQ
 WBTN,WBTN,WEBTOON Entertainment Inc.,NASDAQ,NASDAQ
 WBUY,WBUY,WEBUY GLOBAL LTD.,NASDAQ,NASDAQ
 WCCB,WCCB,West Coast Community Bancorp,NASDAQ,NASDAQ
@@ -3455,6 +3451,7 @@ WNEB,WNEB,"Western New England Bancorp, Inc.",NASDAQ,NASDAQ
 WNW,WNW,Meiwu Technology Company Limited,NASDAQ,NASDAQ
 WOK,WOK,WORK Medical Technology Group LTD,NASDAQ,NASDAQ
 WOOF,WOOF,"Petco Health and Wellness Company, Inc.",NASDAQ,NASDAQ
+WORX,WORX,SCWorx Corp.,NASDAQ,NASDAQ
 WPRT,WPRT,Westport Fuel Systems Inc,NASDAQ,NASDAQ
 WQEY,WQEY,WISeQey Corp,NASDAQ,NASDAQ
 WRAP,WRAP,"Wrap Technologies, Inc.",NASDAQ,NASDAQ
