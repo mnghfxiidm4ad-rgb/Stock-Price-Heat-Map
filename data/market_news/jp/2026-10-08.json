@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-08",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,042.11",
+      "change": "-1.42%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "429.50",
+      "change": "-1.72%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.11",
+      "change": "-0.19"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "news_bullets": [
+    "日経平均終値993円安、金利高に警戒 新TOPIXが三菱商事の売り誘う。",
+    "ＦＰＧ[7148]：TOPIX（東証株価指数）初回定期入替における構成銘柄選定に関するお知らせ 2026年10月8日(適時開示) ：日経会社情報DIGITAL。",
+    "パワーエックス[485A]：TOPIX（東証株価指数）構成銘柄への新規採用に関するお知らせ 2026年10月8日(適時開示) ：日経会社情報DIGITAL。",
+    "日経平均は前日比-1.42%の69,042.11円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pRzd3RDNsVTRxRnhfX2hNSjRJSFFwOEptOGZKSFF3RlhSRGI2NTNGcXV2Q040RnNQdHo1TjBKX005QnVId1RLbGd6dVFhWHI0SmozVUw0UnU2aVJsTkhpaW1FNVBXR2tSTkFfcQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVNMRThqb0FNcDJUYXlycEF6NHRQNGo5MkozVmw5ZUx2YWVDanFoS01COWRKS1hZNE81NFA5R0lDMkVPakg2dnU0dFRva09mamlTRHJJWTZPXzVLUHU0SmpCZ2wtdjRQbUs5bFJKSlFNdkJNM09CZjJYWkFUamVqN3NuUW9oUUZFM0xPQ0xwSWJhU3VBNG0tTk03ei15UTFzSmJmLTJSUDNaVlBMR0pwWXdZcE1BaVZEcE9PblJDRV80NjR2TVMwYlRYeko?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR2JwM3NHVk4wNnN0R19iSzhxU0hVRVZnRkZKdDM0N0FubU9OMFBDanRWbnZ3dTBVRFNrUFRJWHB2SHhzcHUwSlJHQUhGU1U5QUtkWnRLRDlIQVVYTGdmbVRIenBTeEp1NzNKWEx6aDRKMlh3UGhrTmt3SmVObXpKM0dMQWJyaWc2cUlpTHJTMHFsdUhIcHhoQVhILTdScmZOcl9mcFVRUDZwQkItTVBzb1FZTzhCZjVINnlfaW1pZ1c2MUZ5U0xsRkxJSUw?oc=5"
+  ],
+  "generated_at": "2026-10-08T14:16:41+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
