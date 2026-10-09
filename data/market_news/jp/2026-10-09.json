@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-09",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "69,030.92",
+      "change": "-0.02%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "432.50",
+      "change": "+0.70%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.36",
+      "change": "+0.30"
+    }
+  },
+  "top_sectors": [
+    "食品",
+    "素材・化学"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "小売"
+  ],
+  "news_bullets": [
+    "メンタルヘルステクノロジーズ[9218]：当社株式の「東証グロース市場250指数」構成銘柄への選定に関するお知らせ 2026年10月9日(適時開示) ：日経会社情報DIGITAL。",
+    "ブロードエンタープライズ[4415]：「東証グロース市場250指数」構成銘柄への選定に関するお知らせ 2026年10月9日(適時開示) ：日経会社情報DIGITAL。",
+    "ＪＵＫＩ[6440]：TOPIX構成銘柄における当社株式の移行措置銘柄への選定および今後の取組みについて 2026年10月9日(適時開示) ：日経会社情報DIGITAL。",
+    "日経平均は前日比-0.02%の69,030.92円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxORHBvQk55blJPalJaUXpzbGhZaElmWGRTOU14cVJfY1YtcVhOVmhkTXZ5aTlDRFhVWlF6bjhJajFKTXgwa2tXZThHLXpjLVRoRWM4WDlVZEMxcmtXeHpuZ0JiTzNlZ0Q5NDBjeXl4V3RXYVNBU0xpUktNb3ZuX29jWDRReVNsQVRnSVFfWE9SekxWSVUtV04tOURHNVJKOE5xaFRPNXNrOXZKcGVzRThQaXdQZ2R1TnpEVFhuZXNLckdzbHg3aURMaE0yWVc?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRWtNQ1BJUEJtek5yX0ZRZWk2YzdzMkk5OWw4RTN5ZUhTUG9INUNRVFV4ampuZ3ozVVJ4N3MtempJVHFsRnpQRHlocDVxMzJWVzRWNFN3bEJ3LTdVbllrNVZVTlFoY0I3c1dkZ3JOdndzdmVHN0FTTlpfTjREWVVlMGFEdFBuWGF3Vnc2YW12R3BGRk5EZllsMDVocFJHZFFMcVpDX2Y3clFoUGExMVZ2NFRMRDRZUmZHcWxZVUQ0Z1R6b0pNajFpUHVvXzc?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU3JYa052N3FaR2Zxb2I3blJnTkcxVGZUaXdBQ1NubXlFd2Z4aGRWUGx0MmpxdXdkV0k0NmluX0l0WUc3TGxuNlZHS3FNdUFKbXE5bU94SFdNWE9QU1Q0MFZWRjFyeXV1YjJvcnYyOE11TTBvWmtPUWdhUU12VzloYmNEekFYWXBncnd1T01rdDNfbmhKR2pudFVQWU5DSVZlcUkwWTMwMzA5R2VzWGRvWWgtUEE1UnU4WGpTcGxMaHc5YXJlN0xQY3VsQ3Y?oc=5"
+  ],
+  "generated_at": "2026-10-09T14:01:56+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
