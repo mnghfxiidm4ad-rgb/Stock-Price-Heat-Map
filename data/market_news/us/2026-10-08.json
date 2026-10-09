@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-10-08",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,765.36",
+      "change": "-0.47%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,193.34",
+      "change": "-1.25%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,231.64",
+      "change": "+0.10%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.23%",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「Oil heat, chip pain send S&P 500, Nasdaq lower」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq: Rising Yields and Oil Test Buyers Ahead of Earnings」と伝えた。",
+    "海外メディアは「Wall Street Futures Retreat as AI Borrowing Plans and Global Bond Market Risks Unsettle Investors: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "S&P 500は前日比-0.47%の7,765.36で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFA3emg5VzBKSk1xa1BYY2JhN21PSkxzT0JRVWIxQk43OFc5b2dJTWRXMVZTSmxRMVJxVnZSZm9BQVFGVWc3NVREaTJSRU5HY1FIV0l6VWtHQ2hQYWUwYTZaV3ptelpMQmpZaUI1QmFzX19pRHM2T1dkX3g5Z19QcHoxbHRObjZmTnViYktEYTRsVWY3MDBPdkIxQUZhS3ZZb2cyWlY5Tms4ZEc2cGZRUFRxZWs?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEJaQ3VCMDVHOHlEOEM0LWFSdXJPUzB2MjkyOGlQMWcyUkJTZFRkVEI4ejRLcUlwNzBLV2gtb1NrMFV1V1RYc0ppYTJiMUx0a1JfWnBwMTdyWFBSV19sWE1ibmo1YVNEa2pfblQtelVoY0Z2emlRY1R3M0JEYXNaZklldk9vdGhVR0lSZHAxT3ppZUtwZHJfMDRFUUFMdEU3SThacFVJTUdOdWFkQmFsUGxQbG9yQ0g2b0FHQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdTRlNEo5a2YxVjE0VlhSU2E1UTVkdlFtQVFJRVdjRU9MRHkxMDJMaW04bFlhSnhGY2Q2bjdBRkJQUm5vaTlCLUlDRG1CekpXWXBldnpKVmd5dURoLVFPV2szNzRKNjBNUjFYVGlyQUJ6RlFpejlnS29wdDE3V2k0VE5OeldRdw?oc=5"
+  ],
+  "generated_at": "2026-10-09T00:30:02+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
