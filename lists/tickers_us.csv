@@ -2840,6 +2840,7 @@ SBLK,SBLK,Star Bulk Carriers Corp.,NASDAQ,NASDAQ
 SBRA,SBRA,"Sabra Health Care REIT, Inc.",NASDAQ,NASDAQ
 SBUX,SBUX,Starbucks Corporation,NASDAQ,NASDAQ
 SCAG,SCAG,Scage Future,NASDAQ,NASDAQ
+SCAT,SCAT,Southern Cross Acquisition II Corp.,NASDAQ,NASDAQ
 SCHL,SCHL,Scholastic Corporation,NASDAQ,NASDAQ
 SCII,SCII,SC II Acquisition Corp.,NASDAQ,NASDAQ
 SCKT,SCKT,"Socket Mobile, Inc.",NASDAQ,NASDAQ
@@ -3112,8 +3113,6 @@ TBCV,TBCV,"Thunder Bridge Capital Partners V, Ltd.",NASDAQ,NASDAQ
 TBLA,TBLA,Taboola.com Ltd.,NASDAQ,NASDAQ
 TBLD,TBLD,Thornburg Income Builder Opportunities Trust,NASDAQ,NASDAQ
 TC,TC,Token Cat Limited,NASDAQ,NASDAQ
-TCBI,TCBI,"Texas Capital Bancshares, Inc.",NASDAQ,NASDAQ
-TCBIO,TCBIO,"Texas Capital Bancshares, Inc.",NASDAQ,NASDAQ
 TCBK,TCBK,TriCo Bancshares,NASDAQ,NASDAQ
 TCBS,TCBS,"Texas Community Bancshares, Inc.",NASDAQ,NASDAQ
 TCGX,TCGX,TCGX Acquisition Corp.,NASDAQ,NASDAQ
@@ -5800,6 +5799,7 @@ TBB,TBB,AT&T Inc. 5.350% Global Notes due 2066,NYSE,NYSE
 TBBB,TBBB,BBB Foods Inc.,NYSE,NYSE
 TBI,TBI,"TrueBlue, Inc.",NYSE,NYSE
 TBN,TBN,Tamboran Resources Corporation,NYSE,NYSE
+TCBI,TCBI,"Texas Capital Bancshares, Inc.",US,US
 TCBX,TCBX,"Third Coast Bancshares, Inc.",NYSE,NYSE
 TCI,TCI,"Transcontinental Realty Investors, Inc.",NYSE,NYSE
 TCPA,TCPA,TransCanada PipeLines Limited 6.250% Junior Subo,NYSE,NYSE
