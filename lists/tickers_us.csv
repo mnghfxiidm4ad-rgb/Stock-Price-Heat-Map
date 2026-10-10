@@ -127,6 +127,7 @@ AIFU,AIFU,AIFU Inc.,NASDAQ,NASDAQ
 AIIO,AIIO,Robo.ai Inc.,NASDAQ,NASDAQ
 AIIR,AIIR,Air Global PLC,NASDAQ,NASDAQ
 AIMD,AIMD,"Ainos, Inc.",NASDAQ,NASDAQ
+AIOK,AIOK,AI OKTO CORP.,NASDAQ,NASDAQ
 AIOS,AIOS,AIOS Tech Inc.,NASDAQ,NASDAQ
 AIOT,AIOT,"PowerFleet, Inc.",NASDAQ,NASDAQ
 AIP,AIP,"Arteris, Inc.",NASDAQ,NASDAQ
@@ -393,6 +394,7 @@ BCPC,BCPC,Balchem Corporation,NASDAQ,NASDAQ
 BCRX,BCRX,"BioCryst Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 BCTX,BCTX,BriaCell Therapeutics Corp.,NASDAQ,NASDAQ
 BCYC,BCYC,Bicycle Therapeutics plc,NASDAQ,NASDAQ
+BDAI,BDAI,"Biddance AI Systems, Inc.",NASDAQ,NASDAQ
 BDCI,BDCI,BTC Development Corp.,NASDAQ,NASDAQ
 BDMD,BDMD,Baird Medical Investment Holdings Ltd,NASDAQ,NASDAQ
 BDRX,BDRX,Biodexa Pharmaceuticals plc,NASDAQ,NASDAQ
@@ -939,7 +941,7 @@ DORM,DORM,"Dorman Products, Inc.",NASDAQ,NASDAQ
 DOX,DOX,Amdocs Limited,NASDAQ,NASDAQ
 DOYU,DOYU,DouYu International Holdings Limited,NASDAQ,NASDAQ
 DPRO,DPRO,Draganfly Inc.,NASDAQ,NASDAQ
-DPU,DPU,Top KingWin Ltd,NASDAQ,NASDAQ
+DPU,DPU,Nexpu Ltd.,NASDAQ,NASDAQ
 DPZ,DPZ,Domino's Pizza Inc,NASDAQ,NASDAQ
 DRDB,DRDB,Roman DBDR Acquisition Corp. II,NASDAQ,NASDAQ
 DRH,DRH,Diamondrock Hospitality Company,NASDAQ,NASDAQ
@@ -1466,7 +1468,6 @@ HIND,HIND,"Vyome Holdings, Inc.",NASDAQ,NASDAQ
 HIT,HIT,"Health In Tech, Inc.",NASDAQ,NASDAQ
 HITI,HITI,High Tide Inc.,NASDAQ,NASDAQ
 HIVE,HIVE,HIVE Digital Technologies Ltd,NASDAQ,NASDAQ
-HKIT,HKIT,Hitek Global Inc.,NASDAQ,NASDAQ
 HKPD,HKPD,"Cellyan Biotechnology Co., Ltd",NASDAQ,NASDAQ
 HLIT,HLIT,Harmonic Inc.,NASDAQ,NASDAQ
 HLMN,HLMN,Hillman Solutions Corp.,NASDAQ,NASDAQ
@@ -1948,7 +1949,6 @@ MACI,MACI,Melar Acquisition Corp. I,NASDAQ,NASDAQ
 MAGH,MAGH,Magnitude International Ltd,NASDAQ,NASDAQ
 MAKO,MAKO,Mako Mining Corp,NASDAQ,NASDAQ
 MAMA,MAMA,"Mama's Creations, Inc.",NASDAQ,NASDAQ
-MAMK,MAMK,MaxsMaking Inc.,NASDAQ,NASDAQ
 MAMO,MAMO,Massimo Group,NASDAQ,NASDAQ
 MANH,MANH,"Manhattan Associates, Inc.",NASDAQ,NASDAQ
 MAR,MAR,Marriott International,NASDAQ,NASDAQ
@@ -2277,7 +2277,6 @@ NVCT,NVCT,"Nuvectis Pharma, Inc.",NASDAQ,NASDAQ
 NVDA,NVDA,NVIDIA Corporation,NASDAQ,NASDAQ
 NVEC,NVEC,NVE Corporation,NASDAQ,NASDAQ
 NVMI,NVMI,Nova Ltd.,NASDAQ,NASDAQ
-NVNI,NVNI,Nvni Group Limited,NASDAQ,NASDAQ
 NVNO,NVNO,enVVeno Medical Corporation,NASDAQ,NASDAQ
 NVTS,NVTS,Navitas Semiconductor Corporation,NASDAQ,NASDAQ
 NVX,NVX,NOVONIX Limited,NASDAQ,NASDAQ
@@ -2789,6 +2788,7 @@ RSSS,RSSS,"Research Solutions, Inc",NASDAQ,NASDAQ
 RSVR,RSVR,"Reservoir Media, Inc..",NASDAQ,NASDAQ
 RTAC,RTAC,Renatus Tactical Acquisition Corp I,NASDAQ,NASDAQ
 RTB,RTB,"RTB Digital, Inc.",NASDAQ,NASDAQ
+RTSN,RTSN,"Retension Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 RUBI,RUBI,Rubico Inc.,NASDAQ,NASDAQ
 RUM,RUM,RUM Group Inc.,NASDAQ,NASDAQ
 RUN,RUN,Sunrun Inc.,NASDAQ,NASDAQ
@@ -3221,6 +3221,7 @@ TRUG,TRUG,"TruGolf Holdings, Inc.",NASDAQ,NASDAQ
 TRUP,TRUP,"Trupanion, Inc.",NASDAQ,NASDAQ
 TRVG,TRVG,trivago N.V.,NASDAQ,NASDAQ
 TRVI,TRVI,"Trevi Therapeutics, Inc.",NASDAQ,NASDAQ
+TRXB,TRXB,"TRex Bio, Inc.",NASDAQ,NASDAQ
 TSAT,TSAT,Telesat Corporation,NASDAQ,NASDAQ
 TSBK,TSBK,"Timberland Bancorp, Inc.",NASDAQ,NASDAQ
 TSCO,TSCO,Tractor Supply Company,NASDAQ,NASDAQ
