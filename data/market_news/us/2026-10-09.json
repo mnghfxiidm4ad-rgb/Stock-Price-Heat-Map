@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-10-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,811.54",
+      "change": "+0.59%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,366.17",
+      "change": "+0.64%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,654.95",
+      "change": "+0.83%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.24%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「S&P 500 jumps as oil, Treasury yields and US dollar ease after Trump's de-escalation」と伝えた。",
+    "海外メディアは「Apple Has Rallied 2,848% Since Steve Jobs’ Death While the S&P 500 Gained 775%— Market Strategist Says th」と伝えた。",
+    "海外メディアは「US Stock Futures Rise as Investors Assess OpenAI Revenue Reports, Delta Earnings and Consumer Sentiment: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比+0.59%の7,811.54で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVNxNkg0bFBkWUE4akNWekFFUDZVYktlXzVDYnV6TGZMcmZqakUwcFd6WGl1UUxZWWo1bHd4MFZSQWIwQ1NTYjN5czA1OFRSNE5sVlE0TUVQX19YLWdPa1p1Ujk4NnpZcFBma0J1eGhSNlRDTnFrNmVoOHNIejZ0LU1aZW5xXzg5MzVpNFBRZkJGaHItOG5VWWNGdUpjb2NMMDhXRmtDNWFhdzVZZTdLZDg2Y19lYklj?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjc0T2staUduTUZFbllnMnBCMy04N0NPUjBmYnk3SnhBLXAxZE5jRmt2T29PY0RLYkxEc2RzN3dLUzdiOGFsa1prSVA3U2NpNmJoQjdQRWZDNjVCMzNIVnBjQTRzNE1xYVljcmwydVFmV2FUTXktRzloYzVvaTBGQ2d1SWJLMnZJZVhEdkMtY0xsbHlxMFZIUTNQaWVHS1N3YjZxa3JSZExmVDRpZER5NnpwU2pQUFA1V0V3dUh0UW02RjYzSWhGdk5pRi1LWm13NDZyRU0ybkNWSlpCSFlvU2xvUmE5YTFETWFBbEFra0ZjVy1DUFlMaGU1T1BCNGlURHRWNlU1Snc?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxORGVpSVNFTlBfUUJRWmE3TFM5OG9jX2NmSHozM3FUM2tPcy1VN1poZm1COUpRNW5CcERMbHdZMW5rbVV0U1pISkoyRGVBUmh2V1pILTlsajJOUTM1NGdiQ3dmNjJIanBNWlh3NW80WDNHUmI2MmQ1N3B2anp3ZHRZdjJUNjBieXNlZXNxSHZ2Y3V3RVZLMU1iX245cnQ?oc=5"
+  ],
+  "generated_at": "2026-10-10T00:07:02+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
