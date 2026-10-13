@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,807.24",
+      "change": "-0.06%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,245.90",
+      "change": "-0.44%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,850.55",
+      "change": "+0.38%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.24%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Oil surge keeps S&P 500, Nasdaq in check before earnings; Salesforce lifts Dow」と伝えた。",
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 preview: Markets brace for CPI, Q3 earnings kick-off」と伝えた。",
+    "海外メディアは「Oil rally pressures S&P, Nasdaq; Microsoft, Salesforce buoy Dow」と伝えた。",
+    "S&P 500は前日比-0.06%の7,807.24で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVFBiNTF6RzlEMTgtNUhSOWRmS3gyd25CeHpuUU5vaFN4QWx6MVppd3NOREtZbEQ3QnRhWE1Wb2N4RU9xdF90TmdDanZfNkRQZ3lyZkZVem0xVHQycDZuUE5xc3Q3dXZuZzdxeE9GUktjaEQwWF9PQUIzR0U2ZENSSHFvRU1qckNFVXRVRTJNM1ZvOU1PUTNqTEtKWmtpUUVpZmFmMDczOXhqM3BFcExkOTFXemdxMFU?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZTFUQkZXMUF2VzJCNFFpY3BmNmJDVVFyTWFEYXAxaWFVeE5xOGFwT1BTY25EVFJ5WDNGSWNxWFpxMGIteVMtX3V6UXNXRm9HZlc2YUFWZXc0eVRkeGlPcE9ucmZxOVVVN3A4Umk3c01EMHd2UDEyQkhPbTZXMmcyTGNYaFZTNTZITTVaamtHa3NaN19fRk1qX3dMM21oR291cnRkcVRQQmxJSlk2ZUtaRXJPWF9icFJMUzF6bkZKcW1Iel9uUTEzbmZB?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVjdac2ZPUWc1bU1CUnltU0Nrbl9uVjF6YV9mbWloWlp6M0tiRmt5QzJ4UC1fQjBzSDlwaEIwU3RudW5nMkVsalp6LUtOT3pYVmQ1Y2JoRzJBV1BxSXNiRDlNSnFYZmQ0MjI5ZnFXbTFNRjN3WDZWZ2FHamQ4SW5sOHV6R0J0QUVhSTduQmk3TExEZk0tYzNJbmpuTU9NMlQwSXlxSDV3UTBjTW5YeEwyT0hsenpHcFdYNks4SW02OTJQdTIyVjJyaFpqVkxZRFBkb3JBUTdVTWdUM2ZBbDA5Uk1fOTlqME9oVjFDZC1LSWNETFU?oc=5"
+  ],
+  "generated_at": "2026-10-13T02:08:06+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
