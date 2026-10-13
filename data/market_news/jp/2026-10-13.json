@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "67,777.52",
+      "change": "-1.82%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "432.50",
+      "change": "+0.00%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.36",
+      "change": "+0.30"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "エネルギー資源"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "東証寄り付き 日経平均は続落で始まる 一時1500円安 米半導体株安が波及。",
+    "［動画］【テクニカル分析】荒れる日経平均と今週の焦点。7万円台攻防のカギを握る、米半導体・金融大手決算とインフレ指標＜チャートで振り返る先週の株式市場と今週の見通し。",
+    "東証大引け 日経平均は4日続落 米半導体株安で 中東不安も重荷。",
+    "日経平均は前日比-1.82%の67,777.52円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxRElJVUlKY051SlhwVzBwRVg5dmQ5SnFxR2R0emhDYVpHUGJTbFFxQ0lvV21yejJiRjhWcmcxYURIa3ktRFhjaDV6allZMTRaMnlxSFEybVdXZlJ3R2hzTmdXeWVJUlp0MjV2bA?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15bHhFNXVOejFCS2VjR1JhUlJNaHFuaE5KN1ZNXy1MbUtiZ0lVb3dCTW9hS1Z2T3QydFZ1OUdLR1N2c3RpSWVJeXZ3YnoxOFlHNEhvX1dsdmc3dw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZd3FXZDBOTE54aUFYN1lsUDhnazE2aXN5QkZFUS1KVjI5RzI1WkVVTFBhWER6aDFUOW9TZzdCeVEwVmpYOWJOdjNBbFlOZEFWVWY0RWY0dnY0czdKSWwtZmRha1VIWVl4aGg5ZQ?oc=5"
+  ],
+  "generated_at": "2026-10-13T14:43:02+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
