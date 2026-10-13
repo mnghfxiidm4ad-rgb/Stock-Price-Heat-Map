@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-13",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,805.45",
+      "change": "-0.02%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "27,204.38",
+      "change": "-0.15%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "",
+      "change": ""
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.22%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "金融"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow — META, MSFT, BMBL, CRM, SNAP In Focus」と伝えた。",
+    "海外メディアは「US Stock Futures Mixed as AI Concerns, LVMH Sales and Bank Earnings Shape Market Sentiment: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「S&P 500 futures muted as investors await big bank earnings; chip weakness weighs」と伝えた。",
+    "S&P 500は前日比-0.02%の7,805.45で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVR5NWRnNTBieFhCRlFpSERINFlXTGw2RWpaRHYtMVlCcTlvUXpKZU45YmRPQzYxSFZTQkpvb1l3VzdIeGQ0WThYZzdta2p0SFA5Y01vRU41dFc2aWFwSlZESDg0d2RYQkxCenBsNlRrbkdDaUt5dGhpR0ZMTFhJQ2dsWEVITlFfdzh6em5FSjYzcVNDM3dJLVZjeG9IaWFyWGw2Q05jMGpNbEZwWE9BQVBLYVhTQm1uV0E?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTW5wVjJWbzltNW1KVHJzdWxBU3gyY0dvOHM4RjlJZ29JSXJUaUtONk5YVHc4SGQ2UUtXcGpldk5vbTE0dGtNODY4YkxCYUtjMlM2MmQ2QTg1elE4REY4S211azN6UmZybHFiMFVSajFXLU1nVEdIaXZ0MFRnY3dGZnp2Sy1oWC11MG1iZGdUSURYNTlL?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mak1BOTF1bEhsaklaaG5DWVJnRElGVTl2Ym1vTnBWSkEtb3FDR2ZSa3FhRUVUQmptYXdIY1lEdXBqaUxaX0ZiUkxXdS1xLW5NWGlUQjJUdHhKWndlenZLaQ?oc=5"
+  ],
+  "generated_at": "2026-10-13T23:46:42+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
