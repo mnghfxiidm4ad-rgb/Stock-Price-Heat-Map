@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-14",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "67,744.29",
+      "change": "-0.05%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "431.30",
+      "change": "-0.28%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.79",
+      "change": "+0.27"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "自動車・輸送機"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "不動産"
+  ],
+  "news_bullets": [
+    "東証10時 日経平均はじり高 一時300円高、先物買いが主導。",
+    "【FX】10/14 ドル円158円台で膠着！米CPIでレンジ突破なるか？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日銀利上げと個人向け国債の関係性 9月の利上げでどんな変化が?【お金の教室】。",
+    "日経平均は前日比-0.05%の67,744.29円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lb3NCZ3lQcDdjZm1RTy1uUlJFMDRreEVNZ05qUHBXLXBlRnducE5Nb0l4Rk9hSmFBRzJtZVFpWHVZbzNONFlXRkFJZ0RKS0xjRUxzTEotTFYtRkY3RzhMbFdRc2tQMjY1MUluTA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZSDhCSjRKckw4UUprcGxrMFA3eVNCVy1FQkRlNDI4R0xrNnhwREZGUER1ZVlBM2NfUmZXM2FqSHVOdlA4QnJ4cFpaUklXTmxONXV3R2hRZ2o5ZzIwNmdickxLVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TOGpsS3pVRzJ4c29hWjgyUnpOTW14c1l4Q2ptUGhJTWhLdDBESktLUnc1d25vNnczaVFpTjg4NWkxaEpzdGctTV95T20tYUlDS0hSMlVmeFRtekIzdllKYlVLRkx3TlVuNF9ob0dXU3ZoZmN3?oc=5"
+  ],
+  "generated_at": "2026-10-14T12:35:16+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
