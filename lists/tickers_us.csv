@@ -353,6 +353,7 @@ AWRE,AWRE,"Aware, Inc.",NASDAQ,NASDAQ
 AXG,AXG,Solowin Holdings,NASDAQ,NASDAQ
 AXGN,AXGN,"Axogen, Inc.",NASDAQ,NASDAQ
 AXIN,AXIN,Axiom Intelligence Acquisition Corp 1,NASDAQ,NASDAQ
+AXNX,AXNX,Axonex AI Group Limited,NASDAQ,NASDAQ
 AXON,AXON,"Axon Enterprise, Inc.",NASDAQ,NASDAQ
 AXSM,AXSM,"Axsome Therapeutics, Inc.",NASDAQ,NASDAQ
 AXTI,AXTI,AXT Inc,NASDAQ,NASDAQ
@@ -1379,7 +1380,6 @@ GRAL,GRAL,"GRAIL, Inc.",NASDAQ,NASDAQ
 GRAN,GRAN,Grande Group Limited,NASDAQ,NASDAQ
 GRCE,GRCE,"Grace Therapeutics, Inc.",NASDAQ,NASDAQ
 GRDX,GRDX,GridAI Technologies Corp.,NASDAQ,NASDAQ
-GREEL,GREEL,Vulcan Infrastructure and Power Inc.,NASDAQ,NASDAQ
 GRFS,GRFS,"Grifols, S.A.",NASDAQ,NASDAQ
 GRI,GRI,"GRI Bio, Inc.",NASDAQ,NASDAQ
 GRML,GRML,Greenland Mines Ltd,NASDAQ,NASDAQ
@@ -2035,7 +2035,6 @@ MGX,MGX,"Metagenomi Therapeutics, Inc.",NASDAQ,NASDAQ
 MGYR,MGYR,"Magyar Bancorp, Inc.",NASDAQ,NASDAQ
 MIAC,MIAC,Meridian3 Industrials Acquisition Corp,NASDAQ,NASDAQ
 MIDD,MIDD,The Middleby Corporation,NASDAQ,NASDAQ
-MIMI,MIMI,Mint Incorporation Limited,NASDAQ,NASDAQ
 MIND,MIND,"MIND Technology, Inc.",NASDAQ,NASDAQ
 MIRA,MIRA,"MIRA Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 MIRM,MIRM,"Mirum Pharmaceuticals, Inc.",NASDAQ,NASDAQ
@@ -2763,6 +2762,7 @@ RNAQ,RNAQ,Rainier Acquisition Corporation,NASDAQ,NASDAQ
 RNAZ,RNAZ,"TransCode Therapeutics, Inc.",NASDAQ,NASDAQ
 RNGT,RNGT,Range Capital Acquisition Corp II,NASDAQ,NASDAQ
 RNTX,RNTX,"Rein Therapeutics, Inc.",NASDAQ,NASDAQ
+RNTZ,RNTZ,Rantizo,NASDAQ,NASDAQ
 RNW,RNW,ReNew Energy Global plc,NASDAQ,NASDAQ
 RNXT,RNXT,"RenovoRx, Inc.",NASDAQ,NASDAQ
 ROAD,ROAD,"Construction Partners, Inc.",NASDAQ,NASDAQ
@@ -2925,7 +2925,6 @@ SITM,SITM,SiTime Corporation,NASDAQ,NASDAQ
 SJ,SJ,Scienjoy Holding Corporation,NASDAQ,NASDAQ
 SKHY,SKHY,SK hynix Inc.,NASDAQ,NASDAQ
 SKIN,SKIN,SkinHealth Systems Inc.,NASDAQ,NASDAQ
-SKK,SKK,SKK Holdings Limited,NASDAQ,NASDAQ
 SKWD,SKWD,"Skyward Specialty Insurance Group, Inc.",NASDAQ,NASDAQ
 SKYA,SKYA,"SkyAI, Inc.",NASDAQ,NASDAQ
 SKYE,SKYE,"Skye Bioscience, Inc.",NASDAQ,NASDAQ
@@ -5279,7 +5278,7 @@ NZF,NZF,Nuveen Municipal Credit Income Fund,NYSE,NYSE
 O,O,Realty Income Corporation,NYSE,NYSE
 OBDC,OBDC,Blue Owl Capital Corporation,NYSE,NYSE
 OBE,OBE,Obsidian Energy Ltd. Common Shares,NYSE American,NYSE American
-OBK,OBK,"Origin Bancorp, Inc.",NYSE,NYSE
+OBK,OBK,"Origin Bancorp, Inc.",US,US
 OC,OC,Owens Corning Inc Common Stock New,NYSE,NYSE
 OCAC,OCAC,Ocean Capital Acquisition Corporation,NYSE,NYSE
 ODC,ODC,Oil-Dri Corporation Of America,NYSE,NYSE
