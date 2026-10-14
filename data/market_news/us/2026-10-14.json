@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-14",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,718.94",
+      "change": "-1.11%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,692.87",
+      "change": "-1.88%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,621.48",
+      "change": "-0.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.19%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Rising consumer prices, oil and treasury yields send S&P 500, Nasdaq lower」と伝えた。",
+    "海外メディアは「S&P 500 and Dow Jones futures rise as investors await inflation data and bank earnings」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Mixed Amid Rising Oil Prices Ahead Of CPI Data: BAC, RIVN, SLS, GME Stocks In Focus」と伝えた。",
+    "S&P 500は前日比-1.11%の7,718.94で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORVpNZFNIOC1CbTlBNVY2Z0VSUEVWT2t0YThjRnR2Tm0zaGlkN2N4OXFQeVFCX0lqNGpDZm4xWFl4Rno3SUtPUU5LNHl3NENhR3dseTRVRDduVEhhc01BUExGdTA3QTVnV21FYXdwMkpVa2s3ek9xVE9sZFR3dkVuZTJucDdxMXFENGpVcEs2NUQ1dEdVVloyZEU3cWRvb1c1OUhjRklINklOV29FN01DUUFTejNqY0EzYkd6blJhemNDTEhoQVk3MEJ0bC1YT2xhanJ1dkJYcUFRdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnh1LU1GN19VZVVqUDZpRmxsdzExSVZZT0pFeFZPRG9iVHpLVG54S0dhR2pQVEI0UDFNM2NWTjNnVEk4UkFEQzlYa3pqZFV0Mzk2TFRsWFVBYnFRVjFNclAtTnc3WUtUa3h6QTlOMnJOMW80QkpxYVo5OTVsWHR5ZGhKUXV0OGpDNV8w?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcE5WMVZ6bll2cHkwZGFOaXg1TWpKNU1PSFR6N0t3Q2pZLUdnTzRnMWZjRkxYbWMwQTdGSHMxdEtjdzBXNlRhQzcyRHZvTkpja3NzZ3M3SFpNblU1TnNqUzFIU2lud3BLN3EyYmQxM0JpTHM3dG1VRFB3cnFMZmZ6SVlLenhIdjBmcjJJdnZzcDR0dDg?oc=5"
+  ],
+  "generated_at": "2026-10-14T23:19:44+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
