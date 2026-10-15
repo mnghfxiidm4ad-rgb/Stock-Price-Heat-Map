@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-15",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,425.95",
+      "change": "-4.90%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "421.00",
+      "change": "-2.39%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.98",
+      "change": "-0.34"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "東証前引け 日経平均は続落 半導体株安響き3200円安。",
+    "日経平均株価 一時3200円超下落 背景には「アメリカの金利上昇への警戒感」 AI半導体関連中心に売り注文膨らむ。",
+    "日経平均、一時3200円超安 米国のインフレ懸念で利上げ観測再燃。",
+    "日経平均は前日比-4.90%の64,425.95円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WOElQMURGNkFSWklMTUFfR0NsSUY0YzJlemNETC04NHMzZzEwaldNZ0ticlJERnhvbEk1cW81aVI5NTlvWGJQTUlCb1JaUEIyWlowTmFOaTZqa3k0c1Z0dm9XdlNzZmhmcllIUg?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQZWRIdnBtbWpLbUdPYnlwYU4wRnFfbWxOVmtJV05KVERBcmdWV0tYejFLRjFsd0NJLVp4MEZxVWplUHBoM0V0NHoxZ19fYjc5NGtyeVR0TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xNFA3TG9OTDFrVlFKejQ0RG44d0xTU0lZN0NpUlgwSlV1NThCOHVIN1pIbmdLT3phS0cySllROWo0eXdENXBmMjg0anNyT1VUanBzakRRYXk2Z00wd0xDb2ZWQ0p5Y1U?oc=5"
+  ],
+  "generated_at": "2026-10-15T12:21:05+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
