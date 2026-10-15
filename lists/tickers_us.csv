@@ -1182,6 +1182,7 @@ FLL,FLL,"Full House Resorts, Inc.",NASDAQ,NASDAQ
 FLNA,FLNA,"Filana Therapeutics, Inc.",NASDAQ,NASDAQ
 FLNC,FLNC,"Fluence Energy, Inc.",NASDAQ,NASDAQ
 FLNT,FLNT,"Fluent, Inc.",NASDAQ,NASDAQ
+FLSC,FLSC,Frazier Life Sciences Acquisition Corp. II,NASDAQ,NASDAQ
 FLUX,FLUX,"Flux Power Holdings, Inc.",NASDAQ,NASDAQ
 FLWS,FLWS,"1-800-FLOWERS.COM, Inc.",NASDAQ,NASDAQ
 FLX,FLX,BingEx Limited,NASDAQ,NASDAQ
@@ -2291,6 +2292,7 @@ NWS,NWS,News Corporation,NASDAQ,NASDAQ
 NWSA,NWSA,News Corporation,NASDAQ,NASDAQ
 NWTG,NWTG,"Newton Golf Company, Inc.",NASDAQ,NASDAQ
 NXAT,NXAT,Nexus Advanced Technologies Inc.,NASDAQ,NASDAQ
+NXDR,NXDR,"Nextdoor Holdings, Inc.",NASDAQ,NASDAQ
 NXGL,NXGL,"NexGel, Inc",NASDAQ,NASDAQ
 NXH,NXH,"Neighborhood Intelligence, Inc.",NASDAQ,NASDAQ
 NXL,NXL,"Nexalin Technology, Inc.",NASDAQ,NASDAQ
@@ -2632,7 +2634,6 @@ QCLS,QCLS,"Q/C Technologies, Inc.",NASDAQ,NASDAQ
 QCOM,QCOM,QUALCOMM Incorporated,NASDAQ,NASDAQ
 QCRH,QCRH,"QCR Holdings, Inc.",NASDAQ,NASDAQ
 QDEL,QDEL,QuidelOrtho Corporation,NASDAQ,NASDAQ
-QETA,QETA,Quetta Acquisition Corporation,NASDAQ,NASDAQ
 QFIN,QFIN,"Qfin Holdings, Inc.",NASDAQ,NASDAQ
 QH,QH,Quhuo Limited,NASDAQ,NASDAQ
 QLYS,QLYS,"Qualys, Inc.",NASDAQ,NASDAQ
@@ -4026,7 +4027,6 @@ CCJ,CCJ,Cameco Corporation,NYSE,NYSE
 CCK,CCK,"Crown Holdings, Inc.",NYSE,NYSE
 CCL,CCL,Carnival Corporation Ltd. Common Shares,NYSE,NYSE
 CCM,CCM,Concord Medical Services Holdings Limited Americ,NYSE,NYSE
-CCO,CCO,"Clear Channel Outdoor Holdings, Inc.",NYSE,NYSE
 CCS,CCS,"Century Communities, Inc.",NYSE,NYSE
 CCU,CCU,"Compania Cervecerias Unidas, S.A.",NYSE,NYSE
 CCZ,CCZ,Comcast Holdings ZONES,NYSE,NYSE
@@ -4739,7 +4739,6 @@ HYI,HYI,Western Asset High Yield Opportunity Fund Inc.,NYSE,NYSE
 HYLN,HYLN,Hyliion Holdings Corp.,NYSE American,NYSE American
 HYT,HYT,"Blackrock Corporate High Yield Fund, Inc.",NYSE,NYSE
 HZO,HZO,"MarineMax, Inc.  (FL)",NYSE,NYSE
-IAE,IAE,Voya Asia Pacific High Dividend Equity Income Fu,NYSE,NYSE
 IAF,IAF,"abrdn Australia Equity Fund, Inc.",NYSE American,NYSE American
 IAG,IAG,Iamgold Corporation,NYSE,NYSE
 IAUX,IAUX,i-80 Gold Corp. Common Shares,NYSE American,NYSE American
@@ -4765,7 +4764,6 @@ IGD,IGD,Voya Global Equity Dividend and Premium Opportun,NYSE,NYSE
 IGI,IGI,Western Asset Investment Grade Opportunity Trust,NYSE,NYSE
 IGR,IGR,CBRE Global Real Estate Income Fund Common Share,NYSE,NYSE
 IH,IH,"iHuman Inc. American depositary shares, each rep",NYSE,NYSE
-IHD,IHD,Voya Emerging Markets High Income Dividend Equit,NYSE,NYSE
 IHG,IHG,Intercontinental Hotels Group American Depositar,NYSE,NYSE
 IHS,IHS,IHS Holding Limited,NYSE,NYSE
 IHT,IHT,InnSuites Hospitality Trust Shares of Beneficial,NYSE American,NYSE American
@@ -4923,7 +4921,7 @@ LANV,LANV,Lanvin Group Holdings Limited,NYSE,NYSE
 LAR,LAR,Lithium Argentina AG Common Shares,NYSE,NYSE
 LAW,LAW,"CS Disco, Inc.",NYSE,NYSE
 LAZ,LAZ,"Lazard, Inc.",NYSE,NYSE
-LB,LB,LandBridge Company LLC,NYSE,NYSE
+LB,LB,LandBridge Corporation,NYSE,NYSE
 LBRT,LBRT,Liberty Energy Inc.,NYSE,NYSE
 LCII,LCII,LCI Industries,NYSE,NYSE
 LCLN,LCLN,"Lincoln International, Inc.",NYSE,NYSE
@@ -5266,7 +5264,6 @@ NWG,NWG,"NatWest Group plc American Depositary Shares, (e",NYSE,NYSE
 NWN,NWN,Northwest Natural Holding Company,NYSE,NYSE
 NX,NX,Quanex Building Products Corporation,NYSE,NYSE
 NXB,NXB,NextBoat Inc. Common Stcok,NYSE American,NYSE American
-NXDR,NXDR,"Nextdoor Holdings, Inc.",NYSE,NYSE
 NXDT,NXDT,NexPoint Diversified Real Estate Trust,NYSE,NYSE
 NXE,NXE,Nexgen Energy Ltd. Common Shares,NYSE,NYSE
 NXG,NXG,NXG NextGen Infrastructure Income Fund Common Sh,NYSE,NYSE
