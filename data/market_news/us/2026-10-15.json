@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-15",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,744.06",
+      "change": "+0.33%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,713.03",
+      "change": "+0.08%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,177.69",
+      "change": "+1.08%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.09%",
+      "change": "-0.10"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "素材"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus」と伝えた。",
+    "海外メディアは「When the chips are down: AI worries drag Nasdaq, S&P 500 lower」と伝えた。",
+    "海外メディアは「US Stock Futures Point Lower as Producer Inflation Surges and AI Spending Fears Hit Technology Shares: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比+0.33%の7,744.06で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjlGNUxDY2ozdVVQdmhpNWEtWGZNbWFlbjE3WnJpZF84cGluVFM1NkRXOF82VTlhMTFJVDJPNXlncnY5eGVDb1pEaGdoc2ZwTWt6bXV5ZFpROTVCXzFTbFBCTWgtSFQ2VGhtVVhfelVUczFXeEtkM0VnSUVPNFFnSFJ1R2g1WnlqNW4ybk9mYnpHRDQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWnZyS1hMdFpjcnZobmN2ZC1GczkwLUI2ZW1Vam55WnF6M3lTeFJIazV5UWpxUWFNQTJ2M0JZbVgzNmFZNmRZU0lUTm1RLTR4OU5iQWZSSjFCWnphLWtSR3BiVmRCME8yU19CTmtPX0RNb3RGU0FsMGxqNkJyNGVxWWp2Z0UxVFZhU000V3l3aVdMTU40eG4tYUlQM3pNSVF0NXhuZnVrS2EzdjBtd0VoMnZ3ZWZPaVIwRWJkc21vLUlsMzZsTnJQSm1R?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxONWdtZThXZ3pJTTNGUHdTUG8tTlBYSkFLbXZzMTlqbHk1OHZZcVNUSU1vYmZ2NHk5SHBwaE5xXzhkMmRacmt2c0pyTHAwLVBlUzNUNmc4a3hLTG9fUnRIX2E5OUFrV25qNl9GRloweHE4cGtxSC1wY0F3TVk1aS1mTHM2MA?oc=5"
+  ],
+  "generated_at": "2026-10-15T23:08:23+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
