@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "65,324.29",
+      "change": "+1.39%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "428.40",
+      "change": "+1.76%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.03",
+      "change": "+0.08"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "情報通信・サービスその他"
+  ],
+  "bottom_sectors": [
+    "電気・ガス",
+    "食品"
+  ],
+  "news_bullets": [
+    "ＳＭＤＡＭ 東証ＲＥＩＴ指数上場投信[1398]：2026年9月期 決算短信（2026年3月9日～2026年9月8日） 2026年10月16日(適時開示) ：日経会社情報DIGITAL。",
+    "ミナトホールディングス[6862]：「TOPIX Next-tier」構成銘柄への選定に関するお知らせ 2026年10月16日(適時開示) ：日経会社情報DIGITAL。",
+    "東証前引け 日経平均は反発 AI半導体に自律反発狙いの買い。",
+    "日経平均は前日比+1.39%の65,324.29円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMS1kVzVCc1Y1R0RUekRuQVppSEt2Wi1DZ1RtZ0JaenhoelZQQ3BqSzdYaUZlRWJlUl9pWjY5ZEYtZTdRcVpLUXMtQm10RUE0bWJzZFU1aHZVS1NVVU9xSEdHcGtadjVhTXpiSVlqMDUtdDdFV2htaXR0c0xxSjR1UWVOeURRV2lYeTFOd0VZS19ESG1aRTlmRTNUc0FYZ3ZCOFVIS3pSRTBqaUlaTmR2RGJya0Rfd1d5ZWFjdzFFYmV4bVZQeExkOFNtUVI?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWbFdET0hoSkZCRW1hODBqNWFTNktMVFViZFEyWjNaNGkxdWg0a0NkS2JUaWFJdzhycktrdFBLa2t0MlMyMHFldGc3Z05YenFzb0ZqMzJkclUxYWJPTXN6dWhibnZhRmM3cWc?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fMEQweEQ5RVE3TDVGYTFRXzdxMVJ4YWwyaE9iY3h1dnEtMklMV1BiSkJNUzlkTnlQQ0RDRG1DbzdDbVM5NXBCaU5kMXFEUm82QklqVlB3QmQydkpxV3FVMEItYkZodXhPVnpaZQ?oc=5"
+  ],
+  "generated_at": "2026-10-16T12:01:56+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
