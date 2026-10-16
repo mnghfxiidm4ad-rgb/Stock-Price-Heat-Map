@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,659.44",
+      "change": "-1.09%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,140.03",
+      "change": "-2.15%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,002.41",
+      "change": "-0.34%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.10%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Edge Higher as Fed Chair Warsh Avoids Rate Guidance and Tesla Unveils New Roadster: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Wall Street Futures Gain as Warsh Keeps Fed Options Open and Tesla Demonstrates Redesigned Roadster: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "海外メディアは「Cash in your chips: Semiconductor selloff drags Nasdaq, S&P 500 to weekly losses」と伝えた。",
+    "S&P 500は前日比-1.09%の7,659.44で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMERxbFBScllCdzNxWmI5WFdkbE53aHVIa0ZaNm9oUUpnbGtCX2hKYThEd0hPd25RR0RvbXo2VFpVN0ZJcXBKTUVQT2IzQ3NVTkdnOHNCX2VWeVo1TW0taFhSX3hFUlRsdVQ2YVI2cVZkUV9DbE9oNUZMVTZLN29Tc1RPMkp1cnI5SS12OGo3WEhRT0ZwRGtZVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGdxWVFidG9SbjNnT1BnYWdNZEM0RVRMQ0RreEVRakhzZ2U4VFRtOEUxMHQ1ZXN2NHoyWV9IZ09RRUJvLS1NUEk0bE80clRUdExjTy1naVVpRUdURzREcGVyM0wwdW9wdDhDQzByNmlMTnBUNmJnRkw5WTlNb3I0amZwR04yZw?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbTJDMlJHc0hCdWg5d2dmLXFYM0g2SlpLQWtUUU1vMEgxb1QyNmU2NHY4RFJLa0Zhd2tsTzlNdWdkS0J6VVhTalRUSmkwanNvWm42N2F5SEJCWnhFTnJKSnk4aDFOWTJhTElqVHBkbzhTVUxBTllnRE1XYXYyek5EaXJrOEN5aHFfT1QzbUg2RWF2SVlSR2RXbWFMSXI1YVVabHNjWmNpckM5SHdxZzBINkxQUE1va3NseFNUS1ZFaE16ZE40Y0dON0xFb2ZtaDV4TmpTNzlXM3VfLUVsTDliV2Jn?oc=5"
+  ],
+  "generated_at": "2026-10-16T22:54:58+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
