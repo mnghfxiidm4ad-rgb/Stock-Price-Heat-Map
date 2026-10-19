@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-19",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,690.73",
+      "change": "+0.41%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,430.89",
+      "change": "+1.11%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,966.03",
+      "change": "-0.07%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.14%",
+      "change": "+0.04"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "公益事業",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates」と伝えた。",
+    "海外メディアは「China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround」と伝えた。",
+    "海外メディアは「Indonesian stocks plunge to six-year low as MSCI downgrade fears mount」と伝えた。",
+    "S&P 500は前日比+0.41%の7,690.73で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+    "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+    "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html"
+  ],
+  "generated_at": "2026-10-19T23:50:08+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
