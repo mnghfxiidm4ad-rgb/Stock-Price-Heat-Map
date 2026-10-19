@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,916.70",
+      "change": "-0.62%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "427.10",
+      "change": "-0.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.39",
+      "change": "+0.25"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "小売"
+  ],
+  "news_bullets": [
+    "東証寄り付き 日経平均は1400円安 AI・半導体株に売り。",
+    "ｉＦｒｅｅＥＴＦ 東証ＲＥＩＴ指数[1488]：2026年9月期（2026年3月5日～2026年9月4日）決算短信 2026年10月19日(適時開示) ：日経会社情報DIGITAL。",
+    "東証14時 日経平均は底堅さ増す TOPIXは一時上昇。",
+    "日経平均は前日比-0.62%の64,916.70円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oblIyQ1NNSTF5NHdtcGpyVGlKdHZJdmFzOTI5blRlQlczOEdxODUxOU9reVI5UTJZTGxWZUdrbzFMcGs3YWNtQVhBX2xaekxETkYtWG9pQ3BnOFpuM0hUaFFqT3R0S2NtRGlOeg?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG1HSkRwSWZZdlB3OG5uYngyQXhrX1JaQ1Uwa2ltVG8wUllpUGtXUGwtVDUybGNuNUZGOU5Jem1KYVV6TW5RckpyQlY3aUVNQXlzemtPR3p5bkJrT1RDTWM2Q3ktM3d3eVpfT3phMnJ4WTRNVGNxYkJqYlR6aFVkbXFmT0FJTV9MZVJtTDlIYnFVVnMyV3ZxZDRxTUhZQUdkeWhBNlhZRWZ4WmJFUFZneHFua0NEVDdMMGc5ZzJpbVFrNUgtTlp4emhDbGw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tQ3RVOGdJOHV4RjJXcllSWVpBaDZWNXRWUWtPTmxzcmtsRFBjVEJ5dUJNMTVTYnZTRDUwVVQ2X3ZsSzBETEwzZ1R0MWJMamRtckNSMHRVZ0tncEpnNktRSXp4UXpkQmtLMjB3ZA?oc=5"
+  ],
+  "generated_at": "2026-10-19T14:12:41+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
