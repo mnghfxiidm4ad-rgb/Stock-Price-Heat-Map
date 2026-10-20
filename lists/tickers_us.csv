@@ -627,7 +627,6 @@ CDW,CDW,CDW Corporation,NASDAQ,NASDAQ
 CDXS,CDXS,"Codexis, Inc.",NASDAQ,NASDAQ
 CDZI,CDZI,"Cadiz, Inc.",NASDAQ,NASDAQ
 CDZIP,CDZIP,"Cadiz, Inc.",NASDAQ,NASDAQ
-CECO,CECO,CECO Environmental Corp.,NASDAQ,NASDAQ
 CEG,CEG,Constellation Energy Corporation,NASDAQ,NASDAQ
 CELC,CELC,Celcuity Inc.,NASDAQ,NASDAQ
 CELH,CELH,"Celsius Holdings, Inc.",NASDAQ,NASDAQ
@@ -1553,7 +1552,6 @@ IBEX,IBEX,IBEX Limited,NASDAQ,NASDAQ
 IBG,IBG,Innovation Beverage Group Limited,NASDAQ,NASDAQ
 IBIO,IBIO,"iBio, Inc.",NASDAQ,NASDAQ
 IBKR,IBKR,"Interactive Brokers Group, Inc.",NASDAQ,NASDAQ
-IBOC,IBOC,International Bancshares Corporation,NASDAQ,NASDAQ
 IBRX,IBRX,"ImmunityBio, Inc.",NASDAQ,NASDAQ
 ICCC,ICCC,ImmuCell Corporation,NASDAQ,NASDAQ
 ICCM,ICCM,IceCure Medical Ltd.,NASDAQ,NASDAQ
@@ -1833,6 +1831,7 @@ LCCC,LCCC,Lakeshore Acquisition III Corp.,NASDAQ,NASDAQ
 LCFY,LCFY,Locafy Limited,NASDAQ,NASDAQ
 LCID,LCID,"Lucid Group, Inc.",NASDAQ,NASDAQ
 LCNB,LCNB,LCNB Corporation,NASDAQ,NASDAQ
+LCU,LCU,Lion Copper Corp.,NASDAQ,NASDAQ
 LCUT,LCUT,"Lifetime Brands, Inc.",NASDAQ,NASDAQ
 LE,LE,"Lands' End, Inc.",NASDAQ,NASDAQ
 LECO,LECO,"Lincoln Electric Holdings, Inc.",NASDAQ,NASDAQ
@@ -1917,7 +1916,6 @@ LQDA,LQDA,Liquidia Corporation,NASDAQ,NASDAQ
 LQDT,LQDT,"Liquidity Services, Inc.",NASDAQ,NASDAQ
 LRCX,LRCX,Lam Research Corporation,NASDAQ,NASDAQ
 LRE,LRE,"Lead Real Estate Co., Ltd",NASDAQ,NASDAQ
-LRHC,LRHC,La Rosa Holdings Corp.,NASDAQ,NASDAQ
 LRMR,LRMR,"Larimar Therapeutics, Inc.",NASDAQ,NASDAQ
 LSAK,LSAK,"Lesaka Technologies, Inc.",NASDAQ,NASDAQ
 LSBK,LSBK,"Lake Shore Bancorp, Inc.",NASDAQ,NASDAQ
@@ -2062,7 +2060,6 @@ MLKN,MLKN,"MillerKnoll, Inc.",NASDAQ,NASDAQ
 MLTX,MLTX,MoonLake Immunotherapeutics,NASDAQ,NASDAQ
 MLYS,MLYS,"Mineralys Therapeutics, Inc.",NASDAQ,NASDAQ
 MMED,MMED,"MiniMed Group, Inc.",NASDAQ,NASDAQ
-MMEDV,MMEDV,"MiniMed Group, Inc.",NASDAQ,NASDAQ
 MMSI,MMSI,"Merit Medical Systems, Inc.",NASDAQ,NASDAQ
 MMTX,MMTX,Miluna Acquisition Corp,NASDAQ,NASDAQ
 MMYT,MMYT,MakeMyTrip Limited,NASDAQ,NASDAQ
@@ -3021,6 +3018,7 @@ SRCE,SRCE,1st Source Corporation,NASDAQ,NASDAQ
 SRPT,SRPT,"Sarepta Therapeutics, Inc.",NASDAQ,NASDAQ
 SRRK,SRRK,Scholar Rock Holding Corporation,NASDAQ,NASDAQ
 SRTA,SRTA,"Strata Critical Medical, Inc.",NASDAQ,NASDAQ
+SRTM,SRTM,Stratum Holdings Corp.,NASDAQ,NASDAQ
 SRTS,SRTS,"Sensus Healthcare, Inc.",NASDAQ,NASDAQ
 SRZN,SRZN,"Surrozen, Inc.",NASDAQ,NASDAQ
 SSAC,SSAC,SPACSphere Acquisition Corp.,NASDAQ,NASDAQ
@@ -3611,7 +3609,6 @@ ACR,ACR,ACRES Commercial Realty Corp.,NYSE,NYSE
 ACRE,ACRE,Ares Commercial Real Estate Corporation,NYSE,NYSE
 ACU,ACU,Acme United Corporation.,NYSE American,NYSE American
 ACV,ACV,Virtus Diversified Income & Convertible Fund Com,NYSE,NYSE
-ACVA,ACVA,ACV Auctions Inc.,NYSE,NYSE
 AD,AD,"Array Digital Infrastructure, Inc. Common Shares",NYSE,NYSE
 ADC,ADC,Agree Realty Corporation,NYSE,NYSE
 ADCT,ADCT,ADC Therapeutics SA Common Shares,NYSE,NYSE
@@ -3773,7 +3770,6 @@ ATEN,ATEN,"A10 Networks, Inc.",NYSE,NYSE
 ATHM,ATHM,"Autohome Inc. American Depositary Shares, each r",NYSE,NYSE
 ATHS,ATHS,Athene Holding Ltd. 7.250% Fixed-Rate Reset Juni,NYSE,NYSE
 ATI,ATI,ATI Inc.,NYSE,NYSE
-ATKR,ATKR,Atkore Inc.,NYSE,NYSE
 ATMU,ATMU,Atmus Filtration Technologies Inc.,NYSE,NYSE
 ATNM,ATNM,"Actinium Pharmaceuticals, Inc. (Delaware)",NYSE American,NYSE American
 ATO,ATO,Atmos Energy Corporation,NYSE,NYSE
@@ -4040,6 +4036,7 @@ CDLR,CDLR,Cadeler A/S American Depositary Share (each repr,NYSE,NYSE
 CDP,CDP,COPT Defense Properties Common Shares of Benefic,NYSE,NYSE
 CDRE,CDRE,"Cadre Holdings, Inc.",NYSE,NYSE
 CE,CE,Celanese Corporation,NYSE,NYSE
+CECO,CECO,CECO Environmental Corp.,US,US
 CEE,CEE,"The Central and Eastern Europe Fund, Inc. (The)",NYSE,NYSE
 CEPU,CEPU,Central Puerto S.A. American Depositary Shares (,NYSE,NYSE
 CET,CET,Central Securities Corporation,NYSE American,NYSE American
@@ -4221,6 +4218,7 @@ DC,DC,Dakota Gold Corp.,NYSE American,NYSE American
 DCBG,DCBG,"Dime Commercial Bancshares, Inc. 9.000% Junior S",NYSE,NYSE
 DCH,DCH,Dauch Corporation,NYSE,NYSE
 DCI,DCI,"Donaldson Company, Inc.",NYSE,NYSE
+DCM,DCM,"DeFi Capital Markets, Inc.",NYSE American,NYSE American
 DCO,DCO,Ducommun Incorporated,NYSE,NYSE
 DCOM,DCOM,"Dime Commercial Bancshares, Inc.",NYSE,NYSE
 DD,DD,"DuPont de Nemours, Inc.",NYSE,NYSE
@@ -4750,6 +4748,7 @@ IAUX,IAUX,i-80 Gold Corp. Common Shares,NYSE American,NYSE American
 IBM,IBM,International Business Machines Corporation,NYSE,NYSE
 IBN,IBN,ICICI Bank Limited,NYSE,NYSE
 IBO,IBO,"Impact BioMedical, Inc.",NYSE American,NYSE American
+IBOC,IBOC,International Bancshares Corporation,US,US
 IBP,IBP,"Installed Building Products, Inc.",NYSE,NYSE
 IBTA,IBTA,"Ibotta, Inc.",NYSE,NYSE
 ICE,ICE,Intercontinental Exchange Inc.,NYSE,NYSE
@@ -5967,7 +5966,6 @@ UTG,UTG,Reaves Utility Income Fund Common Shares of Bene,NYSE American,NYSE Amer
 UTI,UTI,Universal Technical Institute Inc,NYSE,NYSE
 UTL,UTL,UNITIL Corporation,NYSE,NYSE
 UTZ,UTZ,Utz Brands Inc,NYSE,NYSE
-UUU,UUU,"Universal Safety Products, Inc.",NYSE American,NYSE American
 UUUU,UUUU,Energy Fuels Inc Ordinary Shares (Canada),NYSE American,NYSE American
 UVE,UVE,UNIVERSAL INSURANCE HOLDINGS INC,NYSE,NYSE
 UVV,UVV,Universal Corporation,NYSE,NYSE
