@@ -1,0 +1,47 @@
+{
+  "market": "US",
+  "date": "2026-10-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,712.57",
+      "change": "+0.28%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,424.82",
+      "change": "-0.02%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,495.88",
+      "change": "+1.02%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.12%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Mixed Ahead of Netflix Earnings and Reported $30 Billion OpenAI Fundraising: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「S&P 500 Index: Chip Stocks Slide Again as the Dow Leads Earnings Rotation」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Edge Higher Amid Tech Rebound As Q3 Earnings Season Forges Ahead: DJT, AMZN, CBRS, CRWV Stocks In Focus」と伝えた。",
+    "S&P 500は前日比+0.28%の7,712.57で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQnlCNXdQSnRvZDAtMzVGWXVINjQwS09SWThnRklscm9GYXo3T1dKc2dld3RwMzhGby1RdlA5RndjU3RRNktSVFFFeVJjcU8teUxFQzdLLXZlbXBoQjhxbjVMX2tPVzFNZXk4TjRKWXIxSk1kWG13ZVJoekVKWGF4RGRxbG5STFl1bl9RZkFSTC1iSjY4Y1lYRw?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkRQUXkwVFBNbHMzeG8xeGRHWHI3VlJQcEF4NXd6cVJfZHhsQ2lVSmxOR0otZFlNSVNmZVk1Z1ZoV0lIcXc4Q21iSEY1Y3Z5WjcxX09JR1NJZldIWmhqT2UxTjFYQUZmZTRBNXYwT2VDUUFfRHFwZUhZTkhZbnp2cGFLZmd5QjVIOG43Vl9LbGExS1hKdHljR2t6TzZneVY4Y2p1blYwWEJ3Rk1zLXQzTE1LR1Z5Yk5lbElLTGl2aw?oc=5",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlpacWkwZ2Ewc2JXVnBxcTl6b3JpOFBuaGF4R0V5czJfYWdpSlBRaWNYV2RiVzJDaGdCcGdoRDZmek1FcmFTTVRIYXVPUEJ2bUt2TVltdmJsU2N3UjV1RmxJV2tFemNWeXgxYWkyN1A2eS1kbHZRU0xGbGd4U1pCSGxWVVhIV2VnbFljem1xUQ?oc=5"
+  ],
+  "generated_at": "2026-10-20T23:15:25+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
