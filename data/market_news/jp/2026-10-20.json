@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,075.42",
+      "change": "-1.30%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "421.80",
+      "change": "-1.24%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.90",
+      "change": "+0.10"
+    }
+  },
+  "top_sectors": [
+    "小売",
+    "医薬品"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "東証続落、終値は841円安 半導体株に売り、原油高も重荷（共同通信）。",
+    "東証寄り付き 日経平均は続落で始まる 金利上昇が重荷、半導体が安い。",
+    "【FX】10/20 ドル円159円を試す？原油高・フランス暴動でドル高加速！ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均は前日比-1.30%の64,075.42円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GT21sdmFJMTJrR0JRVWV3Tk4yN3IySlQ5bFRaaEU1Zi1xNXJNTjRKVUlJdnFYWmdPTEtadHpPSEh4QnprZVZjQVRIZV94V3JvYmM4UFBqYVNqQ2lVYUo2U2QxM3AyenFYa3JSek56QUFfYkt0enQ5SUtPWU5wdW8?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE04TWJMNHB3OEtGRmlVY05YM25VQVZuV1FzQ3JlZ2RUTDJJci1KU1JZVDQ0TlREZ3pZMkJuNEpZc1N2NENCVi1tcFd3dzFxSWxhQnBIVmJjVDRwa1lVLWRaMmRyVWswSlFZaTNBVA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HRjlKQmVuQW9uWHZTLXhBYkU0QW85TWstWjM4NjVOZVFsYXk1cnlpakRteFpvUFhrcHJXNGotQmx5dy16Szk5elpNeEhkM1NfWFhnaGVEUGgxYU5IRDBVelIxcw?oc=5"
+  ],
+  "generated_at": "2026-10-20T12:27:25+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
