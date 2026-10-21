@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-21",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,621.24",
+      "change": "+0.85%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "425.60",
+      "change": "+0.90%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.95",
+      "change": "-0.58"
+    }
+  },
+  "top_sectors": [
+    "鉄鋼・非鉄",
+    "銀行"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "小売"
+  ],
+  "news_bullets": [
+    "日経平均は677円高、訪日外国人客数や米企業決算に関心(フィスコ)。",
+    "日経平均は558円高、原油高やAI過剰投資など警戒(フィスコ)。",
+    "日銀政策金利は来春1.75%へ、次の利上げは12月の可能性－前田元理事。",
+    "日経平均は前日比+0.85%の64,621.24円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NTNmhieXk0cGZpa0tBTk1kdHZRNDBwNXlfdk9zNUtHTmpwQ2U1NkdUQ1FyNlQ5WTlPcnBTeXpHdFAzbzE2Y0ZGTk8tOWtPaTVqQVExVVJyaThPeXVNOVk2aVh4dXRubkxzemUyczN6MlF3TXpwNjJVN3J4TmZhcEZ2UGo1alk?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHlmWVhtbnJmUG8tQ21WYlRFU2N4QTlIV3lJV2MxVkVCNFd0OG11OVRYdVd4bU81ejRrT2hkZENhYUhGNGE3NjcwbW1EWmxWOUxXTFdQVnh3eG90WlBBRkt4Q29vMmUxa2JCeHA1VTZ5YWZlUi1fT29YVTF2SEw5Y3cyZnU0YnM?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE13Sk9mVFB1ZHZkUGpHQkZKVGJpNnc2cFpmdUpLWDVoREN6VXNqcFI2TGR3TGJjSWlhLWVPc2ZuN3V3ZUpfV2V0U0ZlckZXQjNvMDloa091LUsxb1pCMjVtVFJZWVh4NG5sdEV6SU9FXzVaUGEySDhn?oc=5"
+  ],
+  "generated_at": "2026-10-21T12:37:21+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
