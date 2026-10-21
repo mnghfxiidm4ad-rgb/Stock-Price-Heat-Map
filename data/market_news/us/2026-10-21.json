@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-21",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,757.17",
+      "change": "+0.58%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,702.86",
+      "change": "+1.05%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,856.09",
+      "change": "+0.69%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.15%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "不動産"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus」と伝えた。",
+    "海外メディアは「Wall Street Futures Rise as Corporate Earnings Support Technology Stocks: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "海外メディアは「US Stock Futures Point Higher as Investors Assess Earnings and Await Major Technology Results: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比+0.58%の7,757.17で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblVzanhudmsxVVk2MnlHV0FvZXBhSU1nUGE2R055NEJWaF9kTTFaUEhDRG8zd2pXalR3bEt6UU1ISzAycW5qc2dNekdmQlhrMHFTejRUeG0xVmJTNElHWWVhZTh6UFpEX1hoUjVwaUlGaDE5Z3pXakR6WXg1cExTTU8zekh2bTlBVjZKVlVhMTB1dw?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbE9WVl9QMjc0NjFFV2FmaC1HSk5iSkpGZ1ZWZU9KMm9hbml2MHg1YXM1Mk5OR0VYQlU2d05RVTBGT0Zpei1aS1N1dkQ2VmpCOWFHMUtKbGJ1Q2RRLXFNNmNTVHZPRHlQNUdmVjlaQ0dFV0NuZ2lBVGdvZUtRTHQ2X0ZlaE1ScDdHYzFRRHdiV2hyY3Y0R0huOWQwVDFPeTZm?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGJNV3dEbUNfdHVkX2NSUzduZlIwOEtaeGlKOWNxNFdpSzJZaVNsRmhBZllGbjhVSnV4dzl0TWdLSGVVd2I0c0lyMFRNVDY0YmNmaWtNRHJVWllzbkJRQWl4R0tLMmJSakJrQlUyTFFHVHhLbjRVY183eEdlRWdadEJTdVc?oc=5"
+  ],
+  "generated_at": "2026-10-21T23:28:52+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
