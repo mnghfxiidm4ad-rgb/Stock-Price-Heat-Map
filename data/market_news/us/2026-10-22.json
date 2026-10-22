@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-22",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,663.43",
+      "change": "-1.21%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,008.86",
+      "change": "-2.60%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,867.98",
+      "change": "+0.02%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.95%",
+      "change": "-0.19"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「S&P 500 on track for first down day in four sessions, Nasdaq tumbles again」と伝えた。",
+    "海外メディアは「Wall Street clôture globalement en baisse : Nasdaq -2,60 %, S&P 500 -1,21 %, Dow Jones +0,02」と伝えた。",
+    "海外メディアは「Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings」と伝えた。",
+    "S&P 500は前日比-1.21%の7,663.43で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0FXbzROTVdQVGl0TXFkMl9xNFAwMnlMUGpxQUxsM1NqQWRNR2d4YzRJeGZyNDNNV0otRXNDc05Md2hqaWdMaWw4YmQ2cEZBZXBVeW1qLWM5Q1BwaVlkY3ZhQURSeGJtWmxOeVhUVVN4TUdsRHVsVkZVaXl4cnpGbUZHcXdZU3psTEJOS2RyUGFRN2EzUjFRSlBLdDRqQmpKc3hsaVNrYjZFa3M5NnF1aDNyQlBoZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EUDJEMldzREhkRWFEUzVnYkI2ZDdMdGdGcnlZX0RLU2RFUUVueFRveHpVRzlrODh5U1R5TGVJbTRkQXExTUtNWWJ4ZkZvQjV1dDl0dHc4NEliSU9PSGxwdldKaw?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxORTJOa1otYXg4SENONFRkVEVPZzNueGtPZHZxZ3g1bkdFTXgtRVlYSlJzSnk3NHlXRTdJcXFnYUtwVmVtbzhpQzFvWWtReTljR3JzaXhrV2laaXJlTHM4Y3dyWmZZUjFkT0puYXpWd0R4LVFnRGZtNlJPZXVKZDhGUTc2Q2RkN2lLQ2M1YmJxRjF6RjBYNjdjYnNQX0U2TFZ5ZUtSMkt1NXc2QmdfOUZROFZSZUJSbHVLRnI4dDB3?oc=5"
+  ],
+  "generated_at": "2026-10-22T23:28:23+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
