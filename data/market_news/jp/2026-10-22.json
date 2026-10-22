@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-22",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,907.84",
+      "change": "-2.65%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "420.60",
+      "change": "-1.17%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.22",
+      "change": "-1.05"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "機械"
+  ],
+  "news_bullets": [
+    "【FX】10/22 ドル円158円台で足踏み！原油高と明日の日本CPIで円安は変わる？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "品川リフラ[5351]：半導体関連分野をはじめとする成長市場の需要拡大に対応した設備投資に関するお知らせ ～国内生産拠点の能力増強により供給体制を強化～ 2026年10月22日(適時開示) ：日経会社情報DIGITAL。",
+    "日経平均は1660円安、米経済指標や企業決算に関心(フィスコ)。",
+    "日経平均は前日比-2.65%の62,907.84円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOblYtak90UE11eEEzOHRlMTNTcDFGbHlUNXdBaWJLU3hzLTdPNHdmajNQaE4wUU5NcGI3eHdFY0dpeWR4Vk0xWWt0cmJjZlVZZ2YteE5xSDk0N1dTZDQyWDhoMA?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE82SlcyeU1ibUt5eVJPSkYyMGdyeG5oOUU4alVfbHVWaDBMeWFzcmdQUEF1Sm1LZm93eFhVWWF2UDYybGVUakduRy10WVdXZWtZWWpBM1h3NGl1QzRpbWRsQlpiNlRCbldkX2c?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkRud1pHSjd5ZW5HV2RUeERSbWJ4eEtLSXBYR0UtaUFzOVB5eUFWX3k4TFpwT0l4OEREcENWSW5FbG5GTGZidzc1X3Z0YVBhRW44ZThMQTViaU1vbmJnbXFsQXZKalVud1A3UkxHVzhCWjFaQkk1RWd5ajliN1dKZVY5T3pFNU0?oc=5"
+  ],
+  "generated_at": "2026-10-22T12:41:00+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
