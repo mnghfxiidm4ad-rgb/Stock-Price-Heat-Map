@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-23",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,693.16",
+      "change": "-0.34%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "416.30",
+      "change": "-1.02%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "156.74",
+      "change": "-1.39"
+    }
+  },
+  "top_sectors": [
+    "不動産",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "銀行",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "【FX】10/23 ドル円急落、160円どころか157円割れ！円高の背景は？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均、3カ月ぶり安値 国債は株式市場より賢かったか。",
+    "東証14時 日経平均は下げ幅縮小 東エレクやソフトバンクGに押し目買い。",
+    "日経平均は前日比-0.34%の62,693.16円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE12eUFuQ19QNVByRnpZcnBaclluWHg3YVNIYTlycmJxNklWWEthOHdBTmJfT3F3Z051TjF2SVlYUlFpd0RvQjhBMEoyYjRULXYzZ1I1amFxdTFGS3E4QS1PRWM2Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFByLVhXbnJJSGJqNE9QQkZSOF9yVndFWE1VQ0VQWS1oNWRaN3JZUVVDOU1BMmNhbnJjSVYtUFNscFEzb2xtRUVzSlp1S3BpM3Y5TUNldHBtZWFoRUs2RUZCMWx1SFloRE1IWXp6Yg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwT2tZQ0hvZ3RReDByN29SVnRaYVdvc1ZHbUYzaGVFYUR3dHJneFJGTDRoMjQ2VHptS2sxX2ZNN01FcVhTcFdCTzNUUDZTMEt3WUNndTR1RGlkSjlHRVYxUmEzZTg2d2xKVnBuYw?oc=5"
+  ],
+  "generated_at": "2026-10-23T12:19:16+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
