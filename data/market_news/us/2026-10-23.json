@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,623.68",
+      "change": "-0.52%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,955.34",
+      "change": "-0.21%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,215.16",
+      "change": "-1.23%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.99%",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "コミュニケーション・サービス"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq Futures Rise After Chip Selloff While S&P 500, Dow Track Mixed Open: SLV, GLD, SOXL, BE In Focus」と伝えた。",
+    "海外メディアは「Wall Street ouvre en baisse : Nasdaq -0,37 %, S&P 500 -0,46 %, Dow Jones -0,98 %」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff」と伝えた。",
+    "S&P 500は前日比-0.52%の7,623.68で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmEydE1RYUllMnZsQ05JS2c2eDFxYzhNckdZa0ItYmFzSklxUE01dC1leW9uWGk0dHZzcFBkTlZ4U1pXb09NN2lNb2dPTkQwM1BIczZkelhJVnVUSHltN1pXNU1fUUl1MDVGM3gxYTE1dV9QdmdCNEhQRGVXVWFBc3RHVjFKOGdIS1FhVHAzWVBrbnhndE02MFVoWW1YUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIMlFOZXFKWEpIWEpiOXdqVnpyZ2tnM0IxMmFMLUJsT3V3WTBTNG1tLTdZRUFKTU9tQjhrdjcyNFZMaFJ2OUV0NGhNUGhaX0dNdUlwalBfOUZOYlVYMTFUSUd4WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5"
+  ],
+  "generated_at": "2026-10-23T23:15:27+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
