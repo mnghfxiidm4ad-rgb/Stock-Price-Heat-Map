@@ -242,6 +242,7 @@ APRE,APRE,"Aprea Therapeutics, Inc.",NASDAQ,NASDAQ
 APUR,APUR,Aperture AC,NASDAQ,NASDAQ
 APVO,APVO,Aptevo Therapeutics Inc.,NASDAQ,NASDAQ
 APWC,APWC,Asia Pacific Wire & Cable Corporation Limited,NASDAQ,NASDAQ
+APXC,APXC,Apex Critical Metals Corp.,NASDAQ,NASDAQ
 APXT,APXT,Apex Treasury Corporation,NASDAQ,NASDAQ
 APYX,APYX,Apyx Medical Corporation,NASDAQ,NASDAQ
 AQB,AQB,"AquaBounty Technologies, Inc.",NASDAQ,NASDAQ
@@ -1943,6 +1944,7 @@ LX,LX,LexinFintech Holdings Ltd.,NASDAQ,NASDAQ
 LXEH,LXEH,"Lixiang Education Holding Co., Ltd.",NASDAQ,NASDAQ
 LXEO,LXEO,"Lexeo Therapeutics, Inc.",NASDAQ,NASDAQ
 LXRX,LXRX,"Lexicon Pharmaceuticals, Inc.",NASDAQ,NASDAQ
+LYCA,LYCA,"Lycia Therapeutics, Inc.",NASDAQ,NASDAQ
 LYEL,LYEL,"Lyell Immunopharma, Inc.",NASDAQ,NASDAQ
 LYFT,LYFT,"Lyft, Inc.",NASDAQ,NASDAQ
 LYTS,LYTS,LSI Industries Inc.,NASDAQ,NASDAQ
@@ -2449,6 +2451,7 @@ PATK,PATK,"Patrick Industries, Inc.",NASDAQ,NASDAQ
 PAVM,PAVM,PAVmed Inc.,NASDAQ,NASDAQ
 PAVS,PAVS,Paranovus Entertainment Technology Ltd.,NASDAQ,NASDAQ
 PAX,PAX,Patria Investments Limited,NASDAQ,NASDAQ
+PAXG,PAXG,Pine Tree Acquisition Corp.,NASDAQ,NASDAQ
 PAYO,PAYO,Payoneer Global Inc.,NASDAQ,NASDAQ
 PAYP,PAYP,PayPay Corporation,NASDAQ,NASDAQ
 PAYS,PAYS,"Paysign, Inc.",NASDAQ,NASDAQ
@@ -2862,7 +2865,6 @@ SDA,SDA,SunCar Technology Group Inc.,NASDAQ,NASDAQ
 SDGR,SDGR,"Schrodinger, Inc.",NASDAQ,NASDAQ
 SDHI,SDHI,Siddhi Acquisition Corp,NASDAQ,NASDAQ
 SDOT,SDOT,Sadot Group Inc.,NASDAQ,NASDAQ
-SDST,SDST,Stardust Power Inc.,NASDAQ,NASDAQ
 SEAT,SEAT,Vivid Seats Inc.,NASDAQ,NASDAQ
 SEDG,SEDG,"SolarEdge Technologies, Inc.",NASDAQ,NASDAQ
 SEED,SEED,Origin Agritech Limited,NASDAQ,NASDAQ
@@ -4841,7 +4843,7 @@ JHI,JHI,John Hancock Investors Trust,NYSE,NYSE
 JHS,JHS,John Hancock Income Securities Trust,NYSE,NYSE
 JHX,JHX,James Hardie Industries plc.,NYSE,NYSE
 JILL,JILL,"J. Jill, Inc.",NYSE,NYSE
-JKS,JKS,JinkoSolar Holding Company Limited American Depo,NYSE,NYSE
+JKS,JKS,Jinko Holdings Limited American Depositary Share,NYSE,NYSE
 JLL,JLL,Jones Lang LaSalle Incorporated,NYSE,NYSE
 JLS,JLS,Nuveen Mortgage and Income Fund,NYSE,NYSE
 JMIA,JMIA,Jumia Technologies AG American Depositary Shares,NYSE,NYSE
@@ -4974,7 +4976,7 @@ LSPD,LSPD,Lightspeed Commerce Inc. Subordinate Voting Shar,NYSE,NYSE
 LTC,LTC,"LTC Properties, Inc.",NYSE,NYSE
 LTH,LTH,"Life Time Group Holdings, Inc.",NYSE,NYSE
 LTM,LTM,LATAM Airlines Group S.A. American Depositary Sh,NYSE,NYSE
-LU,LU,"Lufax Holding Ltd American Depositary Shares, ea",NYSE,NYSE
+LU,LU,Lufax Holding Ltd American Depositary Shares (ea,NYSE,NYSE
 LUCK,LUCK,Lucky Strike Entertainment Corporation,NYSE,NYSE
 LUD,LUD,Luda Technology Group Limited,NYSE American,NYSE American
 LUV,LUV,Southwest Airlines Company,NYSE,NYSE
@@ -5383,7 +5385,6 @@ PED,PED,Pedevco Corp.,NYSE American,NYSE American
 PEG,PEG,Public Service Enterprise Group Incorporated,NYSE,NYSE
 PEN,PEN,"Penumbra, Inc.",NYSE,NYSE
 PEO,PEO,"Adams Natural Resources Fund, Inc.",NYSE,NYSE
-PERF,PERF,Perfect Corp.,NYSE,NYSE
 PEW,PEW,GrabAGun Digital Holdings Inc.,NYSE,NYSE
 PFD,PFD,Flaherty & Crumrine Preferred and Income Fund In,NYSE,NYSE
 PFE,PFE,"Pfizer, Inc.",NYSE,NYSE
