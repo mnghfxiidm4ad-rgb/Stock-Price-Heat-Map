@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-26",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,676.77",
+      "change": "+0.70%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,169.38",
+      "change": "+0.82%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,361.58",
+      "change": "+0.28%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.99%",
+      "change": "-0.00"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "bottom_sectors": [
+    "コミュニケーション・サービス",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Point Higher as Crude Oil Retreats and Investors Await Fed Meeting: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Wall Street Futures Gain as Oil Retreats Ahead of Earnings and Central Bank Meetings: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "海外メディアは「US stocks (Dow Jones, S&P 500, Nasdaq) rise as Anthropic IPO filing lifts AI chipmakers falls」と伝えた。",
+    "S&P 500は前日比+0.70%の7,676.77で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTR4cGxWcm92cG9jSmt5Wm1MdWhBQmp0ZkpLVUV4WGlabUlqWDF4VXRWUER2TEZUT055OVdtWFNWbzhSWklZdXFYcEtNMjV0X0JkLVlsSGVQeC0yZGxYMktMR1Z1WmxGaFNfMmtzTGNrUnFlbUxwSW5QZy1KNy1mZ25oZUo?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHMyNjN3cXFQaDZZZXBRNVlXTkVEWGRudmNTWEpmWXo0dVlyUWFsNHVxOUlYZERYa2E3eEtraG4zZHJfa0g3UlUwNk1NdmZtMHNIbWdsNmN0MVRZQzdVWEV6clZBUFV1R05rRVRhbFlPUGNkODBPczFzMkE0ZzJFNWZxcw?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT2VRU2piTW1ISlJoX2VmRXl2TkUyWFhtdkFvelFFUkl5d21LN08yUjZWcGxXTGx3dW1ua2cxdF9mMjZHRm5mV2RuU2FyT3pGeWhZcEREZkw4MTVZOHBnVFUyUzRVYkxSZV9LS19rUk1TUm1lbjhYRWdxd2lHQnIxbXZLN2JuVkZkcEdfTWZB?oc=5"
+  ],
+  "generated_at": "2026-10-26T23:57:29+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
