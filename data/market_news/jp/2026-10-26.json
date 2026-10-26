@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,189.65",
+      "change": "-0.80%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "418.40",
+      "change": "+0.50%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.41",
+      "change": "+0.92"
+    }
+  },
+  "top_sectors": [
+    "エネルギー資源",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "電機・精密",
+    "機械"
+  ],
+  "news_bullets": [
+    "日経平均続落、終値503円安 根強い原油高とAI懸念。",
+    "日経平均は177円安、今週は内外金融イベントや企業決算に関心(フィスコ)。",
+    "日経平均、2週連続の急落で下げ幅6,300円超…半導体企業決算などイベント集中で反発は期待できる？【アナリストが分析】。",
+    "日経平均は前日比-0.80%の62,189.65円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxa29FVmV4anp0UHpaVXpBbTluVlNQU2xtaTdOLWJSN3hlTm03UXlLdWlKU2JDVzI0UjVMZ2JZR0VuR01iM2xGZGhqcnFtSFdzaGk0aVdLUWVaOWwtOGc0MEFiLXNLRXE2YlNodQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFRXeTlxVFh6NUxIaUdkNC1aclh1RmlJM1VJWXJoYzRSNGZURDRrWXpkM010NGZ6a3ZJX2wxSFdxY3kySnctWXZmMW1ybDNSRDFieEdlWFZhWW9xTW5LNVVwcVlSVXcyV0xMRThaYlhZb1JOaXlybXFhYVNlVVlweDJIOEpaZGs?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kT3ktV1dJUmVrT21YX2RwUnhvdXhIeDg2azBRY1N5enM1Q2RJMjdiLXFlX1FpSk1uZmczS0xJekt0VXNDNkZXT01UbWlEQVQ2ZlZVS0hRUkJQdw?oc=5"
+  ],
+  "generated_at": "2026-10-26T13:46:12+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
