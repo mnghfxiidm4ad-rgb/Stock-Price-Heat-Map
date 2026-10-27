@@ -91,6 +91,7 @@ AENT,AENT,Alliance Entertainment Holding Corporation,NASDAQ,NASDAQ
 AEP,AEP,"American Electric Power Company, Inc.",NASDAQ,NASDAQ
 AERT,AERT,"Aeries Technology, Inc.",NASDAQ,NASDAQ
 AESP,AESP,Aeon Acquisition I Corp.,NASDAQ,NASDAQ
+AETR,AETR,Aetherion Technologies Inc.,NASDAQ,NASDAQ
 AEVA,AEVA,"Aeva Technologies, Inc.",NASDAQ,NASDAQ
 AEYE,AEYE,"AudioEye, Inc.",NASDAQ,NASDAQ
 AFCG,AFCG,Advanced Flower Capital Inc.,NASDAQ,NASDAQ
@@ -1129,6 +1130,7 @@ FBYDP,FBYDP,"Falcon's Beyond Global, Inc.",NASDAQ,NASDAQ
 FCAP,FCAP,"First Capital, Inc.",NASDAQ,NASDAQ
 FCBC,FCBC,"First Community Bankshares, Inc.",NASDAQ,NASDAQ
 FCCO,FCCO,First Community Corporation,NASDAQ,NASDAQ
+FCDH,FCDH,Forcendra Holding Limited,NASDAQ,NASDAQ
 FCEL,FCEL,"FuelCell Energy, Inc.",NASDAQ,NASDAQ
 FCFS,FCFS,"FirstCash Holdings, Inc.",NASDAQ,NASDAQ
 FCHL,FCHL,Fitness Champs Holdings Limited,NASDAQ,NASDAQ
@@ -3393,7 +3395,6 @@ VS,VS,Versus Systems Inc.,NASDAQ,NASDAQ
 VSA,VSA,VisionSys AI Inc.,NASDAQ,NASDAQ
 VSAT,VSAT,"ViaSat, Inc.",NASDAQ,NASDAQ
 VSEC,VSEC,VSE Corporation,NASDAQ,NASDAQ
-VSME,VSME,VS Media Holdings Limited,NASDAQ,NASDAQ
 VSNT,VSNT,"Versant Media Group, Inc.",NASDAQ,NASDAQ
 VSTM,VSTM,"Verastem, Inc.",NASDAQ,NASDAQ
 VTGN,VTGN,"Vistagen Therapeutics, Inc.",NASDAQ,NASDAQ
@@ -3459,7 +3460,6 @@ WNW,WNW,Meiwu Technology Company Limited,NASDAQ,NASDAQ
 WOK,WOK,WORK Medical Technology Group LTD,NASDAQ,NASDAQ
 WOOF,WOOF,"Petco Health and Wellness Company, Inc.",NASDAQ,NASDAQ
 WORX,WORX,SCWorx Corp.,NASDAQ,NASDAQ
-WPRT,WPRT,Westport Fuel Systems Inc,NASDAQ,NASDAQ
 WQEY,WQEY,WISeQey Corp,NASDAQ,NASDAQ
 WRAP,WRAP,"Wrap Technologies, Inc.",NASDAQ,NASDAQ
 WRD,WRD,WeRide Inc.,NASDAQ,NASDAQ
@@ -3599,7 +3599,6 @@ ABR,ABR,Arbor Realty Trust,NYSE,NYSE
 ABT,ABT,Abbott Laboratories,NYSE,NYSE
 ABX,ABX,"Abacus Global Management, Inc.",NYSE,NYSE
 ABXL,ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate",NYSE,NYSE
-ACA,ACA,"Arcosa, Inc.",NYSE,NYSE
 ACCO,ACCO,Acco Brands Corporation,NYSE,NYSE
 ACCS,ACCS,ACCESS Newswire Inc.,NYSE American,NYSE American
 ACEL,ACEL,"Accel Entertainment, Inc.",NYSE,NYSE
@@ -4354,7 +4353,6 @@ ELF,ELF,"e.l.f. Beauty, Inc.",NYSE,NYSE
 ELLA,ELLA,Ellington Credit Company 8.50% Notes due 2031,NYSE,NYSE
 ELLO,ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),NYSE American,NYSE American
 ELMD,ELMD,"Electromed, Inc.",NYSE American,NYSE American
-ELME,ELME,Elme Communities,NYSE,NYSE
 ELPC,ELPC,Companhia Paranaense de Energia (COPEL) American,NYSE,NYSE
 ELS,ELS,"Equity Lifestyle Properties, Inc.",NYSE,NYSE
 ELV,ELV,"Elevance Health, Inc.",NYSE,NYSE
@@ -4650,6 +4648,7 @@ GTN,GTN,"Gray Media, Inc.",NYSE,NYSE
 GTN.A,GTN-A,"Gray Media, Inc.",NYSE,NYSE
 GTY,GTY,Getty Realty Corporation,NYSE,NYSE
 GUG,GUG,Guggenheim Active Allocation Fund Common Shares ,NYSE,NYSE
+GUNN,GUNN,Gunnison Copper Corp. American Depositary Shares,NYSE American,NYSE American
 GUT,GUT,Gabelli Utility Trust (The),NYSE,NYSE
 GVA,GVA,Granite Construction Incorporated,NYSE,NYSE
 GWRE,GWRE,"Guidewire Software, Inc.",NYSE,NYSE
@@ -5351,7 +5350,6 @@ PAGS,PAGS,PagSeguro Digital Ltd.,NYSE,NYSE
 PAI,PAI,Western Asset Investment Grade Income Fund Inc.,NYSE,NYSE
 PAII,PAII,Pyrophyte Acquisition Corp. II,NYSE,NYSE
 PAM,PAM,Pampa Energia S.A.,NYSE,NYSE
-PAPL,PAPL,Pineapple Financial Inc.,NYSE American,NYSE American
 PAR,PAR,PAR Technology Corporation,NYSE,NYSE
 PARR,PARR,"Par Pacific Holdings, Inc.",NYSE,NYSE
 PATH,PATH,"UiPath, Inc.",NYSE,NYSE
@@ -5476,6 +5474,7 @@ PSUS,PSUS,"Pershing Square USA, Ltd. Common Shares",NYSE,NYSE
 PSX,PSX,Phillips 66,NYSE,NYSE
 PTA,PTA,Cohen & Steers Tax-Advantaged Preferred Securiti,NYSE,NYSE
 PTHS,PTHS,Pelthos Therapeutics Inc.,NYSE American,NYSE American
+PTIV,PTIV,Pineapple Financial Inc.,NYSE American,NYSE American
 PTY,PTY,Pimco Corporate & Income Opportunity Fund,NYSE,NYSE
 PUK,PUK,Prudential Public Limited Company,NYSE,NYSE
 PUMP,PUMP,ProPetro Holding Corp.,NYSE,NYSE
@@ -6057,7 +6056,6 @@ WD,WD,"Walker & Dunlop, Inc",NYSE,NYSE
 WDI,WDI,Western Asset Diversified Income Fund Common Sha,NYSE,NYSE
 WDS,WDS,Woodside Energy Group Limited American Depositar,NYSE,NYSE
 WEA,WEA,Western Asset Bond Fund Share of Beneficial Inte,NYSE,NYSE
-WEAV,WEAV,"Weave Communications, Inc.",NYSE,NYSE
 WEC,WEC,"WEC Energy Group, Inc.",NYSE,NYSE
 WELL,WELL,Welltower Inc.,NYSE,NYSE
 WENC,WENC,West Enclave Merger Corp.,NYSE,NYSE
