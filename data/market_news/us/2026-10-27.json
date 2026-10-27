@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,722.60",
+      "change": "+0.60%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,477.81",
+      "change": "+1.18%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,377.57",
+      "change": "+0.03%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.99%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Nasdaq, S&P 500 Jump on Busy Earnings Day as Tech Stocks Extend Rally; Boeing Weighs on Dow; Oil Prices Decline」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500, Nasdaq 10 Futures Gain as Fed Begins Its Two-Day Meet— Novartis, HSBC, Welltower in Focus (UPDATED)」と伝えた。",
+    "海外メディアは「S&P 500 and Nasdaq Composite: Chipmakers Lift Indexes as Fed and Earnings Risks Loom」と伝えた。",
+    "S&P 500は前日比+0.60%の7,722.60で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLVZVZU41WDR2cm9hMkhTeEo0a0FGMjk0eHNKTS1kWm5HVDFFRFNwSXkzQ2M3bmJCVjNVc3QtUVpIUjkySE8ya0tiLS1hMW4wd1RkaFBhMHowQWVIdWkzcnhmczR3SnI5SFJETEw5b1RfYmxEang1WlBoMWhLeHRKZGNMU1hiUWo1ZmZDX0xWZ1I3OHUzOGZz?oc=5",
+    "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSGJMZzk4UzQ4NzdmU25zYlZuV1lGcU5UR190MXhTdDZHUXNyN3EyOW5VN3I1WFhuWUdwWTA0OEZ6ZVVOWFdLdUc2bXRTMmJKdmY2UzJzQmpfSkRxVklKazhLOWtzdXZaVlFtdDNSaHU3emtsc3pkaVpfU3dwWVdTZkYzSjQ5VmpBZHI0dUxWSzlGUFRTVXNRMXN5U2lwV3dkVWZBOTQwOWQxR0VDb2N3MWtHV3plNHl4Yi05NWNxRDFOUFp2cnY5WGFERS12Yl9rV1NQQjhhRDUyVFRzUGxraDFKQUVEWmFJaWVvRDhCQksxTWV2ajIteWhNR1RiVTN0cFFDeVRMYnc5cmVkLXZwbkxnNzd6Z0Jxb3c?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkIzbFFyalB2WjNqRjI4TWdzeEtfdTlpZnJGTVVBSkZWMWttN2VORGI5VlRTMWJIVXEwWVVUemFSZ0dSdHEtSVdPUGpQNHE0RmQ3NDB4enJlUGI4MlhacDNpU2dwZmtRZXM2Mlo1TzNldi1OdHNPMjVnV2dCNzEtSlQwTVpfWDNfcDNJb2JTNWY0dk1JRjB3LVdPaWRwYTloS3UzbDR1OUhCZFhrNlQzTkZHOUtrQ2ROM1NQTmlqTjE0UEYtS3NtSmpMN0s3QQ?oc=5"
+  ],
+  "generated_at": "2026-10-27T23:52:37+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
