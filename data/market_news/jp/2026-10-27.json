@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-27",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,268.37",
+      "change": "+1.73%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "420.60",
+      "change": "+0.53%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.79",
+      "change": "+0.96"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "鉄鋼・非鉄"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "小売"
+  ],
+  "news_bullets": [
+    "東証前引け 日経平均は反発 アンソロピックがIPO申請でAI・半導体に買い。",
+    "日経平均終値1078円高 アンソロピックIPO目論見書でAIラリー再点火。",
+    "【FX】10/27 ドル円157円台の攻防！円高の流れは終わった？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均は前日比+1.73%の63,268.37円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZzJqUDZfM21qZFVsR0NOMnVHS0U0WWVaaVFUWl9zZGJlU0c2QXNlbVQtMFNELTNZa2V1akdKdHFPcDhPcHBBSnNPdExFRGlTcXJzUC1JNE5vV3AzalExZklkSFhCS2k4c0xIMA?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tV05nNVVsMGtfWnJzWFBMUGpmTm1CbGFHbnZoNXJyVzhjWkFSak9zb1hXZjRGS0huUWVMbTBZNTFuV0VQQWpHazNucVRjTUFKN1pUSjRrT3R1Vm1DdzUzTXA2LW43RWVoWmxvbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKZnRucVI2cWg4cmxXbHlnSlMxYlpEVEhmUFlTRDdtV3BqUExaNWtlVF9kRkJFNmM1MXh4Snl3anByWWJsZnNPckpWb0o0bENRZ1ZuUHRfY0VIRU9UM1N0UGpUNA?oc=5"
+  ],
+  "generated_at": "2026-10-27T12:53:39+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
