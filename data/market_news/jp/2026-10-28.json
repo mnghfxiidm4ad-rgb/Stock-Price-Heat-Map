@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-28",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,954.19",
+      "change": "+1.08%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "420.00",
+      "change": "-0.14%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.08",
+      "change": "+0.55"
+    }
+  },
+  "top_sectors": [
+    "電機・精密",
+    "機械"
+  ],
+  "bottom_sectors": [
+    "不動産",
+    "金融（除く銀行）"
+  ],
+  "news_bullets": [
+    "【FX】10/28 FOMCでドル円急変！？158円突破か、円高反転か？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均は783円高、内外企業決算やFOMCに関心(フィスコ)。",
+    "東証後場寄り 日経平均が上げ拡大 一時1000円高 韓国株に連れ高。",
+    "日経平均は前日比+1.08%の63,954.19円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YNXFHdlc3eVN3OG9nMHRqZUdZUWpiM3lYdXFjdm0wVmlnUlR0WFVzVEdUWV93UHpLLW5MazdEcFlIZlRMYkdPWFRYdW1zZmtTdXMtUVRPNzJWc3RGZmRvY3RITQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa1I5ZE13bkp2ajRhNzNaMkY3ZGM1WF9ZOGotUjR0OTBJZHljSktBaXRnSVpJbUo1dXBiTkdGMWVIUkQtVExFamhVVFBzanlRQkR6TkxELUwyeGZsQ2lDdWVoeGFueTd2UEZwM01LTEhfZG05dXhfaXVhWF95b0lCYXFFbWRncnc?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNVpiekpib0dTUzZONko4OHpqbW1JeW1RT2I4OFNhR2dfTnRwOHctdm1MY3gxd1FnWUVDM0NWZnc2bDBUejR2SFRoODNwVWp6RXJvVjVuR2NxZlY2T1BJV3d4SFpkNldXVTVwNA?oc=5"
+  ],
+  "generated_at": "2026-10-28T13:41:45+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
