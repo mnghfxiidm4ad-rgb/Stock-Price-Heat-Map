@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-10-28",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,743.98",
+      "change": "+0.28%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "26,549.85",
+      "change": "+0.27%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,475.10",
+      "change": "+0.19%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.05%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Mixed Ahead Of Key Tech Results, Fed Rate Decision: SKHY, HOOD, BA, ENPH In Focus」と伝えた。",
+    "海外メディアは「Stock market today: Dow futures fall, S&P 500 and Nasdaq futures climb ahead of Fed decision, Big Tech earnings」と伝えた。",
+    "S&P 500は前日比+0.28%の7,743.98で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2xfcTN0UklocUc0ZHluT0RKdnRnUTVyUGx5TXZTNXRCVTZhV1BwT2l3N1B5eHF0MGJReXduTEFDd1paNUpxcEVrZUt5MUdRc050SnRaUUktTUJnb0RPQWtfWlBfN2gxNVllOFBTcDVwMU5MZ2VnOXFlc200ckE0ZlZiR051RVh5ejM3eWVhNHhFajk2VUdFMg?oc=5",
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxObFp1Y3UzVnRsZHplcmdJZGRQUzByY0JoZ29CVHJEdDdxMkp2YVpvaWNPTnNPZnBGd1ZlY2JBN2VKc3NrN3Z3MmJBTGxCUWxTWC1Zcnd5UHJJaXhtT3ZUSHFLVVlxNHkzVW5qZGRaSFA0aUVhQUJTSTVvamg0VExhMWdySzZTMlA4TjNTY3VfUmwybXdCYUVOeV83TTAwSmZicjQxSWVyVWlrZmF6YWQyUFoxTGpGRFNqSVRaa2NiTHBRNlI2LXdoMUdhM3pEWDA2MEZIN0xGUWJ1WkNDQ0tZbHpTRGdfRGFPV3NyVU1MQmZ2RUoyRDI0QW5LS3lIQzlr?oc=5",
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZdW1udWVEcXJJV0t5VmNsMEFKSFZYTGdteVN5TF9vcnptRXBNOEhCYWZKamtxMGZBTG1iQ2N2bktnajZfMG1BT0U2MjcyaG9kVGpwenF0STFGZzFnRm43cDhrNHpQWWFVZ081dmc2b0h4ZVgtS3BIOU1LNkpQelE?oc=5"
+  ],
+  "generated_at": "2026-10-29T00:05:39+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
