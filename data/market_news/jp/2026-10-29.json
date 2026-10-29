@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-29",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "64,659.47",
+      "change": "+1.10%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "421.30",
+      "change": "+0.31%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.76",
+      "change": "-0.24"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "電気・ガス"
+  ],
+  "bottom_sectors": [
+    "機械",
+    "電機・精密"
+  ],
+  "news_bullets": [
+    "日経平均終値705円高、出直る半導体株 引けは「リバランス」の大商い。",
+    "東証10時 日経平均は上げ幅拡大 800円高 AI関連銘柄への買い続く。",
+    "日経平均３日続伸、終値７０５円高の６万４６５９円…ＡＩ・半導体関連銘柄の多くが値上がり。",
+    "日経平均は前日比+1.10%の64,659.47円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eGNobkR3LUs5X0V5WUIwNnVWUXk4OUZJbV9QLU5HNUNfaU5kTkxuem9UaTNMOFNDMFhuTkpWWllNcXViRkdVeF83U3NCQXlUMFRZakVnMzFKSmlWeFAzNldNTFUya0lzMGtsSg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE50UzVpRll5M2J0bVVIRXQ2aUppYnRQcS1JQzFJZ3piNVhDSU9VSmw5SzA2d3JidFlSRldnMnpTT1ZXM29PZ0JwNUlrMi0zUjFvM2lBR09JUTkxT2FGS08tU09nVHhHdE9FNHBteg?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DT0RRVzM4azhCNHFQTXhMUm1ybklJYXVBY1JBV2Myc0VuaXNkUEtxb2JMOEt6RnlYQm9PRnJ4UVZwWEZ6aTZEa0FSRFJDUmFHbkdUQ3drUTU0d3lwdVllMGtNUF8?oc=5"
+  ],
+  "generated_at": "2026-10-29T13:51:53+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
