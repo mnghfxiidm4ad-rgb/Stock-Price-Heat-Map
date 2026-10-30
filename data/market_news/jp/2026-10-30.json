@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-10-30",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,290.11",
+      "change": "-2.12%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "416.40",
+      "change": "-1.16%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.18",
+      "change": "-0.65"
+    }
+  },
+  "top_sectors": [
+    "運輸・物流",
+    "小売"
+  ],
+  "bottom_sectors": [
+    "鉄鋼・非鉄",
+    "電気・ガス"
+  ],
+  "news_bullets": [
+    "日銀総裁会見のポイント：2％目標到達の政策的意義、次回利上げ ＡＩ関連動向など物価リスク。",
+    "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続。",
+    "東証14時 日経平均下げ幅縮小 半導体に押し目買い。",
+    "日経平均は前日比-2.12%の63,290.11円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SOXF1RE9IOHg1TjVXUW9IakRzZEdLQWIyVzMwUHQtZ1ZFcFFMNC0xUGtEUjhGZE1yNHlGMHNJOUUySzNQbUt6cGlNbzhjS0w4NWhiQXZCTFNrSy0yRUNTeHlTV3hMYXplRFF0cFk1NXhrbkY2dTJKUlI2Q3QtZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FcHlYMHRaNHBFQzJ2c3oxWm9WWEVLVXlMbkdSdDltM2tJTV9KYjFhNlJBOUlGN21JallJRHFCZlBPMzFmMS00S2ozcDQ3dUdNbC1MX2ZnU0ZFcUJjYXpN?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE95eE05aFhIX05tSjhoWTlDcXhOdmwwai1yaEpLOGhFdmI5aWhucG4zTEY0V2dNczVyTFRNUFEtUHdXMUhCSVZoeUVoSnJSV1BUeVVFZ2ZNc3ZlWHVRUFF4Vm1uR2hRaElfeEhvZA?oc=5"
+  ],
+  "generated_at": "2026-10-30T13:44:18+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
