@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-10-30",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,580.07",
+      "change": "-1.82%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,437.00",
+      "change": "-2.86%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,770.31",
+      "change": "-1.09%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.93%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Nasdaq Futures Slide 2.2% as Amazon and Intel Earnings Fuel AI Spending Concerns, Binance Hit by $6.3 Billion Hack: Dow Jones, S&P, Wall Street」と伝えた。",
+    "海外メディアは「Chip stocks end in a sea of red, dragging down Nasdaq and S&P 500」と伝えた。",
+    "海外メディアは「Wall Street ouvre en baisse, la tech flanche (Nasdaq -2,26 %, S&P 500 -1,18 %, Dow Jones -0,28 %)」と伝えた。",
+    "S&P 500は前日比-1.82%の7,580.07で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTmVkOXVpX01IQXVSdHRlSmdoWVROcE16RWJhMGhleXQyS205WnJRNWRZaXB6cW5wWmh4SG4tS3NWSzJMeFpxLWwzem5tVXN6Qjl1MGdhX0sxLW12Q01LdG9UWEVGdTVodUt4T3NRdWliN1NnNm5McVJYaENyaC1UaXc2OWtRVG9TZGpuUXpLOGxXQUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwWEw1UEphMDlsdU1VcnB1Y18wYmI5c2d2R3F6MU5TYVVacHhVXzNBdWItVHZxTXJWUU5ZaTNPMlFNcTFfVHBMWjlKajNFb0ZacnJjTzBuQ0NzbS1zUmdDU2dpakxsLVBQb3E1SGk2TGpKSUlEdEEzQjRB?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tRXJGV2thRkVlMFBhMVVDMXZaREpDMVJxMUFldjNwTVNMUTBmaHlkYjB3VjNZSEl5Qm5qcHhiQjdPY1NLNkEtS3JVTTlOS1Y1Ymw4SWl4Y1c0U0JLeVRLbENzVQ?oc=5"
+  ],
+  "generated_at": "2026-10-30T23:55:18+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
