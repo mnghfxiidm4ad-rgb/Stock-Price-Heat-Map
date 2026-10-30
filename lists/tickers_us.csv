@@ -66,7 +66,6 @@ ADBT,ADBT,"Advasa Holdings, Inc.",NASDAQ,NASDAQ
 ADEA,ADEA,Adeia Inc.,NASDAQ,NASDAQ
 ADGM,ADGM,"Adagio Medical Holdings, Inc",NASDAQ,NASDAQ
 ADI,ADI,"Analog Devices, Inc.",NASDAQ,NASDAQ
-ADIL,ADIL,"Adial Pharmaceuticals, Inc",NASDAQ,NASDAQ
 ADMA,ADMA,ADMA Biologics Inc,NASDAQ,NASDAQ
 ADP,ADP,"Automatic Data Processing, Inc.",NASDAQ,NASDAQ
 ADPT,ADPT,Adaptive Biotechnologies Corporation,NASDAQ,NASDAQ
@@ -364,6 +363,7 @@ AYTU,AYTU,"Aytu BioPharma, Inc.",NASDAQ,NASDAQ
 AZ,AZ,A2Z Cust2Mate Solutions Corp.,NASDAQ,NASDAQ
 AZI,AZI,Autozi Internet Technology (Global) Ltd.,NASDAQ,NASDAQ
 AZIO,AZIO,"Azio AI Holdings, Inc.",NASDAQ,NASDAQ
+AZR,AZR,"Azora Therapeutics, Inc.",NASDAQ,NASDAQ
 AZTA,AZTA,"Azenta, Inc.",NASDAQ,NASDAQ
 BACC,BACC,Blue Acquisition Corp.,NASDAQ,NASDAQ
 BAER,BAER,"Bridger Aerospace Group Holdings, Inc.",NASDAQ,NASDAQ
@@ -1288,6 +1288,7 @@ GAME,GAME,"GameSquare Holdings, Inc.",NASDAQ,NASDAQ
 GANX,GANX,"Gain Therapeutics, Inc.",NASDAQ,NASDAQ
 GASS,GASS,"StealthGas, Inc.",NASDAQ,NASDAQ
 GAUZ,GAUZ,Gauzy Ltd.,NASDAQ,NASDAQ
+GBC,GBC,"Georgia Banking Company, Inc.",NASDAQ,NASDAQ
 GBDC,GBDC,"Golub Capital BDC, Inc.",NASDAQ,NASDAQ
 GBFH,GBFH,GBank Financial Holdings Inc.,NASDAQ,NASDAQ
 GBLI,GBLI,"Global Indemnity Group, LLC",NASDAQ,NASDAQ
@@ -1729,7 +1730,7 @@ JOUT,JOUT,Johnson Outdoors Inc.,NASDAQ,NASDAQ
 JOYY,JOYY,JOYY Inc.,NASDAQ,NASDAQ
 JRSH,JRSH,"Jerash Holdings (US), Inc.",NASDAQ,NASDAQ
 JRVR,JRVR,"James River Group Holdings, Inc.",NASDAQ,NASDAQ
-JSM,JSM,Navient Corporation,NASDAQ,NASDAQ
+JSM,JSM,Navient LLC,NASDAQ,NASDAQ
 JSPR,JSPR,"Jasper Therapeutics, Inc.",NASDAQ,NASDAQ
 JTAI,JTAI,Jet.AI Inc.,NASDAQ,NASDAQ
 JTTT,JTTT,JATT III Acquisition Corp,NASDAQ,NASDAQ
@@ -2157,7 +2158,7 @@ NAMS,NAMS,NewAmsterdam Pharma Company N.V.,NASDAQ,NASDAQ
 NANO,NANO,Forge Nano Holdings Inc.,NASDAQ,NASDAQ
 NATR,NATR,"Nature's Sunshine Products, Inc.",NASDAQ,NASDAQ
 NAUT,NAUT,"Nautilus Biotechnology, Inc.",NASDAQ,NASDAQ
-NAVI,NAVI,Navient Corporation,NASDAQ,NASDAQ
+NAVI,NAVI,"Navient Holdings, Inc.",NASDAQ,NASDAQ
 NAVN,NAVN,"Navan, Inc.",NASDAQ,NASDAQ
 NB,NB,NioCorp Developments Ltd.,NASDAQ,NASDAQ
 NBBK,NBBK,"NB Bancorp, Inc.",NASDAQ,NASDAQ
@@ -2948,7 +2949,7 @@ SLGB,SLGB,Smart Logistics Global Limited,NASDAQ,NASDAQ
 SLGL,SLGL,Sol-Gel Technologies Ltd.,NASDAQ,NASDAQ
 SLM,SLM,SLM Corporation,NASDAQ,NASDAQ
 SLMBP,SLMBP,SLM Corporation,NASDAQ,NASDAQ
-SLMT,SLMT,Brera Holdings PLC,NASDAQ,NASDAQ
+SLMT,SLMT,Solmate Infrastructure Public Limited Company,NASDAQ,NASDAQ
 SLN,SLN,Silence Therapeutics Plc,NASDAQ,NASDAQ
 SLNG,SLNG,"Stabilis Solutions, Inc.",NASDAQ,NASDAQ
 SLNH,SLNH,"Soluna Holdings, Inc.",NASDAQ,NASDAQ
