@@ -285,6 +285,7 @@ ASML,ASML,ASML Holding N.V.,NASDAQ,NASDAQ
 ASND,ASND,Ascendis Pharma A/S,NASDAQ,NASDAQ
 ASO,ASO,"Academy Sports and Outdoors, Inc.",NASDAQ,NASDAQ
 ASPC,ASPC,A SPAC III Acquisition Corp.,NASDAQ,NASDAQ
+ASPE,ASPE,"Aspen Neuroscience, Inc.",NASDAQ,NASDAQ
 ASPI,ASPI,ASP Isotopes Inc.,NASDAQ,NASDAQ
 ASPS,ASPS,Altisource Portfolio Solutions S.A.,NASDAQ,NASDAQ
 ASRV,ASRV,AmeriServ Financial Inc.,NASDAQ,NASDAQ
@@ -385,6 +386,7 @@ BBLG,BBLG,Bone Biologics Corp,NASDAQ,NASDAQ
 BBNX,BBNX,"Beta Bionics, Inc.",NASDAQ,NASDAQ
 BBOT,BBOT,"BridgeBio Oncology Therapeutics, Inc.",NASDAQ,NASDAQ
 BBSI,BBSI,"Barrett Business Services, Inc.",NASDAQ,NASDAQ
+BBTX,BBTX,"Bambusa Therapeutics, Inc.",NASDAQ,NASDAQ
 BCAL,BCAL,California BanCorp,NASDAQ,NASDAQ
 BCAX,BCAX,Bicara Therapeutics Inc.,NASDAQ,NASDAQ
 BCBP,BCBP,"BCB Bancorp, Inc. (NJ)",NASDAQ,NASDAQ
@@ -984,7 +986,6 @@ DXR,DXR,Daxor Corporation,NASDAQ,NASDAQ
 DXST,DXST,Decent Holding Inc.,NASDAQ,NASDAQ
 DYAI,DYAI,"Dyadic International, Inc.",NASDAQ,NASDAQ
 DYN,DYN,"Dyne Therapeutics, Inc.",NASDAQ,NASDAQ
-DYNC,DYNC,Dynamix Corporation,NASDAQ,NASDAQ
 DYOR,DYOR,Insight Digital Partners II,NASDAQ,NASDAQ
 EBAY,EBAY,eBay Inc.,NASDAQ,NASDAQ
 EBC,EBC,"Eastern Bankshares, Inc.",NASDAQ,NASDAQ
@@ -1297,7 +1298,6 @@ GCGR,GCGR,General Catalyst Global Resilience Merger Corp.,NASDAQ,NASDAQ
 GCL,GCL,GCL Global Holdings Ltd,NASDAQ,NASDAQ
 GCMG,GCMG,GCM Grosvenor Inc.,NASDAQ,NASDAQ
 GCT,GCT,GigaCloud Technology Inc,NASDAQ,NASDAQ
-GCTK,GCTK,"GlucoTrack, Inc.",NASDAQ,NASDAQ
 GDC,GDC,GD Culture Group Limited,NASDAQ,NASDAQ
 GDEV,GDEV,GDEV Inc.,NASDAQ,NASDAQ
 GDHG,GDHG,Golden Heaven Group Holdings Ltd.,NASDAQ,NASDAQ
@@ -1896,7 +1896,6 @@ LMAT,LMAT,"LeMaitre Vascular, Inc.",NASDAQ,NASDAQ
 LMB,LMB,"Limbach Holdings, Inc.",NASDAQ,NASDAQ
 LMNR,LMNR,Limoneira Co,NASDAQ,NASDAQ
 LMRI,LMRI,"Lumexa Imaging Holdings, Inc.",NASDAQ,NASDAQ
-LNAI,LNAI,Lunai Bioworks Inc.,NASDAQ,NASDAQ
 LNKS,LNKS,Linkers Industries Limited,NASDAQ,NASDAQ
 LNSR,LNSR,"LENSAR, Inc.",NASDAQ,NASDAQ
 LNT,LNT,Alliant Energy Corporation,NASDAQ,NASDAQ
@@ -2019,6 +2018,7 @@ MERC,MERC,Mercer International Inc.,NASDAQ,NASDAQ
 MESH,MESH,Meshflow Acquisition Corp.,NASDAQ,NASDAQ
 MESO,MESO,Mesoblast Limited,NASDAQ,NASDAQ
 META,META,"Meta Platforms, Inc.",NASDAQ,NASDAQ
+METAM,METAM,"Meta Platforms, Inc.",NASDAQ,NASDAQ
 METC,METC,"Ramaco Resources, Inc.",NASDAQ,NASDAQ
 METCB,METCB,"Ramaco Resources, Inc.",NASDAQ,NASDAQ
 METCI,METCI,"Ramaco Resources, Inc.",NASDAQ,NASDAQ
@@ -2239,6 +2239,7 @@ NNOX,NNOX,NANO-X IMAGING LTD,NASDAQ,NASDAQ
 NODK,NODK,"NI Holdings, Inc.",NASDAQ,NASDAQ
 NOEM,NOEM,CO2 Energy Transition Corp.,NASDAQ,NASDAQ
 NOMA,NOMA,NOMADAR Corp.,NASDAQ,NASDAQ
+NORD,NORD,Nordicus Partners Corporation,NASDAQ,NASDAQ
 NOVT,NOVT,Novanta Inc.,NASDAQ,NASDAQ
 NPAC,NPAC,New Providence Acquisition Corp. III,NASDAQ,NASDAQ
 NPCE,NPCE,"Neuropace, Inc.",NASDAQ,NASDAQ
@@ -3537,7 +3538,6 @@ YDKG,YDKG,Yueda Digital Holding,NASDAQ,NASDAQ
 YFOR,YFOR,YYForce Inc.,NASDAQ,NASDAQ
 YHC,YHC,LQR House Inc.,NASDAQ,NASDAQ
 YHGJ,YHGJ,Yunhong Green CTI Ltd.,NASDAQ,NASDAQ
-YHNA,YHNA,YHN Acquisition I Limited,NASDAQ,NASDAQ
 YI,YI,"111, Inc.",NASDAQ,NASDAQ
 YIBO,YIBO,Planet Image International Limited,NASDAQ,NASDAQ
 YICC,YICC,Yorkville International Capital Corp.,NASDAQ,NASDAQ
