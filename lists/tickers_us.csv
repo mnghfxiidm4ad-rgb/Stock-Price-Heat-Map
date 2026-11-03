@@ -581,6 +581,7 @@ CARG,CARG,"CarGurus, Inc.",NASDAQ,NASDAQ
 CARL,CARL,"Carlsmed, Inc.",NASDAQ,NASDAQ
 CART,CART,Maplebear Inc.,NASDAQ,NASDAQ
 CASH,CASH,"Pathward Financial, Inc.",NASDAQ,NASDAQ
+CASK,CASK,"Sempreon, Inc.",NASDAQ,NASDAQ
 CASS,CASS,"Cass Information Systems, Inc",NASDAQ,NASDAQ
 CAST,CAST,"FreeCast, Inc.",NASDAQ,NASDAQ
 CASY,CASY,"Caseys General Stores, Inc.",NASDAQ,NASDAQ
@@ -2035,7 +2036,6 @@ MGIH,MGIH,Millennium Group International Holdings Limited,NASDAQ,NASDAQ
 MGN,MGN,Megan Holdings Limited,NASDAQ,NASDAQ
 MGNI,MGNI,"Magnite, Inc.",NASDAQ,NASDAQ
 MGNX,MGNX,"MacroGenics, Inc.",NASDAQ,NASDAQ
-MGPI,MGPI,"MGP Ingredients, Inc.",NASDAQ,NASDAQ
 MGRC,MGRC,McGrath RentCorp,NASDAQ,NASDAQ
 MGRT,MGRT,Mega Fortune Company Limited,NASDAQ,NASDAQ
 MGRX,MGRX,"Mangoceuticals, Inc.",NASDAQ,NASDAQ
@@ -2156,6 +2156,7 @@ NAMI,NAMI,Jinxin Technology Holding Company,NASDAQ,NASDAQ
 NAMM,NAMM,Namib Minerals,NASDAQ,NASDAQ
 NAMS,NAMS,NewAmsterdam Pharma Company N.V.,NASDAQ,NASDAQ
 NANO,NANO,Forge Nano Holdings Inc.,NASDAQ,NASDAQ
+NARA,NARA,"Narragansett Bancorp, Inc.",NASDAQ,NASDAQ
 NATR,NATR,"Nature's Sunshine Products, Inc.",NASDAQ,NASDAQ
 NAUT,NAUT,"Nautilus Biotechnology, Inc.",NASDAQ,NASDAQ
 NAVI,NAVI,"Navient Holdings, Inc.",NASDAQ,NASDAQ
@@ -4021,7 +4022,6 @@ CBOE,CBOE,"Cboe Global Markets, Inc.",Cboe BZX,Cboe BZX
 CBRE,CBRE,CBRE Group Inc Common Stock,NYSE,NYSE
 CBT,CBT,Cabot Corporation,NYSE,NYSE
 CBU,CBU,"Community Financial System, Inc.",NYSE,NYSE
-CBZ,CBZ,"CBIZ, Inc.",NYSE,NYSE
 CC,CC,Chemours Company (The),NYSE,NYSE
 CCEL,CCEL,"Cryo-Cell International, Inc.",NYSE American,NYSE American
 CCI,CCI,Crown Castle Inc.,NYSE,NYSE
@@ -4914,7 +4914,6 @@ KTF,KTF,DWS Municipal Income Trust,NYSE,NYSE
 KTH,KTH,Structures Products Cp 8% CorTS Issued by Peco E,NYSE,NYSE
 KTN,KTN,Structured Products Corp 8.205% CorTS 8.205% Cor,NYSE,NYSE
 KULR,KULR,"KULR Technology Group, Inc.",NYSE American,NYSE American
-KVUE,KVUE,Kenvue Inc.,NYSE,NYSE
 KVYO,KVYO,"Klaviyo, Inc. Series A",NYSE,NYSE
 KWR,KWR,Quaker Houghton,NYSE,NYSE
 KWY,KWY,Kingsway Corporation,NYSE,NYSE
@@ -4984,7 +4983,6 @@ LVS,LVS,Las Vegas Sands Corp.,NYSE,NYSE
 LVWR,LVWR,"LiveWire Group, Inc.",NYSE,NYSE
 LW,LW,"Lamb Weston Holdings, Inc.",NYSE,NYSE
 LXFR,LXFR,Luxfer Holdings PLC,NYSE,NYSE
-LXP,LXP,LXP Industrial Trust Common Stock (Maryland REIT,NYSE,NYSE
 LXU,LXU,"LSB Industries, Inc.",NYSE,NYSE
 LYB,LYB,LyondellBasell Industries NV Ordinary Shares,NYSE,NYSE
 LYG,LYG,Lloyds Banking Group Plc American Depositary Sha,NYSE,NYSE
@@ -5312,6 +5310,7 @@ ONON,ONON,On Holding AG,NYSE,NYSE
 ONT,ONT,"Onterris, Inc.",NYSE,NYSE
 ONTO,ONTO,Onto Innovation Inc.,NYSE,NYSE
 OOMA,OOMA,"Ooma, Inc.",NYSE,NYSE
+OPAY,OPAY,"OPay Limited American Depositary Shares, each re",NYSE,NYSE
 OPFI,OPFI,OppFi Inc.,NYSE,NYSE
 OPHC,OPHC,"OptimumBank Holdings, Inc.",NYSE American,NYSE American
 OPLN,OPLN,"OPENLANE, Inc.",NYSE,NYSE
@@ -5497,7 +5496,6 @@ RA,RA,Brookfield Real Assets Income Fund Inc.,NYSE,NYSE
 RAC,RAC,Rithm Acquisition Corp.,NYSE,NYSE
 RACE,RACE,Ferrari N.V. Common Shares,NYSE,NYSE
 RAL,RAL,Ralliant Corporation,NYSE,NYSE
-RAMP,RAMP,"LiveRamp Holdings, Inc.",NYSE,NYSE
 RBA,RBA,"RB Global, Inc.",NYSE,NYSE
 RBC,RBC,RBC Bearings Incorporated,NYSE,NYSE
 RBLX,RBLX,Roblox Corporation,NYSE,NYSE
