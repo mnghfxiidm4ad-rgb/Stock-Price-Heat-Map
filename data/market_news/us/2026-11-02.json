@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-02",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,541.40",
+      "change": "-0.51%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,164.36",
+      "change": "-1.07%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,983.98",
+      "change": "+0.41%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.89%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "情報技術"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Rise Ahead of Apple Earnings as Binance Hack, Oil Prices and Midterm Elections Take Focus: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise Ahead of Apple, Palantir Earnings; RYAAY, USLM, INO in Focus (UPDATED)」と伝えた。",
+    "海外メディアは「S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings」と伝えた。",
+    "S&P 500は前日比-0.51%の7,541.40で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTFkbzFjTC16VjBnNUo3N2YxRU41dWtzRU56THg5dkFmWkxxaHpjb0hOWmdZWmdSODIzU2hiTjFLVXVsVXR4VUlPR3ZnUEdKRkpiRTJnV09ROEswVEJ6RDhpQ3VKNU9IRjZyT3NkZjMyM0w2UkpUemlSVmpyalRFa0dUczV6a2JBMmdreXE3QWM0T296alIw?oc=5",
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxPX212dkozbS1FT2VNRm1fQ3JZWUIzNUV6REFvTEUwVjA1RnpTOXprQVdmZ29TQVJVU0tZbElxSWU0WE14VnFqLUowdjc1NFpudGc3N212MDJFUnFzMnhrTXdyaXFkMlJZSm1nWG9NYzNoVlhWRzRxOVlTQ3BJZ3JqbFdtMTNub3NQTVc2Ym9mdGJCOU1pVlUxOWJCaTMyemg3Q2gwT1kyZGF3MVotcWVFWnBsNF9QcjRxbElJaDhGWTRKdHpXVjNuUThHd2lleU5rb0xmWHFPQkhTXzVyNjFWZXJmbFdqS0lyWW5YRWxzQmVPRzNrZmFEMTdWMDNycHpXd2V5Zi1Kb2J5WVJmSmMyX0hB?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjgxZzVKblZ0aDNsQUN0azRrZHN6LVdDd2ZIV3R5TFlaSTRYQ2xnNnFFQmZmVHN4RkhTTEpudUpUelVmbE5rX0N2cEZBRU5JX1cyZ09SeDhldUJJOXU3cHNsdndJNlFiUzlWYzlSWU8zUXVCM3hFd3o2cVRqNm5KUk5RN1pLcEZ1Z2pKelNxUjRKTzFQMEVGUUs2dXRFZUN5Qms1a3NfQ2hNaEE4aS1QY0VHMmdtSUo5aXF1SFNR?oc=5"
+  ],
+  "generated_at": "2026-11-03T02:30:03+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
