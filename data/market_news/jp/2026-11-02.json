@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-02",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "63,081.86",
+      "change": "-0.33%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "413.00",
+      "change": "-0.82%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "157.68",
+      "change": "-0.13"
+    }
+  },
+  "top_sectors": [
+    "空運業",
+    "海運業"
+  ],
+  "bottom_sectors": [
+    "電気機器",
+    "非鉄金属"
+  ],
+  "news_bullets": [
+    "コラム：2027年は円高に転じるか、日銀の利上げ継続と円相場の行方＝内田稔氏。",
+    "東証後場寄り 日経平均は再び上げ300円高 韓国株が強含み。",
+    "【FX】11/2 円高は続かずドル円反発！今週の米中間選挙でどう動く？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "日経平均は前日比-0.33%の63,081.86円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmJvUEFNRHZMOHNKX2N2MGR0SWRRM3ZoeVFBR3Nkc2M3bXh5NUhRYjlHRzhZVGtBRzh2dkJ0TXFkeU1PcWdpeWxWZDNxWVhTOUYwZi1xLW1FVnZpaUZjZ3kxVFhGWDJVM1cweEJGMXc2X3VxcHVCTEpOMlFpYjB0WHBMVTVUQzlIa2dteGN3?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE55R1ZkY2stZFRBR29sbVZBRUx4MEVkdWt0bE5LTm5rakJtdXltSjNrZmh4M2ZtZ05ic0VUYlhtUVBrdkt0WGl3M2NPQWI0Ql9hazExUmhSS0hvSmRKNGtHZzBTRUprZno5TzZBWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5GMXE0TWVaWHZfNk1nSGFJUW02VjRsOWQzNGhNMkdFdjU2aTZaNTU5NGxEU210X1N4VHgxYkFHeF91ZVBxaE9aVzRIc284YlIyNlRmSC0zMjhaWmtFXzVMcVN6QQ?oc=5"
+  ],
+  "generated_at": "2026-11-03T14:47:06+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
