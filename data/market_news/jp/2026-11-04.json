@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-04",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "62,188.63",
+      "change": "-1.42%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "414.00",
+      "change": "+0.24%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.51",
+      "change": "+0.60"
+    }
+  },
+  "top_sectors": [
+    "電気・ガス",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "エネルギー資源",
+    "鉄鋼・非鉄"
+  ],
+  "news_bullets": [
+    "東証寄り付き 日経平均は続落 一時800円安、AI半導体に売り優勢。",
+    "日経平均終値は８９３円安の６万２１８８円…アメリカ中間選挙で民主党優勢、ＡＩ・半導体関連に売り。",
+    "東証前引け 日経平均は続落 一時6万1000円割れ 米中間選、民主優勢で売り加速。",
+    "日経平均は前日比-1.42%の62,188.63円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UM2ktUC1ncm9JdmotTlFOeUdJbmJnMUdZNnBqY2JEX3lBT2JTQnlZX2Y1Z1FfeVFESzJ2R0FUMENWZ081RUZWTHhjcDQtQW85N3cxNVBMTVh4Y2VmZXlPS3BrN1N2ZnJpYk1CMg?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zOGI2ZTFCWlBaN2NKOWk3TFdVQVFPb3JUc2F1VUVpaGVaaU5CdzF6QnFJekVlVU12MmlRYWxDR2ZkTTlQMTZHVWFyemd0QmktLUhHQTJ3WThpNVBHOWotU0o3Mmc?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fblgxWWVFOHd4S3BOcTBvcXloX3JDVGxiTGNIQk5PMmtWYm84dkNPQjBpM28yako2VEM0SmU5cGxuSUM1cV9TdzFienc3dXI1X1ZXTk05VUFaWDQtSHBKTFBoMjlKMkh6NDg5cg?oc=5"
+  ],
+  "generated_at": "2026-11-04T14:58:54+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
