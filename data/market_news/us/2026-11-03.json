@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-03",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,568.92",
+      "change": "+0.36%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,372.01",
+      "change": "+0.83%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,786.72",
+      "change": "-0.38%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.95%",
+      "change": "+0.06"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Stock market today: Dow slips, S&P and Nasdaq gain as chip stocks rally, focus shifts to midterm elections」と伝えた。",
+    "海外メディアは「Nasdaq, S&P 500 end higher as chip, AI shares bounce」と伝えた。",
+    "海外メディアは「This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500」と伝えた。",
+    "S&P 500は前日比+0.36%の7,568.92で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkFBWEFSWVB2WlBZcEVGZVczb21hRE5JYkZLWTl1c3hPZWdIRXRTalVnN2l0U3BfaUd0cEhkcVlOOFY5NUlsRDZGbGFLWWJ4cEtCS3hfc2RzdjNTNWlfUWFrUVFrY2hsbWJmbHZXRDVQWWQxTGFmdzRDMjl3NUgtaVVWNjRjdGJsb3lEWTVGQUJBTklHSVBIaEdFbGpFdGFnc2pNVWJuRkFPeVJaZmcweW0zMmR5V09jR3JDQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaGNtZktCVW5PV1VBZzFuSXEydkdudHZwdzlEQ1ZVZFU4Ul8yRXJIVkJoZXltZUZUSXZRajlSN1MzRVUwdFJzcUh1VnAxa3lCWjZYY2lqWHhELUY0Y3drVnpJazVZdnZxajZuZDREZUEtdnVzRDUtZmItTkgwUDNGVGpCOWtkYjlYWDBxUWxDZmtQY3h4S0FTOFItaHlENk9IZzBPa29od3FZVXBnLW9uekZMYmNZMkE2RXpKelJELWFZd0hmb1ZjTnotM2Ixejc2dVJHVVdZU1c?oc=5"
+  ],
+  "generated_at": "2026-11-04T00:43:27+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
