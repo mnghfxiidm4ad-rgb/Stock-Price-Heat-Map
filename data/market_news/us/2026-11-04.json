@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-04",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,688.62",
+      "change": "+1.58%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,736.51",
+      "change": "+1.44%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "53,356.12",
+      "change": "+3.03%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.89%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "一般消費財",
+    "金融"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Soars 1,200 Points, S&P 500 and Nasdaq Jump 2% as Wall Street Celebrates Midterm Results」と伝えた。",
+    "海外メディアは「S&P 500 rises as Nvidia, AI stocks rally despite Apple decline」と伝えた。",
+    "海外メディアは「US Stock Futures Rise as Democrats Win Congress and AMD Shares Surge on AI Growth Outlook: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比+1.58%の7,688.62で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaURRMkxnZGRoZnRQSThqVHI3MFZVbXpwTFg2N1ZSVUFmREt5U3pPNHBYWUpkOEFGUE9GWURlSzZLeVpwakQyWUZmWHVQWDVYSWItaWkzaG1BQzVQdFY3dlhOeWlNTndwRWFrbnNhTjY1bGJ3YzFPblNiQ1JSeUdyNGhOY21hcGtxV2ZxX3NQYWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXdGbmRHeVdGSWhLWUdoaU93cjVsaXEyTFhYbW1hMzhTM3RqdUFQTjNrdHAwMW9rZzNQeUNYZ0ZHSVo4b2xrX2ppUXVjZUlLNE5nOXhYbTF6UXhLd3BVdHNvVmdBcF9LNzhlUFhmbzRvTkg3VmVkSl8xMHp6VFRKZDNfXzZfZw?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTFp4aTJNa00wNmxyZFp2d3BGUVI4b193SU9IVF9lQkIxSk96c0k4X2tHNWlRZEU3UHhLa1A2aW1XQlcyZ2l3cy14YTFZYmQzR0E1aThUdVBTQkd2UG5WQkQ2eUpVbS1HOGtOLXR4WFQzMm9RS3I2cG1HNy1WLUVLckdLaWY5UERWcGpyUTVGV0ZvN2VCcUd0QzJhWGk?oc=5"
+  ],
+  "generated_at": "2026-11-05T00:57:20+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
