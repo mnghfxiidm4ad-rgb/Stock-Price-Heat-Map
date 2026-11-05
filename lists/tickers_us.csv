@@ -1363,7 +1363,6 @@ GNLN,GNLN,"Greenlane Holdings, Inc.",NASDAQ,NASDAQ
 GNLX,GNLX,Genelux Corporation,NASDAQ,NASDAQ
 GNPX,GNPX,"Genprex, Inc.",NASDAQ,NASDAQ
 GNSS,GNSS,Genasys Inc.,NASDAQ,NASDAQ
-GNTA,GNTA,Genenta Science S.p.A.,NASDAQ,NASDAQ
 GNTX,GNTX,Gentex Corporation,NASDAQ,NASDAQ
 GO,GO,Grocery Outlet Holding Corp.,NASDAQ,NASDAQ
 GOAI,GOAI,Eva Live Inc.,NASDAQ,NASDAQ
@@ -1821,7 +1820,7 @@ LAND,LAND,Gladstone Land Corporation,NASDAQ,NASDAQ
 LANDO,LANDO,Gladstone Land Corporation,NASDAQ,NASDAQ
 LANDP,LANDP,Gladstone Land Corporation,NASDAQ,NASDAQ
 LARK,LARK,Landmark Bancorp Inc.,NASDAQ,NASDAQ
-LASE,LASE,Laser Photonics Corporation,NASDAQ,NASDAQ
+LASE,LASE,LASE Corp.,NASDAQ,NASDAQ
 LASR,LASR,"nLIGHT, Inc.",NASDAQ,NASDAQ
 LATA,LATA,Galata Acquisition Corp. II,NASDAQ,NASDAQ
 LAUR,LAUR,"Laureate Education, Inc.",NASDAQ,NASDAQ
@@ -2822,6 +2821,7 @@ RZLV,RZLV,Rezolve AI PLC,NASDAQ,NASDAQ
 SAAQ,SAAQ,Space Asset Acquisition Corp.,NASDAQ,NASDAQ
 SABR,SABR,Sabre Corporation,NASDAQ,NASDAQ
 SABS,SABS,"SAB Biotherapeutics, Inc.",NASDAQ,NASDAQ
+SAEN,SAEN,Genenta Science S.p.A.,NASDAQ,NASDAQ
 SAFT,SAFT,"Safety Insurance Group, Inc.",NASDAQ,NASDAQ
 SAFX,SAFX,"XCF Global, Inc.",NASDAQ,NASDAQ
 SAGT,SAGT,SAGTEC GLOBAL LIMITED,NASDAQ,NASDAQ
@@ -4542,7 +4542,6 @@ GBAB,GBAB,Guggenheim Taxable Municipal Bond & Investment G,NYSE,NYSE
 GBCI,GBCI,"Glacier Bancorp, Inc.",NYSE,NYSE
 GBR,GBR,"New Concept Energy, Inc",NYSE American,NYSE American
 GBX,GBX,"Greenbrier Companies, Inc. (The)",NYSE,NYSE
-GCDT,GCDT,Green Circle Decarbonize Technology Limited,NYSE American,NYSE American
 GCO,GCO,Genesco Inc.,NYSE,NYSE
 GCTS,GCTS,"GCT Semiconductor Holding, Inc.",NYSE,NYSE
 GCV,GCV,"Gabelli Convertible and Income Securities Fund, ",NYSE,NYSE
@@ -5450,7 +5449,7 @@ PRIM,PRIM,Primoris Services Corporation,NYSE,NYSE
 PRK,PRK,Park National Corporation,NYSE American,NYSE American
 PRKS,PRKS,United Parks & Resorts Inc.,NYSE,NYSE
 PRLB,PRLB,"Proto Labs, Inc.",NYSE,NYSE
-PRM,PRM,"Perimeter Solutions, SA",NYSE,NYSE
+PRM,PRM,Perimeter Group Inc.,NYSE,NYSE
 PRMB,PRMB,Primo Brands Corporation,NYSE,NYSE
 PRS,PRS,"Prudential Financial, Inc. 5.625% Junior Subordi",NYSE,NYSE
 PRSU,PRSU,"Pursuit Attractions and Hospitality, Inc.",NYSE,NYSE
