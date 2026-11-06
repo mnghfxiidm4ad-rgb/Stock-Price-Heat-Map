@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-06",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "57,434.77",
+      "change": "-5.96%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "388.60",
+      "change": "-6.50%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.39",
+      "change": "+0.03"
+    }
+  },
+  "top_sectors": [
+    "自動車・輸送機",
+    "運輸・物流"
+  ],
+  "bottom_sectors": [
+    "食品",
+    "不動産"
+  ],
+  "news_bullets": [
+    "東証寄り付き 日経平均は続落 3400円安、米株急落で5万8000円割れ。",
+    "東証前引け 日経平均は続落 一時5万7000円割れ、米株急落でリスクオフ。",
+    "株価急落、日銀12月利上げに暗雲 市場予想5割台前半に。",
+    "日経平均は前日比-5.96%の57,434.77円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE82QjFkNnR3SUNGX1c5WUVkMnVwYkZFQTN4Sm9QaWpaSl9RemV2NlkycEN3ektkTXZyUzlzNk05WGprd0dpUVhDRXVFajBYX2dhZHdobnlWRkhDM2JocUJjVmhzU25MSjRKOFljcQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QZTM5aG5zMmZURmo3UlpvOXR6N0pWY012Nl93Vng5VERzUm9sMi1LamxBQWdrM1JtdkZrN1YwckJwME1HS0FhZHhGa3dNVDRzNTB2NWNqdkhhR00yQWpGTHRGWFVRM05RbXVtWg?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bzdGQ0ljaEZ2WDA1N1hOaWdudGJ5Y21YYWhwQVZGMTBhM0NmNHJ2ZzBzSlVjOFhTY0MyUU56eElwRm9xbUF2NUU4WUdkeDdoRFREU0ZzS2M2S1Fya2F6LWNPTXJsemFockYwaA?oc=5"
+  ],
+  "generated_at": "2026-11-06T14:43:35+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
