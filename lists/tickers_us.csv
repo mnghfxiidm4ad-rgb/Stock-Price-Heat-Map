@@ -101,6 +101,7 @@ AFYA,AFYA,Afya Limited,NASDAQ,NASDAQ
 AGCC,AGCC,Agencia Comercial Spirits Ltd,NASDAQ,NASDAQ
 AGEN,AGEN,Agenus Inc.,NASDAQ,NASDAQ
 AGIO,AGIO,"Agios Pharmaceuticals, Inc.",NASDAQ,NASDAQ
+AGLT,AGLT,"Agility Robotics, Inc.",NASDAQ,NASDAQ
 AGMB,AGMB,AgomAb Therapeutics NV,NASDAQ,NASDAQ
 AGMH,AGMH,AGM Group Holdings Inc.,NASDAQ,NASDAQ
 AGNC,AGNC,AGNC Investment Corp.,NASDAQ,NASDAQ
@@ -617,7 +618,6 @@ CCNEP,CCNEP,CNB Financial Corporation,NASDAQ,NASDAQ
 CCOI,CCOI,"Cogent Communications Holdings, Inc.",NASDAQ,NASDAQ
 CCSI,CCSI,"Consensus Cloud Solutions, Inc.",NASDAQ,NASDAQ
 CCTG,CCTG,CCSC Technology International Holdings Limited,NASDAQ,NASDAQ
-CCXI,CCXI,Churchill Capital Corp XI,NASDAQ,NASDAQ
 CD,CD,Chaince Digital Holdings Inc.,NASDAQ,NASDAQ
 CDIO,CDIO,Cardio Diagnostics Holdings Inc.,NASDAQ,NASDAQ
 CDLX,CDLX,"Cardlytics, Inc.",NASDAQ,NASDAQ
@@ -1481,6 +1481,7 @@ HLIT,HLIT,Harmonic Inc.,NASDAQ,NASDAQ
 HLMN,HLMN,Hillman Solutions Corp.,NASDAQ,NASDAQ
 HLNE,HLNE,Hamilton Lane Incorporated,NASDAQ,NASDAQ
 HLP,HLP,Hongli Group Inc.,NASDAQ,NASDAQ
+HLT,HLT,Hilton Worldwide Holdings Inc.,NASDAQ,NASDAQ
 HLXC,HLXC,Helix Acquisition Corp. III,NASDAQ,NASDAQ
 HMH,HMH,HMH Holding Inc.,NASDAQ,NASDAQ
 HMR,HMR,Heidmar Maritime Holdings Corp.,NASDAQ,NASDAQ
@@ -3521,7 +3522,7 @@ XRPN,XRPN,Evernorth Holdings Inc.,NASDAQ,NASDAQ
 XRTX,XRTX,XORTX Therapeutics Inc.,NASDAQ,NASDAQ
 XRX,XRX,Xerox Holdings Corporation,NASDAQ,NASDAQ
 XSLL,XSLL,Xsolla SPAC 1,NASDAQ,NASDAQ
-XTER,XTER,Karman Line Acquisition Corp.,NASDAQ,NASDAQ
+XTER,XTER,Xterax Corporation II,NASDAQ,NASDAQ
 XTIA,XTIA,"XTI Aerospace, Inc. Common Stock",NASDAQ,NASDAQ
 XTLB,XTLB,XTL Biopharmaceuticals Ltd.,NASDAQ,NASDAQ
 XWEL,XWEL,"XWELL, Inc.",NASDAQ,NASDAQ
@@ -4030,7 +4031,7 @@ CCS,CCS,"Century Communities, Inc.",NYSE,NYSE
 CCU,CCU,"Compania Cervecerias Unidas, S.A.",NYSE,NYSE
 CCZ,CCZ,Comcast Holdings ZONES,NYSE,NYSE
 CDE,CDE,"Coeur Mining, Inc.",NYSE,NYSE
-CDLR,CDLR,Cadeler A/S American Depositary Share (each repr,NYSE,NYSE
+CDLR,CDLR,Cadeler plc,NYSE,NYSE
 CDP,CDP,COPT Defense Properties Common Shares of Benefic,NYSE,NYSE
 CDRE,CDRE,"Cadre Holdings, Inc.",NYSE,NYSE
 CE,CE,Celanese Corporation,NYSE,NYSE
@@ -4690,7 +4691,6 @@ HLIO,HLIO,"Helios Technologies, Inc.",NYSE,NYSE
 HLLY,HLLY,Holley Inc.,NYSE,NYSE
 HLN,HLN,Haleon plc American Depositary Shares (Each repr,NYSE,NYSE
 HLSQ,HLSQ,Tessera Defense and Homeland Security Inc.,NYSE American,NYSE American
-HLT,HLT,Hilton Worldwide Holdings Inc.,NYSE,NYSE
 HMC,HMC,"Honda Motor Company, Ltd.",NYSE,NYSE
 HMN,HMN,Horace Mann Educators Corporation,NYSE,NYSE
 HMY,HMY,Harmony Gold Mining Company Limited,NYSE,NYSE
