@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-05",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,353.73",
+      "change": "-4.36%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,315.00",
+      "change": "-5.52%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,523.06",
+      "change": "-3.44%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.84%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "コミュニケーション・サービス",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Wall Street crash: Nasdaq sinks 3%, S&P 500 & Dow also fall as AI and Chip stocks lead market sell-off」と伝えた。",
+    "海外メディアは「US stocks tumble as Nasdaq, Dow, S&P 500 fall; chip stocks and AI data centre shares plunge」と伝えた。",
+    "海外メディアは「A sell-off for AI stocks sends the S&P 500 down more than 4% to its worst day since Trump's tariff announcements in 2025」と伝えた。",
+    "S&P 500は前日比-4.36%の7,353.73で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVWNILXUzakVjMlhQTnFpSGNSbWVHN0hEZE0wZ1V6VEtpazNlWmVPV3FGRXpnWTFsb21SRk9PSXpSX0VNaDVwd0xKRjVoS0Nua0haYWlfZ2FWV19JUmNNYTdaQzNxa3lGMHZxYk5ONVppeGZLV1oyNXpBRklqTGRyWU8tNmpqNm5hVkQ3UXg3OE9DV2YyM3NJbU5paGdzU2htMHNleF9GMnEtQkdHckRJdk85NW83TzV5V0czY0hyUnhLdmtKSk5ORWNFQ1hlcnFBS1R3R254d2nSAd4BQVVfeXFMTjlySlNMakRFVVMzTjZlMjVyaERBOEZUUUUyUGdONUVUMklaRTlhTmVrWlQ5bnBrc0FJY2RRYkJxMUppT3JIbzJCM1NseFVOUlgyWnVYRE9JYUR2UGhXd0tXQ2Fac1NPaW82UXlDM3NzQTg1SjJTWC1HNzkyMWE3aE5kdXNkMTJTUDUzS0dyLS1nRjQxdGpyNnBYZFdOa3hKR1IxRUtHM282UFZoRVc2eDA0ZXR6cE1Ud2ZLRUdvUXB1dDhabW4zaEpWU1MtcVd1Z3R4Nk1pQ2o1SXA2eTFB?oc=5",
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQU0FrTHhjc2hjbTdyQ0pBQTFELWg5Y01FdnRnS0Utbzg1Yk8yOFhyYUl0ek1tTDhIUzZmeGZjWjQxMjFSeVRTX2VCdDZjSVRQeG4tQlM5bE4xQXlDWEEwVVQ0SzVWdkhpQmZBUC1aS1VGZmRkbkFMNzBEOXd4ckd5SnlqdW9xYzJuVXhwc0xVOWE1NWNlVXRqUFpaQU9zVWxEU3VuNFd6WDVhWWIwYUgtSEsyWjRzQ2NSakUxbTFvVlIwM2U5NEZkS0J3S09mem1ydnNkUDVpN210ZF9YYmFqbUlWR1NNTmJPVnZFRjZ4TVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdURKcVhwWDJ0MGFiXzVLMTFfQ3dRczczcE9IbHBRNGxEc3g3R3ZtTk1BUHgySm04OHc0YnZQLU0xamJXelBKR3ZMVjBscWdBV3M4c0VLQkNURWtZbUYxb09rb1Z5MFJqbW5teVlOUklMeE8tMnJ4bU1DNjExNnEwQnFLdlNDbnZ3N05TTEV0SHBoUDRhVWd1VEw4SURrRXJpdEZoU0xWQkdrMzhVakxnbzNsejJ0TloySVpkbFhnR2FDSXg3TEwtVXJPVnVRMUpkYmpFVzdmOV8?oc=5"
+  ],
+  "generated_at": "2026-11-06T00:59:49+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
