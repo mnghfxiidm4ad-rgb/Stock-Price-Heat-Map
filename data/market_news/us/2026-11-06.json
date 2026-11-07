@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-06",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,376.86",
+      "change": "+0.31%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,579.42",
+      "change": "+1.09%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,285.73",
+      "change": "-0.46%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.86%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "素材"
+  ],
+  "news_bullets": [
+    "海外メディアは「Chip Stocks Cheaper Than S&P 500 as AI Premium Vanishes - Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ)」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Trade Mixed as October Jobs Rose by 165,000— Airbnb, Cloudflare, Lam Research in Focus (UPDATED)」と伝えた。",
+    "海外メディアは「Stock futures explained: how Dow, S&P 500 and Nasdaq-100 contracts work」と伝えた。",
+    "S&P 500は前日比+0.31%の7,376.86で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUktJeUkyY1QtX0dHQTlTWXY0QVI3cWMxMGt1XzFSTGpFV1lSUU45cF84RkdOb0tBdDhHNUMtam01Z0p4S2JfdVZGcU9hRGt4eE9LU084Z3huejNIZU5fMnNMck11eW40OS1lU2kzMFQ4dm0wWFN5MG5BSUxQanRXQ1RMX3hxMGZrWEEwT29TT2dvX2R6dkV0YW1KS3FUalpkSU1OMk5CZzR0QkFoY0owd3drTjlmSUJEREJr?oc=5",
+    "https://news.google.com/rss/articles/CBMirwJBVV95cUxPZ3Vkb0FZNXZGVnJiMWtaXzBPeWh6STI1VUMtYmdEeWlQdXgtUzV0SEFyeVFicXFHRjFSVG9FV2RTcHNqNWN3b1c0SXNxSWtYcnI3Mmh4MEppMFdCS3VSVjlGclJCSUxfVVdWdEVkMG5TdmRnLUF3YVlReXVBQlVZdnZVX0hSckpsUHZSX2pUUU50b29EWGxSZjJ1cll5a2puUFNvRlFWRjJha0lYeXlMMnlURTZlRlk0cW5odVd0bWZacGsxU19wbVhkTmhOd2pIbXVnbVd1d28wbWJBazB3TlB5RXBXVm1pWHJwZlVSZkNmV2RFUzdsbm5UdmlkV3AtSmFOSTRIcWNJX2F0cVV3WGYwb1hwSHlNNlRCdWUwMUNSSXpCeDlkMFcwOVpWLWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNeEpLemJMTEtNbGF4eG5IWlVsY2pOdDBrbE1TNVNzWUVHMndvbFFfa2gzaVR4dDlMUnVOYUxtelhsbnVsLVl3UlV1V1R3d3VpSTRqdlFIUFFDYmF3VTNlblJqQ3VYdw?oc=5"
+  ],
+  "generated_at": "2026-11-07T00:10:22+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
