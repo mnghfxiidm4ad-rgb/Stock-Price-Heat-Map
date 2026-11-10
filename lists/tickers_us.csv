@@ -544,7 +544,6 @@ BWBBP,BWBBP,"Bridgewater Bancshares, Inc.",NASDAQ,NASDAQ
 BWEN,BWEN,"Broadwind, Inc.",NASDAQ,NASDAQ
 BWFG,BWFG,"Bankwell Financial Group, Inc.",NASDAQ,NASDAQ
 BWIN,BWIN,"The Baldwin Insurance Group, Inc.",NASDAQ,NASDAQ
-BWMN,BWMN,Bowman Consulting Group Ltd.,NASDAQ,NASDAQ
 BXBL,BXBL,"BOXABL, Inc.",NASDAQ,NASDAQ
 BYAH,BYAH,"Park Ha Biological Technology Co., Ltd.",NASDAQ,NASDAQ
 BYFC,BYFC,Broadway Financial Corporation,NASDAQ,NASDAQ
@@ -1624,7 +1623,6 @@ INHD,INHD,Inno Holdings Inc.,NASDAQ,NASDAQ
 INIO,INIO,INNIO N.V.,NASDAQ,NASDAQ
 INKT,INKT,"MiNK Therapeutics, Inc.",NASDAQ,NASDAQ
 INLF,INLF,INLIF LIMITED,NASDAQ,NASDAQ
-INM,INM,InMed Pharmaceuticals Inc.,NASDAQ,NASDAQ
 INMB,INMB,INmune Bio Inc.,NASDAQ,NASDAQ
 INMD,INMD,InMode Ltd.,NASDAQ,NASDAQ
 INNV,INNV,InnovAge Holding Corp.,NASDAQ,NASDAQ
@@ -1994,7 +1992,6 @@ MCHPP,MCHPP,Microchip Technology Incorporated,NASDAQ,NASDAQ
 MCHX,MCHX,"Marchex, Inc.",NASDAQ,NASDAQ
 MCRB,MCRB,"Seres Therapeutics, Inc.",NASDAQ,NASDAQ
 MCRI,MCRI,"Monarch Casino & Resort, Inc.",NASDAQ,NASDAQ
-MCTA,MCTA,Charming Medical Limited,NASDAQ,NASDAQ
 MDAI,MDAI,"Spectral AI, Inc.",NASDAQ,NASDAQ
 MDB,MDB,"MongoDB, Inc.",NASDAQ,NASDAQ
 MDBH,MDBH,"MDB Capital Holdings, LLC",NASDAQ,NASDAQ
@@ -2123,6 +2120,7 @@ MTEK,MTEK,Maris-Tech Ltd.,NASDAQ,NASDAQ
 MTEN,MTEN,Mingteng International Corporation Inc.,NASDAQ,NASDAQ
 MTEX,MTEX,"Mannatech, Incorporated",NASDAQ,NASDAQ
 MTLS,MTLS,Materialise NV,NASDAQ,NASDAQ
+MTRI,MTRI,"Mentari Therapeutics, Inc.",NASDAQ,NASDAQ
 MTRX,MTRX,Matrix Service Company,NASDAQ,NASDAQ
 MTSI,MTSI,"MACOM Technology Solutions Holdings, Inc.",NASDAQ,NASDAQ
 MTVA,MTVA,MetaVia Inc.,NASDAQ,NASDAQ
@@ -2776,7 +2774,6 @@ ROAD,ROAD,"Construction Partners, Inc.",NASDAQ,NASDAQ
 ROC,ROC,Rank One Computing Corporation,NASDAQ,NASDAQ
 ROCK,ROCK,"Gibraltar Industries, Inc.",NASDAQ,NASDAQ
 ROIV,ROIV,Roivant Sciences Ltd.,NASDAQ,NASDAQ
-ROKU,ROKU,"Roku, Inc.",NASDAQ,NASDAQ
 ROMA,ROMA,Roma Green Finance Limited,NASDAQ,NASDAQ
 ROOT,ROOT,"Root, Inc.",NASDAQ,NASDAQ
 ROP,ROP,"Roper Technologies, Inc.",NASDAQ,NASDAQ
@@ -3740,7 +3737,6 @@ ARDC,ARDC,"Ares Dynamic Credit Allocation Fund, Inc. Common",NYSE,NYSE
 ARDT,ARDT,"Ardent Health, Inc.",NYSE,NYSE
 ARE,ARE,"Alexandria Real Estate Equities, Inc.",NYSE,NYSE
 ARES,ARES,Ares Management Corporation,NYSE,NYSE
-ARI,ARI,"Apollo Commercial Real Estate Finance, Inc",NYSE,NYSE
 ARIS,ARIS,Aris Mining Corporation Common Shares,NYSE,NYSE
 ARL,ARL,"American Realty Investors, Inc.",NYSE,NYSE
 ARLO,ARLO,"Arlo Technologies, Inc.",NYSE,NYSE
@@ -4735,6 +4731,7 @@ HVT.A,HVT-A,"Haverty Furniture Companies, Inc.",NYSE,NYSE
 HWM,HWM,Howmet Aerospace Inc.,NYSE,NYSE
 HXL,HXL,Hexcel Corporation,NYSE,NYSE
 HY,HY,"Hyster-Yale, Inc.",NYSE,NYSE
+HYAC,HYAC,Haymaker Acquisition Corp V,NYSE,NYSE
 HYI,HYI,Western Asset High Yield Opportunity Fund Inc.,NYSE,NYSE
 HYLN,HYLN,Hyliion Holdings Corp.,NYSE American,NYSE American
 HYT,HYT,"Blackrock Corporate High Yield Fund, Inc.",NYSE,NYSE
@@ -5795,7 +5792,6 @@ TBB,TBB,AT&T Inc. 5.350% Global Notes due 2066,NYSE,NYSE
 TBBB,TBBB,BBB Foods Inc.,NYSE,NYSE
 TBI,TBI,"TrueBlue, Inc.",NYSE,NYSE
 TBN,TBN,Tamboran Resources Corporation,NYSE,NYSE
-TCBI,TCBI,"Texas Capital Bancshares, Inc.",US,US
 TCBX,TCBX,"Third Coast Bancshares, Inc.",NYSE,NYSE
 TCI,TCI,"Transcontinental Realty Investors, Inc.",NYSE,NYSE
 TCPA,TCPA,TransCanada PipeLines Limited 6.250% Junior Subo,NYSE,NYSE
@@ -5908,6 +5904,7 @@ TWI,TWI,"Titan International, Inc. (DE)",NYSE,NYSE
 TWLO,TWLO,Twilio Inc.,NYSE,NYSE
 TWN,TWN,"Taiwan Fund, Inc. (The)",NYSE,NYSE
 TX,TX,Ternium S.A. Ternium S.A. American Depositary Sh,NYSE,NYSE
+TXCP,TXCP,"Texas Capital Bancshares, Inc.",US,US
 TXNM,TXNM,"TXNM Energy, Inc.",NYSE,NYSE
 TXT,TXT,Textron Inc.,NYSE,NYSE
 TY,TY,Tri Continental Corporation,NYSE,NYSE
