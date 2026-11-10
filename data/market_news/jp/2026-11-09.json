@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-09",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,775.50",
+      "change": "+2.33%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "402.10",
+      "change": "+3.47%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "158.29",
+      "change": "+0.79"
+    }
+  },
+  "top_sectors": [
+    "空運業",
+    "繊維製品"
+  ],
+  "bottom_sectors": [
+    "銀行業",
+    "医薬品"
+  ],
+  "news_bullets": [
+    "マネタリーベースと日本銀行の取引（10月）。",
+    "Mitsui O.S.K Q2 profit flat as higher shipping rates, weak yen boost revenue。",
+    "Japan Spent Record $50 Billion in Single Day to Bolster Yen。",
+    "日経平均は前日比+2.33%の58,775.50円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "http://www.boj.or.jp/statistics/boj/other/mbt/mbt2610.pdf",
+    "https://finance.yahoo.com/markets/stocks/articles/mitsui-o-k-q2-profit-040642893.html",
+    "https://www.wsj.com/economy/central-banking/japan-spent-record-50-billion-in-single-day-to-bolster-yen-2bdeebd9?siteid=yhoof2&yptr=yahoo"
+  ],
+  "generated_at": "2026-11-10T15:20:19+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
