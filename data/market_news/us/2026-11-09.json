@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-09",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,549.94",
+      "change": "+2.35%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,253.14",
+      "change": "+2.74%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,389.75",
+      "change": "+2.15%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.86%",
+      "change": "+0.00"
+    }
+  },
+  "top_sectors": [
+    "資本財",
+    "情報技術"
+  ],
+  "bottom_sectors": [
+    "生活必需品",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 preview: Inflation data, earnings loom after AI rout」と伝えた。",
+    "海外メディアは「US Stock Futures Advance as Oil Prices Slide and Investors Await Inflation Report: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「US Stock Futures Mixed as Investors Assess Berkshire Hathaway Earnings, Nvidia Reports and AI Regulation Plans: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "S&P 500は前日比+2.35%の7,549.94で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxOanM1WDcwTXVzamhMemItUFFhaFZxbmR1ZTJOWlVlaFV0M3h4TERrWmxkdjBWTURkanVVbngzV2dvYl9IR05lSkUzRDZPQmdyRnQxSXplRUFIOThZYzhrbWEwNktURy1aNmVhb2l1WE42OVBJVC1IMkxDc0RRYU0tTXRJWmhxUTV2MTdyVUE0RnBja3FPRzZGWVVZSi04N1BRM3JPZ3FFaTdiUWxUNk9yV2hIYkNrTkVkdXJNZmZjT2xEWFVOWFdQZnQySQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUTFYMTBvLWFjbFNiR0w4eksxaUQtUG9DSUMzSEM4NXZHVVVQQm5hallwREMzZTJhT2lTeFVxLVY4RGdxSDl4bDlERlJBUGhGRDEzS2JfQ3haWkhnZTBNQk1yRWw0dDNFZXFJLWF2emFiYVRQTjJ3NndfdURfOGVIZEF6cw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVh6MTZGNjR5STJGM05veFRUWEppT1d4X0U4RFhwR1RfTFA2UFhXZVhRdEw5OUJocGQ1emFZanhXbDVuREwtcjV0d2NjbXplNW5rajVCMzJXbnMtenRvaTU5YUVoVWJNX0hkb29ydDhGU0tWdDlfZWNTaEFMOGs1ODEwSWZCRm8wdXhlbTZCbUEtc2tlRERYa1drejQzZw?oc=5"
+  ],
+  "generated_at": "2026-11-10T02:48:54+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
