@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-11",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "61,248.59",
+      "change": "+1.31%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "413.90",
+      "change": "+0.83%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.68",
+      "change": "+1.69"
+    }
+  },
+  "top_sectors": [
+    "銀行",
+    "電機・精密"
+  ],
+  "bottom_sectors": [
+    "自動車・輸送機",
+    "食品"
+  ],
+  "news_bullets": [
+    "【FX】11/11 12月FOMCで0.5％利上げも？ドル円の上値余地は？ ｜為替市場ニュースの振り返り、今日の見通し。",
+    "東証後場寄り 日経平均900円高 ソフトバンクG一時上げる。",
+    "【ドル円見通し総まとめ】160円突破か、それとも円安終了か？2人のプロが予測する2026年末の為替相場 2026年11月11日。",
+    "日経平均は前日比+1.31%の61,248.59円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRcy1ScGdUeUR1cmh1MHM1b2s3bGRpUE1pR0hEalUteS1wbF9aR3Jub19uV043NTR0clBJV05NMUlWbEFDUE90XzVPS1VrRlc4QTFtRlN6UXRGSTFRbFR3aXBNZw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0a0IwR2xEMnBmRFo3dkItWHY1bDhvMV9idVo2MDEwZWgwUXZWblJvTzUzUmhuZ3dlNUJJdDN4TFhvZEdiVkJGSjl2Qm9YY3lBc3FFelUwV3dWQnc2YW1QVHVDVTk5V1o0RENDVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YSlo2ZWdPQlltQ21haVZBOVVIb0p2c0k2WHRFVVpjeE1nSEVqOEFlYlUxNHNqSTZDOGE4c1BwUGVHbjRPTVh0QmtnQTR4ZEFSdjZSeFBoTEhmVlhDN3JvYjFFTQ?oc=5"
+  ],
+  "generated_at": "2026-11-11T14:50:52+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
