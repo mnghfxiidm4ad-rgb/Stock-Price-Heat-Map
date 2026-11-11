@@ -33,7 +33,6 @@ ACFN,ACFN,"Acorn Energy, Inc.",NASDAQ,NASDAQ
 ACGC,ACGC,ACP Holdings Acquisition Corp.,NASDAQ,NASDAQ
 ACGL,ACGL,Arch Capital Group Ltd.,NASDAQ,NASDAQ
 ACHC,ACHC,"Acadia Healthcare Company, Inc.",NASDAQ,NASDAQ
-ACHV,ACHV,"Achieve Life Sciences, Inc.",NASDAQ,NASDAQ
 ACIC,ACIC,American Coastal Insurance Corporation,NASDAQ,NASDAQ
 ACIU,ACIU,AC Immune SA,NASDAQ,NASDAQ
 ACIW,ACIW,"ACI Worldwide, Inc.",NASDAQ,NASDAQ
@@ -1107,7 +1106,6 @@ EYE,EYE,"National Vision Holdings, Inc.",NASDAQ,NASDAQ
 EYPT,EYPT,"EyePoint, Inc.",NASDAQ,NASDAQ
 EZGO,EZGO,EZGO Technologies Ltd.,NASDAQ,NASDAQ
 EZPW,EZPW,"EZCORP, Inc.",NASDAQ,NASDAQ
-EZRA,EZRA,"Reliance Global Group, Inc.",NASDAQ,NASDAQ
 FA,FA,First Advantage Corporation,NASDAQ,NASDAQ
 FABC,FABC,"Fabric.AI, Inc.",NASDAQ,NASDAQ
 FAC,FAC,Factorial Energy Inc.,NASDAQ,NASDAQ
@@ -1292,7 +1290,7 @@ GBC,GBC,"Georgia Banking Company, Inc.",NASDAQ,NASDAQ
 GBDC,GBDC,"Golub Capital BDC, Inc.",NASDAQ,NASDAQ
 GBFH,GBFH,GBank Financial Holdings Inc.,NASDAQ,NASDAQ
 GBLI,GBLI,"Global Indemnity Group, LLC",NASDAQ,NASDAQ
-GCBC,GCBC,"Greene County Bancorp, Inc.",NASDAQ,NASDAQ
+GCBC,GCBC,"Greene Bancorp, Inc.",NASDAQ,NASDAQ
 GCGR,GCGR,General Catalyst Global Resilience Merger Corp.,NASDAQ,NASDAQ
 GCL,GCL,GCL Global Holdings Ltd,NASDAQ,NASDAQ
 GCMG,GCMG,GCM Grosvenor Inc.,NASDAQ,NASDAQ
@@ -2661,6 +2659,7 @@ QTTB,QTTB,Q32 Bio Inc.,NASDAQ,NASDAQ
 QUBT,QUBT,Quantum Computing Inc.,NASDAQ,NASDAQ
 QUCY,QUCY,Quantum Cyber N.V.,NASDAQ,NASDAQ
 QUIK,QUIK,QuickLogic Corporation,NASDAQ,NASDAQ
+QUIT,QUIT,"Achieve Life Sciences, Inc.",NASDAQ,NASDAQ
 QUMS,QUMS,Quantumsphere Acquisition Corp.,NASDAQ,NASDAQ
 QURE,QURE,uniQure N.V.,NASDAQ,NASDAQ
 QVCG,QVCG,"QVC Group, Inc.",NASDAQ,NASDAQ
@@ -2855,6 +2854,7 @@ SCNI,SCNI,Scinai Immunotherapeutics Ltd.,NASDAQ,NASDAQ
 SCNX,SCNX,"Scienture Holdings, Inc.",NASDAQ,NASDAQ
 SCOR,SCOR,"comScore, Inc.",NASDAQ,NASDAQ
 SCPQ,SCPQ,Social Commerce Partners Corporation,NASDAQ,NASDAQ
+SCQC,SCQC,SPACCircle Acquisition Corp.,NASDAQ,NASDAQ
 SCSC,SCSC,"ScanSource, Inc.",NASDAQ,NASDAQ
 SCTX,SCTX,Scribe Therapeutics Inc.,NASDAQ,NASDAQ
 SCWO,SCWO,374Water Inc.,NASDAQ,NASDAQ
@@ -3500,6 +3500,7 @@ XENE,XENE,Xenon Pharmaceuticals Inc.,NASDAQ,NASDAQ
 XERS,XERS,"Xeris Biopharma Holdings, Inc.",NASDAQ,NASDAQ
 XFOR,XFOR,"X4 Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 XGN,XGN,Exagen Inc.,NASDAQ,NASDAQ
+XGPU,XGPU,"Reliance Global Group, Inc.",NASDAQ,NASDAQ
 XHG,XHG,XChange TEC.INC,NASDAQ,NASDAQ
 XHLD,XHLD,"TEN Holdings, Inc.",NASDAQ,NASDAQ
 XIII,XIII,Churchill Capital Corp XIII,NASDAQ,NASDAQ
@@ -5458,7 +5459,6 @@ PSF,PSF,"Cohen & Steers Select Preferred and Income Fund,",NYSE,NYSE
 PSFE,PSFE,Paysafe Limited Common Shares,NYSE,NYSE
 PSN,PSN,Parsons Corporation,NYSE,NYSE
 PSO,PSO,"Pearson, Plc",NYSE,NYSE
-PSQH,PSQH,"PSQ Holdings, Inc.",NYSE,NYSE
 PSTL,PSTL,"Postal Realty Trust, Inc.",NYSE,NYSE
 PSUS,PSUS,"Pershing Square USA, Ltd. Common Shares",NYSE,NYSE
 PSX,PSX,Phillips 66,NYSE,NYSE
