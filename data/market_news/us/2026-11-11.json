@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-11-11",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,619.38",
+      "change": "+1.31%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,466.19",
+      "change": "+1.60%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,486.49",
+      "change": "+0.49%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.00%",
+      "change": "+0.02"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Nasdaq Futures Jump as Nvidia Shares Rebound, CoreWeave Soars After Earnings; Dow, S&P 500 Also Point Higher」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Edge Higher After Red-Hot Inflation Data And Nvidia Losses: CRWV, TTWO, NLST, NBIS In Focus」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, Nasdaq, S&P 500 Rally on November 11, 2026; Oil Rises, Gold Slips」と伝えた。",
+    "S&P 500は前日比+1.31%の7,619.38で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTdqaEhyZTgyRE9BSWMyeWN1TTZGNHJIUExTTTJjdjBJaEJHc3FaM3ZONUs4bVJweUZ6RUV1Mk5OblJyTFJLNmVXVkg3ZF9VWEFFS21kaWNQRFJYOE1BNGpQeXdmNXpGa3BjZFhtekZVSl9YbUZ4QW92Qzl5c1N0TTluODV1ajJqQ0NRLThERVYyQ2hUanU3R2xYVnYtLXc?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlFSZXhHRzE0blVJRUpMNzJBTHR3SU1RM0ZJQlZGMzh3bm82Y3pIRFBadTBEN0RKVjBZODhVYl9hNldvYmxRWjZPNW5KSzI1TTZvRGxrMEJzUFU2M2FWVWM2MmdWcUh0dW90OFpCbkstNWhTVnk1RU0xb3ByajM4NThwd1VYSEF3ZHVIWk5YY213b2c?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeFBDd1BMekwxVkZzbWVvMGpCRE5oZUFmTnRVZU1hOTRVdDVyT3p4VnZuc1BEUHhnVHpOMUNBWEN3RUEwN2xPRjUtZ1J4SzBzYkIzdUI4MEpJTlRUMmczS2x6bzNZOUhYZnlDU0RtMXJCU3c1RnBrU1V1eEU3VnhEM3Q2Mk9uZzhNUk05RFpZT1pyNXMyb3hxbVFfYWpGaUhuY2g3Q2FxbU10Sm9jdFY4dEtTbzlvajczb05aVm40N0hwZ3ZoYkM3a2xSS21FZw?oc=5"
+  ],
+  "generated_at": "2026-11-12T01:56:59+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
