@@ -804,6 +804,7 @@ CRGO,CRGO,Freightos Limited,NASDAQ,NASDAQ
 CRIS,CRIS,"Curis, Inc.",NASDAQ,NASDAQ
 CRMD,CRMD,CorMedix Inc.,NASDAQ,NASDAQ
 CRML,CRML,Critical Metals Corp.,NASDAQ,NASDAQ
+CRMN,CRMN,Skyline Builders Group Holding Limited,NASDAQ,NASDAQ
 CRMT,CRMT,"America's Car-Mart, Inc.",NASDAQ,NASDAQ
 CRNC,CRNC,Cerence Inc.,NASDAQ,NASDAQ
 CRNT,CRNT,Ceragon Networks Ltd.,NASDAQ,NASDAQ
@@ -1740,7 +1741,6 @@ KALA,KALA,"KALA BIO, Inc.",NASDAQ,NASDAQ
 KALU,KALU,Kaiser Aluminum Corporation,NASDAQ,NASDAQ
 KARD,KARD,"Kardigan, Inc.",NASDAQ,NASDAQ
 KARO,KARO,Karooooo Ltd.,NASDAQ,NASDAQ
-KAZR,KAZR,Skyline Builders Group Holding Limited,NASDAQ,NASDAQ
 KBON,KBON,Karbon Capital Partners Corp.,NASDAQ,NASDAQ
 KBSX,KBSX,FST Corp.,NASDAQ,NASDAQ
 KC,KC,Kingsoft Cloud Holdings Limited,NASDAQ,NASDAQ
@@ -2303,7 +2303,6 @@ NXT,NXT,Nextpower Inc.,NASDAQ,NASDAQ
 NXTC,NXTC,"NextCure, Inc.",NASDAQ,NASDAQ
 NXTS,NXTS,Nexentis Technologies Inc.,NASDAQ,NASDAQ
 NXTT,NXTT,Next Technology Holding Inc.,NASDAQ,NASDAQ
-NXXT,NXXT,"NextNRG, Inc.",NASDAQ,NASDAQ
 NYAX,NYAX,Nayax Ltd.,NASDAQ,NASDAQ
 NYXH,NYXH,Nyxoah SA,NASDAQ,NASDAQ
 OABI,OABI,"OmniAb, Inc.",NASDAQ,NASDAQ
@@ -4038,7 +4037,7 @@ CEV,CEV,Eaton Vance California Municipal Income Trust Sh,NYSE American,NYSE Amer
 CF,CF,"CF Industries Holdings, Inc.",NYSE,NYSE
 CFG,CFG,"Citizens Financial Group, Inc.",NYSE,NYSE
 CFND,CFND,C1 Fund Inc.,NYSE,NYSE
-CFR,CFR,"Cullen/Frost Bankers, Inc.",NYSE,NYSE
+CFR,CFR,"Cullen/Frost Bankers, Inc.",US,US
 CGAU,CGAU,Centerra Gold Inc. Common Shares,NYSE,NYSE
 CHCT,CHCT,Community Healthcare Trust Incorporated,NYSE,NYSE
 CHD,CHD,"Church & Dwight Company, Inc.",NYSE,NYSE
@@ -4881,7 +4880,6 @@ KMT,KMT,Kennametal Inc.,NYSE,NYSE
 KMX,KMX,CarMax Inc,NYSE,NYSE
 KN,KN,Knowles Corporation,NYSE,NYSE
 KNF,KNF,Knife Riv Holding Co.,NYSE,NYSE
-KNRX,KNRX,KNOREX LTD.,NYSE American,NYSE American
 KNSL,KNSL,"Kinsale Capital Group, Inc.",NYSE,NYSE
 KNTK,KNTK,Kinetik Holdings Inc.,NYSE,NYSE
 KNX,KNX,Knight-Swift Transportation Holdings Inc.,NYSE,NYSE
