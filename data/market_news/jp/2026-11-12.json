@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-12",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "60,819.36",
+      "change": "-0.70%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "414.30",
+      "change": "+0.10%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.73",
+      "change": "+1.03"
+    }
+  },
+  "top_sectors": [
+    "銀行業",
+    "電気機器"
+  ],
+  "bottom_sectors": [
+    "陸運業",
+    "食料品"
+  ],
+  "news_bullets": [
+    "「預金者別預金」（2026年9月）等の公表について。",
+    "【挨拶】浅田審議委員「わが国の経済・物価情勢と金融政策」（長崎）。",
+    "営業毎旬報告（11月10日現在）。",
+    "日経平均は前日比-0.70%の60,819.36円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "http://www.boj.or.jp/statistics/outline/notice_2026/not261112a.htm",
+    "http://www.boj.or.jp/about/press/koen_2026/ko261112a.htm",
+    "http://www.boj.or.jp/statistics/boj/other/acmai/release/2026/ac261110.htm"
+  ],
+  "generated_at": "2026-11-13T15:00:37+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
