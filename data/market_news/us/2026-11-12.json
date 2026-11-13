@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-11-12",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,592.40",
+      "change": "-0.35%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,366.09",
+      "change": "-0.39%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,297.09",
+      "change": "-0.36%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.10%",
+      "change": "+0.10"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「Stock market today: Dow, S&P 500, Nasdaq slip as Nvidia stock falls on CEO exit, bond yields rise」と伝えた。",
+    "海外メディアは「Nasdaq Futures Fall as Nvidia Leadership Uncertainty and China Chip Restrictions Weigh on Markets: Dow Jones, S&P, Wall Street」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq fall as Nvidia CEO's exit rattles AI stocks」と伝えた。",
+    "S&P 500は前日比-0.35%の7,592.40で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-fall-as-nvidia-ceo-exit-rising-bond-yields-roil-markets-195710154.html",
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFJFM2RNdHpXTjlabFBaem5VWWZuazhjRjFIamd0cE9vU2pZOFVkZFdpeHp6VzRfaHNuaWNDbkJYTk1WcmN0S0hMYzFwQl9oTHJLeFRjUHFTb1I3YlNkaG5qVnZBMElScWx2eHpWeHpUSkRjZlhibzNmLVFyU1NqZTVwYnk5ZXJFNjh4cWk0VQ?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNi11TUtmWkhpU3htU1hpMXhVTE9veDVjbzJWdjBqLXNKZ3hDTDZ0MjVjcVV4cTZWS0FjbmtiQTNjV0luNTh0WGg1SmZ3VEw5WkVtSHEyLXRRVVF6dHRWZlFnSEUtTXdCbEs3Tzk1VjFLWkFsbnJ5dlhWbVNpV3M1dGJtcmZaSVBHdm1nSEdXa0RQRGJIWWx6MFdCWTk1QzBBczc1ZUF0NA?oc=5"
+  ],
+  "generated_at": "2026-11-13T01:14:18+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
