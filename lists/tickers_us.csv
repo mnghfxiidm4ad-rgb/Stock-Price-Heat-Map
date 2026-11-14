@@ -711,7 +711,6 @@ CLBK,CLBK,"Columbia Financial, Inc.",NASDAQ,NASDAQ
 CLBT,CLBT,Cellebrite DI Ltd.,NASDAQ,NASDAQ
 CLDX,CLDX,"Celldex Therapeutics, Inc.",NASDAQ,NASDAQ
 CLFD,CLFD,"Clearfield, Inc.",NASDAQ,NASDAQ
-CLGN,CLGN,CollPlant Biotechnologies Ltd.,NASDAQ,NASDAQ
 CLIK,CLIK,Click Holdings Limited,NASDAQ,NASDAQ
 CLIR,CLIR,ClearSign Technologies Corporation,NASDAQ,NASDAQ
 CLLS,CLLS,Cellectis S.A.,NASDAQ,NASDAQ
@@ -1904,6 +1903,7 @@ LOOP,LOOP,"Loop Industries, Inc.",NASDAQ,NASDAQ
 LOPE,LOPE,"Grand Canyon Education, Inc.",NASDAQ,NASDAQ
 LOT,LOT,Lotus Technology Inc.,NASDAQ,NASDAQ
 LOVE,LOVE,The Lovesac Company,NASDAQ,NASDAQ
+LOVI,LOVI,Live Oak Acquisition Corp. VI,NASDAQ,NASDAQ
 LPAA,LPAA,Launch One Acquisition Corp.,NASDAQ,NASDAQ
 LPBB,LPBB,Launch Two Acquisition Corp.,NASDAQ,NASDAQ
 LPCN,LPCN,Lipocine Inc.,NASDAQ,NASDAQ
@@ -2346,7 +2346,7 @@ OKYO,OKYO,OKYO Pharma Limited,NASDAQ,NASDAQ
 OLB,OLB,"The OLB Group, Inc.",NASDAQ,NASDAQ
 OLED,OLED,Universal Display Corporation,NASDAQ,NASDAQ
 OLLI,OLLI,"Ollie's Bargain Outlet Holdings, Inc.",NASDAQ,NASDAQ
-OLMA,OLMA,"Olema Pharmaceuticals, Inc.",NASDAQ,NASDAQ
+OLMA,OLMA,"Olema Oncology, Inc.",NASDAQ,NASDAQ
 OLOX,OLOX,Olenox Industries Inc.,NASDAQ,NASDAQ
 OM,OM,"Outset Medical, Inc.",NASDAQ,NASDAQ
 OMAB,OMAB,Grupo Aeroportuario del Centro Norte S.A.B. de C,NASDAQ,NASDAQ
@@ -2375,6 +2375,7 @@ OPAL,OPAL,OPAL Fuels Inc.,NASDAQ,NASDAQ
 OPBK,OPBK,OP Bancorp,NASDAQ,NASDAQ
 OPCH,OPCH,"Option Care Health, Inc.",NASDAQ,NASDAQ
 OPEN,OPEN,Opendoor Technologies Inc,NASDAQ,NASDAQ
+OPHI,OPHI,CollPlant Biotechnologies Ltd.,NASDAQ,NASDAQ
 OPI,OPI,Office Properties Income Trust,NASDAQ,NASDAQ
 OPK,OPK,"Opko Health, Inc.",NASDAQ,NASDAQ
 OPNW,OPNW,"OpenWorld, Inc.",NASDAQ,NASDAQ
@@ -2608,7 +2609,6 @@ PTC,PTC,PTC Inc.,NASDAQ,NASDAQ
 PTCT,PTCT,"PTC Therapeutics, Inc.",NASDAQ,NASDAQ
 PTEN,PTEN,"Patterson-UTI Energy, Inc.",NASDAQ,NASDAQ
 PTGX,PTGX,"Protagonist Therapeutics, Inc.",NASDAQ,NASDAQ
-PTLE,PTLE,PTL LTD,NASDAQ,NASDAQ
 PTLO,PTLO,Portillo's Inc.,NASDAQ,NASDAQ
 PTN,PTN,"Palatin Technologies, Inc.",NASDAQ,NASDAQ
 PTON,PTON,"Peloton Interactive, Inc.",NASDAQ,NASDAQ
@@ -3426,7 +3426,7 @@ WETO,WETO,Wetour Robotics Limited,NASDAQ,NASDAQ
 WEYS,WEYS,"Weyco Group, Inc.",NASDAQ,NASDAQ
 WFCF,WFCF,"Where Food Comes From, Inc.",NASDAQ,NASDAQ
 WFF,WFF,WF Holding Limited,NASDAQ,NASDAQ
-WFRD,WFRD,Weatherford International plc,NASDAQ,NASDAQ
+WFRD,WFRD,Weatherford International Corp,NASDAQ,NASDAQ
 WGS,WGS,GeneDx Holdings Corp.,NASDAQ,NASDAQ
 WHF,WHF,"WhiteHorse Finance, Inc.",NASDAQ,NASDAQ
 WHFCL,WHFCL,"WhiteHorse Finance, Inc.",NASDAQ,NASDAQ
@@ -3478,6 +3478,7 @@ WVE,WVE,"Wave Life Sciences, Inc.",NASDAQ,NASDAQ
 WVVI,WVVI,"Willamette Valley Vineyards, Inc.",NASDAQ,NASDAQ
 WVVIP,WVVIP,"Willamette Valley Vineyards, Inc.",NASDAQ,NASDAQ
 WW,WW,"WW International, Inc.",NASDAQ,NASDAQ
+WWB,WWB,Windward Bio Group AG,NASDAQ,NASDAQ
 WWD,WWD,"Woodward, Inc.",NASDAQ,NASDAQ
 WXM,WXM,WF International Limited,NASDAQ,NASDAQ
 WYFI,WYFI,"WhiteFiber, Inc.",NASDAQ,NASDAQ
@@ -3576,6 +3577,7 @@ ZURA,ZURA,Zura Bio Limited,NASDAQ,NASDAQ
 ZVRA,ZVRA,"Zevra Therapeutics, Inc.",NASDAQ,NASDAQ
 ZYBT,ZYBT,Zhengye Biotechnology Holding Limited,NASDAQ,NASDAQ
 ZYME,ZYME,Zymeworks Inc.,NASDAQ,NASDAQ
+ZYN,ZYN,PTL LTD,NASDAQ,NASDAQ
 A,A,"Agilent Technologies, Inc.",NYSE,NYSE
 AA,AA,Alcoa Corporation,NYSE,NYSE
 AAC,AAC,Ares Acquisition Corporation III,NYSE,NYSE
@@ -5008,6 +5010,7 @@ MCS,MCS,Marcus Corporation (The),NYSE,NYSE
 MCY,MCY,Mercury General Corporation,NYSE,NYSE
 MD,MD,"Pediatrix Medical Group, Inc.",NYSE,NYSE
 MDA,MDA,MDA Space Ltd. Common Shares,NYSE,NYSE
+MDRN,MDRN,Modern Mining Technology Corp. Common Shares,NYSE American,NYSE American
 MDT,MDT,Medtronic plc.,NYSE,NYSE
 MDU,MDU,"MDU Resources Group, Inc. Common Stock (Holding ",NYSE,NYSE
 MEC,MEC,"Mayville Engineering Company, Inc.",NYSE,NYSE
@@ -6023,6 +6026,7 @@ VTR,VTR,"Ventas, Inc.",NYSE,NYSE
 VTS,VTS,"Vitesse Energy, Inc.",NYSE,NYSE
 VVR,VVR,Invesco Senior Income Trust Common Stock (DE),NYSE,NYSE
 VVV,VVV,Valvoline Inc.,NYSE,NYSE
+VVVV,VVVV,vVARDIS Holding AG,NYSE,NYSE
 VVX,VVX,"V2X, Inc.",NYSE,NYSE
 VYLR,VYLR,Vylor Inc.,NYSE,NYSE
 VYX,VYX,NCR Voyix Corporation,NYSE,NYSE
