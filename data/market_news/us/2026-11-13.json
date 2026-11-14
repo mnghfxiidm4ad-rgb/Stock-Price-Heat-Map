@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-13",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,561.67",
+      "change": "-0.40%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "25,136.27",
+      "change": "-0.91%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "52,347.55",
+      "change": "+0.10%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.15%",
+      "change": "+0.05"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "コミュニケーション・サービス"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "news_bullets": [
+    "海外メディアは「10-Year Treasury yield spikes on hot inflation read, Nvidia leads chip stocks lower: AlphaCheck」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500 Futures Rise, Nvidia CEO Exit Remains in Focus — CSCO, AMAT, NU in」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Edge Higher As Markets Attempt To Recover From Nvidia Rout: SLS, MSFT, CADL, MSTR In Focus」と伝えた。",
+    "S&P 500は前日比-0.40%の7,561.67で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://finance.yahoo.com/markets/article/copy-tech-rises-coreweave-results-reignite-ai-trade-alphacheck-150655549.html",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUWxTN1gtLUgyQ25ic3ZNYW1jandqR0puRlpMQ0I0QjlMdUdIVmFnWVlxemdSU3NkcGlULVVqcUhac2d2eE9oOXYzaGxYNldkOXBfelRkNFFvVGhMVGVJeTJiUlcxNEhOakZHU3RnZEtGLXdfdlppV09IdEtFU21uU2VmeF9xaFBzdUhaRDQwSXlsVlBFSVhmVDV0UHhnTk5ERlNDT01Vb0hXdF9LRUtkbDg3NEdHVTVTSGdiUEczal9Vby0ySlZFTWRHeU1seDJYMEdqVVhHeElNVzNEcGNmU3VuancydU5xZ01VaWNWTVZhQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNHFOTEZjTGZTWHBMZXZkcjFoVDRJN1RzbUdCUXBJZVVfeDh0OHFQY0txMENaVDVLR05TeHlndDk4X19FNDVrVER4UmxIN05iX1lKTkpsTE11VkZPT3NYTjRhUmVKZFdDb2RJekluQWowVTE5YlJvanY3RUVsS0NPaUI1X1ZRTmVNajZNQXFxOXY3dG8?oc=5"
+  ],
+  "generated_at": "2026-11-14T00:56:19+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
