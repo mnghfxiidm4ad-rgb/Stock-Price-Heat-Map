@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-13",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "61,142.35",
+      "change": "+0.53%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "415.50",
+      "change": "+0.29%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.88",
+      "change": "+0.14"
+    }
+  },
+  "top_sectors": [
+    "水産・農林業",
+    "陸運業"
+  ],
+  "bottom_sectors": [
+    "銀行業",
+    "情報・通信業"
+  ],
+  "news_bullets": [
+    "ドル円見通し｜円安防衛ラインはどこ？為替介入の仕組みと過去の実績から読む次の一手 2026年11月13日。",
+    "東証10時 日経平均は高値圏で推移 円安進行や韓国株高も支え。",
+    "【今日のドル円】昨日の振り返りと今日のドル円相場見通し「FRBタカ派傾斜と原油高で160円台を試す展開、今夜の米PPIと当局の牽制に注目」 2026年11月13日。",
+    "日経平均は前日比+0.53%の61,142.35円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA3cXRnR0t6X1k4eFFlWXI4WEs1eEtNMEg4SjNXOVFSNXVxanpmNWtVcE9OcGFQOVNvdDNoZ3JXRTBmbWxGS0UtLVRhUEdtdDYyQVBzS1ktQ0k0RG1QakszYi02cw?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE41a2luZXg1SDIwTkJhYXBTR2I3VnB0dFJGUjhRZHg1UENnejNmaGNJeFFvZWozVUxoanRzU1loUlQ1SFpmOXpxdDhkdmloRWlLZFZIbXItZHhkRmViOVB2NHBrU1E5TFNFck9TeQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01NnVnQVpDVUlhd3E0ZVl3N1UzWlRzSTV4MFhVZVZFaG80LTk1WUVTVlZiZl9KZXFCRldKY3JSbmlZUmNFOUFrNTVQdl9Wc2NHNUlTRFI2RU5Kb0N5WFhyY0Zsaw?oc=5"
+  ],
+  "generated_at": "2026-11-16T16:39:22+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
