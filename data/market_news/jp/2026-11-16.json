@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-16",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,662.02",
+      "change": "-2.42%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "410.90",
+      "change": "-1.11%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.78",
+      "change": "-0.10"
+    }
+  },
+  "top_sectors": [
+    "水産・農林業",
+    "海運業"
+  ],
+  "bottom_sectors": [
+    "非鉄金属",
+    "保険業"
+  ],
+  "news_bullets": [
+    "【今日のドル円】昨日の振り返りと今日のドル円相場見通し「先週金曜は159円50銭台へ小反落——本日は国内7-9月期GDPと高田日銀委員講演に注目」 2026年11月16日。",
+    "【講演】高田審議委員「わが国の経済・物価情勢と金融政策：日本のマネー・資本市場転換、山は動くか」（徳島経済同友会）。",
+    "For investors, a truly safe haven is hard to find。",
+    "日経平均は前日比-2.42%の59,662.02円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92SHlxX2gtOUFnaWpZZGFUTXFDWjhDRUZmNllFbHNiTU5ERXVxNTJqVXRVekdFcmxNSG5uM3VNaWZ3UmxsM09DcXNsLXdHYjZmUVcxelk2SmhVdzNnWTlvckxsbw?oc=5",
+    "http://www.boj.or.jp/about/press/koen_2026/ko261116a.htm",
+    "https://finance.yahoo.com/markets/currencies/articles/investors-truly-safe-haven-hard-060249299.html"
+  ],
+  "generated_at": "2026-11-17T16:36:23+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
