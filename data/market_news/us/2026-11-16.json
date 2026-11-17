@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-16",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,416.59",
+      "change": "-1.92%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,509.76",
+      "change": "-2.49%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "51,608.17",
+      "change": "-1.41%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.12%",
+      "change": "-0.03"
+    }
+  },
+  "top_sectors": [
+    "生活必需品",
+    "公益事業"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "エネルギー"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus」と伝えた。",
+    "海外メディアは「Dow Jones, Nasdaq, S&P 500 weekly preview: Nvidia earnings, Anthropic IPO on deck」と伝えた。",
+    "S&P 500は前日比-1.92%の7,416.59で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3loNDRFRS1qcXRkNU4zd2dEbEt0VEpENld4UU9ES3pEOXNhMzkteGVfYXVaaHc1ZUZqRWtwckFiT1NfX3BJTHZzQmtGMUV0MmwzT1p0a1FsNFUxQTZMSmlWWVVqa25FNlNxMXFBM1BRc2E3S2hxYnc3WEdiWThDRzRfNEZfUkg0ZVAxMllvdzJmTlZiNUo3WlRjRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2FWcktJLVd2aW9ObWxWUGJ4MVBiNDJ6clFlSmRTSjhNSVZrbHlCamNBYUZfeTJ2cjdtZVFZMU40a1Q0dkdRcHlibDJjS20zdW1jYmtOcnkweEx0QzFOUGpFZ2JWN3Jmc1dNakJITW45VG4waDNGU285TlN3el93ZUxzYWxXdUg3eVk0U2NSUGJySFE?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzkwcTJIZUFZYXZpNnhJbEtiVUtuQzRSTUttdUVqdlNhRVpoQ1NMaHh6U1VTSzN3UVFFS3JzREV3YlhWZFpfRkVzNHk1TExfS3ZHN0NUWjBSQnRISWhnd3JFRnlsUUUyNDBfWkxLNmdMbGpFT1V4dXZoLVF0VmJ6TXdVb3lrU2lDLU16ckdIN01fNTlQOTlTbm54aVl1OU5hb1FRWmZMR1NPUWRJazJES2FRaDR0bnZ5RzliUHlDck4zY2M3RzhmXzhyVzNGQQ?oc=5"
+  ],
+  "generated_at": "2026-11-17T03:00:18+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
