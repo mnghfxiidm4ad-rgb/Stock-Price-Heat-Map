@@ -507,6 +507,7 @@ BRKRP,BRKRP,Bruker Corporation,NASDAQ,NASDAQ
 BRLS,BRLS,Borealis Foods Inc.,NASDAQ,NASDAQ
 BRLT,BRLT,"Brilliant Earth Group, Inc.",NASDAQ,NASDAQ
 BRNX,BRNX,BrenX Ltd.,NASDAQ,NASDAQ
+BRRK,BRRK,Bluerock Acquisition Corp. II,NASDAQ,NASDAQ
 BRTM,BRTM,B&R Technology Merger Corp.,NASDAQ,NASDAQ
 BRTX,BRTX,"BioRestorative Therapies, Inc.",NASDAQ,NASDAQ
 BRUN,BRUN,Boost Run Inc.,NASDAQ,NASDAQ
@@ -2283,7 +2284,6 @@ NVTS,NVTS,Navitas Semiconductor Corporation,NASDAQ,NASDAQ
 NVX,NVX,NOVONIX Limited,NASDAQ,NASDAQ
 NWBI,NWBI,"Northwest Bancshares, Inc.",NASDAQ,NASDAQ
 NWCL,NWCL,newcleo plc,NASDAQ,NASDAQ
-NWE,NWE,"NorthWestern Energy Group, Inc.",NASDAQ,NASDAQ
 NWFL,NWFL,Norwood Financial Corp.,NASDAQ,NASDAQ
 NWGL,NWGL,CL Workshop Group Limited,NASDAQ,NASDAQ
 NWL,NWL,Newell Brands Inc.,NASDAQ,NASDAQ
@@ -2519,7 +2519,6 @@ PLAY,PLAY,"Dave & Buster's Entertainment, Inc.",NASDAQ,NASDAQ
 PLBC,PLBC,Plumas Bancorp,NASDAQ,NASDAQ
 PLBL,PLBL,Polibeli Group Ltd,NASDAQ,NASDAQ
 PLBY,PLBY,"Playboy, Inc.",NASDAQ,NASDAQ
-PLCE,PLCE,"Children's Place, Inc. (The)",NASDAQ,NASDAQ
 PLCI,PLCI,Pelican Acquisition II Corporation,NASDAQ,NASDAQ
 PLMK,PLMK,Plum Acquisition Corp. IV,NASDAQ,NASDAQ
 PLMR,PLMR,"Palomar Holdings, Inc.",NASDAQ,NASDAQ
@@ -3897,7 +3896,6 @@ BIT,BIT,BlackRock Multi-Sector Income Trust Common Share,NYSE,NYSE
 BJ,BJ,"BJ's Wholesale Club Holdings, Inc.",NYSE,NYSE
 BKD,BKD,Brookdale Senior Living Inc.,NYSE,NYSE
 BKE,BKE,"Buckle, Inc. (The)",NYSE,NYSE
-BKH,BKH,Black Hills Corporation,NYSE,NYSE
 BKKT,BKKT,"Bakkt, Inc.",NYSE,NYSE
 BKSY,BKSY,BlackSky Technology Inc.,NYSE,NYSE
 BKT,BKT,BlackRock Income Trust Inc. (The),NYSE,NYSE
@@ -4802,7 +4800,6 @@ IRT,IRT,"Independence Realty Trust, Inc.",NYSE,NYSE
 ISD,ISD,"PGIM High Yield Bond Fund, Inc.",NYSE,NYSE
 ISOU,ISOU,IsoEnergy Ltd. Common Shares,NYSE American,NYSE American
 IT,IT,"Gartner, Inc.",NYSE,NYSE
-ITGR,ITGR,Integer Holdings Corporation,NYSE,NYSE
 ITP,ITP,"IT Tech Packaging, Inc.",NYSE American,NYSE American
 ITRG,ITRG,Integra Resources Corp. Common Shares,NYSE American,NYSE American
 ITT,ITT,ITT Inc.,NYSE,NYSE
@@ -4900,7 +4897,6 @@ KRSP,KRSP,Rice Acquisition Corporation 3,NYSE,NYSE
 KSS,KSS,Kohl's Corporation,NYSE,NYSE
 KT,KT,KT Corporation,NYSE,NYSE
 KTB,KTB,"Kontoor Brands, Inc.",NYSE,NYSE
-KTF,KTF,DWS Municipal Income Trust,NYSE,NYSE
 KTH,KTH,Structures Products Cp 8% CorTS Issued by Peco E,NYSE,NYSE
 KTN,KTN,Structured Products Corp 8.205% CorTS 8.205% Cor,NYSE,NYSE
 KULR,KULR,"KULR Technology Group, Inc.",NYSE American,NYSE American
@@ -5432,6 +5428,7 @@ PNR,PNR,Pentair plc. Ordinary Share,NYSE,NYSE
 PNW,PNW,Pinnacle West Capital Corporation,NYSE,NYSE
 POAS,POAS,Phaos Technology Holdings (Cayman) Limited,NYSE American,NYSE American
 POR,POR,Portland General Electric Co,NYSE,NYSE
+PORT,PORT,Southport Acquisition Corp. II,NYSE,NYSE
 POST,POST,"Post Holdings, Inc.",NYSE,NYSE
 PPG,PPG,"PPG Industries, Inc.",NYSE,NYSE
 PPL,PPL,PPL Corporation,NYSE,NYSE
