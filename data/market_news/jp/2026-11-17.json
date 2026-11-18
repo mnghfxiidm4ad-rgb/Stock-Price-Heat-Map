@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-17",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,860.43",
+      "change": "-1.34%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "404.50",
+      "change": "-1.56%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.52",
+      "change": "-0.26"
+    }
+  },
+  "top_sectors": [
+    "小売業",
+    "水産・農林業"
+  ],
+  "bottom_sectors": [
+    "電気機器",
+    "非鉄金属"
+  ],
+  "news_bullets": [
+    "東証大引け 日経平均は続落、5万9000円割れ 半導体関連に売り。",
+    "「貸出先別貸出金」（2026年9月）等の公表について。",
+    "SoftBank Group Stocks Fall 3.69% as AI Jitters Hit Its $64.6 Billion OpenAI Bet。",
+    "日経平均は前日比-1.34%の58,860.43円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE51V09DQThkTHJZblFVYVFBVkR0NV80VVVZMjFocVRtTUR4dnpwMk1DejQ4alJNMWEtZFFDNVhGUEpLZmNZd2pOZV90Qk4xLUNBWGlkN0FWTW13RWEtOW1nUndSa3Ezc001amlrbw?oc=5",
+    "http://www.boj.or.jp/statistics/outline/notice_2026/not261117a.htm",
+    "https://finance.yahoo.com/technology/ai/articles/softbank-group-stocks-fall-3-181015417.html"
+  ],
+  "generated_at": "2026-11-18T16:04:53+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
