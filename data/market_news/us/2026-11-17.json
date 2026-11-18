@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-11-17",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,340.53",
+      "change": "-1.03%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,328.38",
+      "change": "-0.74%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,759.42",
+      "change": "-1.64%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.10%",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Trade Mixed Ahead of Nvidia’s Q3 Earnings— CBRS, AMZN, RCAT in Focus (UPDATED)」と伝えた。",
+    "海外メディアは「Dow Plunges 700 Points as S&P 500 and Nasdaq Fall Ahead of Nvidia Earnings」と伝えた。",
+    "海外メディアは「Nvidia Crisis Hits Wall Street: Dow, S&P 500 and Nasdaq Fall as Chip and A.I. Stocks Slump」と伝えた。",
+    "S&P 500は前日比-1.03%の7,340.53で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZUZacXliVWZvMjZxRU45OWFVa1lIUlhaTlQ0ZnN2U182Rm5FcDYxZXp3MDNYWmp5RmRTbTZoQWcwZmpJQ09hOGdrdmJ6dW9PUUg3al9fSXg1MjR4NW1TV1loYnlILXZvWGVBSTdHelMtb00wXzlvdE9HUnUzUzU1bDIzbE85MTNUVlYzVDl3Y01mZkU0NXdoNGpSczUzYVRCOEpVR0NtX1psM1N6d2tRNEIzV3hxY1d4V295SXJ6ZHNVSWczaGtRSVNVZk1XSUZjZUJjd1dWSEpNdjVHVk9kLXZXSnpoR3dYSTAxTGFPM0IzSU8teWg2eW15eWRGa0h5cjNWTXNjSngxU3lsNXNnWTg1TzVteEU?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRmZ0MzZ5ZEZPeXF6dXZucm9Bb1lUZ2M4M2xCeng2cHlIdm9IY1NzN1doU0JWMHVUNGVDSG1BcGFsa0ViU3Y3MFlyMjlHRktFNGJuZDZsUXJ2dmFpdUpPbEZpVTBxSEFoSlFNMkRMUk9uN0FJa0NaNWhuNXdBQk1TZjlNdFA1aHNPQnluUmlBSThxbkNjdnF5eGVkeVBNeE1hMnd3NEJjb2RacUJ6amRXaGRaWUh5M1QzOXZPaGNuaDl0Yjh4ZzNTeUdzZFRNb28?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSDBtaXBwblR2Nk1uRGlia3ZoYXItbTlha2VHUEE4MTJSNUhZRWVOUE9qbnJReGdnMTNDNzJUaV9FQWY5RkFiWEVjbG1rQXdJZlZjMUdPR2swdjJuczZOcUVlb1JsU3FId3V2ZmZ5emRMYnZzcWNESnlTOVZfT05KaDYtaVVmUXJzbVFqVlY3TU9xYjNTMDBocF8zMA?oc=5"
+  ],
+  "generated_at": "2026-11-18T02:29:10+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
