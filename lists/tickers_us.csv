@@ -975,7 +975,6 @@ DUKR,DUKR,DUKE Robotics Corp.,NASDAQ,NASDAQ
 DUO,DUO,Fangdd Network Group Ltd.,NASDAQ,NASDAQ
 DUOL,DUOL,"Duolingo, Inc.",NASDAQ,NASDAQ
 DUOT,DUOT,"Duos Technologies Group, Inc.",NASDAQ,NASDAQ
-DVLT,DVLT,Datavault AI Inc.,NASDAQ,NASDAQ
 DWSN,DWSN,Dawson Geophysical Company,NASDAQ,NASDAQ
 DWTX,DWTX,"Dogwood Therapeutics, Inc.",NASDAQ,NASDAQ
 DXCM,DXCM,"DexCom, Inc.",NASDAQ,NASDAQ
@@ -1352,6 +1351,7 @@ GLSI,GLSI,"Greenwich LifeSciences, Inc.",NASDAQ,NASDAQ
 GLUE,GLUE,"Monte Rosa Therapeutics, Inc.",NASDAQ,NASDAQ
 GLXG,GLXG,Galaxy Payroll Group Limited,NASDAQ,NASDAQ
 GLXY,GLXY,Galaxy Digital Inc.,NASDAQ,NASDAQ
+GM,GM,General Motors Company,NASDAQ,NASDAQ
 GMAB,GMAB,Genmab A/S,NASDAQ,NASDAQ
 GMEX,GMEX,GMEX ROBOTICS CORPORATION,NASDAQ,NASDAQ
 GMHS,GMHS,Gamehaus Holdings Inc.,NASDAQ,NASDAQ
@@ -3319,7 +3319,6 @@ VALN,VALN,Valneva SE,NASDAQ,NASDAQ
 VALU,VALU,"Value Line, Inc.",NASDAQ,NASDAQ
 VANI,VANI,"Vivani Medical, Inc.",NASDAQ,NASDAQ
 VBIO,VBIO,"Valion Bio, Inc.",NASDAQ,NASDAQ
-VBNK,VBNK,VersaBank,NASDAQ,NASDAQ
 VC,VC,Visteon Corporation,NASDAQ,NASDAQ
 VCEL,VCEL,Vericel Corporation,NASDAQ,NASDAQ
 VCIG,VCIG,VCI Global Limited,NASDAQ,NASDAQ
@@ -3380,6 +3379,7 @@ VREX,VREX,Varex Imaging Corporation,NASDAQ,NASDAQ
 VRM,VRM,"Vroom, Inc.",NASDAQ,NASDAQ
 VRNS,VRNS,"Varonis Systems, Inc.",NASDAQ,NASDAQ
 VRRM,VRRM,Verra Mobility Corporation,NASDAQ,NASDAQ
+VRSA,VRSA,Versa Bancorp,NASDAQ,NASDAQ
 VRSK,VRSK,"Verisk Analytics, Inc.",NASDAQ,NASDAQ
 VRSN,VRSN,"VeriSign, Inc.",NASDAQ,NASDAQ
 VRTX,VRTX,Vertex Pharmaceuticals Incorporated,NASDAQ,NASDAQ
@@ -3597,7 +3597,6 @@ ABXL,ABXL,"Abacus Global Management, Inc. 9.875% Fixed Rate",NYSE,NYSE
 ACCO,ACCO,Acco Brands Corporation,NYSE,NYSE
 ACCS,ACCS,ACCESS Newswire Inc.,NYSE American,NYSE American
 ACEL,ACEL,"Accel Entertainment, Inc.",NYSE,NYSE
-ACH,ACH,"Accendra Health, Inc.",NYSE,NYSE
 ACHR,ACHR,Archer Aviation Inc.,NYSE,NYSE
 ACI,ACI,"Albertsons Companies, Inc.",NYSE,NYSE
 ACM,ACM,AECOM,NYSE,NYSE
@@ -4588,7 +4587,6 @@ GLQ,GLQ,Clough Global Equity Fund Clough Global Equity F,NYSE American,NYSE Amer
 GLU,GLU,Gabelli Global Utility Common Shares of Benefici,NYSE American,NYSE American
 GLV,GLV,Clough Global Dividend and Income Fund Common Sh,NYSE American,NYSE American
 GLW,GLW,Corning Incorporated,NYSE,NYSE
-GM,GM,General Motors Company,NYSE,NYSE
 GME,GME,GameStop Corporation,NYSE,NYSE
 GMED,GMED,"Globus Medical, Inc.",NYSE,NYSE
 GMRS,GMRS,GMR Solutions Inc.,NYSE,NYSE
@@ -5067,7 +5065,7 @@ MMU,MMU,"Western Asset Managed Municipals Fund, Inc.",NYSE,NYSE
 MNSO,MNSO,MINISO Group Holding Limited American Depositary,NYSE,NYSE
 MNTN,MNTN,"MNTN, Inc.",NYSE,NYSE
 MO,MO,"Altria Group, Inc.",NYSE,NYSE
-MOD,MOD,Modine Manufacturing Company,NYSE,NYSE
+MOD,MOD,"Modexus Solutions, Inc.",NYSE,NYSE
 MOG.A,MOG-A,Moog Inc.,NYSE,NYSE
 MOG.B,MOG-B,Moog Inc.,NYSE,NYSE
 MOGU,MOGU,MOGU Inc. American Depositary Shares (each  repr,NYSE,NYSE
@@ -5901,6 +5899,7 @@ TWN,TWN,"Taiwan Fund, Inc. (The)",NYSE,NYSE
 TX,TX,Ternium S.A. Ternium S.A. American Depositary Sh,NYSE,NYSE
 TXCP,TXCP,"Texas Capital Bancshares, Inc.",US,US
 TXNM,TXNM,"TXNM Energy, Inc.",NYSE,NYSE
+TXR,TXR,Torex Resources Inc. Common Shares,NYSE,NYSE
 TXT,TXT,Textron Inc.,NYSE,NYSE
 TY,TY,Tri Continental Corporation,NYSE,NYSE
 TYG,TYG,Tortoise Energy Infrastructure Corporation,NYSE,NYSE
