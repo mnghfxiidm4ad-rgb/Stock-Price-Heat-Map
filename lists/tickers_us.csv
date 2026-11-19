@@ -1415,6 +1415,7 @@ GTLB,GTLB,GitLab Inc.,NASDAQ,NASDAQ
 GTM,GTM,ZoomInfo Technologies Inc.,NASDAQ,NASDAQ
 GTX,GTX,Garrett Motion Inc.,NASDAQ,NASDAQ
 GUAC,GUAC,Berto Acquisition Corp. II,NASDAQ,NASDAQ
+GUER,GUER,"Guerrilla RF, Inc.",NASDAQ,NASDAQ
 GURE,GURE,"Gulf Resources, Inc.",NASDAQ,NASDAQ
 GUTS,GUTS,"Fractyl Health, Inc.",NASDAQ,NASDAQ
 GVH,GVH,Globavend Holdings Limited,NASDAQ,NASDAQ
@@ -2464,7 +2465,6 @@ PCAP,PCAP,ProCap Acquisition Corp,NASDAQ,NASDAQ
 PCAR,PCAR,PACCAR Inc.,NASDAQ,NASDAQ
 PCB,PCB,PCB Bancorp,NASDAQ,NASDAQ
 PCLA,PCLA,PicoCELA Inc.,NASDAQ,NASDAQ
-PCRX,PCRX,"Pacira BioSciences, Inc.",NASDAQ,NASDAQ
 PCSA,PCSA,"Processa Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 PCT,PCT,"PureCycle Technologies, Inc.",NASDAQ,NASDAQ
 PCTY,PCTY,Paylocity Holding Corporation,NASDAQ,NASDAQ
@@ -2899,7 +2899,6 @@ SHAZ,SHAZ,"SharonAI Holdings, Inc.",NASDAQ,NASDAQ
 SHBI,SHBI,"Shore Bancshares, Inc.",NASDAQ,NASDAQ
 SHC,SHC,Sotera Health Company,NASDAQ,NASDAQ
 SHEN,SHEN,Shenandoah Telecommunications Co,NASDAQ,NASDAQ
-SHFS,SHFS,"SHF Holdings, Inc.",NASDAQ,NASDAQ
 SHIM,SHIM,Shimmick Corporation,NASDAQ,NASDAQ
 SHIP,SHIP,Seanergy Maritime Holdings Corp.,NASDAQ,NASDAQ
 SHLS,SHLS,"Shoals Technologies Group, Inc.",NASDAQ,NASDAQ
@@ -4736,7 +4735,6 @@ IAG,IAG,Iamgold Corporation,NYSE,NYSE
 IAUX,IAUX,i-80 Gold Corp. Common Shares,NYSE American,NYSE American
 IBM,IBM,International Business Machines Corporation,NYSE,NYSE
 IBN,IBN,ICICI Bank Limited,NYSE,NYSE
-IBO,IBO,"Impact BioMedical, Inc.",NYSE American,NYSE American
 IBOC,IBOC,International Bancshares Corporation,US,US
 IBP,IBP,"Installed Building Products, Inc.",NYSE,NYSE
 IBTA,IBTA,"Ibotta, Inc.",NYSE,NYSE
@@ -6132,6 +6130,7 @@ ZH,ZH,"Zhihu Inc. American Depositary Shares, each repr",NYSE,NYSE
 ZIM,ZIM,ZIM Integrated Shipping Services Ltd.,NYSE,NYSE
 ZIP,ZIP,"ZipRecruiter, Inc.",NYSE,NYSE
 ZKH,ZKH,"ZKH Group Limited American Depositary Shares, ea",NYSE,NYSE
+ZOAR,ZOAR,Zoar Limited,NYSE American,NYSE American
 ZONE,ZONE,Zone Frontier Inc.,NYSE American,NYSE American
 ZTO,ZTO,ZTO Express (Cayman) Inc. American Depositary Sh,NYSE,NYSE
 ZTR,ZTR,Virtus Total Return Fund Inc.,NYSE,NYSE
