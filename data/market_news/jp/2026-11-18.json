@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-11-18",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,024.28",
+      "change": "+0.28%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "401.90",
+      "change": "-0.64%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.50",
+      "change": "-0.02"
+    }
+  },
+  "top_sectors": [
+    "その他金融業"
+  ],
+  "bottom_sectors": [
+    "鉱業",
+    "銀行業"
+  ],
+  "news_bullets": [
+    "三菱電機常務 ローム・東芝とのパワー半導体統合を語る - 日経テックフォーサイト。",
+    "市場レベルBCP・3市場合同訓練を実施。",
+    "Japanese Equities ETFs Top S&P 500 in 2026: Further Rally Ahead?。",
+    "日経平均は前日比+0.28%の59,024.28円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUExIX1JsRTZxcVo3OVNLYm1vaGFlQm1oQ1BVU01qdDY2NmVsNXAtUnFwMWJQMk9TWXAwT2VpbmI4SVVNYW1kQnBqTmU0cEpGUjFUeGdiYUg1RVpIQUI2RXpaME9nekZfc0NFVWpOckVlUWVqN0tqLVk5bm1HejdBdUU1Z0tGN2c?oc=5",
+    "http://www.boj.or.jp/about/bcp/fin_bcp/fbcp261118a.htm",
+    "https://finance.yahoo.com/markets/world-indices/articles/japanese-equities-etfs-top-p-140000273.html"
+  ],
+  "generated_at": "2026-11-19T16:12:43+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
