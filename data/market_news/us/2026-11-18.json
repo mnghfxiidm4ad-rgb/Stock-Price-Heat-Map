@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-11-18",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,323.63",
+      "change": "-0.23%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,429.88",
+      "change": "+0.42%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,198.17",
+      "change": "-1.11%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.07%",
+      "change": "-0.04"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Nasdaq, S&P 500 Futures Rise as Nvidia Shares Jump After Strong Earnings Report; Anthropic IPO on Deck」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq open higher as Nvidia forecast eases AI jitters」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Trade Mixed Ahead of FOMC Minutes— NVDA, AAOI, PANW in Focus (UPDATED)」と伝えた。",
+    "S&P 500は前日比-0.23%の7,323.63で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWVYNVZ2N0ppNmVQeDFvUHFIUG5vZmRNRUJ3R2o0WlhkUXJxVEExaHZrRWhNZHZmaTBQUDhyQXhSLXhoRng2akdubS1iMW8xOHptbWZ0Z25nMnlwSnJ6blZ0dmNnejg3MGlXSE5FSkx3czkybjNuVDc0aDd3Mk5YbDNSNlUwUi1vMlRMWU95RkUwWGNvSjhz?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOenJkSkhaLTU2MTZPb2hwVFREQkVkNy1yT09hazlxNDRxWW9IRVVYN0p1bkhWNkJJV1dzdmM5bzdYVEpYaWVOXzgwX3pOVVZ1dlNZWGdTSFljb0g4cmdhUXlWSzcyU29hN0FKY2FDQ3JKS2gwXzg0TUUwRHdSWkNFeE5ndEtEQUtDM1RQNGdPZWxGaXMwTU1YcGFHaTE4SHpxV1hHNzY3QWl4N2xXc1E?oc=5",
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTDNIOUp4aWtOQ05CLW13U3Qxb3BBVng4R1VkQ1pQZnZFN3BRSVNxYmlwTVVtbWlJSkJQNE4tSXFIWGxNRTA2cFdEbEt4RzNhVVEtbWZhWXdDMnJnUnB4MGx5V0w5Q0hCZ1dMVFNYcHpyTGVtcHNiUEFXcnYxUWhtMjFKeGFtSU50ZWRSWjZteEZJczRKNXdheFBod1BzbXlkeHRxVC1ZX3ZDTmpGX0FSN3hqYXk5WWo3eExKa2ZIWmVibkVlcnZWdVZnVmxvaHp1VlJSUDEwODFndXRWbnZSLUNmd0F6a1pyb0plaUo4QVdKTVoxZ25WRGloeDJpYkgyd25ObXQtN092aFlW?oc=5"
+  ],
+  "generated_at": "2026-11-19T01:55:29+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
