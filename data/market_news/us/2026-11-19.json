@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-11-19",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,175.83",
+      "change": "-2.02%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,879.20",
+      "change": "-2.25%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,097.06",
+      "change": "-2.19%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "5.05%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Rise as Anthropic Prepares for Record IPO, Fed Signals Rate Hikes and Oil Prices Advance: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Wall Street Futures Advance Ahead of Anthropic’s Record IPO as Fed Signals Further Rate Increases: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow, S&P 500, Nasdaq 100 Futures Rise as Wall Street Awaits Anthropic’s Listing— PANW」と伝えた。",
+    "S&P 500は前日比-2.02%の7,175.83で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPck03N1VwZkttRWdteGd4UHFsODZqMndIdm4xa0dRNWJXMHVZV1dXVVcyTFVwaGJhZ0pJZE12b1hkX0JGYWVGTy0wdTBWczdNRTlCZTRvOEZxb3BlbzN3Q0JYbnVLM0hzZXpuSGdjZ2g2VUx6RHRfSjBVb2JscW40QkEwSHdXNEtCM1JjTnBJUHNTblRrWUlmUERQZFY?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3J0QmQyS2p2M2ZqeGcyOVVDWVR1eVRLN1BzSy1IcWx4X2xWTk9HN1EzNEpNV0dOMmt3cDZHbF9vNm9xUlhaY2FZTjNsWm5XeUlCMWNnTTg2c2k2R0JkT0hyc2xSUU52NGo5ajFfdFYzZ084UWFKSzN2aU01Y1l2M1hLdEU4QTV6VlE?oc=5",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMHl1UG5odS1iUllYWUlvM0NvMGM4c0dsZUhJdTNuN2dUdUE0Q01KLURSOE1Sd1N2akNuZ19VX3lqdWZvZjRsM183SW13aTBoYlhGZWZmV1RjcEhiQ09CdEhTS0EteVpLVThzVnlKRHVDSzM5Sl8tazl5Nmd6bHVqZkIzSjFBdFliMGFIY0pYS0ZVNlV6aDlqZVJqck5jRHJPZDk4Nm5xQXZnNTJOajJhaXhVcTdGdUdibk8tUEZCcWZZTnNXb2gzZF9yQWtJMVdWckhsa2poLWlydEFvV2V0WmFSLVNhRldqbzdOZHpIX1gwQ0tLTnc?oc=5"
+  ],
+  "generated_at": "2026-11-20T01:49:17+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
