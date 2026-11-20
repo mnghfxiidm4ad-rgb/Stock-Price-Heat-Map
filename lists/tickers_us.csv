@@ -219,6 +219,7 @@ ANL,ANL,Adlai Nortye Group Ltd.,NASDAQ,NASDAQ
 ANNA,ANNA,"AleAnna, Inc.",NASDAQ,NASDAQ
 ANNX,ANNX,"Annexon, Inc.",NASDAQ,NASDAQ
 ANPA,ANPA,Rich Sparkle Holdings Limited,NASDAQ,NASDAQ
+ANT,ANT,"Anthropic, PBC",NASDAQ,NASDAQ
 ANTA,ANTA,Antalpha Platform Holding Company,NASDAQ,NASDAQ
 ANTX,ANTX,"AN2 Therapeutics, Inc.",NASDAQ,NASDAQ
 AOSL,AOSL,Alpha and Omega Semiconductor Limited,NASDAQ,NASDAQ
@@ -1138,6 +1139,7 @@ FCNCO,FCNCO,"First Citizens BancShares, Inc.",NASDAQ,NASDAQ
 FCNCP,FCNCP,"First Citizens BancShares, Inc.",NASDAQ,NASDAQ
 FCUV,FCUV,Focus Universal Inc.,NASDAQ,NASDAQ
 FDBC,FDBC,"Fidelity D & D Bancorp, Inc.",NASDAQ,NASDAQ
+FDGX,FDGX,First Digital Acquisition Corp Ltd.,NASDAQ,NASDAQ
 FDMM,FDMM,Freedom Metals Acquisition Corp.,NASDAQ,NASDAQ
 FDMT,FDMT,"4D Molecular Therapeutics, Inc.",NASDAQ,NASDAQ
 FDSB,FDSB,"Fifth District Bancorp, Inc.",NASDAQ,NASDAQ
@@ -1777,7 +1779,6 @@ KNSA,KNSA,"Kiniksa Pharmaceuticals International, plc",NASDAQ,NASDAQ
 KOD,KOD,Kodiak Sciences Inc,NASDAQ,NASDAQ
 KOPN,KOPN,Kopin Corporation,NASDAQ,NASDAQ
 KOSS,KOSS,Koss Corporation,NASDAQ,NASDAQ
-KOYN,KOYN,CSLM Digital Asset Acquisition Corp III,NASDAQ,NASDAQ
 KPLT,KPLT,"Katapult Holdings, Inc.",NASDAQ,NASDAQ
 KPRX,KPRX,"Kiora Pharmaceuticals, Inc.",NASDAQ,NASDAQ
 KRAQ,KRAQ,KRAKacquisition Corp,NASDAQ,NASDAQ
@@ -2845,7 +2846,6 @@ SCAG,SCAG,Scage Future,NASDAQ,NASDAQ
 SCAT,SCAT,Southern Cross Acquisition II Corp.,NASDAQ,NASDAQ
 SCHL,SCHL,Scholastic Corporation,NASDAQ,NASDAQ
 SCII,SCII,SC II Acquisition Corp.,NASDAQ,NASDAQ
-SCKT,SCKT,"Socket Mobile, Inc.",NASDAQ,NASDAQ
 SCLX,SCLX,Scilex Holding Company,NASDAQ,NASDAQ
 SCNI,SCNI,Scinai Immunotherapeutics Ltd.,NASDAQ,NASDAQ
 SCNX,SCNX,"Scienture Holdings, Inc.",NASDAQ,NASDAQ
@@ -3028,7 +3028,6 @@ SSM,SSM,Sono Group N.V.,NASDAQ,NASDAQ
 SSNC,SSNC,"SS&C Technologies Holdings, Inc.",NASDAQ,NASDAQ
 SSP,SSP,E.W. Scripps Company (The),NASDAQ,NASDAQ
 SSRM,SSRM,SSR Mining Inc.,NASDAQ,NASDAQ
-SSTI,SSTI,"SoundThinking, Inc.",NASDAQ,NASDAQ
 SSYS,SSYS,"Stratasys, Ltd.",NASDAQ,NASDAQ
 STAA,STAA,STAAR Surgical Company,NASDAQ,NASDAQ
 STAK,STAK,STAK Inc.,NASDAQ,NASDAQ
@@ -4480,6 +4479,7 @@ FLR,FLR,Fluor Corporation,NYSE,NYSE
 FLS,FLS,Flowserve Corporation,NYSE,NYSE
 FLUT,FLUT,Flutter Entertainment plc,NYSE,NYSE
 FLYX,FLYX,"flyExclusive, Inc.",NYSE American,NYSE American
+FMBM,FMBM,F&M Bank Corp.,NYSE American,NYSE American
 FMC,FMC,FMC Corporation,NYSE,NYSE
 FMN,FMN,Federated Hermes Premier Municipal Income Fund,NYSE,NYSE
 FMS,FMS,Fresenius Medical Care AG American Depositary Sh,NYSE,NYSE
@@ -4964,7 +4964,6 @@ LUXE,LUXE,"LuxExperience B.V. American Depositary Shares, e",NYSE,NYSE
 LVS,LVS,Las Vegas Sands Corp.,NYSE,NYSE
 LVWR,LVWR,"LiveWire Group, Inc.",NYSE,NYSE
 LW,LW,"Lamb Weston Holdings, Inc.",NYSE,NYSE
-LXFR,LXFR,Luxfer Holdings PLC,NYSE,NYSE
 LXU,LXU,"LSB Industries, Inc.",NYSE,NYSE
 LYB,LYB,LyondellBasell Industries NV Ordinary Shares,NYSE,NYSE
 LYG,LYG,Lloyds Banking Group Plc American Depositary Sha,NYSE,NYSE
