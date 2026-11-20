@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-19",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "59,444.21",
+      "change": "+0.71%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "402.20",
+      "change": "+0.07%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.38",
+      "change": "-0.12"
+    }
+  },
+  "top_sectors": [
+    "精密機器",
+    "電気機器"
+  ],
+  "bottom_sectors": [
+    "保険業",
+    "ゴム製品"
+  ],
+  "news_bullets": [
+    "半導体株、TOPIXに逆転許す 3割は高値の半分以下。",
+    "【概要説明】植田総裁「通貨及び金融の調節に関する報告書」（参議院財政金融委員会）。",
+    "Japan equities: UBS downgrades to Neutral amid AI spending uncertainty。",
+    "日経平均は前日比+0.71%の59,444.21円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UaGk5ZVZ2bHRqWWlnbURmNXVRaDhFUlA5Wk9yTTBmb1VLQjZzRWlrSGduaGtGMEYtei02ZU9QdF9BQmgyT2cwTmt1THd2YmZyTDdzbGFyZWphcml1RmRNZHJ2ekR5UFhJcHFZZg?oc=5",
+    "http://www.boj.or.jp/mopo/diet/d_state/dst261119a.htm",
+    "https://finance.yahoo.com/markets/stocks/articles/japan-equities-ubs-downgrades-neutral-051747301.html"
+  ],
+  "generated_at": "2026-11-20T15:51:41+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
