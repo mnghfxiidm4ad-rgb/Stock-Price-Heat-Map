@@ -1,0 +1,42 @@
+{
+  "market": "US",
+  "date": "2026-11-20",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "6,910.39",
+      "change": "-3.70%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "22,617.73",
+      "change": "-5.28%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "48,147.33",
+      "change": "-1.93%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.91%",
+      "change": "-0.14"
+    }
+  },
+  "top_sectors": [],
+  "bottom_sectors": [],
+  "news_bullets": [
+    "海外メディアは「Stock Market Today: Nasdaq Wipes Out 2026 Gains, S&P 500 Sinks for 7th Straight Day as AI Meltdown Accelerates; Anthropic Drops to Near IPO Price」と伝えた。",
+    "海外メディアは「Nasdaq Wipes Out Its 2026 Gains as S&P 500 and Dow Slide Into Correction」と伝えた。",
+    "海外メディアは「US Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 sink on AI selloff after Anthropic IPO」と伝えた。",
+    "S&P 500は前日比-3.70%の6,910.39で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdy1sUFlTN0hxZzNYMG40TU44R19xZnFMeGVxaXppZURSYl8xY0pWbDFsRUM0V1NEZlR4V3lnRl9EVkk0Q0dlU2VxZ245NDhmZFdGaUZEYkFrQ2hhWE1uZHFCMkl3amZtendaSnd4N1Bla3VldFhLRi1hWFJhN2NzT0ZtRDBYWHFPRFNOMjgxZ2pBSzVuSDRNYlpsdG1OSHM?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYOHRSSHg4VFV2TlI3NDhMaW56YjR5TmszQ0hna0NVaVg0bktybng2T1NKRjA1UDJFUkstX0FSZFZ1Y3pVbEc0YkdZdHhQbldnQ3NIOEZlam51cGZWTnl2V1NfTVpFVzltSDMweGZkT3czeEYwS2U1Y0RsTUxzZw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQbmJmUDJ0WXpXTnRmTzBXTHRuYW1OeWFSa2NTUmlzdWxfcE16LTlSckc2SURrSUtTMC1aV28tU2U3WEpCM2w3VmhUSXVDSkFEdEwyTnJUWW9pNnZKVHFMR2QzbC1Ib0FPX3hzbzl2cUdhb00xT0dwbTBYQUlJZUloR09TRXlQZl9pMzVkTGpwLW9ES2l4RXJ5UjBjbmhidw?oc=5"
+  ],
+  "generated_at": "2026-11-21T01:36:57+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
