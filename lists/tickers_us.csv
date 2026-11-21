@@ -883,6 +883,7 @@ CZFS,CZFS,"Citizens Financial Services, Inc.",NASDAQ,NASDAQ
 CZNC,CZNC,Citizens & Northern Corp,NASDAQ,NASDAQ
 CZR,CZR,"Caesars Entertainment, Inc.",NASDAQ,NASDAQ
 CZWI,CZWI,"Citizens Community Bancorp, Inc.",NASDAQ,NASDAQ
+CZZL,CZZL,Cizzle Brands Corporation,NASDAQ,NASDAQ
 DAAQ,DAAQ,Digital Asset Acquisition Corp.,NASDAQ,NASDAQ
 DAIC,DAIC,"CID HoldCo, Inc.",NASDAQ,NASDAQ
 DAIO,DAIO,Data I/O Corporation,NASDAQ,NASDAQ
@@ -2010,7 +2011,6 @@ MEGL,MEGL,Magic Empire Global Limited,NASDAQ,NASDAQ
 MELI,MELI,"MercadoLibre, Inc.",NASDAQ,NASDAQ
 MENS,MENS,Jyong Biotech Ltd.,NASDAQ,NASDAQ
 MEOH,MEOH,Methanex Corporation,NASDAQ,NASDAQ
-MERC,MERC,Mercer International Inc.,NASDAQ,NASDAQ
 MESH,MESH,Meshflow Acquisition Corp.,NASDAQ,NASDAQ
 MESO,MESO,Mesoblast Limited,NASDAQ,NASDAQ
 META,META,"Meta Platforms, Inc.",NASDAQ,NASDAQ
@@ -5292,7 +5292,6 @@ ONON,ONON,On Holding AG,NYSE,NYSE
 ONT,ONT,"Onterris, Inc.",NYSE,NYSE
 ONTO,ONTO,Onto Innovation Inc.,NYSE,NYSE
 OOMA,OOMA,"Ooma, Inc.",NYSE,NYSE
-OPAY,OPAY,"OPay Limited American Depositary Shares, each re",NYSE,NYSE
 OPFI,OPFI,OppFi Inc.,NYSE,NYSE
 OPHC,OPHC,"OptimumBank Holdings, Inc.",NYSE American,NYSE American
 OPLN,OPLN,"OPENLANE, Inc.",NYSE,NYSE
@@ -5948,7 +5947,6 @@ UTF,UTF,"Cohen & Steers Infrastructure Fund, Inc",NYSE,NYSE
 UTG,UTG,Reaves Utility Income Fund Common Shares of Bene,NYSE American,NYSE American
 UTI,UTI,Universal Technical Institute Inc,NYSE,NYSE
 UTL,UTL,UNITIL Corporation,NYSE,NYSE
-UTZ,UTZ,Utz Brands Inc,NYSE,NYSE
 UUUU,UUUU,Energy Fuels Inc Ordinary Shares (Canada),NYSE American,NYSE American
 UVE,UVE,UNIVERSAL INSURANCE HOLDINGS INC,NYSE,NYSE
 UVV,UVV,Universal Corporation,NYSE,NYSE
