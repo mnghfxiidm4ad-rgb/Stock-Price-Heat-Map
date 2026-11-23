@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-20",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "56,436.65",
+      "change": "-5.06%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "386.20",
+      "change": "-3.98%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.71",
+      "change": "+0.33"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "空運業"
+  ],
+  "bottom_sectors": [
+    "鉱業",
+    "非鉄金属"
+  ],
+  "news_bullets": [
+    "FX/為替「ドル/円今日の見通し｜日銀利上げ期待でも円高は限定的か」 外為どっとコム トゥデイ 2026年11月20日号。",
+    "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず。",
+    "【今日のドル円】昨日の振り返りと今日のドル円相場見通し「リスクオフの円買い優勢も、FRB大幅利上げ観測が下値を支え」 2026年11月20日。",
+    "日経平均は前日比-5.06%の56,436.65円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RYVNSSHZ1b2h3OUlDbk5kNVFUZzhCbm10S0FRTm42WWlKOWR0ZTZLYjlMTWZTdVpZWGN5NS02NU9uWC1wQlZvRExtUm1NbUxyYXlvMXAzTXc4dzd0X2ZNM212QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JUEJWMXJ2ZXlxRTJjbnN4MWpjVWE4Wjh0RG5hVHRmZzViRW1Iekxsdi1vSGVjbDdxRXEwTVpQbEt5YkVFSUxKd3U2UTNsR2FPVlBwS2h6MVNOU3E5SUs1QTN2QQ?oc=5"
+  ],
+  "generated_at": "2026-11-23T18:53:35+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
