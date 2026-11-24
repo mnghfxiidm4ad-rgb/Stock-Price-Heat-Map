@@ -351,6 +351,7 @@ AVT,AVT,"Avnet, Inc.",NASDAQ,NASDAQ
 AVTX,AVTX,"Avalo Therapeutics, Inc.",NASDAQ,NASDAQ
 AVX,AVX,Avax One Technology Ltd.,NASDAQ,NASDAQ
 AVXL,AVXL,Anavex Life Sciences Corp.,NASDAQ,NASDAQ
+AVZO,AVZO,"Avenzo Therapeutics, Inc.",NASDAQ,NASDAQ
 AWRE,AWRE,"Aware, Inc.",NASDAQ,NASDAQ
 AXG,AXG,Solowin Holdings,NASDAQ,NASDAQ
 AXGN,AXGN,"Axogen, Inc.",NASDAQ,NASDAQ
@@ -442,7 +443,6 @@ BIXI,BIXI,Bitcoin Infrastructure Acquisition Corp Ltd.,NASDAQ,NASDAQ
 BIYA,BIYA,Baiya International Group Inc.,NASDAQ,NASDAQ
 BJDX,BJDX,"Bluejay Diagnostics, Inc.",NASDAQ,NASDAQ
 BJRI,BJRI,"BJ's Restaurants, Inc.",NASDAQ,NASDAQ
-BKHA,BKHA,Black Hawk Acquisition Corporation,NASDAQ,NASDAQ
 BKNG,BKNG,Booking Holdings Inc.,NASDAQ,NASDAQ
 BKR,BKR,Baker Hughes Company,NASDAQ,NASDAQ
 BKYI,BKYI,"BIO-key International, Inc.",NASDAQ,NASDAQ
@@ -728,6 +728,7 @@ CLRO,CLRO,"ClearOne, Inc.",NASDAQ,NASDAQ
 CLSK,CLSK,"CleanSpark, Inc.",NASDAQ,NASDAQ
 CLST,CLST,"Catalyst Bancorp, Inc.",NASDAQ,NASDAQ
 CLWT,CLWT,Euro Tech Holdings Company Limited,NASDAQ,NASDAQ
+CLYD,CLYD,"Clywedog Therapeutics Holdings, Inc.",NASDAQ,NASDAQ
 CLYM,CLYM,"Climb Bio, Inc.",NASDAQ,NASDAQ
 CMCO,CMCO,Columbus McKinnon Corporation,NASDAQ,NASDAQ
 CMCSA,CMCSA,Comcast Corporation,NASDAQ,NASDAQ
@@ -1091,6 +1092,7 @@ EVLV,EVLV,"Evolv Technologies Holdings, Inc.",NASDAQ,NASDAQ
 EVO,EVO,Evotec SE,NASDAQ,NASDAQ
 EVOX,EVOX,Evolution Global Acquisition Corp,NASDAQ,NASDAQ
 EVRG,EVRG,"Evergy, Inc.",NASDAQ,NASDAQ
+EVRL,EVRL,Everli Global Holdings,NASDAQ,NASDAQ
 EWAV,EWAV,East West Ave Acquisition Corp.,NASDAQ,NASDAQ
 EWBC,EWBC,"East West Bancorp, Inc.",NASDAQ,NASDAQ
 EWTX,EWTX,"Edgewise Therapeutics, Inc.",NASDAQ,NASDAQ
@@ -1952,7 +1954,6 @@ LYTS,LYTS,LSI Industries Inc.,NASDAQ,NASDAQ
 LZ,LZ,"LegalZoom.com, Inc.",NASDAQ,NASDAQ
 LZMH,LZMH,LZ Technology Holdings Limited,NASDAQ,NASDAQ
 MAAS,MAAS,Maase Inc.,NASDAQ,NASDAQ
-MACI,MACI,Melar Acquisition Corp. I,NASDAQ,NASDAQ
 MAGH,MAGH,Magnitude International Ltd,NASDAQ,NASDAQ
 MAKO,MAKO,Mako Mining Corp,NASDAQ,NASDAQ
 MAMA,MAMA,"Mama's Creations, Inc.",NASDAQ,NASDAQ
@@ -2747,7 +2748,6 @@ RKLB,RKLB,Rocket Lab Corporation,NASDAQ,NASDAQ
 RKTO,RKTO,Rocket One Inc.,NASDAQ,NASDAQ
 RLAY,RLAY,"Relay Therapeutics, Inc.",NASDAQ,NASDAQ
 RLMD,RLMD,"Relmada Therapeutics, Inc.",NASDAQ,NASDAQ
-RLYB,RLYB,Rallybio Corporation,NASDAQ,NASDAQ
 RMBI,RMBI,"Richmond Mutual Bancorporation, Inc.",NASDAQ,NASDAQ
 RMBS,RMBS,"Rambus, Inc.",NASDAQ,NASDAQ
 RMCF,RMCF,"Rocky Mountain Chocolate Factory, Inc.",NASDAQ,NASDAQ
@@ -3332,6 +3332,7 @@ VERA,VERA,"Vera Therapeutics, Inc.",NASDAQ,NASDAQ
 VERI,VERI,"Veritone, Inc.",NASDAQ,NASDAQ
 VERU,VERU,Veru Inc.,NASDAQ,NASDAQ
 VERX,VERX,"Vertex, Inc.",NASDAQ,NASDAQ
+VESI,VESI,"Vesicor Therapeutics Holdings, Inc.",NASDAQ,NASDAQ
 VFF,VFF,"Village Farms International, Inc.",NASDAQ,NASDAQ
 VFS,VFS,VinFast Auto Ltd.,NASDAQ,NASDAQ
 VGAS,VGAS,"Verde Clean Fuels, Inc.",NASDAQ,NASDAQ
@@ -3884,7 +3885,7 @@ BIII,BIII,Black Spade Acquisition III Co,NYSE,NYSE
 BILL,BILL,"BILL Holdings, Inc.",NYSE,NYSE
 BIO,BIO,"Bio-Rad Laboratories, Inc.",NYSE,NYSE
 BIO.B,BIO-B,"Bio-Rad Laboratories, Inc.",NYSE,NYSE
-BIPC,BIPC,Brookfield Infrastructure Corporation Brookfield,NYSE,NYSE
+BIP,BIP,Brookfield Infrastructure Partners Inc.,NYSE,NYSE
 BIPH,BIPH,Brookfield Infrastructure Corporation 5.000% Sub,NYSE,NYSE
 BIPI,BIPI,BIP Bermuda Holdings I Limited 5.125% Perpetual ,NYSE,NYSE
 BIPJ,BIPJ,Brookfield Infrastructure Corporation 7.250% Sub,NYSE,NYSE
