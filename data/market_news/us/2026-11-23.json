@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-23",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,237.17",
+      "change": "+4.73%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,089.56",
+      "change": "+6.51%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "49,595.31",
+      "change": "+3.01%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.92%",
+      "change": "+0.01"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "エネルギー",
+    "生活必需品"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Rebound After AI Sell-Off as Nvidia Investigation and Fed Outlook Remain in Focus: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Stock Market Today: Dow, S&P 500, and Nasdaq Surge as Nvidia Leads a Major AI Rebound」と伝えた。",
+    "海外メディアは「Nasdaq-100 futures surge 7%, S&P 500 gain 4.3%, Dow up 2.6% in Wall Street rebound」と伝えた。",
+    "S&P 500は前日比+4.73%の7,237.17で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXgtZnR2c0tsWE1NaG9QM2ZBbUJjeFFIN0MtRUpta2s5U2l4bnpsLVZ3ejd5cG84cUttRFJsM21NbTk5UXJJbVNsd0ROTjZmcERHMnV4a3gwV19OdFk2NUQzZEhUaGF5Mk9HMXlRWjl3ZGdGMmlQQzFqS2hPck1RN1JBbXB6N0JOUmdUWmxBenJ0UnpNbEZr?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ3RqNWFVcFdnMkhKYUp6NWlwR2MzQTZfSG9xb0NKZlhHY2xGVFFpOS1SS2Q0WVM1U0swSkluQmtEakZFRmdwYkV0RnR2VjVpMktWR0MxY1ZxRFY3akhicGRINUdkVzl6Vm5YOU80bW51d3owc0VQazMzX3dNekRWekV6VFJWMGR0RjVSY1hEenhsVXNtZEVfU0V5YXZaaktka1IyenpFbTBabXZqRGtmaWpXbXFmU1VQbGtKYUx0enlXbjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmJ5M2hjWGx2ckZoM3otNlo1OUg4cGpkbWh1SUdPVDRmV1RUekx4LXVEMDd4Rk1sNWdmN19aQ05BMUI1TEdpa2s1SXpMVW5iYWVDeUFYcDBnUDBfN3lmVXRKcWNoUFhrMFY0VXpNb0JBMjBwNU5xUkw5cFRFVlpvUXpNM01UU094NmhYT3FQYWVwaU5CTFQ5LTNOOWo?oc=5"
+  ],
+  "generated_at": "2026-11-24T04:52:27+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
