@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-24",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,201.09",
+      "change": "-0.50%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,733.54",
+      "change": "-1.48%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,018.70",
+      "change": "+0.85%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.90%",
+      "change": "-0.01"
+    }
+  },
+  "top_sectors": [
+    "ヘルスケア",
+    "生活必需品"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "資本財"
+  ],
+  "news_bullets": [
+    "海外メディアは「Wall Street Futures Stabilise Following Nvidia Rebound as Fed Policy and Technology Earnings Remain in Focus: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "海外メディアは「US Stock Futures Mixed After Nvidia-Led Rally as Investors Assess Federal Reserve Rate Outlook: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Wall Street Futures Fall as Nvidia Reverses Gains and Tariff Concerns Resurface: Dow Jones, S&P, Nasdaq」と伝えた。",
+    "S&P 500は前日比-0.50%の7,201.09で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcXpWc285eGNLSXcxM3pIeWcyYVc1cklwc3V4NkEtRUlUT2k4ZWFnVHdHRVNzLVR1Y1JVeHBreGJ1Tmd6SmVKQ2U1YWxlclFHZFF0VDlyS19PMF9KVHNCVEZ1VVBrQzZ6dmoyQlN3RXkta0xXVlVHTjlTN0lKb2p2d1VXM3VkMjBZOEtTVDU5NE8yZw?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmxsdEozZENOM2hTX3RTckJROVlKS29VYXBxXy1FUVdOSWMybklvLWxuMWhBa2pHWHVnVk1KdXd1N2VLQWpJLXRGTzJzZGlSTFZhbFA4cmtxM3A5NmdtR2FQQ3hDQ1NDXy1IWXdBbzdrTXktdEVGQjVvV1hRM09NX3I4MTlYRTZTMi1OT1k5Nll6RlFjN2ZPWWhR?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNXlmUFZNVDB5elZZekVYZVdHTmlUZnItQ3hpVWtLa0c1NGx3TXlUaFpRVFpIbWNyS2FJblgwaUZSN1RKLWdoNE93dnFxQkx3Q2gtYUlyeV9QdW5MRThTanh0S0Zwamg2Y0NpRzZGLXdjQl9GOHg4UDZCR2Zfd1A2aHpvZnBNTnM?oc=5"
+  ],
+  "generated_at": "2026-11-25T03:36:34+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
