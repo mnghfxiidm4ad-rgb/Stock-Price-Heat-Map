@@ -1,0 +1,42 @@
+{
+  "market": "JP",
+  "date": "2026-11-24",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "58,644.63",
+      "change": "+3.91%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "395.90",
+      "change": "+2.51%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.01",
+      "change": "+0.08"
+    }
+  },
+  "top_sectors": [
+    "空運業"
+  ],
+  "bottom_sectors": [
+    "非鉄金属",
+    "銀行業"
+  ],
+  "news_bullets": [
+    "ArFドライ半導体露光装置の新製品を24年ぶりに市場投入 ラインアップを拡充し多様化する半導体製造に貢献。",
+    "オルカンだけでいい？ 半導体株下落で見直す NISAで買える運用効率の高いファンド9選。",
+    "US Dollar Mixed Early Monday, Focus on GDP, Personal Income Ahead of Thanksgiving Holiday。",
+    "日経平均は前日比+3.91%の58,644.63円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jR0doZjB6TkhLNmNzVW9hRENwTlk2Y0xST3RpNDFKUmNKdWM2eFVTTS1EdmFPNTg4cFMyT1Mta2Nvb2diOFgtUGQ5V3ZEUVBTV3JzZllkNThuMWdLd3c?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHM2RF91SFowS2p4MDdUWEZnTFJxS2NiYzhnUXFwQ2JGZFpRZlJJNGZabEQ3N2pTczI1c0VYZmZJcVphbmZkenl2Qmh1LTVkRENLOTNfeEYtT3ViSmpxUk1Dd0k4eGZQcHZudVRNZ2dnMHc3ZFNiaFRJbFVqQ3h0cV9aVDY?oc=5",
+    "https://finance.yahoo.com/markets/currencies/articles/us-dollar-mixed-early-monday-123742918.html"
+  ],
+  "generated_at": "2026-11-25T17:44:00+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
