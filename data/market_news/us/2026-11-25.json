@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-25",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,182.78",
+      "change": "-0.25%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "23,585.80",
+      "change": "-0.62%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,182.95",
+      "change": "+0.33%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.85%",
+      "change": "-0.06"
+    }
+  },
+  "top_sectors": [
+    "素材",
+    "不動産"
+  ],
+  "bottom_sectors": [
+    "情報技術",
+    "ヘルスケア"
+  ],
+  "news_bullets": [
+    "海外メディアは「Dow Craters Over 1000 Points, Nasdaq Slips 4% As AI Trade Unravels – Investors Digest PCE Inflation, Fresh Tariff Proposal」と伝えた。",
+    "海外メディアは「US Stock Futures Fall as AI Sector Volatility Returns Ahead of Key PCE Inflation Data: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「Dow Jones (DJIA) erases 1,100-point loss as Nvidia slides and tariffs weigh on Nasdaq and S&P 500」と伝えた。",
+    "S&P 500は前日比-0.25%の7,182.78で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://stocktwits.com/news-articles/markets/equity/dow-craters-over-1000-points-nasdaq-slips-4-as-ai-trade-unravels-investors-digest-pce-inflation-fresh-tariff-proposal/cNbHjJvR9mj",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDQ0ZVRyMU85SlZkZ2VyZklIVll5clBLaFltbGk1SFdrUlVYN25oTlkwd0ptSE5VRkpCUUtIZ1hwSHdxS3JzQjN0NGZoc3dFemVBM0lQYTBRS0ZtSVNXSDc4eWd6bTNicUx1dnVOS3BPazFNRGhSV25QbDhCRGMyc1ZyalY0UkRCZ0wwWGp4MUxxbUk?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcUZtR2dabmhGSHhheEpmSk5Ea044V09pUzl2cVo2YkhZVUJHdGl3Wlp5dXFWOXRNd2FYT19kZVlYTUxNalE1RFYwaTRfMkJNSXp1bUxBWEZ3NnljU0J5SFRQYXprVkFDbC11Y1d2TnRzcW10VjZPSTZVMjRWYVBDSmhUWQ?oc=5"
+  ],
+  "generated_at": "2026-11-26T02:56:25+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
