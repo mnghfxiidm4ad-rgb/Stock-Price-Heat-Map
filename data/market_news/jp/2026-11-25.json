@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-25",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "57,011.62",
+      "change": "-2.78%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "394.70",
+      "change": "-0.30%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.26",
+      "change": "+0.25"
+    }
+  },
+  "top_sectors": [
+    "電気機器",
+    "銀行業"
+  ],
+  "bottom_sectors": [
+    "陸運業",
+    "電気・ガス業"
+  ],
+  "news_bullets": [
+    "インタビュー：日銀は来年2％まで利上げか、経済・株価絡み判断難しく＝安達元委員。",
+    "AI・半導体株の下落は、バブル崩壊のサインなのか？。",
+    "貸出約定平均金利（9月）。",
+    "日経平均は前日比-2.78%の57,011.62円で下落して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1UGVsa2Mta3lfZFBnbmlERTJvcUR0Rm5DV0ZQeWUtWG02VkxfTzRaaWlXQU9BSFVGYjczdTBmb2FuVUlaV185V1BHVW5ZZjRZYUFKa1E3MEZ1aHgtejlsREo3aDN1eC12RllXel9IV2NuWUhZdk1lSzNmeElKUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zZy1XZjloRTB1NTQyQTR4TVpOT2I1LWtSUUxId1JWQ0taX0F6eG5OUzdTdFBNcGlhQUVBd0J4Y1NEeHBmWlVQM1E4eDNUZVJhbDd1Z3F4cEJsVFU?oc=5",
+    "http://www.boj.or.jp/statistics/dl/loan/yaku/yaku2609.pdf"
+  ],
+  "generated_at": "2026-11-26T17:27:51+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
