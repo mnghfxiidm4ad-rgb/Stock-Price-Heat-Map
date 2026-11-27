@@ -1,0 +1,43 @@
+{
+  "market": "JP",
+  "date": "2026-11-26",
+  "indices": {
+    "primary": {
+      "name": "日経平均",
+      "close": "57,499.16",
+      "change": "+0.86%"
+    },
+    "secondary": {
+      "name": "TOPIX（ETF）",
+      "close": "394.60",
+      "change": "-0.03%"
+    },
+    "sub": {
+      "name": "ドル/円 (USD/JPY)",
+      "value": "159.21",
+      "change": "-0.05"
+    }
+  },
+  "top_sectors": [
+    "医薬品",
+    "その他金融業"
+  ],
+  "bottom_sectors": [
+    "電気機器",
+    "非鉄金属"
+  ],
+  "news_bullets": [
+    "東証大引け 日経平均は反発 AI・半導体に買い、戻り待ちの売りも。",
+    "TOPIX(東証株価指数)リアルタイムチャート・推移・最新ニュース。",
+    "【米国株動向】著名テック投資家が買い増すAI半導体株3銘柄とは？「スマートマネー」の動向に注目：エヌビディア［NVDA］、セレブラス・システムズ［CBRS］、インテル［INTC］。",
+    "日経平均は前日比+0.86%の57,499.16円で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kVnAtQTB4ZzBuS1FFaHdSTzFFZjFzNlBpa2kzNEN3dzhtZFdKSUlnSDRicEVlXzlmellJdU9vbWFwUWJnZlh2QnpKbGVXQ3NBQnV4YVMyaXRDbmQ0dFBTdFZjTFdwZE93V2w5bA?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LbTV0QXZIeUFsSzFhVTRnblZOMHd5aFl1dVUtX3U5OVEyck4wUGhJX2s3dFNBODJfQzNWTDFfbXZiamNKYVdfdEJHQ19TeEhjRnRteVUxQ20?oc=5",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rN05rSzVqdE5DbXFwcWNVcF9LcERVaERkejVPR282dXRJRkdYSkdOR3IxRGZwdUxBZnF2MTEyNVV4aTU0cDAwektwRlFxMU51Z0h2S9IBV0FVX3lxTE1ZakQwM25FalVZQ1QwT1pFcVBnMzN0ZTdLenlKYXRUYzN2RENNdmpjWkUwZl9QTGhZbXJEb1ZYZ19VNmRjLXZZYlg2TUlJdkYxb1cwdmNHdw?oc=5"
+  ],
+  "generated_at": "2026-11-27T17:06:13+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
