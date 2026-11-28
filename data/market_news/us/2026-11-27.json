@@ -1,0 +1,48 @@
+{
+  "market": "US",
+  "date": "2026-11-27",
+  "indices": {
+    "primary": {
+      "name": "S&P 500",
+      "close": "7,297.49",
+      "change": "+1.60%"
+    },
+    "secondary": {
+      "name": "NASDAQ",
+      "close": "24,129.50",
+      "change": "+2.31%"
+    },
+    "tertiary": {
+      "name": "NYダウ",
+      "close": "50,774.94",
+      "change": "+1.18%"
+    },
+    "sub": {
+      "name": "米10年債利回り",
+      "value": "4.94%",
+      "change": "+0.09"
+    }
+  },
+  "top_sectors": [
+    "情報技術",
+    "一般消費財"
+  ],
+  "bottom_sectors": [
+    "ヘルスケア",
+    "公益事業"
+  ],
+  "news_bullets": [
+    "海外メディアは「US Stock Futures Rally as AI Shares Recover, Chip Export Restrictions Disrupt Financing and Oil Supply Risks Persist: Dow Jones, S&P, Nasdaq, Wall Street」と伝えた。",
+    "海外メディアは「US stock market today: Dow Jones jumps 510 points, S&P 500 rises 1.2%, Nasdaq gains 1.7% - CNBC TV18」と伝えた。",
+    "海外メディアは「S&P 500, Nasdaq and Dow set for winning week despite AI turbulence」と伝えた。",
+    "S&P 500は前日比+1.60%の7,297.49で上昇して取引を終えた。"
+  ],
+  "source_urls": [
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNelJBLXJMUUxjb3hFbThZOGxtNEJHU3pnRzNSVTBqUXhmNjd4MUJleWZmQS1aOU1oSVlqWWo0MlFnMHhrN3hWd2hUdDZFMWxlNldkM2NyNHk5dVVmTDBKLTZOdXRWa1Fmc0VxT1JKaTkxQlRSaE1RYjhuRThKbEVlUlNkbTVJdlBOdV8wZmt4ampKWFpG?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY1o1ZGFFMU1hSWxnLS11aFBJU2dfRjdCQzg3bUF4bFlXYnNHd1d6VjF6T3Z2NVJlUGhRV2JCSXpkc3VjWUluN0h1THdxZmgtZnA0b1MxR3NPSVJhTHJVeUxyM1VZRGFDNVBQTDVmejE2TEF1LUdYb2R0WlJuRV9ibDlGVTlEbHJPT2JxcFM5ZTJDSlNXelZyR3habVd2cjJ3Wm41a3FkZTdGaFhyZEZKNVB0UkpuZDA?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jejNFc19mUmdIUHE5bjVycnNVRjViem1Td2lBb294eXBPaC1HbWZmSWprNzhRRlAtTk9qbmlKM3p1TlhBZDNQUWg1Q2pDbWtrdmdmQUt6ZE11U01OM3NaeE9vSUxVeVZSVzdYVFpFUUg3YjA?oc=5"
+  ],
+  "generated_at": "2026-11-28T02:49:32+00:00",
+  "mode": "daily",
+  "trading_day": true
+}
