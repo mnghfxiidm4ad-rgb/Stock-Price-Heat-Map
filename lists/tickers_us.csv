@@ -1388,7 +1388,7 @@ GRAB,GRAB,Grab Holdings Limited,NASDAQ,NASDAQ
 GRAL,GRAL,"GRAIL, Inc.",NASDAQ,NASDAQ
 GRAN,GRAN,Grande Group Limited,NASDAQ,NASDAQ
 GRCE,GRCE,"Grace Therapeutics, Inc.",NASDAQ,NASDAQ
-GRDX,GRDX,GridAI Technologies Corp.,NASDAQ,NASDAQ
+GRDX,GRDX,GridAI Power Corp.,NASDAQ,NASDAQ
 GRFS,GRFS,"Grifols, S.A.",NASDAQ,NASDAQ
 GRI,GRI,"GRI Bio, Inc.",NASDAQ,NASDAQ
 GRML,GRML,Greenland Mines Ltd,NASDAQ,NASDAQ
@@ -1456,7 +1456,6 @@ HCKT,HCKT,"The Hackett Group, Inc.",NASDAQ,NASDAQ
 HCM,HCM,HUTCHMED (China) Limited,NASDAQ,NASDAQ
 HCMA,HCMA,HCM III Acquisition Corp.,NASDAQ,NASDAQ
 HCSG,HCSG,"Healthcare Services Group, Inc.",NASDAQ,NASDAQ
-HCTI,HCTI,"Healthcare Triangle, Inc.",NASDAQ,NASDAQ
 HCWB,HCWB,HCW Biologics Inc.,NASDAQ,NASDAQ
 HDL,HDL,SUPER HI INTERNATIONAL HOLDING LTD.,NASDAQ,NASDAQ
 HDRN,HDRN,"Hadron Energy, Inc.",NASDAQ,NASDAQ
@@ -2887,7 +2886,7 @@ SGA,SGA,"Saga Communications, Inc.",NASDAQ,NASDAQ
 SGC,SGC,"Superior Group of Companies, Inc.",NASDAQ,NASDAQ
 SGHT,SGHT,"Sight Sciences, Inc.",NASDAQ,NASDAQ
 SGLD,SGLD,Scorpio Gold Corporation,NASDAQ,NASDAQ
-SGLY,SGLY,Singularity Future Technology Ltd.,NASDAQ,NASDAQ
+SGLY,SGLY,Compower Ltd.,NASDAQ,NASDAQ
 SGML,SGML,Sigma Lithium Corporation,NASDAQ,NASDAQ
 SGMT,SGMT,Sagimet Biosciences Inc.,NASDAQ,NASDAQ
 SGP,SGP,"SpyGlass Pharma, Inc.",NASDAQ,NASDAQ
@@ -3393,7 +3392,6 @@ VTRS,VTRS,Viatris Inc.,NASDAQ,NASDAQ
 VTSI,VTSI,"VirTra, Inc.",NASDAQ,NASDAQ
 VTVT,VTVT,vTv Therapeutics Inc.,NASDAQ,NASDAQ
 VUZI,VUZI,Vuzix Corporation,NASDAQ,NASDAQ
-VVOS,VVOS,"Vivos Therapeutics, Inc.",NASDAQ,NASDAQ
 VWAV,VWAV,"VisionWave Holdings, Inc.",NASDAQ,NASDAQ
 VYGR,VYGR,"Voyager Therapeutics, Inc.",NASDAQ,NASDAQ
 WABC,WABC,Westamerica Bancorporation,NASDAQ,NASDAQ
@@ -3928,7 +3926,6 @@ BOE,BOE,Blackrock Enhanced Global Dividend Trust Common ,NYSE,NYSE
 BOH,BOH,Bank of Hawaii Corporation,NYSE,NYSE
 BOOT,BOOT,"Boot Barn Holdings, Inc.",NYSE,NYSE
 BORR,BORR,Borr Drilling Limited Common Shares,NYSE,NYSE
-BOW,BOW,Bowhead Specialty Holdings Inc.,NYSE,NYSE
 BOX,BOX,"Box, Inc.",NYSE,NYSE
 BP,BP,BP p.l.c.,NYSE,NYSE
 BPRE,BPRE,Bluerock Private Real Estate Fund Common Shares ,NYSE,NYSE
@@ -4185,7 +4182,7 @@ CVX,CVX,Chevron Corporation,NYSE,NYSE
 CWEN,CWEN,"Clearway Energy, Inc.",NYSE,NYSE
 CWH,CWH,"Camping World Holdings, Inc.",NYSE,NYSE
 CWK,CWK,Cushman & Wakefield Ltd. Common Shares,NYSE,NYSE
-CWT,CWT,California Water Service Group,NYSE,NYSE
+CWT,CWT,Watermark Utilities,NYSE,NYSE
 CX,CX,"Cemex, S.A.B. de C.V. Sponsored ADR",NYSE,NYSE
 CXM,CXM,"Sprinklr, Inc.",NYSE,NYSE
 CXT,CXT,"Crane NXT, Co.",NYSE,NYSE
@@ -4280,7 +4277,6 @@ DTM,DTM,"DT Midstream, Inc.",NYSE,NYSE
 DTW,DTW,DTE Energy Company 2017 Series E 5.25% Junior Su,NYSE,NYSE
 DUK,DUK,Duke Energy Corporation (Holding Company),NYSE,NYSE
 DUKB,DUKB,Duke Energy Corporation 5.625% Junior Subordinat,NYSE,NYSE
-DV,DV,"DoubleVerify Holdings, Inc.",NYSE,NYSE
 DVA,DVA,DaVita Inc.,NYSE,NYSE
 DVN,DVN,Devon Energy Corporation,NYSE,NYSE
 DX,DX,"Dynex Capital, Inc.",NYSE,NYSE
@@ -5143,7 +5139,7 @@ NBHC,NBHC,National Bank Holdings Corporation,NYSE,NYSE
 NBR,NBR,Nabors Industries Ltd.,NYSE,NYSE
 NBXG,NBXG,Neuberger Next Generation Connectivity Fund Inc.,NYSE,NYSE
 NC,NC,"NACCO Industries, Inc.",NYSE,NYSE
-NCA,NCA,Nuveen California Municipal Value Fund,NYSE,NYSE
+NCA,NCA,Nuveen California Municipal Income Fund,NYSE,NYSE
 NCDL,NCDL,Nuveen Churchill Direct Lending Corp.,NYSE,NYSE
 NCLH,NCLH,Norwegian Cruise Line Holdings Ltd.,NYSE,NYSE
 NCV,NCV,Virtus Convertible & Income Fund Common Shares o,NYSE,NYSE
@@ -5194,7 +5190,7 @@ NMZ,NMZ,Nuveen Municipal High Income Opportunity Fund Co,NYSE,NYSE
 NNI,NNI,"Nelnet, Inc.",NYSE,NYSE
 NNN,NNN,"NNN REIT, Inc.",NYSE,NYSE
 NNVC,NNVC,"NanoViricides, Inc.",NYSE American,NYSE American
-NNY,NNY,Nuveen New York Municipal Value Fund,NYSE,NYSE
+NNY,NNY,Nuveen New York Municipal Income Fund,NYSE,NYSE
 NOA,NOA,North American Construction Group Ltd. Common Sh,NYSE,NYSE
 NOAH,NOAH,Noah Holdings Limited American Depositary Shares,NYSE,NYSE
 NOC,NOC,Northrop Grumman Corporation,NYSE,NYSE
